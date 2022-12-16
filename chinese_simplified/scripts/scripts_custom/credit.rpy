@@ -68,9 +68,9 @@ translate chinese_simplified strings:
 
     # game/scripts/scripts_custom/credit.rpy:10
     old "Merci d'avoir jouer à Goodbye Eternity!"
-    new ""
+    new "感谢您游玩 永恒不再"
 
     # game/scripts/scripts_custom/credit.rpy:13
     old "Si vous avez aimé Goodbye Eternity, n'hésitez pas à soutenir le projet sur PATREON"
-    new ""
+    new "如果您喜欢这款游戏，请不要犹豫，向身边人安利吧！"
 

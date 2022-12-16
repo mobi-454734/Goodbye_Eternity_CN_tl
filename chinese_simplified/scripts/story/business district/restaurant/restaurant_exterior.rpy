@@ -942,399 +942,399 @@ translate chinese_simplified restaurant_exterior_ef8cca36:
 translate chinese_simplified restaurant_exterior_8f2dc921:
 
     # kenji "On va te traquer toute la nuit s'il le faut!" id restaurant_exterior_8f2dc921
-    kenji "" id restaurant_exterior_8f2dc921
+    kenji "如果有必要的话，我们会整晚跟踪你！" id restaurant_exterior_8f2dc921
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:414
 translate chinese_simplified restaurant_exterior_7c785028:
 
     # takeo "Genre ta vie se termine aujourd'hui." id restaurant_exterior_7c785028
-    takeo "" id restaurant_exterior_7c785028
+    takeo "你的生活今天就结束了。" id restaurant_exterior_7c785028
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:415
 translate chinese_simplified restaurant_exterior_01e867c1:
 
     # nobu "MAIS PUTAIN LES MECS CHOPPEZ LE AU LIEUR DE DIRE DE LA MERDE!" id restaurant_exterior_01e867c1
-    nobu "" id restaurant_exterior_01e867c1
+    nobu "他妈的，伙计们，抓住他说废话！" id restaurant_exterior_01e867c1
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:424
 translate chinese_simplified restaurant_exterior_f6eda8f4:
 
     # player "Je ferais mieux de me dépécher de gagner plus d'argent." id restaurant_exterior_f6eda8f4
-    player "" id restaurant_exterior_f6eda8f4
+    player "我最好快点赚更多的钱。" id restaurant_exterior_f6eda8f4
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:425
 translate chinese_simplified restaurant_exterior_3915e569:
 
     # player "Plus vite j'aiderais [yasuka.n] a rembourser ses dettes." id restaurant_exterior_3915e569
-    player "" id restaurant_exterior_3915e569
+    player "我越快帮助yasuka.n还清债务。" id restaurant_exterior_3915e569
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:426
 translate chinese_simplified restaurant_exterior_1d3c9ed7:
 
     # player "Plus vite elle pourra retrouver une vie un peu normale." id restaurant_exterior_1d3c9ed7
-    player "" id restaurant_exterior_1d3c9ed7
+    player "她越快恢复正常生活。" id restaurant_exterior_1d3c9ed7
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:427
 translate chinese_simplified restaurant_exterior_aa355a44:
 
     # inconnus "Tiens tiens tiens mais qui voilà?!" id restaurant_exterior_aa355a44
-    inconnus "" id restaurant_exterior_aa355a44
+    inconnus "这是谁？" id restaurant_exterior_aa355a44
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:432
 translate chinese_simplified restaurant_exterior_1eac8432:
 
     # player sad "Oh non." id restaurant_exterior_1eac8432
-    player sad "" id restaurant_exterior_1eac8432
+    player sad "哦，不。" id restaurant_exterior_1eac8432
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:433
 translate chinese_simplified restaurant_exterior_0204b678:
 
     # kenji "Oh que si!" id restaurant_exterior_0204b678
-    kenji "" id restaurant_exterior_0204b678
+    kenji "哦，奎西！" id restaurant_exterior_0204b678
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:434
 translate chinese_simplified restaurant_exterior_0af4f921:
 
     # kenji "Tu croyais pas qu'on t'aurait oublié?" id restaurant_exterior_0af4f921
-    kenji "" id restaurant_exterior_0af4f921
+    kenji "你以为我们会忘记你吗？" id restaurant_exterior_0af4f921
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:435
 translate chinese_simplified restaurant_exterior_f59063f0:
 
     # nobu "On a déja depensé tous ton fric" id restaurant_exterior_f59063f0
-    nobu "" id restaurant_exterior_f59063f0
+    nobu "我们已经把你所有的钱都花光了。" id restaurant_exterior_f59063f0
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:436
 translate chinese_simplified restaurant_exterior_df49ab36:
 
     # nobu "Tu en auras pas encore un peu a tout hasard?" id restaurant_exterior_df49ab36
-    nobu "" id restaurant_exterior_df49ab36
+    nobu "你还没有机会吗？" id restaurant_exterior_df49ab36
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:439
 translate chinese_simplified restaurant_exterior_7e8870a8:
 
     # sakuya "[player.n]! Tu es enfin là!" id restaurant_exterior_7e8870a8
-    sakuya "" id restaurant_exterior_7e8870a8
+    sakuya "[玩家.N]！你终于来了！" id restaurant_exterior_7e8870a8
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:440
 translate chinese_simplified restaurant_exterior_33058b56:
 
     # sakuya "Je t'attendais." id restaurant_exterior_33058b56
-    sakuya "" id restaurant_exterior_33058b56
+    sakuya "我一直在等你。" id restaurant_exterior_33058b56
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:441
 translate chinese_simplified restaurant_exterior_7f6c3c66:
 
     # takeo "Oh la vache!" id restaurant_exterior_7f6c3c66
-    takeo "" id restaurant_exterior_7f6c3c66
+    takeo "哦，天哪！" id restaurant_exterior_7f6c3c66
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:442
 translate chinese_simplified restaurant_exterior_0bdaedae:
 
     # takeo "T'es vraiment trop bonne toi!" id restaurant_exterior_0bdaedae
-    takeo "" id restaurant_exterior_0bdaedae
+    takeo "你真是太好了！" id restaurant_exterior_0bdaedae
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:443
 translate chinese_simplified restaurant_exterior_2ddaba3a:
 
     # kenji "C'est fou, depuis quelque temps il traine tout le temps avec des filles mignionnes." id restaurant_exterior_2ddaba3a
-    kenji "" id restaurant_exterior_2ddaba3a
+    kenji "太疯狂了，他有一段时间一直和可爱的女孩在一起。" id restaurant_exterior_2ddaba3a
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:444
 translate chinese_simplified restaurant_exterior_a3c492bb:
 
     # kenji "Tu veux pas laisser cette grosse merde et veir t'amuser avec nous plutot?" id restaurant_exterior_a3c492bb
-    kenji "" id restaurant_exterior_a3c492bb
+    kenji "你不想让这狗屎和我们一起玩吗？" id restaurant_exterior_a3c492bb
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:445
 translate chinese_simplified restaurant_exterior_36193be8:
 
     # nobu "Oui après tout, je veux bien te pardonner si tu nous laisses ta nouvelle copine." id restaurant_exterior_36193be8
-    nobu "" id restaurant_exterior_36193be8
+    nobu "是的，毕竟，如果你把你的新女友留给我们，我会原谅你的。" id restaurant_exterior_36193be8
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:446
 translate chinese_simplified restaurant_exterior_5e2bc015:
 
     # nobu "Je suis plutot sympa non?" id restaurant_exterior_5e2bc015
-    nobu "" id restaurant_exterior_5e2bc015
+    nobu "我很好，不是吗？" id restaurant_exterior_5e2bc015
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:447
 translate chinese_simplified restaurant_exterior_0f2f29fb:
 
     # player furious "Allez vous faire foutre, vous ne poserez pas un doigt sur elle!" id restaurant_exterior_0f2f29fb
-    player furious "" id restaurant_exterior_0f2f29fb
+    player furious "去你妈的，别碰她！" id restaurant_exterior_0f2f29fb
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:448
 translate chinese_simplified restaurant_exterior_33b053ce:
 
     # sakuya happy "..." id restaurant_exterior_33b053ce
-    sakuya happy "" id restaurant_exterior_33b053ce
+    sakuya happy "..." id restaurant_exterior_33b053ce
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:449
 translate chinese_simplified restaurant_exterior_7e2ec9a9:
 
     # sakuya "[player.n] ne 'ten fais pas je vais gerer ça!" id restaurant_exterior_7e2ec9a9
-    sakuya "" id restaurant_exterior_7e2ec9a9
+    sakuya "别这样，我要吐了！" id restaurant_exterior_7e2ec9a9
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:450
 translate chinese_simplified restaurant_exterior_f28cd4d6:
 
     # sakuya "Rejoins mon pere a l'intérieur, tu sais comment il est quand on a trop de retard." id restaurant_exterior_f28cd4d6
-    sakuya "" id restaurant_exterior_f28cd4d6
+    sakuya "在里面见我爸爸，你知道当我们太晚的时候他是什么样子的。" id restaurant_exterior_f28cd4d6
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:451
 translate chinese_simplified restaurant_exterior_72bbcda3:
 
     # player upset "Mais... Je vais pas te laisser avec ces..." id restaurant_exterior_72bbcda3
-    player upset "" id restaurant_exterior_72bbcda3
+    player upset "但是…我不会让你和这些。。。" id restaurant_exterior_72bbcda3
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:452
 translate chinese_simplified restaurant_exterior_d8b45f6e:
 
     # nobu angry "Ferme ta gueule, ta copine viens avec nous, c'est elle qui propose donc va recurrer les chiottes et casse toi." id restaurant_exterior_d8b45f6e
-    nobu angry "" id restaurant_exterior_d8b45f6e
+    nobu angry "闭上你的嘴，你的女朋友和我们一起去，她是那个提议的人，所以你可以回到厕所去。" id restaurant_exterior_d8b45f6e
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:453
 translate chinese_simplified restaurant_exterior_117eefff:
 
     # sakuya "{size=-10}Fais moi confiance, ne t'inquiete pas.{/size}" id restaurant_exterior_117eefff
-    sakuya "" id restaurant_exterior_117eefff
+    sakuya "{size=-10}Fais moi confiance, ne t'inquiete pas.{/size}" id restaurant_exterior_117eefff
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:454
 translate chinese_simplified restaurant_exterior_bae558fc:
 
     # player "{size=-10}Très bien... Mais je ne serais pas loin.{/size}" id restaurant_exterior_bae558fc
-    player "" id restaurant_exterior_bae558fc
+    player "{size=-10}Très bien... Mais je ne serais pas loin.{/size}" id restaurant_exterior_bae558fc
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:456
 translate chinese_simplified restaurant_exterior_d5c70915:
 
     # nobu bad "Tu veux qu'on fasse un karaoké ou on passe directement aux choses serieuses?" id restaurant_exterior_d5c70915
-    nobu bad "" id restaurant_exterior_d5c70915
+    nobu bad "你想让我们做卡拉OK还是直接谈正事？" id restaurant_exterior_d5c70915
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:457
 translate chinese_simplified restaurant_exterior_4e602e52:
 
     # takeo "Regarde moi cette paire de loches..." id restaurant_exterior_4e602e52
-    takeo "" id restaurant_exterior_4e602e52
+    takeo "看看这两个。。。" id restaurant_exterior_4e602e52
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:458
 translate chinese_simplified restaurant_exterior_b6c5b85c:
 
     # takeo "On pourrait mourir étouffé avec." id restaurant_exterior_b6c5b85c
-    takeo "" id restaurant_exterior_b6c5b85c
+    takeo "我们可能会窒息而死。" id restaurant_exterior_b6c5b85c
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:459
 translate chinese_simplified restaurant_exterior_83833378:
 
     # kenji "Moi j'attend un peu de voir le reste." id restaurant_exterior_83833378
-    kenji "" id restaurant_exterior_83833378
+    kenji "我等着看剩下的。" id restaurant_exterior_83833378
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:460
 translate chinese_simplified restaurant_exterior_16fc1dc5:
 
     # kenji "Je prefere plutot les jolis petit culs." id restaurant_exterior_16fc1dc5
-    kenji "" id restaurant_exterior_16fc1dc5
+    kenji "我更喜欢漂亮的小屁股。" id restaurant_exterior_16fc1dc5
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:461
 translate chinese_simplified restaurant_exterior_9488f573:
 
     # nobu mocking "Tu ne dis plus rien tout a coup, tu as peur?" id restaurant_exterior_9488f573
-    nobu mocking "" id restaurant_exterior_9488f573
+    nobu mocking "你一句话也不说，你害怕吗？" id restaurant_exterior_9488f573
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:462
 translate chinese_simplified restaurant_exterior_d820de51:
 
     # nobu "On ne va pas te faire de mal bien au contraire." id restaurant_exterior_d820de51
-    nobu "" id restaurant_exterior_d820de51
+    nobu "我们不会伤害你的。" id restaurant_exterior_d820de51
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:463
 translate chinese_simplified restaurant_exterior_d9b54a35:
 
     # nobu angry "Pourquoi tu me regarde comme ça?" id restaurant_exterior_d9b54a35
-    nobu angry "" id restaurant_exterior_d9b54a35
+    nobu angry "你为什么那样看着我？" id restaurant_exterior_d9b54a35
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:464
 translate chinese_simplified restaurant_exterior_6089c533:
 
     # sakuya happy "Je suis simplement en train de graver vos visage dans ma tête." id restaurant_exterior_6089c533
-    sakuya happy "" id restaurant_exterior_6089c533
+    sakuya happy "我只是把你的脸刻在我的脑海里。" id restaurant_exterior_6089c533
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:465
 translate chinese_simplified restaurant_exterior_a38a7207:
 
     # takeo mocking "Et alors? Tu aime ce que tu vois?" id restaurant_exterior_a38a7207
-    takeo mocking "" id restaurant_exterior_a38a7207
+    takeo mocking "那又怎样？你喜欢你看到的吗？" id restaurant_exterior_a38a7207
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:466
 translate chinese_simplified restaurant_exterior_226fdcd4:
 
     # takeo "Tu veux pas plutôt graver ma b-" id restaurant_exterior_226fdcd4
-    takeo "" id restaurant_exterior_226fdcd4
+    takeo "你不想刻我的B-" id restaurant_exterior_226fdcd4
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:468
 translate chinese_simplified restaurant_exterior_722c712f:
 
     # chef "PUTAIN DE PETITS MERDEUX!" id restaurant_exterior_722c712f
-    chef "" id restaurant_exterior_722c712f
+    chef "该死的混蛋！" id restaurant_exterior_722c712f
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:469
 translate chinese_simplified restaurant_exterior_0458a7db:
 
     # chef "TIREZ VOUS TOUS!" id restaurant_exterior_0458a7db
-    chef "" id restaurant_exterior_0458a7db
+    chef "你们都出去！" id restaurant_exterior_0458a7db
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:470
 translate chinese_simplified restaurant_exterior_29a8d0be:
 
     # chef "Le premier qui dit un mot de travers je lui fait bouffer ses couilles!" id restaurant_exterior_29a8d0be
-    chef "" id restaurant_exterior_29a8d0be
+    chef "第一个说错话的人，我就把他的蛋蛋吃掉！" id restaurant_exterior_29a8d0be
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:471
 translate chinese_simplified restaurant_exterior_a36e6735:
 
     # sakuya neutral "C'est bon papa, je les retenais juste le temps que la police n'arrive." id restaurant_exterior_a36e6735
-    sakuya neutral "" id restaurant_exterior_a36e6735
+    sakuya neutral "没关系，爸爸。我只是在警察来之前把他们关起来。" id restaurant_exterior_a36e6735
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:472
 translate chinese_simplified restaurant_exterior_89fba8c5:
 
     # kenji angry "Les flics? Merde, tirons nous." id restaurant_exterior_89fba8c5
-    kenji angry "" id restaurant_exterior_89fba8c5
+    kenji angry "警察？妈的，我们走。" id restaurant_exterior_89fba8c5
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:473
 translate chinese_simplified restaurant_exterior_56a26167:
 
     # nobu angry "Fais chier!" id restaurant_exterior_56a26167
-    nobu angry "" id restaurant_exterior_56a26167
+    nobu angry "去你妈的！" id restaurant_exterior_56a26167
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:478
 translate chinese_simplified restaurant_exterior_99e85c66:
 
     # chef "Putain de vauriens." id restaurant_exterior_99e85c66
-    chef "" id restaurant_exterior_99e85c66
+    chef "他妈的混蛋。" id restaurant_exterior_99e85c66
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:482
 translate chinese_simplified restaurant_exterior_3467cf9f:
 
     # player "Tout vas bien?" id restaurant_exterior_3467cf9f
-    player "" id restaurant_exterior_3467cf9f
+    player "一切都好吗？" id restaurant_exterior_3467cf9f
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:483
 translate chinese_simplified restaurant_exterior_7a43449b:
 
     # sakuya melancholic "Tu... tu t'inquiétais pour moi?" id restaurant_exterior_7a43449b
-    sakuya melancholic "" id restaurant_exterior_7a43449b
+    sakuya melancholic "你…你担心我吗？" id restaurant_exterior_7a43449b
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:484
 translate chinese_simplified restaurant_exterior_2ad13cfa:
 
     # player "Evidement, je ne voulais pas qu'ils te fassent quoi que ce soit." id restaurant_exterior_2ad13cfa
-    player "" id restaurant_exterior_2ad13cfa
+    player "当然，我不想让他们对你做任何事。" id restaurant_exterior_2ad13cfa
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:485
 translate chinese_simplified restaurant_exterior_0122bda4:
 
     # sakuya "Tu es vraiment..." id restaurant_exterior_0122bda4
-    sakuya "" id restaurant_exterior_0122bda4
+    sakuya "你真的。。。" id restaurant_exterior_0122bda4
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:486
 translate chinese_simplified restaurant_exterior_5feeb033:
 
     # sakuya happy "Je... {w}merci." id restaurant_exterior_5feeb033
-    sakuya happy "" id restaurant_exterior_5feeb033
+    sakuya happy "Je... {w}merci." id restaurant_exterior_5feeb033
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:487
 translate chinese_simplified restaurant_exterior_70c66934:
 
     # player upset "Maintenant j'ai surtout peur qu'ils reviennent te voir..." id restaurant_exterior_70c66934
-    player upset "" id restaurant_exterior_70c66934
+    player upset "现在我担心他们会回来找你。。。" id restaurant_exterior_70c66934
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:488
 translate chinese_simplified restaurant_exterior_564442e7:
 
     # sakuya "Hihi" id restaurant_exterior_564442e7
-    sakuya "" id restaurant_exterior_564442e7
+    sakuya "天鹅会" id restaurant_exterior_564442e7
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:489
 translate chinese_simplified restaurant_exterior_0bc55e34:
 
     # player "Tu as l'air de plutot bien le prendre." id restaurant_exterior_0bc55e34
-    player "" id restaurant_exterior_0bc55e34
+    player "你看起来很喜欢。" id restaurant_exterior_0bc55e34
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:490
 translate chinese_simplified restaurant_exterior_32e8b081:
 
     # sakuya "Ne t'en fais pas, il n'y a aucune chance qu'ils reviennent ici." id restaurant_exterior_32e8b081
-    sakuya "" id restaurant_exterior_32e8b081
+    sakuya "别担心，他们不会回来的。" id restaurant_exterior_32e8b081
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:491
 translate chinese_simplified restaurant_exterior_f63986e0:
 
     # player happy "Si tu le dis..." id restaurant_exterior_f63986e0
-    player happy "" id restaurant_exterior_f63986e0
+    player happy "Situ le dis。。。" id restaurant_exterior_f63986e0
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:502
 translate chinese_simplified restaurant_exterior_db88a80c:
 
     # player "Les trois connards ont décidés de lacher l'affaire..." id restaurant_exterior_db88a80c
-    player "" id restaurant_exterior_db88a80c
+    player "三个混蛋决定放弃这个案子。。。" id restaurant_exterior_db88a80c
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:503
 translate chinese_simplified restaurant_exterior_3f3e520a:
 
     # player "Pour le moment." id restaurant_exterior_3f3e520a
-    player "" id restaurant_exterior_3f3e520a
+    player "倾尽全力。" id restaurant_exterior_3f3e520a
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:504
 translate chinese_simplified restaurant_exterior_914cdc28:
 
     # player "J'irais bien au bar a hotesse une derniere fois." id restaurant_exterior_914cdc28
-    player "" id restaurant_exterior_914cdc28
+    player "我想我最后一次去酒店的酒吧。" id restaurant_exterior_914cdc28
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:505
 translate chinese_simplified restaurant_exterior_aa0aa39f:
 
     # player "J'espere que tout iras bien pour [macumba.n]." id restaurant_exterior_aa0aa39f
-    player "" id restaurant_exterior_aa0aa39f
+    player "我希望一切都会好起来的。" id restaurant_exterior_aa0aa39f
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:506
 translate chinese_simplified restaurant_exterior_651fd040:
 
     # player "...Je dois croire en lui!" id restaurant_exterior_651fd040
-    player "" id restaurant_exterior_651fd040
+    player "…我必须相信他！" id restaurant_exterior_651fd040
 
 translate chinese_simplified strings:
 
     # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:26
     old "Allez voir le [chef.n] du {color=FFFF00}{b}restaurant{/b}{/color} pour essayer de décrocher le job."
-    new ""
+    new "Allez voir le [chef.n] du {color=FFFF00}{b}restaurant{/b}{/color} pour essayer de décrocher le job."
 
     # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:61
     old "Peut-être que [macumba.n] pourrait m'aider a gagner en force aussi?"
-    new ""
+    new "也许[macumba.n]也能帮助我增强力量？"
 
     # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:185
     old "J'ai cassé le coup d'[akira.n] c'est toujours ça de gagner."
-    new ""
+    new "我打倒了阿基拉的球，总是赢。"
 
     # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:355
     old "Rentrer à la maison voir [yasuka.n]."
-    new ""
+    new "回家看看[yasuka.n]。"
 
     # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:374
     old "Rentrer à la maison retrouver [yasuka.n]."
-    new ""
+    new "回家找[yasuka.n]。"
 
     # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:392
     old "Demandez des explications à [noriko.n]"
-    new ""
+    new "向[Noriko.n]寻求解释"
 
     # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:401
     old "Rentrez à la maison, [yasuka.n] attend votre retour."
-    new ""
+    new "回家吧，[Yasuka.n]等你回来。"
 
     # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:498
     old "Aller au bar a hostess la nuit."
-    new ""
+    new "晚上去女主人的酒吧。"
 

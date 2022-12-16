@@ -19,5 +19,5 @@ translate chinese_simplified strings:
 
     # game/scripts/scripts_custom/var_reinit_sleep.rpy:18
     old "[asami.n] m'attend au {color=#ff0}{b}parc{/b}{/color} en début d'après-midi."
-    new ""
+    new "[asami.n] 下午在 {color=#ff0}{b}公园{/b}{/color} 等我"
 

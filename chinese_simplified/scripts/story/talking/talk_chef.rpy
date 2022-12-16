@@ -148,5 +148,5 @@ translate chinese_simplified strings:
 translate chinese_simplified talk_chef_46e1700a:
 
     # chef "Si impatient que ça de commencer gamin ? Continue de t'entraîner, tu tiendras jamais le rythme."
-    chef ""
+    chef "等不及要开始了，孩子？继续练习，你永远无法跟上节奏。"
 

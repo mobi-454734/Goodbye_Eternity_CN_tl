@@ -138,5 +138,5 @@ translate chinese_simplified strings:
 translate chinese_simplified home_player_noriko_room_closed_97502b55:
 
     # x "Mieux vaut que je laisse [noriko.n] tranquille pour le moment."
-    x ""
+    x "我最好暂时不谈这个。"
 

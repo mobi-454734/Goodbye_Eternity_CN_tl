@@ -2910,27 +2910,27 @@ translate chinese_simplified strings:
 translate chinese_simplified park_5155b62b:
 
     # nobu "T'AURAS PAS LE TEMPS DE TROUVER TON POTE!"
-    nobu ""
+    nobu "你找不到你的朋友了！"
 
 translate chinese_simplified strings:
 
     # game/scripts/story/world/park.rpy:144
     old "Bon je crois que c'est foutu avec [asami.n]"
-    new ""
+    new "好吧，我想我们完了。"
 
     # game/scripts/story/world/park.rpy:514
     old "Allez confronter [minato.n]"
-    new ""
+    new "去面对[Minato.n]"
 
     # game/scripts/story/world/park.rpy:533
     old "Rejoindre les appartements avant [kimochi.n]"
-    new ""
+    new "到达前面的公寓[Kimochi.n]"
 
     # game/scripts/story/world/park.rpy:680
     old "[asami.n] sera devant chez moi ce soir."
-    new ""
+    new "今晚会在我家门口。"
 
     # game/scripts/story/world/park.rpy:917
     old "Rammener [asami.n] dans votre chambre"
-    new ""
+    new "把[朝日]带到你的房间"
 

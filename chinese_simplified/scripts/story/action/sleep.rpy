@@ -46,17 +46,17 @@ translate chinese_simplified strings:
 
     # game/scripts/story/action/sleep.rpy:12
     old "Faire venir [noriko.n] dans la chambre"
-    new ""
+    new "把[noriko.n]带进房间"
 
     # game/scripts/story/action/sleep.rpy:12
     old "Certaines quêtes doivent être accomplies avant la fin de journée."
-    new ""
+    new "有些任务必须在一天结束前完成。"
 
     # game/scripts/story/action/sleep.rpy:14
     old "Dormir avec [asami.n]"
-    new ""
+    new "和[asami.n]睡觉"
 
     # game/scripts/story/action/sleep.rpy:14
     old "Dormir avec [yasuka.n]"
-    new ""
+    new "和[yasuka.n]"
 

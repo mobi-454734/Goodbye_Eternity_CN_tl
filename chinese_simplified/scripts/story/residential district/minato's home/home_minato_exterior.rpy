@@ -456,27 +456,27 @@ translate chinese_simplified home_minato_exterior_799829ff:
 translate chinese_simplified home_minato_exterior_a8cdfa3e:
 
     # takeo "Mec t'es un fou de venir penser que tu peux te réfugier ici." id home_minato_exterior_a8cdfa3e
-    takeo "" id home_minato_exterior_a8cdfa3e
+    takeo "伙计，你真是个疯子，以为你可以躲在这里。" id home_minato_exterior_a8cdfa3e
 
 # game/scripts/story/residential district/minato's home/home_minato_exterior.rpy:168
 translate chinese_simplified home_minato_exterior_5d8812f7:
 
     # kenji "Ce type est sucidaire." id home_minato_exterior_5d8812f7
-    kenji "" id home_minato_exterior_5d8812f7
+    kenji "这家伙很性感。" id home_minato_exterior_5d8812f7
 
 # game/scripts/story/residential district/minato's home/home_minato_exterior.rpy:169
 translate chinese_simplified home_minato_exterior_aa8bd64e:
 
     # nobu "CHOPEZ LE AU LIEU DE RIEN BRANLER BANDE DE CONS!" id home_minato_exterior_aa8bd64e
-    nobu "" id home_minato_exterior_aa8bd64e
+    nobu "抓住他，别打他，你们这些混蛋！" id home_minato_exterior_aa8bd64e
 
 translate chinese_simplified strings:
 
     # game/scripts/story/residential district/minato's home/home_minato_exterior.rpy:31
     old "Retrouver [asami.n] au {color=#efdf31}{b}parc{/b}{/color}."
-    new ""
+    new "Retrouver [asami.n] au {color=#efdf31}{b}parc{/b}{/color}"
 
     # game/scripts/story/residential district/minato's home/home_minato_exterior.rpy:106
     old "Rattraper l'individu louche avant [minato.n]"
-    new ""
+    new "Rattraper l'individu louche avant [minato.n]"
 

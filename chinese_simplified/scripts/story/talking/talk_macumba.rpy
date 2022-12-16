@@ -1518,173 +1518,173 @@ translate chinese_simplified strings:
 translate chinese_simplified talk_macumba_79d64d6a:
 
     # player "Hey, salut [macumba.n]!" id talk_macumba_79d64d6a
-    player "" id talk_macumba_79d64d6a
+    player "嘿，嘿[Macumba.n]！" id talk_macumba_79d64d6a
 
 # game/scripts/story/talking/talk_macumba.rpy:13
 translate chinese_simplified talk_macumba_b85a1cff:
 
     # macumba happy "Hey petit frère, ça me fait plaisir de te voir." id talk_macumba_b85a1cff
-    macumba happy "" id talk_macumba_b85a1cff
+    macumba happy "嘿，小弟弟，很高兴见到你。" id talk_macumba_b85a1cff
 
 # game/scripts/story/talking/talk_macumba.rpy:14
 translate chinese_simplified talk_macumba_24c950f2:
 
     # macumba neutral "Comme promis je n'ai laissé personne s'approcher d'elle avec de mauvaises intentions!" id talk_macumba_24c950f2
-    macumba neutral "" id talk_macumba_24c950f2
+    macumba neutral "正如我所承诺的，我没有让任何人恶意接近她！" id talk_macumba_24c950f2
 
 # game/scripts/story/talking/talk_macumba.rpy:15
 translate chinese_simplified talk_macumba_2edf935e:
 
     # player "Merci, tu ne peux pas savoir a quel point ça me soulage de savoir ça." id talk_macumba_2edf935e
-    player "" id talk_macumba_2edf935e
+    player "谢谢你，你不知道知道知道这件事有多让我松了一口气。" id talk_macumba_2edf935e
 
 # game/scripts/story/talking/talk_macumba.rpy:16
 translate chinese_simplified talk_macumba_b427421a:
 
     # player upset "[akira.n] est-il revenu?" id talk_macumba_b427421a
-    player upset "" id talk_macumba_b427421a
+    player upset "他回来了吗？" id talk_macumba_b427421a
 
 # game/scripts/story/talking/talk_macumba.rpy:17
 translate chinese_simplified talk_macumba_0ebd781b:
 
     # macumba "Oui, et il a été bannis définitvement." id talk_macumba_0ebd781b
-    macumba "" id talk_macumba_0ebd781b
+    macumba "是的，他确实被放逐了。" id talk_macumba_0ebd781b
 
 # game/scripts/story/talking/talk_macumba.rpy:18
 translate chinese_simplified talk_macumba_c12d048d:
 
     # player surprised "Ah!? Que s'est il passé?" id talk_macumba_c12d048d
-    player surprised "" id talk_macumba_c12d048d
+    player surprised "啊！发生什么事了？" id talk_macumba_c12d048d
 
 # game/scripts/story/talking/talk_macumba.rpy:19
 translate chinese_simplified talk_macumba_ca741ae4:
 
     # macumba upset "Je l'ai surpris en train de vouloir glisser quelque chose dans un verre." id talk_macumba_ca741ae4
-    macumba upset "" id talk_macumba_ca741ae4
+    macumba upset "我发现他想把东西塞进玻璃杯里。" id talk_macumba_ca741ae4
 
 # game/scripts/story/talking/talk_macumba.rpy:20
 translate chinese_simplified talk_macumba_dd0da554:
 
     # player "Une drogue?!" id talk_macumba_dd0da554
-    player "" id talk_macumba_dd0da554
+    player "毒品？" id talk_macumba_dd0da554
 
 # game/scripts/story/talking/talk_macumba.rpy:21
 translate chinese_simplified talk_macumba_5a4084eb:
 
     # macumba "Je ne sais pas trop, je l'ai secoué tellement fort qu'il a fait tombé tout ce qu'il avait sur lui." id talk_macumba_5a4084eb
-    macumba "" id talk_macumba_5a4084eb
+    macumba "我不知道，我使劲摇晃他，把他身上所有的东西都砸了。" id talk_macumba_5a4084eb
 
 # game/scripts/story/talking/talk_macumba.rpy:22
 translate chinese_simplified talk_macumba_4a6feccf:
 
     # macumba "Je l'ai ensuite trainé dehors en lui tirant l'oreille." id talk_macumba_4a6feccf
-    macumba "" id talk_macumba_4a6feccf
+    macumba "然后我拉着他的耳朵把他拖出去。" id talk_macumba_4a6feccf
 
 # game/scripts/story/talking/talk_macumba.rpy:23
 translate chinese_simplified talk_macumba_4132cb17:
 
     # macumba neutral "Quand la police est arrivé il avait reussi à s'enfuir." id talk_macumba_4132cb17
-    macumba neutral "" id talk_macumba_4132cb17
+    macumba neutral "当警察来的时候，他设法逃走了。" id talk_macumba_4132cb17
 
 # game/scripts/story/talking/talk_macumba.rpy:24
 translate chinese_simplified talk_macumba_2d70dea1:
 
     # player happy "Une fois de plus tu es toujours là au bon moment!" id talk_macumba_2d70dea1
-    player happy "" id talk_macumba_2d70dea1
+    player happy "你又一次在正确的时间出现了！" id talk_macumba_2d70dea1
 
 # game/scripts/story/talking/talk_macumba.rpy:25
 translate chinese_simplified talk_macumba_c8b502b6:
 
     # player "Je ne sais pas comment je pourrais te remercier." id talk_macumba_c8b502b6
-    player "" id talk_macumba_c8b502b6
+    player "我不知道该怎么感谢你。" id talk_macumba_c8b502b6
 
 # game/scripts/story/talking/talk_macumba.rpy:26
 translate chinese_simplified talk_macumba_8d45fa37:
 
     # macumba happy "Tu n'as pas besoins de me remercier petit frere." id talk_macumba_8d45fa37
-    macumba happy "" id talk_macumba_8d45fa37
+    macumba happy "你不用谢我，小兄弟。" id talk_macumba_8d45fa37
 
 # game/scripts/story/talking/talk_macumba.rpy:27
 translate chinese_simplified talk_macumba_e75f2b2d:
 
     # macumba "J'ai fais mon travail, le patron était content de moi, j'ai même eu un bonus." id talk_macumba_e75f2b2d
-    macumba "" id talk_macumba_e75f2b2d
+    macumba "我做了我的工作，老板对我很满意，我甚至得到了奖金。" id talk_macumba_e75f2b2d
 
 # game/scripts/story/talking/talk_macumba.rpy:28
 translate chinese_simplified talk_macumba_364b65dd:
 
     # player "C'était mérité! Merci encore pour tout." id talk_macumba_364b65dd
-    player "" id talk_macumba_364b65dd
+    player "这是应得的！再次感谢你所做的一切。" id talk_macumba_364b65dd
 
 # game/scripts/story/talking/talk_macumba.rpy:29
 translate chinese_simplified talk_macumba_24f47f28:
 
     # macumba -happy "Pas de probleme, petit frère!" id talk_macumba_24f47f28
-    macumba -happy "" id talk_macumba_24f47f28
+    macumba -happy "没问题，小兄弟！" id talk_macumba_24f47f28
 
 # game/scripts/story/talking/talk_macumba.rpy:30
 translate chinese_simplified talk_macumba_51029668:
 
     # player neutral "Tiens au fait... Je ne vois pas [yasuka.n], elle est en pause?" id talk_macumba_51029668
-    player neutral "" id talk_macumba_51029668
+    player neutral "顺便问一下…我没看见[yasuka.n]，她在休息吗？" id talk_macumba_51029668
 
 # game/scripts/story/talking/talk_macumba.rpy:31
 translate chinese_simplified talk_macumba_a73c4366:
 
     # macumba "Il me semble l'avoir vu quitter le bar avec précipitation tout a l'heure." id talk_macumba_a73c4366
-    macumba "" id talk_macumba_a73c4366
+    macumba "我刚才好像看见他匆匆离开酒吧。" id talk_macumba_a73c4366
 
 # game/scripts/story/talking/talk_macumba.rpy:32
 translate chinese_simplified talk_macumba_dfe3c35a:
 
     # player happy "Ah?! D'accord, je vais voir ça. Bonne soirée." id talk_macumba_dfe3c35a
-    player happy "" id talk_macumba_dfe3c35a
+    player happy "啊？好吧，我去看看。祝你晚上愉快。" id talk_macumba_dfe3c35a
 
 # game/scripts/story/talking/talk_macumba.rpy:33
 translate chinese_simplified talk_macumba_533bc9b1:
 
     # macumba happy "A la prochaine, petit frère." id talk_macumba_533bc9b1
-    macumba happy "" id talk_macumba_533bc9b1
+    macumba happy "再见，小弟弟。" id talk_macumba_533bc9b1
 
 # game/scripts/story/talking/talk_macumba.rpy:581
 translate chinese_simplified menu_macumba_c3d2b7e1_1:
 
     # macumba "Hey petit frère!" id menu_macumba_c3d2b7e1_1
-    macumba "" id menu_macumba_c3d2b7e1_1
+    macumba "嘿，小弟弟！" id menu_macumba_c3d2b7e1_1
 
 # game/scripts/story/talking/talk_macumba.rpy:582
 translate chinese_simplified menu_macumba_662b5327:
 
     # macumba -happy "Ça me fait plaisir que tu sois aussi motivé, mais il faut aussi se reposer." id menu_macumba_662b5327
-    macumba -happy "" id menu_macumba_662b5327
+    macumba -happy "我很高兴你这么有动力，但你也需要休息。" id menu_macumba_662b5327
 
 # game/scripts/story/talking/talk_macumba.rpy:584
 translate chinese_simplified menu_macumba_d2c8ad9a:
 
     # macumba happy "On se voit demain pour l'entraînement !" id menu_macumba_d2c8ad9a
-    macumba happy "" id menu_macumba_d2c8ad9a
+    macumba happy "明天训练见！" id menu_macumba_d2c8ad9a
 
 # game/scripts/story/talking/talk_macumba.rpy:586
 translate chinese_simplified menu_macumba_32b94129:
 
     # macumba happy "On se voit lundi pour l'entraînement !" id menu_macumba_32b94129
-    macumba happy "" id menu_macumba_32b94129
+    macumba happy "星期一训练见！" id menu_macumba_32b94129
 
 translate chinese_simplified strings:
 
     # game/scripts/story/talking/talk_macumba.rpy:72
     old "Et si je donnais mon vieux lecteur CD à [macumba.n] en échange d'un coaching ?"
-    new ""
+    new "如果我把我的旧CD播放器给[Macumba.n]作为指导呢？"
 
     # game/scripts/story/talking/talk_macumba.rpy:153
     old "Faire ces preuves auprès de [macumba.n]"
-    new ""
+    new "向[Macumba.n]证明这一点"
 
     # game/scripts/story/talking/talk_macumba.rpy:417
     old "Allez chercher [asami.n] chez elle."
-    new ""
+    new "去找她。"
 
     # game/scripts/story/talking/talk_macumba.rpy:507
     old "Progresser dans l'histoire d'[asami.n] pour continuer l'histoire de [yasuka.n]"
-    new ""
+    new "在[朝日神社]的历史上前进，继续[yasuka.n]的历史"
 

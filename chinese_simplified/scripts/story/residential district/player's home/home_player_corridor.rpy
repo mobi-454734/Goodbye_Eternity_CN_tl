@@ -1708,79 +1708,79 @@ translate chinese_simplified strings:
 translate chinese_simplified home_player_corridor_9f8596cc:
 
     # player "Je devrais prendre le baladeur MP3. Il est sur mon lit." id home_player_corridor_9f8596cc
-    player "" id home_player_corridor_9f8596cc
+    player "我应该把MP3播放器放在我床上。" id home_player_corridor_9f8596cc
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:816
 translate chinese_simplified home_player_corridor_1dffa0c4:
 
     # noriko "Alors? Parait que tu t'es fais courser dans toute la ville?" id home_player_corridor_1dffa0c4
-    noriko "" id home_player_corridor_1dffa0c4
+    noriko "你觉得怎么样？听说你在城里到处跑？" id home_player_corridor_1dffa0c4
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:817
 translate chinese_simplified home_player_corridor_c5a36d37:
 
     # player upset "Qu'est ce que tu veux?" id home_player_corridor_c5a36d37
-    player upset "" id home_player_corridor_c5a36d37
+    player upset "你想要什么？" id home_player_corridor_c5a36d37
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:818
 translate chinese_simplified home_player_corridor_0bf04af4:
 
     # player "Tu veux encore te foutre de moi?" id home_player_corridor_0bf04af4
-    player "" id home_player_corridor_0bf04af4
+    player "你想再耍我吗？" id home_player_corridor_0bf04af4
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:819
 translate chinese_simplified home_player_corridor_569a2c46:
 
     # player "Tu peux continuer si tu veux mais moi je vais dormir." id home_player_corridor_569a2c46
-    player "" id home_player_corridor_569a2c46
+    player "如果你愿意，你可以继续，但我要睡觉了。" id home_player_corridor_569a2c46
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:822
 translate chinese_simplified home_player_corridor_ac0d401c:
 
     # playerc "{size=-10}Mais je t'en prie continue! Fait comme si j'étais là{/size}" id home_player_corridor_ac0d401c
-    playerc "" id home_player_corridor_ac0d401c
+    playerc "{size=-10}Mais je t'en prie continue! Fait comme si j'étais là{/size}" id home_player_corridor_ac0d401c
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:824
 translate chinese_simplified home_player_corridor_86b507cb:
 
     # noriko "Mais j-" id home_player_corridor_86b507cb
-    noriko "" id home_player_corridor_86b507cb
+    noriko "但我-" id home_player_corridor_86b507cb
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:825
 translate chinese_simplified home_player_corridor_3d7b6407_1:
 
     # noriko "Connard!" id home_player_corridor_3d7b6407_1
-    noriko "" id home_player_corridor_3d7b6407_1
+    noriko "混蛋！" id home_player_corridor_3d7b6407_1
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:826
 translate chinese_simplified home_player_corridor_fcbdf7a3:
 
     # noriko shame "...Zut" id home_player_corridor_fcbdf7a3
-    noriko shame "" id home_player_corridor_fcbdf7a3
+    noriko shame "…该死的" id home_player_corridor_fcbdf7a3
 
 translate chinese_simplified strings:
 
     # game/scripts/story/residential district/player's home/home_player_corridor.rpy:43
     old "Evitez cette peste de [noriko.n] à tout prix!"
-    new ""
+    new "不惜一切代价避免这场瘟疫！"
 
     # game/scripts/story/residential district/player's home/home_player_corridor.rpy:103
     old "Continuer d'ignorer [noriko.n]!"
-    new ""
+    new "继续忽略[Noriko.n]！"
 
     # game/scripts/story/residential district/player's home/home_player_corridor.rpy:197
     old "Retournez au {color=#ff0}{b}parc{/b}{/color} voir si [macumba.n] est encore là."
-    new ""
+    new "Retournez au {color=#ff0}{b}parc{/b}{/color} voir si [macumba.n] est encore là."
 
     # game/scripts/story/residential district/player's home/home_player_corridor.rpy:198
     old "[noriko.n] à enfin eu ce qu'elle méritait, je suis libre à présent!"
-    new ""
+    new "终于得到了她应得的，我现在自由了！"
 
     # game/scripts/story/residential district/player's home/home_player_corridor.rpy:404
     old "Allons chez [minato.n] histoire d'en apprendre plus sur sa copine"
-    new ""
+    new "我们去[Minato.n]了解他的女朋友吧"
 
     # game/scripts/story/residential district/player's home/home_player_corridor.rpy:535
     old "Rendez-vous a l'adresse indiquée par [kimochi.n]"
-    new ""
+    new "在[Kimochi.n]指定的地址会面"
 

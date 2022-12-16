@@ -96,21 +96,21 @@ translate chinese_simplified strings:
 
     # game/scripts/fondations/location.rpy:8
     old "home_natsume_exterior"
-    new ""
+    new "天师会所外部"
 
     # game/scripts/fondations/location.rpy:8
     old "hostess_club_interior"
-    new ""
+    new "天师会所内部"
 
     # game/scripts/fondations/location.rpy:8
     old "hostess_club_alley"
-    new ""
+    new "天师会所巷子"
 
     # game/scripts/fondations/location.rpy:8
     old "love_hotel_reception"
-    new ""
+    new "情侣酒店接待"
 
     # game/scripts/fondations/location.rpy:8
     old "love_hotel_room"
-    new ""
+    new "情侣旅馆房间"
 

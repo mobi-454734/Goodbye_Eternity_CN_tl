@@ -476,61 +476,61 @@ translate chinese_simplified strings:
 translate chinese_simplified home_player_hallway_b6e3949f:
 
     # x "En même temps, je ne sais pas a quoi je m'attendais venant d'elle." id home_player_hallway_b6e3949f
-    x "" id home_player_hallway_b6e3949f
+    x "同时，我不知道我从她那里得到了什么。" id home_player_hallway_b6e3949f
 
 # game/scripts/story/residential district/player's home/home_player_hallway.rpy:192
 translate chinese_simplified home_player_hallway_425f3945:
 
     # x "Je pensais sincerement avoir améliorer ma relation." id home_player_hallway_425f3945
-    x "" id home_player_hallway_425f3945
+    x "我真的很想改善我的关系。" id home_player_hallway_425f3945
 
 # game/scripts/story/residential district/player's home/home_player_hallway.rpy:193
 translate chinese_simplified home_player_hallway_1b9d58e8:
 
     # x "Il faut croire que je me faisait des films." id home_player_hallway_1b9d58e8
-    x "" id home_player_hallway_1b9d58e8
+    x "我想我在拍电影。" id home_player_hallway_1b9d58e8
 
 # game/scripts/story/residential district/player's home/home_player_hallway.rpy:194
 translate chinese_simplified home_player_hallway_e207ea75:
 
     # x "Tant pis je ferais sans elle." id home_player_hallway_e207ea75
-    x "" id home_player_hallway_e207ea75
+    x "没有她我也会这么做的。" id home_player_hallway_e207ea75
 
 # game/scripts/story/residential district/player's home/home_player_hallway.rpy:195
 translate chinese_simplified home_player_hallway_b173ed6f:
 
     # x "Il me semble qu'il y a une boutique de vetement d'occasion à coté du Love Hotel." id home_player_hallway_b173ed6f
-    x "" id home_player_hallway_b173ed6f
+    x "在我看来，爱酒店旁边有一家二手服装店。" id home_player_hallway_b173ed6f
 
 # game/scripts/story/residential district/player's home/home_player_hallway.rpy:196
 translate chinese_simplified home_player_hallway_35cf9764:
 
     # x "J'y trouverais peut être un costume sans trop me ruiner..." id home_player_hallway_35cf9764
-    x "" id home_player_hallway_35cf9764
+    x "也许我可以在那里找到一套西装，而不会毁了我自己。。。" id home_player_hallway_35cf9764
 
 translate chinese_simplified strings:
 
     # game/scripts/story/residential district/player's home/home_player_hallway.rpy:36
     old "Vous avez provoqué [noriko.n] au lieu de l'éviter, restez sur vos gardes!"
-    new ""
+    new "你激怒了[Noriko.n]而不是避开它，所以要小心！"
 
     # game/scripts/story/residential district/player's home/home_player_hallway.rpy:87
     old "Dans tes rêves [noriko.n]!"
-    new ""
+    new "在你的梦里！"
 
     # game/scripts/story/residential district/player's home/home_player_hallway.rpy:87
     old "Va te faire foutre [noriko.n]!"
-    new ""
+    new "去你妈的！"
 
     # game/scripts/story/residential district/player's home/home_player_hallway.rpy:131
     old "Rejoindre discrètement [yasuka.n] dans la salle de bain."
-    new ""
+    new "在浴室里静静地加入[yasuka.n]。"
 
     # game/scripts/story/residential district/player's home/home_player_hallway.rpy:150
     old "Je suis sur que [yasuka.n] doit m'attendre."
-    new ""
+    new "我相信[yasuka.n]一定在等我。"
 
     # game/scripts/story/residential district/player's home/home_player_hallway.rpy:185
     old "Cherchez la boutique a coté du love hotel."
-    new ""
+    new "找爱酒店旁边的商店。"
 

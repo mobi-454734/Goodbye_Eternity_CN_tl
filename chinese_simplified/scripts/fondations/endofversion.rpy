@@ -4,5 +4,5 @@ translate chinese_simplified strings:
 
     # game/scripts/fondations/endofversion.rpy:6
     old "Aller dormir."
-    new ""
+    new "去睡觉吧。"
 

@@ -28,233 +28,233 @@ translate chinese_simplified strings:
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Suivre l'histoire d'[asami.n]"
-    new ""
+    new "跟随[asami.n]的故事"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Marques de bronzage"
-    new ""
+    new "晒黑的痕迹"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Attente"
-    new ""
+    new "等待"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Insertion vaginale"
-    new ""
+    new "插入阴道"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Lent vaginal"
-    new ""
+    new "透视阴道"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Rapide vaginal"
-    new ""
+    new "快速阴道"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Orgasme vaginal"
-    new ""
+    new "阴道高潮"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Creampie vaginal"
-    new ""
+    new "奶油阴道"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Insertion anale"
-    new ""
+    new "肛门插入"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Lent anal"
-    new ""
+    new "透视肛门"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Rapide anal"
-    new ""
+    new "模拟快速"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Orgasme anal"
-    new ""
+    new "肛门性高潮"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Creampie anal"
-    new ""
+    new "Creampie肛门"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Bronzage intégral"
-    new ""
+    new "整体晒黑"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Robe blanche"
-    new ""
+    new "白袍"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Handjob"
-    new ""
+    new "手工作业"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Insertion orale"
-    new ""
+    new "口腔插入"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Lent oral"
-    new ""
+    new "香菇口服"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Éjaculation faciale"
-    new ""
+    new "面部按摩"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Tenue noire"
-    new ""
+    new "黑色套装"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Rapide oral"
-    new ""
+    new "快速口服"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Gorge profonde"
-    new ""
+    new "峡谷深处"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Avaler"
-    new ""
+    new "吞咽"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Creampie"
-    new ""
+    new "体内射精"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Orgasme vaginal extérieur"
-    new ""
+    new "阴道外高潮"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Orgasme anal extérieur"
-    new ""
+    new "肛门外高潮"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Faire du chantage a [noriko.n]"
-    new ""
+    new "勒索[noriko.n]"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Lécher"
-    new ""
+    new "舔"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Oral"
-    new ""
+    new "口头的"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Orgasme"
-    new ""
+    new "高潮"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Attente faciale"
-    new ""
+    new "面部等待"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Ne pas rejeter [noriko.n]"
-    new ""
+    new "不拒绝[noriko.n]"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Lent"
-    new ""
+    new "透视"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Rapide"
-    new ""
+    new "速度"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Suivre l'histoire de [yasuka.n]"
-    new ""
+    new "跟随[YASUKA.N]"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Attente orgasme"
-    new ""
+    new "等待性高潮"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "En avant"
-    new ""
+    new "前进"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "En arrière"
-    new ""
+    new "后退"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Rapide 1"
-    new ""
+    new "快速1"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Transition 1"
-    new ""
+    new "过渡1"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Rapide 2"
-    new ""
+    new "快速2"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Transition 2"
-    new ""
+    new "过渡2"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Rapide 3"
-    new ""
+    new "快速3"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Missionaire"
-    new ""
+    new "百万富翁"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Face au mur"
-    new ""
+    new "面向au-mur"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Contre la porte"
-    new ""
+    new "靠着门"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Voir derrière la porte"
-    new ""
+    new "见门后"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Corrompre [yasuka.n]"
-    new ""
+    new "更正[yasuka.n]"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Lécher, endormi"
-    new ""
+    new "舔，睡觉"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Lécher, éveillé"
-    new ""
+    new "舔，清醒"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Modéré oral"
-    new ""
+    new "中度口服"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Éjaculation"
-    new ""
+    new "Éjaculation公司"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Pénétration"
-    new ""
+    new "贯穿件"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Modéré"
-    new ""
+    new "中等"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Lent orgasme"
-    new ""
+    new "缓慢性高潮"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Face à face"
-    new ""
+    new "脸和脸"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Lap dance"
-    new ""
+    new "膝上舞"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Repos"
-    new ""
+    new "休息"
 

@@ -552,11 +552,11 @@ translate chinese_simplified konbini_exterior_f56abd17:
 translate chinese_simplified konbini_exterior_74d7068b:
 
     # nobu "ARRETE TOI!"
-    nobu ""
+    nobu "停下来！"
 
 translate chinese_simplified strings:
 
     # game/scripts/story/world/konbini/konbini_exterior.rpy:31
     old "Retrouvez [asami.n] au parc pour lui annoncer la mauvaise nouvelle."
-    new ""
+    new "在公园里见[朝日]告诉他这个坏消息。"
 

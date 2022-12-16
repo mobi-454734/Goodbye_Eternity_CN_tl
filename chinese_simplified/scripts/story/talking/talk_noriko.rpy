@@ -1052,239 +1052,239 @@ translate chinese_simplified strings:
 translate chinese_simplified talk_noriko_76daba04:
 
     # noriko fear "Que...Qu'est-ce que tu veux?" id talk_noriko_76daba04
-    noriko fear "" id talk_noriko_76daba04
+    noriko fear "什么…你想要什么？" id talk_noriko_76daba04
 
 # game/scripts/story/talking/talk_noriko.rpy:16
 translate chinese_simplified talk_noriko_374ea508:
 
     # noriko "Tu vas encore me brutaliser c'est ça?" id talk_noriko_374ea508
-    noriko "" id talk_noriko_374ea508
+    noriko "你又要欺负我了，是吗？" id talk_noriko_374ea508
 
 # game/scripts/story/talking/talk_noriko.rpy:17
 translate chinese_simplified talk_noriko_e4a64377:
 
     # player surprised "Quoi? Bien sur que non." id talk_noriko_e4a64377
-    player surprised "" id talk_noriko_e4a64377
+    player surprised "什么？什么？-当然不是。" id talk_noriko_e4a64377
 
 # game/scripts/story/talking/talk_noriko.rpy:18
 translate chinese_simplified talk_noriko_eadd7ccf:
 
     # player upset "Il s'agit d'autre chose..." id talk_noriko_eadd7ccf
-    player upset "" id talk_noriko_eadd7ccf
+    player upset "这是另一回事。。。" id talk_noriko_eadd7ccf
 
 # game/scripts/story/talking/talk_noriko.rpy:20
 translate chinese_simplified talk_noriko_2cccb1ce:
 
     # noriko bad "HEY!" id talk_noriko_2cccb1ce
-    noriko bad "" id talk_noriko_2cccb1ce
+    noriko bad "嘿！" id talk_noriko_2cccb1ce
 
 # game/scripts/story/talking/talk_noriko.rpy:21
 translate chinese_simplified talk_noriko_90bc6a7a:
 
     # noriko "Qui ta permis de rentrer dans ma chambre sans prevenir?" id talk_noriko_90bc6a7a
-    noriko "" id talk_noriko_90bc6a7a
+    noriko "谁允许你不事先通知就进入我的房间？" id talk_noriko_90bc6a7a
 
 # game/scripts/story/talking/talk_noriko.rpy:22
 translate chinese_simplified talk_noriko_08c316a9:
 
     # noriko "Degage!" id talk_noriko_08c316a9
-    noriko "" id talk_noriko_08c316a9
+    noriko "德格！" id talk_noriko_08c316a9
 
 # game/scripts/story/talking/talk_noriko.rpy:23
 translate chinese_simplified talk_noriko_113b6635:
 
     # player upset "Désolé mais c'est important." id talk_noriko_113b6635
-    player upset "" id talk_noriko_113b6635
+    player upset "对不起，这很重要。" id talk_noriko_113b6635
 
 # game/scripts/story/talking/talk_noriko.rpy:24
 translate chinese_simplified talk_noriko_181efd45:
 
     # noriko "Qu'est ce que tu veux?" id talk_noriko_181efd45
-    noriko "" id talk_noriko_181efd45
+    noriko "你想要什么？" id talk_noriko_181efd45
 
 # game/scripts/story/talking/talk_noriko.rpy:26
 translate chinese_simplified talk_noriko_c78c394d:
 
     # noriko fear "Qu'est ce que tu me veux?" id talk_noriko_c78c394d
-    noriko fear "" id talk_noriko_c78c394d
+    noriko fear "你想从我这里得到什么？" id talk_noriko_c78c394d
 
 # game/scripts/story/talking/talk_noriko.rpy:27
 translate chinese_simplified talk_noriko_f5c961f2:
 
     # noriko shame "Tu veux encore que je te s-" id talk_noriko_f5c961f2
-    noriko shame "" id talk_noriko_f5c961f2
+    noriko shame "你还想让我帮你-" id talk_noriko_f5c961f2
 
 # game/scripts/story/talking/talk_noriko.rpy:28
 translate chinese_simplified talk_noriko_19fbe169:
 
     # player "Non je ne suis pas venu pour ça!" id talk_noriko_19fbe169
-    player "" id talk_noriko_19fbe169
+    player "不，我不是来这里的！" id talk_noriko_19fbe169
 
 # game/scripts/story/talking/talk_noriko.rpy:30
 translate chinese_simplified talk_noriko_c67f735e:
 
     # player "[noriko.n] tu aurais un instant j'ai besoins de toi." id talk_noriko_c67f735e
-    player "" id talk_noriko_c67f735e
+    player "你有时间我需要你。" id talk_noriko_c67f735e
 
 # game/scripts/story/talking/talk_noriko.rpy:31
 translate chinese_simplified talk_noriko_b2f32b08:
 
     # noriko bad "Pfff je croyais que tu en avais plus rien a faire de moi justement." id talk_noriko_b2f32b08
-    noriko bad "" id talk_noriko_b2f32b08
+    noriko bad "我以为你不在乎我。" id talk_noriko_b2f32b08
 
 # game/scripts/story/talking/talk_noriko.rpy:32
 translate chinese_simplified talk_noriko_ffa08594:
 
     # player upset "...Ecoute au moins ce que j'ai a dire." id talk_noriko_ffa08594
-    player upset "" id talk_noriko_ffa08594
+    player upset "至少听我说。" id talk_noriko_ffa08594
 
 # game/scripts/story/talking/talk_noriko.rpy:33
 translate chinese_simplified talk_noriko_750f38c2:
 
     # player "A vrai dire j'ai besoins d'un conseil vestimentaire." id talk_noriko_750f38c2
-    player "" id talk_noriko_750f38c2
+    player "事实上，我需要一些着装建议。" id talk_noriko_750f38c2
 
 # game/scripts/story/talking/talk_noriko.rpy:34
 translate chinese_simplified talk_noriko_c30c9b33:
 
     # noriko "Un conseil vestimentaire?" id talk_noriko_c30c9b33
-    noriko "" id talk_noriko_c30c9b33
+    noriko "着装建议？" id talk_noriko_c30c9b33
 
 # game/scripts/story/talking/talk_noriko.rpy:35
 translate chinese_simplified talk_noriko_f56a80d0:
 
     # player "J'ai besoins d'un costume plutot chic pour un club privé!" id talk_noriko_f56a80d0
-    player "" id talk_noriko_f56a80d0
+    player "我需要一套相当时髦的西装去私人俱乐部！" id talk_noriko_f56a80d0
 
 # game/scripts/story/talking/talk_noriko.rpy:36
 translate chinese_simplified talk_noriko_22497002:
 
     # noriko bad "...Laisse moi deviner tu veux voir ou travaille maman?" id talk_noriko_22497002
-    noriko bad "" id talk_noriko_22497002
+    noriko bad "让我猜猜，你想看看妈妈在哪里工作？" id talk_noriko_22497002
 
 # game/scripts/story/talking/talk_noriko.rpy:37
 translate chinese_simplified talk_noriko_c4c6f267:
 
     # player neutral "Oui j'aimerais m'assurer que tout se passe bien pour elle." id talk_noriko_c4c6f267
-    player neutral "" id talk_noriko_c4c6f267
+    player neutral "是的，我想确保她一切顺利。" id talk_noriko_c4c6f267
 
 # game/scripts/story/talking/talk_noriko.rpy:38
 translate chinese_simplified talk_noriko_bab56ba2:
 
     # noriko neutral "Qu'est ce que j'y gagne dans tout ça?" id talk_noriko_bab56ba2
-    noriko neutral "" id talk_noriko_bab56ba2
+    noriko neutral "这对我有什么好处？" id talk_noriko_bab56ba2
 
 # game/scripts/story/talking/talk_noriko.rpy:39
 translate chinese_simplified talk_noriko_c78344cb:
 
     # player "...La satisfaction d'avoir aidé [yasuka.n]?" id talk_noriko_c78344cb
-    player "" id talk_noriko_c78344cb
+    player "…帮助yasuka.n的满足感？" id talk_noriko_c78344cb
 
 # game/scripts/story/talking/talk_noriko.rpy:40
 translate chinese_simplified talk_noriko_033a7dca:
 
     # noriko disgusted "Débrouille toi tout seul alors." id talk_noriko_033a7dca
-    noriko disgusted "" id talk_noriko_033a7dca
+    noriko disgusted "那就自己动手吧。" id talk_noriko_033a7dca
 
 # game/scripts/story/talking/talk_noriko.rpy:41
 translate chinese_simplified talk_noriko_970887f9:
 
     # noriko "Maman n'a pas besoins de toi, elle se debrouille tres bien toute seule." id talk_noriko_970887f9
-    noriko "" id talk_noriko_970887f9
+    noriko "妈妈不需要你，她一个人干得很好。" id talk_noriko_970887f9
 
 # game/scripts/story/talking/talk_noriko.rpy:42
 translate chinese_simplified talk_noriko_62ce77a5:
 
     # noriko "La preuve on a enfin de l'argent de poche." id talk_noriko_62ce77a5
-    noriko "" id talk_noriko_62ce77a5
+    noriko "我们终于拿到零用钱了。" id talk_noriko_62ce77a5
 
 # game/scripts/story/talking/talk_noriko.rpy:46
 translate chinese_simplified talk_noriko_2cc1d08a:
 
     # x "Je ne peux pas lui donner tort." id talk_noriko_2cc1d08a
-    x "" id talk_noriko_2cc1d08a
+    x "我不能让他错。" id talk_noriko_2cc1d08a
 
 # game/scripts/story/talking/talk_noriko.rpy:47
 translate chinese_simplified talk_noriko_bc29aa1c:
 
     # x "Mais je peux pas lui dire qu'il y a deux connard qui cherchent a me faire du mal en passant par [yasuka.n]." id talk_noriko_bc29aa1c
-    x "" id talk_noriko_bc29aa1c
+    x "但我不能告诉他有两个混蛋想通过yasuka.n伤害我。" id talk_noriko_bc29aa1c
 
 # game/scripts/story/talking/talk_noriko.rpy:48
 translate chinese_simplified talk_noriko_85dca400:
 
     # x "Qu'est ce que je pourrait lui promettre?" id talk_noriko_85dca400
-    x "" id talk_noriko_85dca400
+    x "我能向她保证什么？" id talk_noriko_85dca400
 
 # game/scripts/story/talking/talk_noriko.rpy:52
 translate chinese_simplified talk_noriko_1363899f:
 
     # player happy "Bon... voici ma proposition, la prochaine fois qu'elle nous donne de l'argent de poche, tout est pour toi." id talk_noriko_1363899f
-    player happy "" id talk_noriko_1363899f
+    player happy "好吧…这是我的建议，下次她给我们零用钱，都是给你的。" id talk_noriko_1363899f
 
 # game/scripts/story/talking/talk_noriko.rpy:53
 translate chinese_simplified talk_noriko_206b361c:
 
     # player "Alors?" id talk_noriko_206b361c
-    player "" id talk_noriko_206b361c
+    player "你觉得怎么样？" id talk_noriko_206b361c
 
 # game/scripts/story/talking/talk_noriko.rpy:54
 translate chinese_simplified talk_noriko_5bc1f7ae:
 
     # noriko neutral "...Okay" id talk_noriko_5bc1f7ae
-    noriko neutral "" id talk_noriko_5bc1f7ae
+    noriko neutral "可以" id talk_noriko_5bc1f7ae
 
 # game/scripts/story/talking/talk_noriko.rpy:55
 translate chinese_simplified talk_noriko_9cc7eb13:
 
     # player "Alors tu connais une boutique?" id talk_noriko_9cc7eb13
-    player "" id talk_noriko_9cc7eb13
+    player "你知道一家商店吗？" id talk_noriko_9cc7eb13
 
 # game/scripts/story/talking/talk_noriko.rpy:56
 translate chinese_simplified talk_noriko_6d4da199:
 
     # noriko happy "Oui a coté du Konbini!" id talk_noriko_6d4da199
-    noriko happy "" id talk_noriko_6d4da199
+    noriko happy "是的，在康比尼旁边！" id talk_noriko_6d4da199
 
 # game/scripts/story/talking/talk_noriko.rpy:57
 translate chinese_simplified talk_noriko_fceaf5df:
 
     # player surprised "Du konbini? Mais... il n'y a rien part..." id talk_noriko_fceaf5df
-    player surprised "" id talk_noriko_fceaf5df
+    player surprised "康比尼？但是…什么都没有。。。" id talk_noriko_fceaf5df
 
 # game/scripts/story/talking/talk_noriko.rpy:58
 translate chinese_simplified talk_noriko_e819b89d:
 
     # noriko bad "Des poubelles exactement!" id talk_noriko_e819b89d
-    noriko bad "" id talk_noriko_e819b89d
+    noriko bad "垃圾桶！" id talk_noriko_e819b89d
 
 # game/scripts/story/talking/talk_noriko.rpy:60
 translate chinese_simplified talk_noriko_236d552c:
 
     # noriko furious "Tu crois que j'ai oublié ce que tu m'as fais?" id talk_noriko_236d552c
-    noriko furious "" id talk_noriko_236d552c
+    noriko furious "你以为我忘了你对我做了什么？" id talk_noriko_236d552c
 
 # game/scripts/story/talking/talk_noriko.rpy:61
 translate chinese_simplified talk_noriko_88c1d780:
 
     # noriko "Dégage de ma chambre et débrouille toi!" id talk_noriko_88c1d780
-    noriko "" id talk_noriko_88c1d780
+    noriko "离开我的房间，自己动手！" id talk_noriko_88c1d780
 
 # game/scripts/story/talking/talk_noriko.rpy:63
 translate chinese_simplified talk_noriko_a6fb9f62:
 
     # noriko furious "Tu crois que tu peux m'acheter avec un peu d'argent de poche?" id talk_noriko_a6fb9f62
-    noriko furious "" id talk_noriko_a6fb9f62
+    noriko furious "你觉得你能用一点零用钱买我吗？" id talk_noriko_a6fb9f62
 
 # game/scripts/story/talking/talk_noriko.rpy:64
 translate chinese_simplified talk_noriko_7cd51e75:
 
     # noriko "DEGAGE DE MA CHAMBRE!" id talk_noriko_7cd51e75
-    noriko "" id talk_noriko_7cd51e75
+    noriko "离开我的房间！" id talk_noriko_7cd51e75
 
 translate chinese_simplified strings:
 
     # game/scripts/story/talking/talk_noriko.rpy:8
     old "Chercher une boutique en ville."
-    new ""
+    new "在城里找一家商店。"
 

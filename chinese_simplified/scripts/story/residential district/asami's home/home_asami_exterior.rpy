@@ -588,23 +588,23 @@ translate chinese_simplified strings:
 translate chinese_simplified home_asami_exterior_477ebad3:
 
     # nobu "TA COPINE POURRAS PAS TE PLANQUER NON PLUS!"
-    nobu ""
+    nobu "你女朋友也不能躲起来！"
 
 translate chinese_simplified strings:
 
     # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:31
     old "Rejoindre [natsume.n] au parc"
-    new ""
+    new "在公园加入[natsume.n]"
 
     # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:68
     old "Aller sonner chez [minato.n]"
-    new ""
+    new "去[Minato.n]敲门"
 
     # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:105
     old "Passez la journée avec [asami.n] dans votre chambre."
-    new ""
+    new "和[Asami.n]在你的房间里度过一天。"
 
     # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:172
     old "Attendre la surprise d'[asami.n] demain soir."
-    new ""
+    new "等到明晚的惊喜。"
 

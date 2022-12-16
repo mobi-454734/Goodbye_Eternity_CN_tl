@@ -412,37 +412,37 @@ translate chinese_simplified strings:
 
     # game/scripts/fondations/core/screens.rpy:221
     old "Un ou plusieurs choix sont indisponibles car aucun contenu n'est développé pour ces chemins."
-    new ""
+    new "一个或多个选项不可用，因为没有为这些路径开发内容。"
 
     # game/scripts/fondations/core/screens.rpy:742
     old "TRAILER"
-    new ""
+    new "拖车"
 
     # game/scripts/fondations/core/screens.rpy:1371
     old "Pour commencer le jeu depuis le début, où tout reste à faire. Cette option est fortement conseillée pour ceux qui découvrent l'histoire pour la première fois."
-    new ""
+    new "从一开始就开始比赛，在那里一切都要做。对于那些第一次发现历史的人来说，这是一个很好的选择。"
 
     # game/scripts/fondations/core/screens.rpy:1372
     old "Pour ceux qui sont familiers avec l'histoire et désirent jouer à la version du jeu la plus récente. Dans ce mode, vous pouvez choisir vos relations."
-    new ""
+    new "对于那些熟悉历史并希望玩最新版本游戏的人。在这种模式下，您可以选择您的关系。"
 
     # game/scripts/fondations/core/screens.rpy:1387
     old "FRESH START"
-    new ""
+    new "重新开始"
 
     # game/scripts/fondations/core/screens.rpy:1406
     old "VETERAN START"
-    new ""
+    new "老马识途"
 
     # game/scripts/fondations/core/screens.rpy:1474
     old "> CHOIX ROUTE"
-    new ""
+    new ">路线选择"
 
     # game/scripts/fondations/core/screens.rpy:1532
     old "COMMENCER"
-    new ""
+    new "开始吧"
 
     # game/scripts/fondations/core/screens.rpy:1541
     old "POUR COMMENCER À JOUER, VEUILLEZ SÉLECTIONNER VOS PRÉCÉDENTES RELATIONS."
-    new ""
+    new "要开始玩游戏，请选择您以前的关系。"
 

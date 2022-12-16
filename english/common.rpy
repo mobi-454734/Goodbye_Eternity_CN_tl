@@ -1172,11 +1172,11 @@ translate english strings:
 
     # renpy/common/00preferences.rpy:480
     old "renderer menu"
-    new ""
+    new "渲染器菜单"
 
     # renpy/common/00preferences.rpy:483
     old "accessibility menu"
-    new ""
+    new "辅助功能菜单"
 
 # TODO: Translation updated at 2022-01-24 11:01
 
@@ -1184,9 +1184,9 @@ translate english strings:
 
     # renpy/common/00accessibility.rpy:180
     old "High Contrast Text"
-    new ""
+    new "高对比度文本"
 
     # renpy/common/00preferences.rpy:493
     old "high contrast text"
-    new ""
+    new "高对比度文本"
 

@@ -4,7 +4,7 @@
 translate chinese_simplified start_a61e9fc3:
 
     # centered "Bienvenue sur Extra Life!\nAvant de vous plonger dans cet univers,\n Je dois vous apprendre deux ou trois choses..." id start_a61e9fc3
-    centered "欢迎来到 二次人生！\n在你进入这个宇宙之前，\n我必须告诉你几件事......" id start_a61e9fc3
+    centered "欢迎来到 永恒不再！\n在你进入这个宇宙之前，\n我必须告诉你几件事......" id start_a61e9fc3
 
 # game/scripts/fondations/core/script.rpy:386
 translate chinese_simplified start_9242ca13:

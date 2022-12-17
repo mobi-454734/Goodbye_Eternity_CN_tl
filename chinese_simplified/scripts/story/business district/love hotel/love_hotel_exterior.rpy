@@ -198,7 +198,7 @@ translate chinese_simplified love_hotel_exterior_a83d8eeb:
 translate chinese_simplified love_hotel_exterior_43843ac8:
 
     # centered "[player.n] se fit entrainer dans une ruelle sombre." id love_hotel_exterior_43843ac8
-    centered "[播放器.N]被拖到一条黑暗的小巷里。" id love_hotel_exterior_43843ac8
+    centered "[player.n]被拖到一条黑暗的小巷里。" id love_hotel_exterior_43843ac8
 
 # game/scripts/story/business district/love hotel/love_hotel_exterior.rpy:89
 translate chinese_simplified love_hotel_exterior_8beb1479:
@@ -360,7 +360,7 @@ translate chinese_simplified love_hotel_exterior_14e3e045:
 translate chinese_simplified love_hotel_exterior_ac7728e7:
 
     # sakuya "Bonsoir Mr.[ubs.n], la nuit est magnifique, vous ne trouvez pas?" id love_hotel_exterior_ac7728e7
-    sakuya "晚上好，瑞银先生，夜晚很美，你不觉得吗？" id love_hotel_exterior_ac7728e7
+    sakuya "晚上好，ubs.n先生，夜晚很美，你不觉得吗？" id love_hotel_exterior_ac7728e7
 
 # game/scripts/story/business district/love hotel/love_hotel_exterior.rpy:138
 translate chinese_simplified love_hotel_exterior_71424ba2:
@@ -408,7 +408,7 @@ translate chinese_simplified love_hotel_exterior_42bc640e:
 translate chinese_simplified love_hotel_exterior_555c56f1:
 
     # sakuya melancholic "Oh mais vous faites fausse route Mr.[ubs.n], je ne suis pas venue pour vous menacer." id love_hotel_exterior_555c56f1
-    sakuya melancholic "哦，但你错了，瑞银先生，我不是来威胁你的。" id love_hotel_exterior_555c56f1
+    sakuya melancholic "哦，但你错了，ubs.n先生，我不是来威胁你的。" id love_hotel_exterior_555c56f1
 
 # game/scripts/story/business district/love hotel/love_hotel_exterior.rpy:146
 translate chinese_simplified love_hotel_exterior_b4df7b91:
@@ -456,5 +456,5 @@ translate chinese_simplified strings:
 
     # game/scripts/story/business district/love hotel/love_hotel_exterior.rpy:32
     old "Retrouver [yasuka.n] avant que [ubs.n] ne réussisse son coup."
-    new "在[UBS.n]成功之前找到[yasuka.n]。"
+    new "在[ubs.n]成功之前找到[yasuka.n]。"
 

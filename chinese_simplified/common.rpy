@@ -940,43 +940,43 @@ translate chinese_simplified strings:
 
     # renpy/common/_errorhandling.rpym:557
     old "Copy BBCode"
-    new "复制 BBCode"
+    new "Copy BBCode"
 
     # renpy/common/_errorhandling.rpym:559
     old "Copies the traceback.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
-    new "将 traceback.txt 文件作为 BBcode 复制到剪贴板，用于 https://lemmasoft.renai.us/ 等论坛。"
+    new "Copies the traceback.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
 
     # renpy/common/_errorhandling.rpym:561
     old "Copy Markdown"
-    new "复制 Markdown"
+    new "Copy Markdown"
 
     # renpy/common/_errorhandling.rpym:563
     old "Copies the traceback.txt file to the clipboard as Markdown for Discord."
-    new "将 traceback.txt 文件作为 Discord 的 Markdown 复制到剪贴板。"
+    new "Copies the traceback.txt file to the clipboard as Markdown for Discord."
 
     # renpy/common/_errorhandling.rpym:592
     old "An exception has occurred."
-    new "发生了异常。"
+    new "An exception has occurred."
 
     # renpy/common/_errorhandling.rpym:615
     old "Rollback"
-    new "回滚"
+    new "Rollback"
 
     # renpy/common/_errorhandling.rpym:617
     old "Attempts a roll back to a prior time, allowing you to save or choose a different choice."
-    new "尝试回滚到以前的时间，允许您保存或选择不同的选择。"
+    new "Attempts a roll back to a prior time, allowing you to save or choose a different choice."
 
     # renpy/common/_errorhandling.rpym:620
     old "Ignore"
-    new "忽视"
+    new "Ignore"
 
     # renpy/common/_errorhandling.rpym:624
     old "Ignores the exception, allowing you to continue."
-    new "忽略异常，让您继续。"
+    new "Ignores the exception, allowing you to continue."
 
     # renpy/common/_errorhandling.rpym:626
     old "Ignores the exception, allowing you to continue. This often leads to additional errors."
-    new "忽略异常，让您继续。这通常会导致额外的错误。"
+    new "Ignores the exception, allowing you to continue. This often leads to additional errors."
 
     # renpy/common/_errorhandling.rpym:630
     old "Reload"

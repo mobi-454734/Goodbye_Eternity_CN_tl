@@ -794,7 +794,7 @@ translate chinese_simplified coffeebar_exterior_667c48f8:
 translate chinese_simplified coffeebar_exterior_d4f81b19:
 
     # centered "[player.n] lui raconta alors tous les derniers évenements." id coffeebar_exterior_d4f81b19
-    centered "[播放器.N]然后告诉他最近发生的一切。" id coffeebar_exterior_d4f81b19
+    centered "[player.n]然后告诉他最近发生的一切。" id coffeebar_exterior_d4f81b19
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:338
 translate chinese_simplified coffeebar_exterior_c4ea87c7:
@@ -830,7 +830,7 @@ translate chinese_simplified coffeebar_exterior_b9444519:
 translate chinese_simplified coffeebar_exterior_b15beab2:
 
     # player "Mais et [akira.n]?" id coffeebar_exterior_b15beab2
-    player "但是[Akira.n]呢？" id coffeebar_exterior_b15beab2
+    player "但是[akira.n]呢？" id coffeebar_exterior_b15beab2
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:344
 translate chinese_simplified coffeebar_exterior_b1c7288f:
@@ -932,7 +932,7 @@ translate chinese_simplified coffeebar_exterior_3b2b21f9:
 translate chinese_simplified coffeebar_exterior_1ad1aa52:
 
     # natsume happy "Mais quel pervers, tu veux qu'on se fasse un plan a 3 avec [asami.n]?" id coffeebar_exterior_1ad1aa52
-    natsume happy "你想让我们和朝日做个三人行吗？" id coffeebar_exterior_1ad1aa52
+    natsume happy "你想让我们和asami.n做个三人行吗？" id coffeebar_exterior_1ad1aa52
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:363
 translate chinese_simplified coffeebar_exterior_d1834a96:
@@ -1190,7 +1190,7 @@ translate chinese_simplified coffeebar_exterior_0307b665:
 translate chinese_simplified coffeebar_exterior_9210d93f:
 
     # x "Je dois avertir [yasuka.n] de faire attention a [akira.n]." id coffeebar_exterior_9210d93f
-    x "我必须警告[YASUKA.N]小心[AKIRA.N]。" id coffeebar_exterior_9210d93f
+    x "我必须警告[yasuka.n]小心[akira.n]。" id coffeebar_exterior_9210d93f
 
 translate chinese_simplified strings:
 
@@ -1224,5 +1224,5 @@ translate chinese_simplified strings:
 
     # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:441
     old "Retournez chez vous prévenir [yasuka.n] de faire tres attention a [akira.n]."
-    new "回到你的家里，警告[yasuka.n]要小心[AKIRA.N]。"
+    new "回到你的家里，警告[yasuka.n]要小心[akira.n]。"
 

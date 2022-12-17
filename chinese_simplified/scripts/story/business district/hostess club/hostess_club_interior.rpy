@@ -172,7 +172,7 @@ translate chinese_simplified hostess_club_interior_0e7ca8fc:
 translate chinese_simplified hostess_club_interior_61108a20:
 
     # player upset "Fais aussi attention a un homme assez corpulent, je crois qu'il s'appelle [ubs.n]." id hostess_club_interior_61108a20
-    player upset "你也要小心一个相当胖的人，我想他叫[瑞银]。" id hostess_club_interior_61108a20
+    player upset "你也要小心一个相当胖的人，我想他叫[ubs.n]。" id hostess_club_interior_61108a20
 
 # game/scripts/story/business district/hostess club/hostess_club_interior.rpy:55
 translate chinese_simplified hostess_club_interior_a74ee73a:

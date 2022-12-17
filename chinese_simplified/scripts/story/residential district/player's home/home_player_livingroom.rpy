@@ -3072,7 +3072,7 @@ translate chinese_simplified home_player_livingroom_ae2141db:
 translate chinese_simplified home_player_livingroom_47e22585:
 
     # yasuka sad "Par contre... Mr [ubs.n] s'est peut etre un peu trop amusé a le provoquer." id home_player_livingroom_47e22585
-    yasuka sad "另一方面，瑞银先生可能有点太兴奋了。" id home_player_livingroom_47e22585
+    yasuka sad "另一方面，ubs.n先生可能有点太兴奋了。" id home_player_livingroom_47e22585
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1093
 translate chinese_simplified home_player_livingroom_91e54d91:
@@ -3408,7 +3408,7 @@ translate chinese_simplified home_player_livingroom_7d03dbb5:
 translate chinese_simplified home_player_livingroom_f0f4a033:
 
     # x "S'il s'agit d'une drogue peut etre que [kimochi.n] en aura entendue parlé." id home_player_livingroom_f0f4a033
-    x "如果这是一种毒品，也许Kimochi.n.听说过。" id home_player_livingroom_f0f4a033
+    x "如果这是一种毒品，也许kimochi.n.听说过。" id home_player_livingroom_f0f4a033
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1196
 translate chinese_simplified home_player_livingroom_ff524161:
@@ -3512,7 +3512,7 @@ translate chinese_simplified strings:
 
     # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1133
     old "Aller voir [kimochi.n] avant la nuit."
-    new "天黑前去看看[Kimochi.n]。"
+    new "天黑前去看看[kimochi.n]。"
 
     # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1205
     old "Allez vous assurer que [yasuka.n] se porte bien."

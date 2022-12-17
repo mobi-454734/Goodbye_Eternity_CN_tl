@@ -386,7 +386,7 @@ translate chinese_simplified dojo_exterior_58ec0130:
 translate chinese_simplified dojo_exterior_806d4cb0:
 
     # akira "Monsieur [player.n] nous daigne enfin de sa présence." id dojo_exterior_806d4cb0
-    akira "[播放器N]先生终于屈尊让我们看到他了。" id dojo_exterior_806d4cb0
+    akira "[player.n]先生终于屈尊让我们看到他了。" id dojo_exterior_806d4cb0
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:192
 translate chinese_simplified dojo_exterior_33854b34:

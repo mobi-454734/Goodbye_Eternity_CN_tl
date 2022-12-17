@@ -226,7 +226,7 @@ translate chinese_simplified hostess_club_exterior_9d49b8be:
 translate chinese_simplified hostess_club_exterior_78d617a2:
 
     # x "[akira.n] c'est un cran au dessus." id hostess_club_exterior_78d617a2
-    x "[阿基拉.N]这是一个更高的级别。" id hostess_club_exterior_78d617a2
+    x "[akira.n]这是一个更高的级别。" id hostess_club_exterior_78d617a2
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:113
 translate chinese_simplified hostess_club_exterior_e31ccb95:
@@ -850,7 +850,7 @@ translate chinese_simplified hostess_club_exterior_8f31b552:
 translate chinese_simplified hostess_club_exterior_7d4c449e:
 
     # player "Je devrais pouvoir etre capable d'entrer sans probleme et garder un oeil sur [ubs.n] et [akira.n]." id hostess_club_exterior_7d4c449e
-    player "我应该能够安全地进入并密切关注[UBS.n]和[Akira.n]。" id hostess_club_exterior_7d4c449e
+    player "我应该能够安全地进入并密切关注[ubs.n]和[akira.n]。" id hostess_club_exterior_7d4c449e
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:318
 translate chinese_simplified hostess_club_exterior_d91219cb:
@@ -886,7 +886,7 @@ translate chinese_simplified hostess_club_exterior_ea424694:
 translate chinese_simplified hostess_club_exterior_2e81d78e:
 
     # player "[kimochi.n] aura peut être une suggestion ou deux." id hostess_club_exterior_2e81d78e
-    player "[Kimochi.n]可能有一两个建议。" id hostess_club_exterior_2e81d78e
+    player "[kimochi.n]可能有一两个建议。" id hostess_club_exterior_2e81d78e
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:345
 translate chinese_simplified hostess_club_exterior_8a556faa:
@@ -1324,7 +1324,7 @@ translate chinese_simplified hostess_club_exterior_de2f1126:
 translate chinese_simplified hostess_club_exterior_b05c6fc2:
 
     # akira "C'est terminé pour toi [player.n]!" id hostess_club_exterior_b05c6fc2
-    akira "你完了！" id hostess_club_exterior_b05c6fc2
+    akira "你完了！[player.n]" id hostess_club_exterior_b05c6fc2
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:485
 translate chinese_simplified hostess_club_exterior_39ff2b89:

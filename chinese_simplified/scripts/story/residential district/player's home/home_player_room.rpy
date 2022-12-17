@@ -5436,7 +5436,7 @@ translate chinese_simplified home_player_room_eafb4276:
 translate chinese_simplified home_player_room_fe08084b:
 
     # x "[kimochi.n] se fait traquer depuis longtemps aussi, a deux cerveau on arrivera surement à une solution." id home_player_room_fe08084b
-    x "[Kimochi.n]也被跟踪了很长一段时间，有了两个大脑，我们肯定会找到解决办法的。" id home_player_room_fe08084b
+    x "[kimochi.n]也被跟踪了很长一段时间，有了两个大脑，我们肯定会找到解决办法的。" id home_player_room_fe08084b
 
 # game/scripts/story/residential district/player's home/home_player_room.rpy:2130
 translate chinese_simplified home_player_room_26f9291f:
@@ -5752,11 +5752,11 @@ translate chinese_simplified strings:
 
     # game/scripts/story/residential district/player's home/home_player_room.rpy:381
     old "Se rendre chez [minato.n]."
-    new "去[米纳托.N]。"
+    new "去[minato.n]。"
 
     # game/scripts/story/residential district/player's home/home_player_room.rpy:397
     old "J'ai hâte retrouver [asami.n] cet après-midi."
-    new "我期待着今天下午再次见到朝日。"
+    new "我期待着今天下午再次见到asami.n。"
 
     # game/scripts/story/residential district/player's home/home_player_room.rpy:634
     old "Retrouver [asami.n] au parc l'après-midi"
@@ -5764,7 +5764,7 @@ translate chinese_simplified strings:
 
     # game/scripts/story/residential district/player's home/home_player_room.rpy:651
     old "Raccompagner [asami.n] chez elle."
-    new "送[朝日]回家。"
+    new "送[asami.n]回家。"
 
     # game/scripts/story/residential district/player's home/home_player_room.rpy:901
     old "Retourner chez [minato.n] pour mettre les choses au clair"
@@ -5772,15 +5772,15 @@ translate chinese_simplified strings:
 
     # game/scripts/story/residential district/player's home/home_player_room.rpy:916
     old "Aller voir [kimochi.n] à l'adresse indiquée"
-    new "在指定地址查看[Kimochi.n]"
+    new "在指定地址查看[kimochi.n]"
 
     # game/scripts/story/residential district/player's home/home_player_room.rpy:1133
     old "[asami.n]?"
-    new "[朝日新闻]？"
+    new "[asami.n新闻]？"
 
     # game/scripts/story/residential district/player's home/home_player_room.rpy:1298
     old "Aller voir [kimochi.n] pour établir un plan."
-    new "去[Kimochi.n]制定计划。"
+    new "去[kimochi.n]制定计划。"
 
     # game/scripts/story/residential district/player's home/home_player_room.rpy:1559
     old "Retrouver [asami.n] cette nuit dans votre chambre."
@@ -5804,7 +5804,7 @@ translate chinese_simplified strings:
 
     # game/scripts/story/residential district/player's home/home_player_room.rpy:2075
     old "Allez parler à [kimochi.n]"
-    new "去和[Kimochi.n]谈谈"
+    new "去和[kimochi.n]谈谈"
 
     # game/scripts/story/residential district/player's home/home_player_room.rpy:2104
     old "Aller parlez a [yasuka.n]"

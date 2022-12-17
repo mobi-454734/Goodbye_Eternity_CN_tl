@@ -136,7 +136,7 @@ translate chinese_simplified strings:
 
     # game/scripts/fondations/menu_backgrounds.rpy:1
     old "Maison de [kimochi.n]"
-    new "[Kimochi.n]的房子"
+    new "[kimochi.n]的房子"
 
     # game/scripts/fondations/menu_backgrounds.rpy:1
     old "Maison de [natsume.n]"

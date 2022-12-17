@@ -1014,7 +1014,7 @@ translate chinese_simplified restaurant_exterior_df49ab36:
 translate chinese_simplified restaurant_exterior_7e8870a8:
 
     # sakuya "[player.n]! Tu es enfin là!" id restaurant_exterior_7e8870a8
-    sakuya "[玩家.N]！你终于来了！" id restaurant_exterior_7e8870a8
+    sakuya "[player.n]！你终于来了！" id restaurant_exterior_7e8870a8
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:440
 translate chinese_simplified restaurant_exterior_33058b56:

@@ -1686,5 +1686,5 @@ translate chinese_simplified strings:
 
     # game/scripts/story/talking/talk_macumba.rpy:507
     old "Progresser dans l'histoire d'[asami.n] pour continuer l'histoire de [yasuka.n]"
-    new "在[朝日神社]的历史上前进，继续[yasuka.n]的历史"
+    new "在[asami.n神社]的历史上前进，继续[yasuka.n]的历史"
 

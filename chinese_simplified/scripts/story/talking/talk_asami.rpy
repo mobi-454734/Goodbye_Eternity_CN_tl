@@ -2464,7 +2464,7 @@ translate chinese_simplified strings:
 
     # game/scripts/story/talking/talk_asami.rpy:143
     old "Je dois me rendre chez [minato.n]"
-    new "我得去[米纳托.N]"
+    new "我得去[minato.n]"
 
     # game/scripts/story/talking/talk_asami.rpy:841
     old "Retrouver [asami.n] dans votre chambre"

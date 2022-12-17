@@ -2574,7 +2574,7 @@ translate chinese_simplified home_player_exterior_e66fe46a:
 translate chinese_simplified home_player_exterior_187dcb3b:
 
     # x "Si en plus [ubs.n] lui met des batons dans les roues il va se sentir acculé et cela risque de dégéner." id home_player_exterior_187dcb3b
-    x "如果瑞银（ubs.n.）再给他一根棍子，他会觉得自己被困住了，这可能会让他精疲力竭。" id home_player_exterior_187dcb3b
+    x "如果ubs.n（ubs.n.）再给他一根棍子，他会觉得自己被困住了，这可能会让他精疲力竭。" id home_player_exterior_187dcb3b
 
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:840
 translate chinese_simplified home_player_exterior_eb873746:

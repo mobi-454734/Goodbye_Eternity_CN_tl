@@ -46,7 +46,7 @@ translate chinese_simplified talk_thugs_e93f9ff2:
 translate chinese_simplified talk_thugs_6e1c27b4:
 
     # kenji mocking "Allez 1000¥ sur [player.n]." id talk_thugs_6e1c27b4
-    kenji mocking "转到[Player.n]上的¥1000。" id talk_thugs_6e1c27b4
+    kenji mocking "转到[player.n]上的¥1000。" id talk_thugs_6e1c27b4
 
 # game/scripts/story/talking/talk_thugs.rpy:24
 translate chinese_simplified talk_thugs_30c82081:
@@ -124,7 +124,7 @@ translate chinese_simplified talk_thugs_42c96a56:
 translate chinese_simplified talk_thugs_033c26c8:
 
     # nobu "Peut etre qu'on pourra récuperer quelques photos une fois qu'[akira.n] lui sera passé dessus?" id talk_thugs_033c26c8
-    nobu "也许我们可以在[Akira.n]拍完后再拍几张照片？" id talk_thugs_033c26c8
+    nobu "也许我们可以在[akira.n]拍完后再拍几张照片？" id talk_thugs_033c26c8
 
 # game/scripts/story/talking/talk_thugs.rpy:41
 translate chinese_simplified talk_thugs_0b3c5f49:

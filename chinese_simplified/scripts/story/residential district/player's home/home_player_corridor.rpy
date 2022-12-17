@@ -1782,5 +1782,5 @@ translate chinese_simplified strings:
 
     # game/scripts/story/residential district/player's home/home_player_corridor.rpy:535
     old "Rendez-vous a l'adresse indiquée par [kimochi.n]"
-    new "在[Kimochi.n]指定的地址会面"
+    new "在[kimochi.n]指定的地址会面"
 

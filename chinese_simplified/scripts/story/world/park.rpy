@@ -2924,7 +2924,7 @@ translate chinese_simplified strings:
 
     # game/scripts/story/world/park.rpy:533
     old "Rejoindre les appartements avant [kimochi.n]"
-    new "到达前面的公寓[Kimochi.n]"
+    new "到达前面的公寓[kimochi.n]"
 
     # game/scripts/story/world/park.rpy:680
     old "[asami.n] sera devant chez moi ce soir."
@@ -2932,5 +2932,5 @@ translate chinese_simplified strings:
 
     # game/scripts/story/world/park.rpy:917
     old "Rammener [asami.n] dans votre chambre"
-    new "把[朝日]带到你的房间"
+    new "把[asami.n]带到你的房间"
 

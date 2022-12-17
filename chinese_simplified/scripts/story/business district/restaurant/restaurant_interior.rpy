@@ -384,7 +384,7 @@ translate chinese_simplified restaurant_interior_809bcc0c:
 translate chinese_simplified restaurant_interior_5ef94b81:
 
     # player "C'est... [chef.n]..." id restaurant_interior_5ef94b81
-    player "最后…[厨师]。。。" id restaurant_interior_5ef94b81
+    player "最后…[chef.n]。。。" id restaurant_interior_5ef94b81
 
 # game/scripts/story/business district/restaurant/restaurant_interior.rpy:145
 translate chinese_simplified restaurant_interior_5bdd5f35:
@@ -414,7 +414,7 @@ translate chinese_simplified restaurant_interior_e93b342b:
 translate chinese_simplified restaurant_interior_9ccaad4d:
 
     # centered "[player.n] se sentant redevable il travailla deux fois plus que d'habitude, le chef remarqua ses effort avec un sourire au coin." id restaurant_interior_9ccaad4d
-    centered "[播放器.N]老板觉得自己欠了他两倍的工钱，于是微笑着注意到他的努力。" id restaurant_interior_9ccaad4d
+    centered "[player.n]老板觉得自己欠了他两倍的工钱，于是微笑着注意到他的努力。" id restaurant_interior_9ccaad4d
 
 # game/scripts/story/business district/restaurant/restaurant_interior.rpy:152
 translate chinese_simplified restaurant_interior_1bd9110e:

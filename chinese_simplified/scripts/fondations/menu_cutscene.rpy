@@ -164,7 +164,7 @@ translate chinese_simplified strings:
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Suivre l'histoire de [yasuka.n]"
-    new "跟随[YASUKA.N]"
+    new "跟随[yasuka.n]"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Attente orgasme"

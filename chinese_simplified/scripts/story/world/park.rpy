@@ -2920,7 +2920,7 @@ translate chinese_simplified strings:
 
     # game/scripts/story/world/park.rpy:514
     old "Allez confronter [minato.n]"
-    new "去面对[Minato.n]"
+    new "去面对[minato.n]"
 
     # game/scripts/story/world/park.rpy:533
     old "Rejoindre les appartements avant [kimochi.n]"

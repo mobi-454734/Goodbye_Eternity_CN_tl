@@ -1096,5 +1096,5 @@ translate chinese_simplified strings:
 
     # game/scripts/story/talking/talk_sakuya.rpy:64
     old "Je dois faire de [sakuya.n] une véritable star du X..."
-    new "我要让[Sakuya.n]成为一个真正的X星。。。"
+    new "我要让[sakuya.n]成为一个真正的X星。。。"
 

@@ -106,7 +106,7 @@ translate chinese_simplified yasuka_wake_up_saito_bfd37731:
 translate chinese_simplified yasuka_wake_up_saito_9b1e7057:
 
     # centered "[player.n] raccompagna [yasuka.n] jusqu'a sa chambre, elle se laissa faire." id yasuka_wake_up_saito_9b1e7057
-    centered "[播放器]" id yasuka_wake_up_saito_9b1e7057
+    centered "[player.n]raccompagna [yasuka.n]" id yasuka_wake_up_saito_9b1e7057
 
 # game/scripts/story/events/yasuka/yasuka_wake_up_saito.rpy:36
 translate chinese_simplified yasuka_wake_up_saito_863d32ba:

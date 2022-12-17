@@ -550,7 +550,7 @@ translate chinese_simplified love_hotel_reception_767dad0e:
 translate chinese_simplified love_hotel_reception_469ad42a:
 
     # centered "[yasuka.n] ne perdit pas une seconde et sauta sur [player.n] a peine venait il de se désabiller." id love_hotel_reception_469ad42a
-    centered "[yasuka.n]没有浪费一秒钟，就在[播放器]刚刚崩溃的时候跳了起来。" id love_hotel_reception_469ad42a
+    centered "[yasuka.n]没有浪费一秒钟，就在[player.n]刚刚崩溃的时候跳了起来。" id love_hotel_reception_469ad42a
 
 # game/scripts/story/business district/love hotel/love_hotel_reception.rpy:163
 translate chinese_simplified love_hotel_reception_d7633528:

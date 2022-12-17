@@ -1682,7 +1682,7 @@ translate chinese_simplified kimochi_password_5b7eb67b:
 translate chinese_simplified kimochi_password_4889e3e6:
 
     # player upset "Des choses en liant avec les thugs, [akira.n], [minato.n] ou encore [ubs.n]." id kimochi_password_4889e3e6
-    player upset "与大拇指[akira.n]、[Minato.n]或[ubs.n]有关的事情。" id kimochi_password_4889e3e6
+    player upset "与大拇指[akira.n]、[minato.n]或[ubs.n]有关的事情。" id kimochi_password_4889e3e6
 
 # game/scripts/story/talking/talk_kimochi.rpy:449
 translate chinese_simplified kimochi_password_c328f61a:
@@ -1814,7 +1814,7 @@ translate chinese_simplified kimochi_password_affa43e6:
 translate chinese_simplified kimochi_password_9b320ce0:
 
     # player "[akira.n] et [minato.n] se sont vu et il semble qu'[akira.n] ai obtenu quelque chose de cet entretien." id kimochi_password_9b320ce0
-    player "[akira.n]和[Minato.n]见过面，似乎[akira.n]从这次采访中得到了一些东西。" id kimochi_password_9b320ce0
+    player "[akira.n]和[minato.n]见过面，似乎[akira.n]从这次采访中得到了一些东西。" id kimochi_password_9b320ce0
 
 # game/scripts/story/talking/talk_kimochi.rpy:471
 translate chinese_simplified kimochi_password_046c780b:

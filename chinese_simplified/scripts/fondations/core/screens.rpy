@@ -296,7 +296,7 @@ translate chinese_simplified strings:
 
     # game/scripts/fondations/core/screens.rpy:1847
     old "Bouton R1\nA/Bouton du bas"
-    new "R1键\nA/下按钮"
+    new "Bouton R1\nA/Bouton du bas"
 
     # game/scripts/fondations/core/screens.rpy:1851
     old "Left Trigger\nLeft Shoulder"

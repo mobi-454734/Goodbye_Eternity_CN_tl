@@ -1024,7 +1024,7 @@ translate chinese_simplified hostess_club_exterior_80fb5fb4:
 translate chinese_simplified hostess_club_exterior_edc57061:
 
     # takeo disgusted "[kenji.n] c'est fait littéralement défoncé dans une ruelle, on a rien pu faire..." id hostess_club_exterior_edc57061
-    takeo disgusted "[健二]" id hostess_club_exterior_edc57061
+    takeo disgusted "[kenji.n]" id hostess_club_exterior_edc57061
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:376
 translate chinese_simplified hostess_club_exterior_543555fe:

@@ -1778,7 +1778,7 @@ translate chinese_simplified strings:
 
     # game/scripts/story/residential district/player's home/home_player_corridor.rpy:404
     old "Allons chez [minato.n] histoire d'en apprendre plus sur sa copine"
-    new "我们去[Minato.n]了解他的女朋友吧"
+    new "我们去[minato.n]了解他的女朋友吧"
 
     # game/scripts/story/residential district/player's home/home_player_corridor.rpy:535
     old "Rendez-vous a l'adresse indiquée par [kimochi.n]"

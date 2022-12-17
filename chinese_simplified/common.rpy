@@ -1064,11 +1064,11 @@ translate chinese_simplified strings:
 
     # renpy/common/_developer/developer.rpym:90
     old "[name] [attributes] (hidden)"
-    new "[名称][属性]（隐藏）"
+    new "[name] [attributes]（隐藏）"
 
     # renpy/common/_developer/developer.rpym:94
     old "[name] [attributes]"
-    new "[名称][属性]"
+    new "[name] [attributes]"
 
     # renpy/common/_developer/developer.rpym:143
     old "Nothing to inspect."

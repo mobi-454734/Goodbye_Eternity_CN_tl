@@ -598,7 +598,7 @@ translate chinese_simplified strings:
 
     # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:68
     old "Aller sonner chez [minato.n]"
-    new "去[Minato.n]敲门"
+    new "去[minato.n]敲门"
 
     # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:105
     old "Passez la journée avec [asami.n] dans votre chambre."

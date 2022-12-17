@@ -5776,7 +5776,7 @@ translate chinese_simplified strings:
 
     # game/scripts/story/residential district/player's home/home_player_room.rpy:1133
     old "[asami.n]?"
-    new "[asami.n新闻]？"
+    new "[asami.n]？"
 
     # game/scripts/story/residential district/player's home/home_player_room.rpy:1298
     old "Aller voir [kimochi.n] pour établir un plan."

@@ -512,7 +512,7 @@ translate chinese_simplified strings:
 
     # game/scripts/story/residential district/player's home/home_player_hallway.rpy:36
     old "Vous avez provoqué [noriko.n] au lieu de l'éviter, restez sur vos gardes!"
-    new "你激怒了[Noriko.n]而不是避开它，所以要小心！"
+    new "你激怒了[noriko.n]而不是避开它，所以要小心！"
 
     # game/scripts/story/residential district/player's home/home_player_hallway.rpy:87
     old "Dans tes rêves [noriko.n]!"

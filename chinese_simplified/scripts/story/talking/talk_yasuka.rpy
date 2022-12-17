@@ -2068,7 +2068,7 @@ translate chinese_simplified strings:
 
     # game/scripts/story/talking/talk_yasuka.rpy:96
     old "Aller récupérer votre baladeur CD dans la chambre de [noriko.n]!"
-    new "去[Noriko.n]的房间拿你的CD播放器！"
+    new "去[noriko.n]的房间拿你的CD播放器！"
 
     # game/scripts/story/talking/talk_yasuka.rpy:125
     old "Attendre le retour [yasuka.n] à la maison."
@@ -2076,7 +2076,7 @@ translate chinese_simplified strings:
 
     # game/scripts/story/talking/talk_yasuka.rpy:170
     old "Vous avez donné 300¥ à [yasuka.n]"
-    new "你给了[Yasuka.n]300日元"
+    new "你给了[yasuka.n]300日元"
 
     # game/scripts/story/talking/talk_yasuka.rpy:261
     old "fils"
@@ -2092,5 +2092,5 @@ translate chinese_simplified strings:
 
     # game/scripts/story/talking/talk_yasuka.rpy:668
     old "Raccompagner [yasuka.n] en sécurité à la maison."
-    new "安全地送[Yasuka.n]回家。"
+    new "安全地送[yasuka.n]回家。"
 

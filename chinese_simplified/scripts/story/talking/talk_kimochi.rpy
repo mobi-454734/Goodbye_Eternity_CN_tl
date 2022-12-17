@@ -1940,7 +1940,7 @@ translate chinese_simplified strings:
 
     # game/scripts/story/talking/talk_kimochi.rpy:8
     old "[asami.n] sera probablement au parc l'après-midi."
-    new "[Asami.n]下午可能在公园。"
+    new "[asami.n]下午可能在公园。"
 
     # game/scripts/story/talking/talk_kimochi.rpy:271
     old "Retrouver [kimochi.n] au coffee bar."

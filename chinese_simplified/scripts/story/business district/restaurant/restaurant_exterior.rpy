@@ -1328,11 +1328,11 @@ translate chinese_simplified strings:
 
     # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:392
     old "Demandez des explications à [noriko.n]"
-    new "向[Noriko.n]寻求解释"
+    new "向[noriko.n]寻求解释"
 
     # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:401
     old "Rentrez à la maison, [yasuka.n] attend votre retour."
-    new "回家吧，[Yasuka.n]等你回来。"
+    new "回家吧，[yasuka.n]等你回来。"
 
     # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:498
     old "Aller au bar a hostess la nuit."

@@ -2740,7 +2740,7 @@ translate chinese_simplified strings:
 
     # game/scripts/story/residential district/player's home/home_player_exterior.rpy:587
     old "Remplacer [yasuka.n] à la boutique."
-    new "在商店更换[Yasuka.n]。"
+    new "在商店更换[yasuka.n]。"
 
     # game/scripts/story/residential district/player's home/home_player_exterior.rpy:675
     old "Annoncer a [yasuka.n] toutes les bonnes nouvelles."
@@ -2756,5 +2756,5 @@ translate chinese_simplified strings:
 
     # game/scripts/story/residential district/player's home/home_player_exterior.rpy:827
     old "Aller parler à [noriko.n] dans sa chambre."
-    new "去他的房间和[Noriko.n]谈谈。"
+    new "去他的房间和[noriko.n]谈谈。"
 

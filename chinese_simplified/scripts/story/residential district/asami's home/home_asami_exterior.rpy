@@ -602,7 +602,7 @@ translate chinese_simplified strings:
 
     # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:105
     old "Passez la journée avec [asami.n] dans votre chambre."
-    new "和[Asami.n]在你的房间里度过一天。"
+    new "和[asami.n]在你的房间里度过一天。"
 
     # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:172
     old "Attendre la surprise d'[asami.n] demain soir."

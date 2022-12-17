@@ -108,15 +108,15 @@ translate chinese_simplified strings:
 
     # game/scripts/fondations/menu_cg.rpy:5
     old "Faire chanter [noriko.n]"
-    new "勒索[Noriko.n]"
+    new "勒索[noriko.n]"
 
     # game/scripts/fondations/menu_cg.rpy:5
     old "Choisir de dominer [noriko.n]"
-    new "选择统治[Noriko.n]"
+    new "选择统治[noriko.n]"
 
     # game/scripts/fondations/menu_cg.rpy:5
     old "Se faire dominer par [noriko.n]"
-    new "被[Noriko.n]统治"
+    new "被[noriko.n]统治"
 
     # game/scripts/fondations/menu_cg.rpy:5
     old "Atteindre 6 en Endurance avec [macumba.n]"

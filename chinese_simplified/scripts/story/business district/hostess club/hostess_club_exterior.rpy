@@ -142,7 +142,7 @@ translate chinese_simplified hostess_club_exterior_fe28853d:
 translate chinese_simplified hostess_club_exterior_b8eecc6b:
 
     # nobu "La femme qui était avec lui, c'était pas une pute, c'était [yasuka.n]!" id hostess_club_exterior_b8eecc6b
-    nobu "和他在一起的那个女人不是妓女，她是（Yasuka.n.）！" id hostess_club_exterior_b8eecc6b
+    nobu "和他在一起的那个女人不是妓女，她是（yasuka.n.）！" id hostess_club_exterior_b8eecc6b
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:79
 translate chinese_simplified hostess_club_exterior_d6c7a327:

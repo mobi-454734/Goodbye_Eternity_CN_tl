@@ -3452,7 +3452,7 @@ translate chinese_simplified strings:
 
     # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:409
     old "Fouiller la chambre de [noriko.n]  et retrouver le lecteur MP3."
-    new "搜查[Noriko.n]的房间，找到MP3播放器。"
+    new "搜查[noriko.n]的房间，找到MP3播放器。"
 
     # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:511
     old "Demander de l'aide a [macumba.n]"
@@ -3476,7 +3476,7 @@ translate chinese_simplified strings:
 
     # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:961
     old "Accompagner [yasuka.n] au bar à hotesse."
-    new "陪同[Yasuka.n]去酒店的酒吧。"
+    new "陪同[yasuka.n]去酒店的酒吧。"
 
     # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:972
     old "Tu es magnifique"

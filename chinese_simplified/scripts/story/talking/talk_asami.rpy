@@ -789,8 +789,8 @@ translate chinese_simplified talk_asami_8af6b064:
 # game/scripts/story/talking/talk_asami.rpy:253
 translate chinese_simplified asami_choice_a135d1bb:
 
-    # "DEV : Cette voie où vous rejetez Asami sera développée plus tard." id asami_choice_a135d1bb
-    "提示：拒绝 Asami 的这条路线将在以后开发。" id asami_choice_a135d1bb
+    # "DEV : Cette voie où vous rejetez asami sera développée plus tard." id asami_choice_a135d1bb
+    "提示：拒绝 asami 的这条路线将在以后开发。" id asami_choice_a135d1bb
 
 # game/scripts/story/talking/talk_asami.rpy:254
 translate chinese_simplified asami_choice_dba08575:
@@ -2468,5 +2468,5 @@ translate chinese_simplified strings:
 
     # game/scripts/story/talking/talk_asami.rpy:841
     old "Retrouver [asami.n] dans votre chambre"
-    new "在你的房间里找到[Asami.n]"
+    new "在你的房间里找到[asami.n]"
 

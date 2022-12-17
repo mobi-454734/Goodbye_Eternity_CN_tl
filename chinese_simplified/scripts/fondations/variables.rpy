@@ -7,7 +7,7 @@ translate chinese_simplified strings:
     new "明"
 
     # game/scripts/fondations/variables.rpy:188
-    old "Asami"
+    old "asami"
     new "麻美"
 
     # game/scripts/fondations/variables.rpy:188
@@ -43,7 +43,7 @@ translate chinese_simplified strings:
     new "信夫"
 
     # game/scripts/fondations/variables.rpy:188
-    old "Noriko"
+    old "noriko"
     new "纪子"
 
     # game/scripts/fondations/variables.rpy:188
@@ -63,7 +63,7 @@ translate chinese_simplified strings:
     new "王叔叔"
 
     # game/scripts/fondations/variables.rpy:188
-    old "Yasuka"
+    old "yasuka"
     new "安香"
 
     # game/scripts/fondations/variables.rpy:188

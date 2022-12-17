@@ -1766,7 +1766,7 @@ translate chinese_simplified strings:
 
     # game/scripts/story/residential district/player's home/home_player_corridor.rpy:103
     old "Continuer d'ignorer [noriko.n]!"
-    new "继续忽略[Noriko.n]！"
+    new "继续忽略[noriko.n]！"
 
     # game/scripts/story/residential district/player's home/home_player_corridor.rpy:197
     old "Retournez au {color=#ff0}{b}parc{/b}{/color} voir si [macumba.n] est encore là."

@@ -456,5 +456,5 @@ translate chinese_simplified strings:
 
     # game/scripts/story/business district/love hotel/love_hotel_exterior.rpy:32
     old "Retrouver [yasuka.n] avant que [ubs.n] ne réussisse son coup."
-    new "在[UBS.n]成功之前找到[Yasuka.n]。"
+    new "在[UBS.n]成功之前找到[yasuka.n]。"
 

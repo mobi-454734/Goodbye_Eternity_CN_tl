@@ -512,7 +512,7 @@ translate chinese_simplified dojo_exterior_ba0fbb3f:
 translate chinese_simplified dojo_exterior_f43de213:
 
     # x "Maintenant que j'y pense est ce que c'est lui s'est débarassé de [noriko.n] dans ma précédente vie?" id dojo_exterior_f43de213
-    x "现在我想起来了，是他在我以前的生活中把自己从[Noriko.n]中抹去了吗？" id dojo_exterior_f43de213
+    x "现在我想起来了，是他在我以前的生活中把自己从[noriko.n]中抹去了吗？" id dojo_exterior_f43de213
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:220
 translate chinese_simplified dojo_exterior_86158feb:

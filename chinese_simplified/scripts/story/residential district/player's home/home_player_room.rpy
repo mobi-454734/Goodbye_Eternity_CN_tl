@@ -5744,7 +5744,7 @@ translate chinese_simplified strings:
 
     # game/scripts/story/residential district/player's home/home_player_room.rpy:182
     old "Demandez des explications à [noriko.n]."
-    new "请向[Noriko.n]寻求解释。"
+    new "请向[noriko.n]寻求解释。"
 
     # game/scripts/story/residential district/player's home/home_player_room.rpy:241
     old "[macumba.n] doit m'attendre pour mon premier jour d'entrainement."
@@ -5760,7 +5760,7 @@ translate chinese_simplified strings:
 
     # game/scripts/story/residential district/player's home/home_player_room.rpy:634
     old "Retrouver [asami.n] au parc l'après-midi"
-    new "下午在公园见[Asami.n]"
+    new "下午在公园见[asami.n]"
 
     # game/scripts/story/residential district/player's home/home_player_room.rpy:651
     old "Raccompagner [asami.n] chez elle."
@@ -5788,7 +5788,7 @@ translate chinese_simplified strings:
 
     # game/scripts/story/residential district/player's home/home_player_room.rpy:1801
     old "Prendre des nouvelles de [yasuka.n]"
-    new "从[Yasuka.n]获取消息"
+    new "从[yasuka.n]获取消息"
 
     # game/scripts/story/residential district/player's home/home_player_room.rpy:1810
     old "Annoncer à [ubs.n] que [yasuka.n] ne reviendra plus."

@@ -1518,7 +1518,7 @@ translate chinese_simplified strings:
 translate chinese_simplified talk_macumba_79d64d6a:
 
     # player "Hey, salut [macumba.n]!" id talk_macumba_79d64d6a
-    player "嘿，嘿[Macumba.n]！" id talk_macumba_79d64d6a
+    player "嘿，嘿[macumba.n]！" id talk_macumba_79d64d6a
 
 # game/scripts/story/talking/talk_macumba.rpy:13
 translate chinese_simplified talk_macumba_b85a1cff:
@@ -1674,11 +1674,11 @@ translate chinese_simplified strings:
 
     # game/scripts/story/talking/talk_macumba.rpy:72
     old "Et si je donnais mon vieux lecteur CD à [macumba.n] en échange d'un coaching ?"
-    new "如果我把我的旧CD播放器给[Macumba.n]作为指导呢？"
+    new "如果我把我的旧CD播放器给[macumba.n]作为指导呢？"
 
     # game/scripts/story/talking/talk_macumba.rpy:153
     old "Faire ces preuves auprès de [macumba.n]"
-    new "向[Macumba.n]证明这一点"
+    new "向[macumba.n]证明这一点"
 
     # game/scripts/story/talking/talk_macumba.rpy:417
     old "Allez chercher [asami.n] chez elle."

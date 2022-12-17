@@ -566,5 +566,5 @@ translate chinese_simplified strings:
 
     # game/scripts/story/talking/talk_minato.rpy:161
     old "Elle en saura peut être plus sur le nouveau comportement de [minato.n]"
-    new "她可能会对[米纳托·N]的新行为有更多的了解。"
+    new "她可能会对[minato.n]的新行为有更多的了解。"
 

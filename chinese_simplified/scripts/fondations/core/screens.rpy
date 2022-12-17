@@ -416,7 +416,7 @@ translate chinese_simplified strings:
 
     # game/scripts/fondations/core/screens.rpy:742
     old "TRAILER"
-    new "拖车"
+    new "片头"
 
     # game/scripts/fondations/core/screens.rpy:1371
     old "Pour commencer le jeu depuis le début, où tout reste à faire. Cette option est fortement conseillée pour ceux qui découvrent l'histoire pour la première fois."

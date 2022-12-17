@@ -3456,7 +3456,7 @@ translate chinese_simplified strings:
 
     # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:511
     old "Demander de l'aide a [macumba.n]"
-    new "向[Macumba.n]寻求帮助"
+    new "向[macumba.n]寻求帮助"
 
     # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:665
     old "Retrouver [yasuka.n]."

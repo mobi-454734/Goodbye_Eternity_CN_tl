@@ -1322,7 +1322,7 @@ translate chinese_simplified kimochi_password_aa9a0ee2:
 translate chinese_simplified kimochi_password_c55d7390:
 
     # kimochi "[ubs.n]? Curieux c'est pas son genre pourtant de se meler de ce genre de trucs." id kimochi_password_c55d7390
-    kimochi "[UBS.N]？奇怪的是，他不是那种喜欢和这种事混在一起的人。" id kimochi_password_c55d7390
+    kimochi "[ubs.n]？奇怪的是，他不是那种喜欢和这种事混在一起的人。" id kimochi_password_c55d7390
 
 # game/scripts/story/talking/talk_kimochi.rpy:362
 translate chinese_simplified kimochi_password_fedd064f:
@@ -1532,7 +1532,7 @@ translate chinese_simplified kimochi_password_15b9d1b4:
 translate chinese_simplified kimochi_password_dc3d8d90:
 
     # player neutral "[akira.n]?" id kimochi_password_dc3d8d90
-    player neutral "[阿基拉·N]？" id kimochi_password_dc3d8d90
+    player neutral "[akira.n]？" id kimochi_password_dc3d8d90
 
 # game/scripts/story/talking/talk_kimochi.rpy:412
 translate chinese_simplified kimochi_password_636a1b17:
@@ -1562,7 +1562,7 @@ translate chinese_simplified kimochi_password_fe51649b:
 translate chinese_simplified kimochi_password_fe826546:
 
     # player surprised "Tu penses a qui dans ce cas? [minato.n]?" id kimochi_password_fe826546
-    player surprised "你在想谁？[米纳托·N]？" id kimochi_password_fe826546
+    player surprised "你在想谁？[minato.n]？" id kimochi_password_fe826546
 
 # game/scripts/story/talking/talk_kimochi.rpy:417
 translate chinese_simplified kimochi_password_07d810a8:
@@ -1820,7 +1820,7 @@ translate chinese_simplified kimochi_password_9b320ce0:
 translate chinese_simplified kimochi_password_046c780b:
 
     # player surprised "Oh j'oubliais... et [ubs.n]." id kimochi_password_046c780b
-    player surprised "哦，我忘了…还有[UBS.N]。" id kimochi_password_046c780b
+    player surprised "哦，我忘了…还有[ubs.n]。" id kimochi_password_046c780b
 
 # game/scripts/story/talking/talk_kimochi.rpy:472
 translate chinese_simplified kimochi_password_97c98d3c:
@@ -1948,7 +1948,7 @@ translate chinese_simplified strings:
 
     # game/scripts/story/talking/talk_kimochi.rpy:325
     old "Demander une copie de l'enregistrement à [ubs.n]."
-    new "向[UBS.N]索取记录副本。"
+    new "向[ubs.n]索取记录副本。"
 
     # game/scripts/story/talking/talk_kimochi.rpy:433
     old "Apporter la clef USB a [macumba.n] au bar a hotesse"

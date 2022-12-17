@@ -2064,7 +2064,7 @@ translate chinese_simplified strings:
 
     # game/scripts/story/talking/talk_yasuka.rpy:70
     old "Récupérer le baladeur CD et foncer voir [macumba.n]."
-    new "拿着CD播放器，去看看[Macumba.n]。"
+    new "拿着CD播放器，去看看[macumba.n]。"
 
     # game/scripts/story/talking/talk_yasuka.rpy:96
     old "Aller récupérer votre baladeur CD dans la chambre de [noriko.n]!"

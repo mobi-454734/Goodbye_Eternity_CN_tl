@@ -2244,13 +2244,13 @@ translate chinese_simplified home_player_exterior_e7378638:
 translate chinese_simplified home_player_exterior_71599891:
 
     # player "Rester loin de tout ce qui peut être lié de près ou de loin a [minato.n]?" id home_player_exterior_71599891
-    player "远离任何可能与[米纳托·N]有密切或遥远联系的东西？" id home_player_exterior_71599891
+    player "远离任何可能与[minato.n]有密切或遥远联系的东西？" id home_player_exterior_71599891
 
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:569
 translate chinese_simplified home_player_exterior_dc956414:
 
     # natsume "[minato.n] a très mal digéré la petite provoque de ta nouvelle copine." id home_player_exterior_dc956414
-    natsume "[米纳托·N]把你新女友的小挑逗搞得一团糟。" id home_player_exterior_dc956414
+    natsume "[minato.n]把你新女友的小挑逗搞得一团糟。" id home_player_exterior_dc956414
 
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:727
 translate chinese_simplified home_player_exterior_3b8d648a:
@@ -2514,7 +2514,7 @@ translate chinese_simplified home_player_exterior_a0a9bb57:
 translate chinese_simplified home_player_exterior_d2c219ef:
 
     # x "[macumba.n] avais raisons, l'entrainement est important." id home_player_exterior_d2c219ef
-    x "[Macumba.n]是对的，训练很重要。" id home_player_exterior_d2c219ef
+    x "[macumba.n]是对的，训练很重要。" id home_player_exterior_d2c219ef
 
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:817
 translate chinese_simplified home_player_exterior_36189fc5:
@@ -2550,7 +2550,7 @@ translate chinese_simplified home_player_exterior_ded61bd0:
 translate chinese_simplified home_player_exterior_fb8fe95a:
 
     # x "Uniquement par peur de [ubs.n] et son enregistrement qu'il pretend ne pas avoir." id home_player_exterior_fb8fe95a
-    x "只是因为害怕[UBS.N]和他声称没有的录音。" id home_player_exterior_fb8fe95a
+    x "只是因为害怕[ubs.n]和他声称没有的录音。" id home_player_exterior_fb8fe95a
 
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:836
 translate chinese_simplified home_player_exterior_2028f6a7:
@@ -2580,7 +2580,7 @@ translate chinese_simplified home_player_exterior_187dcb3b:
 translate chinese_simplified home_player_exterior_eb873746:
 
     # x "Maintenant que j'y pense il me semble [akira.n] avait quelques connection avec des gens assez louches." id home_player_exterior_eb873746
-    x "现在我想起来了，在我看来[阿基拉·N]和一些相当可疑的人有一些联系。" id home_player_exterior_eb873746
+    x "现在我想起来了，在我看来[akira.n]和一些相当可疑的人有一些联系。" id home_player_exterior_eb873746
 
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:841
 translate chinese_simplified home_player_exterior_f4fb7967:
@@ -2706,7 +2706,7 @@ translate chinese_simplified home_player_exterior_25cc47ab:
 translate chinese_simplified home_player_exterior_eba649eb:
 
     # player sad "Non! Cela n'a rien a voir, c'était a cause de la mort de [noriko.n]!" id home_player_exterior_eba649eb
-    player sad "不，我没有。这不是因为[诺里科·N]的死！" id home_player_exterior_eba649eb
+    player sad "不，我没有。这不是因为[noriko.n]的死！" id home_player_exterior_eba649eb
 
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:876
 translate chinese_simplified home_player_exterior_985f236a:
@@ -2728,15 +2728,15 @@ translate chinese_simplified strings:
 
     # game/scripts/story/residential district/player's home/home_player_exterior.rpy:212
     old "Il faut que j'en parle à [minato.n] tout ça n'est pas normal."
-    new "我得和[米纳托·N]谈谈这一切都不正常。"
+    new "我得和[minato.n]谈谈这一切都不正常。"
 
     # game/scripts/story/residential district/player's home/home_player_exterior.rpy:332
     old "Il faut que je trouve la petite amie de [minato.n]."
-    new "我要找到[米纳托·N]的女朋友。"
+    new "我要找到[minato.n]的女朋友。"
 
     # game/scripts/story/residential district/player's home/home_player_exterior.rpy:391
     old "[macumba.n] pourra peut-être me venir en aide."
-    new "也许我能帮上忙。"
+    new "也许[macumba.n]能帮上忙。"
 
     # game/scripts/story/residential district/player's home/home_player_exterior.rpy:587
     old "Remplacer [yasuka.n] à la boutique."

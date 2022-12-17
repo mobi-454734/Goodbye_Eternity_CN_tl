@@ -5768,7 +5768,7 @@ translate chinese_simplified strings:
 
     # game/scripts/story/residential district/player's home/home_player_room.rpy:901
     old "Retourner chez [minato.n] pour mettre les choses au clair"
-    new "回到[米纳托·N]把事情弄清楚"
+    new "回到[minato.n]把事情弄清楚"
 
     # game/scripts/story/residential district/player's home/home_player_room.rpy:916
     old "Aller voir [kimochi.n] à l'adresse indiquée"

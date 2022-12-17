@@ -190,7 +190,7 @@ translate chinese_simplified hostess_club_interior_ade985dd:
 translate chinese_simplified hostess_club_interior_89f2437c:
 
     # player "Merci [macumba.n]." id hostess_club_interior_89f2437c
-    player "谢谢你[Macumba.n]。" id hostess_club_interior_89f2437c
+    player "谢谢你[macumba.n]。" id hostess_club_interior_89f2437c
 
 # game/scripts/story/business district/hostess club/hostess_club_interior.rpy:58
 translate chinese_simplified hostess_club_interior_84d6ffed:

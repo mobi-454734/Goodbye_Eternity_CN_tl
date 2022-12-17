@@ -478,7 +478,7 @@ translate chinese_simplified love_hotel_reception_087ff8b7:
 translate chinese_simplified love_hotel_reception_b4c36164:
 
     # yasuka "Je t'aimais depuis déja bien longtemps, mais par peur du regard des autres, par peur de la réaction de [noriko.n]..." id love_hotel_reception_b4c36164
-    yasuka "我爱你很久了，但我害怕别人的眼睛，害怕[诺里科·N]的反应。。。" id love_hotel_reception_b4c36164
+    yasuka "我爱你很久了，但我害怕别人的眼睛，害怕[noriko.n]的反应。。。" id love_hotel_reception_b4c36164
 
 # game/scripts/story/business district/love hotel/love_hotel_reception.rpy:138
 translate chinese_simplified love_hotel_reception_d58a41bd:

@@ -2724,27 +2724,27 @@ translate chinese_simplified strings:
 
     # game/scripts/story/residential district/player's home/home_player_exterior.rpy:208
     old "Je dois gagner sa confiance [chiaki.n] est encore trop effrayée par moi."
-    new ""
+    new "我必须赢得他的信任[chiaki.n]还是太害怕我了。"
 
     # game/scripts/story/residential district/player's home/home_player_exterior.rpy:212
     old "Il faut que j'en parle à [minato.n] tout ça n'est pas normal."
-    new ""
+    new "我得和[minato.n]谈谈这一切都不正常。"
 
     # game/scripts/story/residential district/player's home/home_player_exterior.rpy:332
     old "Il faut que je trouve la petite amie de [minato.n]."
-    new ""
+    new "我要找到[minato.n]的女朋友。"
 
     # game/scripts/story/residential district/player's home/home_player_exterior.rpy:391
     old "[macumba.n] pourra peut-être me venir en aide."
-    new ""
+    new "也许[macumba.n]能帮上忙。"
 
     # game/scripts/story/residential district/player's home/home_player_exterior.rpy:587
     old "Remplacer [yasuka.n] à la boutique."
-    new ""
+    new "在商店更换[yasuka.n]。"
 
     # game/scripts/story/residential district/player's home/home_player_exterior.rpy:675
     old "Annoncer a [yasuka.n] toutes les bonnes nouvelles."
-    new ""
+    new "把所有的好消息都告诉[yasuka.n]。"
 
     # game/scripts/story/residential district/player's home/home_player_exterior.rpy:717
     old "Trouvez un endroit ou vous cachez!"

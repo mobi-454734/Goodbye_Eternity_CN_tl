@@ -1674,17 +1674,17 @@ translate chinese_simplified strings:
 
     # game/scripts/story/talking/talk_macumba.rpy:72
     old "Et si je donnais mon vieux lecteur CD à [macumba.n] en échange d'un coaching ?"
-    new ""
+    new "如果我把我的旧CD播放器给[macumba.n]作为指导呢？"
 
     # game/scripts/story/talking/talk_macumba.rpy:153
     old "Faire ces preuves auprès de [macumba.n]"
-    new ""
+    new "向[macumba.n]证明这一点"
 
     # game/scripts/story/talking/talk_macumba.rpy:417
     old "Allez chercher [asami.n] chez elle."
-    new ""
+    new "去找她。"
 
     # game/scripts/story/talking/talk_macumba.rpy:507
     old "Progresser dans l'histoire d'[asami.n] pour continuer l'histoire de [yasuka.n]"
-    new ""
+    new "在[asami.n神社]的历史上前进，继续[yasuka.n]的历史"
 

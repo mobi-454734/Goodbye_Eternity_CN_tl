@@ -1196,33 +1196,33 @@ translate chinese_simplified strings:
 
     # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:32
     old "Passer voir [yasuka.n] à la boutique cet après-midi"
-    new ""
+    new "今天下午去商店看看[yasuka.n]"
 
     # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:99
     old "Peut être [macumba.n] pourra il m'aider?"
-    new ""
+    new "也许他能帮我？"
 
     # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:203
     old "Attendre le retour de [yasuka.n] à la maison."
-    new ""
+    new "等待[yasuka.n]回家。"
 
     # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:247
     old "Retrouver [yasuka.n] avant qu'il ne soit trop tard."
-    new ""
+    new "在为时已晚之前找到[yasuka.n]。"
 
     # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:294
     old "Rentrez raconter votre journée à [yasuka.n]."
-    new ""
+    new "回家告诉[yasuka.n]。"
 
     # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:361
     old "Mais carrement!"
-    new "必须的！"
+    new "更多随身携带！"
 
     # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:361
     old "Arrete de te foutre de moi"
-    new "别拿我找乐了。"
+    new "别再耍我了。"
 
     # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:441
     old "Retournez chez vous prévenir [yasuka.n] de faire tres attention a [akira.n]."
-    new "回家警告[yasuka.n]让她小心[akira.n]。"
+    new "回到你的家里，警告[yasuka.n]要小心[akira.n]。"
 

@@ -216,5 +216,5 @@ translate chinese_simplified strings:
 
     # game/scripts/story/events/yasuka/sleeping_with_yasuka_saito_room.rpy:104
     old "Aller rejoindre [yasuka.n] dans le salon."
-    new ""
+    new "去客厅见[yasuka.n]。"
 

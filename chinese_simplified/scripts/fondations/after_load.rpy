@@ -12,5 +12,5 @@ translate chinese_simplified strings:
 
     # game/scripts/fondations/after_load.rpy:114
     old "Aller voir [yasuka.n] dans le {color=#ff0}{b}salon{/b}{/color} en soirée."
-    new ""
+    new "晚上去{color=#ff0}{b}客厅{/b}{/color}见[yasuka.n]。"
 

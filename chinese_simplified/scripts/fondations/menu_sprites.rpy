@@ -132,257 +132,257 @@ translate chinese_simplified strings:
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "afraid"
-    new ""
+    new "害怕的"
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "angry"
-    new ""
+    new "发怒的"
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "arrogant"
-    new ""
+    new "傲慢的"
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "babydoll"
-    new ""
+    new "娃娃"
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "bad"
-    new ""
+    new "令人不快的"
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "barista"
-    new ""
+    new "咖啡师"
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "blush"
-    new ""
+    new "脸红"
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "bored"
-    new ""
+    new "无聊的"
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "cry"
-    new ""
+    new "哭泣"
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "cute"
-    new ""
+    new "可爱的"
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "depressed"
-    new ""
+    new "抑郁的"
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "disdainful"
-    new ""
+    new "轻蔑的"
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "disgust"
-    new ""
+    new "厌恶"
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "disgusted"
-    new ""
+    new "厌恶，厌恶"
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "doubt"
-    new ""
+    new "怀疑"
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "dress"
-    new ""
+    new "连衣裙"
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "everyday"
-    new ""
+    new "每天的"
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "fear"
-    new ""
+    new "害怕"
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "frustration"
-    new ""
+    new "挫败"
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "furious"
-    new ""
+    new "狂怒的"
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "glasses"
-    new ""
+    new "玻璃杯"
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "hairpin_earring"
-    new ""
+    new "发夹_到达"
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "happy"
-    new ""
+    new "快乐的"
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "horny"
-    new ""
+    new "角状的"
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "jacket"
-    new ""
+    new "夹克"
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "job"
-    new ""
+    new "工作"
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "kimono"
-    new ""
+    new "和服"
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "lingerie"
-    new ""
+    new "内衣"
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "melancholic"
-    new ""
+    new "忧郁的"
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "mirror"
-    new ""
+    new "镜子"
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "mocking"
-    new ""
+    new "嘲笑"
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "moved"
-    new ""
+    new "感动的"
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "natural"
-    new ""
+    new "自然的"
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "neutral"
-    new ""
+    new "中立的"
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "nude"
-    new ""
+    new "裸体"
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "pantsu"
-    new ""
+    new "内裤"
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "pouting"
-    new ""
+    new "撅嘴"
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "pyjama"
-    new ""
+    new "睡衣"
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "regular"
-    new ""
+    new "有规律的"
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "sad"
-    new ""
+    new "悲哀的"
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "sexy"
-    new ""
+    new "性感的"
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "shame"
-    new ""
+    new "羞耻"
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "shocked"
-    new ""
+    new "震惊的"
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "shy"
-    new ""
+    new "害羞的"
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "smile"
-    new ""
+    new "微笑"
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "smug"
-    new ""
+    new "沾沾自喜的"
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "suit"
-    new ""
+    new "适合"
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "sulking"
-    new ""
+    new "生闷气"
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "surprised"
-    new ""
+    new "惊讶"
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "suspicious"
-    new ""
+    new "可疑的"
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "tailleur"
-    new ""
+    new "尾灯"
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "think"
-    new ""
+    new "认为"
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "thinking"
-    new ""
+    new "思考"
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "toque"
-    new ""
+    new "托克牌手表"
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "upset"
-    new ""
+    new "沮丧的"
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "accessories"
-    new ""
+    new "配件"
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "badge"
-    new ""
+    new "徽章"
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "cloth"
-    new ""
+    new "布"
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "face"
-    new ""
+    new "面对"
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "hair"
-    new ""
+    new "头发"
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "hat"
-    new ""
+    new "帽子"
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "mood"
-    new ""
+    new "情绪"
 
     # game/scripts/fondations/menu_sprites.rpy:56
     old "> SPRITES"
-    new ""
+    new ">精灵"
 
     # game/scripts/fondations/menu_sprites.rpy:121
     old "Un skin est actif pour ce personnage. Certaines images peuvent être remplacées."
-    new ""
+    new "此角色的蒙皮处于活动状态。有些图片可以替换。"
 

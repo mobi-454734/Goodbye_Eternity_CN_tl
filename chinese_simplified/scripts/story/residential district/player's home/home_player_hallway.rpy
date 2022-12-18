@@ -512,23 +512,23 @@ translate chinese_simplified strings:
 
     # game/scripts/story/residential district/player's home/home_player_hallway.rpy:36
     old "Vous avez provoqué [noriko.n] au lieu de l'éviter, restez sur vos gardes!"
-    new ""
+    new "你激怒了[noriko.n]而不是避开它，所以要小心！"
 
     # game/scripts/story/residential district/player's home/home_player_hallway.rpy:87
     old "Dans tes rêves [noriko.n]!"
-    new ""
+    new "在你的梦里！"
 
     # game/scripts/story/residential district/player's home/home_player_hallway.rpy:87
     old "Va te faire foutre [noriko.n]!"
-    new ""
+    new "去你妈的！"
 
     # game/scripts/story/residential district/player's home/home_player_hallway.rpy:131
     old "Rejoindre discrètement [yasuka.n] dans la salle de bain."
-    new ""
+    new "在浴室里静静地加入[yasuka.n]。"
 
     # game/scripts/story/residential district/player's home/home_player_hallway.rpy:150
     old "Je suis sur que [yasuka.n] doit m'attendre."
-    new ""
+    new "我相信[yasuka.n]一定在等我。"
 
     # game/scripts/story/residential district/player's home/home_player_hallway.rpy:185
     old "Cherchez la boutique a coté du love hotel."

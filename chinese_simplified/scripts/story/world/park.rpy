@@ -2916,21 +2916,21 @@ translate chinese_simplified strings:
 
     # game/scripts/story/world/park.rpy:144
     old "Bon je crois que c'est foutu avec [asami.n]"
-    new ""
+    new "好吧，我想我们完了。"
 
     # game/scripts/story/world/park.rpy:514
     old "Allez confronter [minato.n]"
-    new ""
+    new "去面对[minato.n]"
 
     # game/scripts/story/world/park.rpy:533
     old "Rejoindre les appartements avant [kimochi.n]"
-    new ""
+    new "到达前面的公寓[kimochi.n]"
 
     # game/scripts/story/world/park.rpy:680
     old "[asami.n] sera devant chez moi ce soir."
-    new ""
+    new "今晚会在我家门口。"
 
     # game/scripts/story/world/park.rpy:917
     old "Rammener [asami.n] dans votre chambre"
-    new ""
+    new "把[asami.n]带到你的房间"
 

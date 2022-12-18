@@ -2060,37 +2060,37 @@ translate chinese_simplified strings:
 
     # game/scripts/story/talking/talk_yasuka.rpy:44
     old "Continuer dans la chambre de [yasuka.n]"
-    new ""
+    new "继续进入[yasuka.n]"
 
     # game/scripts/story/talking/talk_yasuka.rpy:70
     old "Récupérer le baladeur CD et foncer voir [macumba.n]."
-    new ""
+    new "拿着CD播放器，去看看[macumba.n]。"
 
     # game/scripts/story/talking/talk_yasuka.rpy:96
     old "Aller récupérer votre baladeur CD dans la chambre de [noriko.n]!"
-    new ""
+    new "去[noriko.n]的房间拿你的CD播放器！"
 
     # game/scripts/story/talking/talk_yasuka.rpy:125
     old "Attendre le retour [yasuka.n] à la maison."
-    new ""
+    new "等待[yasuka.n]回家。"
 
     # game/scripts/story/talking/talk_yasuka.rpy:170
     old "Vous avez donné 300¥ à [yasuka.n]"
-    new ""
+    new "你给了[yasuka.n]300日元"
 
     # game/scripts/story/talking/talk_yasuka.rpy:261
     old "fils"
-    new ""
+    new "电线"
 
     # game/scripts/story/talking/talk_yasuka.rpy:265
     old "partenaire"
-    new ""
+    new "合作伙伴"
 
     # game/scripts/story/talking/talk_yasuka.rpy:366
     old "Il est grand temps d'aller dormir et de laisser [yasuka.n] réfléchir tranquillement."
-    new ""
+    new "现在是睡觉的时候了，让[yasuka.n]安静地思考。"
 
     # game/scripts/story/talking/talk_yasuka.rpy:668
     old "Raccompagner [yasuka.n] en sécurité à la maison."
-    new ""
+    new "安全地送[yasuka.n]回家。"
 

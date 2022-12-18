@@ -436,7 +436,7 @@ translate chinese_simplified strings:
 
     # game/scripts/fondations/core/screens.rpy:1474
     old "> CHOIX ROUTE"
-    new ">选择道路"
+    new ">路线选择"
 
     # game/scripts/fondations/core/screens.rpy:1532
     old "COMMENCER"

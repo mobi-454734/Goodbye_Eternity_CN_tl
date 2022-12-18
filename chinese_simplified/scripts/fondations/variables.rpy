@@ -4,77 +4,77 @@ translate chinese_simplified strings:
 
     # game/scripts/fondations/variables.rpy:188
     old "Akira"
-    new ""
+    new "明"
 
     # game/scripts/fondations/variables.rpy:188
-    old "Asami"
-    new ""
+    old "asami"
+    new "麻美"
 
     # game/scripts/fondations/variables.rpy:188
     old "Chef"
-    new ""
+    new "师傅"
 
     # game/scripts/fondations/variables.rpy:188
     old "Chiaki"
-    new ""
+    new "千秋"
 
     # game/scripts/fondations/variables.rpy:188
     old "Kenji"
-    new ""
+    new "kenji"
 
     # game/scripts/fondations/variables.rpy:188
     old "Kimochi"
-    new ""
+    new "四斋蒸鹅心"
 
     # game/scripts/fondations/variables.rpy:188
     old "Macumba"
-    new ""
+    new "马库姆巴"
 
     # game/scripts/fondations/variables.rpy:188
     old "Minato"
-    new ""
+    new "水人"
 
     # game/scripts/fondations/variables.rpy:188
     old "Natsume"
-    new ""
+    new "夏梦"
 
     # game/scripts/fondations/variables.rpy:188
     old "Nobu"
-    new ""
+    new "信夫"
 
     # game/scripts/fondations/variables.rpy:188
-    old "Noriko"
+    old "noriko"
     new "纪子"
 
     # game/scripts/fondations/variables.rpy:188
     old "Saito"
-    new ""
+    new "斋藤"
 
     # game/scripts/fondations/variables.rpy:188
     old "Sakuya"
-    new ""
+    new "咲夜"
 
     # game/scripts/fondations/variables.rpy:188
     old "Takeo"
-    new ""
+    new "健男"
 
     # game/scripts/fondations/variables.rpy:188
     old "Netoru"
-    new ""
+    new "王叔叔"
 
     # game/scripts/fondations/variables.rpy:188
-    old "Yasuka"
+    old "yasuka"
     new "安香"
 
     # game/scripts/fondations/variables.rpy:188
     old "Sensei"
-    new ""
+    new "老师"
 
     # game/scripts/fondations/variables.rpy:188
     old "Yakuza"
-    new ""
+    new "黑道"
 
     # game/scripts/fondations/variables.rpy:295
     old "lui"
-    new ""
+    new "六"
 

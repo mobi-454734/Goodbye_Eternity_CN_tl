@@ -84,61 +84,61 @@ translate chinese_simplified strings:
 
     # game/scripts/fondations/menu_cg.rpy:5
     old "Premiere apparition d'[asami.n]"
-    new ""
+    new "邂逅[asami.n]"
 
     # game/scripts/fondations/menu_cg.rpy:5
     old "Seconde apparition d'[asami.n]"
-    new ""
+    new "偶遇[asami.n]"
 
     # game/scripts/fondations/menu_cg.rpy:5
     old "Troisième apparition d'[asami.n]"
-    new ""
+    new "再会[asami.n]"
 
     # game/scripts/fondations/menu_cg.rpy:5
     old "Empecher [yasuka.n] de travailler comme hostesse."
-    new ""
+    new "阻止[yasuka.n]做女技师。"
 
     # game/scripts/fondations/menu_cg.rpy:5
     old "Dormir avec [yasuka.n] plusieurs fois."
-    new ""
+    new "和[yasuka.n]睡几次。"
 
     # game/scripts/fondations/menu_cg.rpy:5
     old "Ecouter a la porte de la chambre de [noriko.n]"
-    new ""
+    new "偷听[noriko.n]"
 
     # game/scripts/fondations/menu_cg.rpy:5
     old "Faire chanter [noriko.n]"
-    new ""
+    new "勒索[noriko.n]"
 
     # game/scripts/fondations/menu_cg.rpy:5
     old "Choisir de dominer [noriko.n]"
-    new ""
+    new "选择统治[noriko.n]"
 
     # game/scripts/fondations/menu_cg.rpy:5
     old "Se faire dominer par [noriko.n]"
-    new ""
+    new "被[noriko.n]统治"
 
     # game/scripts/fondations/menu_cg.rpy:5
     old "Atteindre 6 en Endurance avec [macumba.n]"
-    new ""
+    new "与[macumba.n]一起锻炼耐力达到6"
 
     # game/scripts/fondations/menu_cg.rpy:5
     old "Entrainement avec [macumba.n]"
-    new ""
+    new "与[macumba.n]一起训练"
 
     # game/scripts/fondations/menu_cg.rpy:5
     old "Corrompre [asami.n]"
-    new ""
+    new "[asami.n]的堕落"
 
     # game/scripts/fondations/menu_cg.rpy:5
     old "Se lié d'amitié avec [asami.n]"
-    new ""
+    new "与[asami.n]做朋友"
 
     # game/scripts/fondations/menu_cg.rpy:5
     old "Poser les bonnes questions à [asami.n]"
-    new ""
+    new "向[asami.n]提出正确的问题"
 
     # game/scripts/fondations/menu_cg.rpy:5
     old "Laisser travailler [yasuka.n] comme hôtesse."
-    new ""
+    new "让[yasuka.n]当技师。"
 

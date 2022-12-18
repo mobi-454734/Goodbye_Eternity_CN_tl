@@ -558,5 +558,5 @@ translate chinese_simplified strings:
 
     # game/scripts/story/world/konbini/konbini_exterior.rpy:31
     old "Retrouvez [asami.n] au parc pour lui annoncer la mauvaise nouvelle."
-    new ""
+    new "在公园里见[asami.n]告诉他这个坏消息。"
 

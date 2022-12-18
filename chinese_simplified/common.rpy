@@ -940,43 +940,43 @@ translate chinese_simplified strings:
 
     # renpy/common/_errorhandling.rpym:557
     old "Copy BBCode"
-    new "复制 BBCode"
+    new "Copy BBCode"
 
     # renpy/common/_errorhandling.rpym:559
     old "Copies the traceback.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
-    new "将 traceback.txt 文件作为 BBcode 复制到剪贴板，用于 https://lemmasoft.renai.us/ 等论坛。"
+    new "Copies the traceback.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
 
     # renpy/common/_errorhandling.rpym:561
     old "Copy Markdown"
-    new "复制 Markdown"
+    new "Copy Markdown"
 
     # renpy/common/_errorhandling.rpym:563
     old "Copies the traceback.txt file to the clipboard as Markdown for Discord."
-    new "将 traceback.txt 文件作为 Discord 的 Markdown 复制到剪贴板。"
+    new "Copies the traceback.txt file to the clipboard as Markdown for Discord."
 
     # renpy/common/_errorhandling.rpym:592
     old "An exception has occurred."
-    new "发生了异常。"
+    new "An exception has occurred."
 
     # renpy/common/_errorhandling.rpym:615
     old "Rollback"
-    new "回滚"
+    new "Rollback"
 
     # renpy/common/_errorhandling.rpym:617
     old "Attempts a roll back to a prior time, allowing you to save or choose a different choice."
-    new "尝试回滚到以前的时间，允许您保存或选择不同的选择。"
+    new "Attempts a roll back to a prior time, allowing you to save or choose a different choice."
 
     # renpy/common/_errorhandling.rpym:620
     old "Ignore"
-    new "忽视"
+    new "Ignore"
 
     # renpy/common/_errorhandling.rpym:624
     old "Ignores the exception, allowing you to continue."
-    new "忽略异常，让您继续。"
+    new "Ignores the exception, allowing you to continue."
 
     # renpy/common/_errorhandling.rpym:626
     old "Ignores the exception, allowing you to continue. This often leads to additional errors."
-    new "忽略异常，让您继续。这通常会导致额外的错误。"
+    new "Ignores the exception, allowing you to continue. This often leads to additional errors."
 
     # renpy/common/_errorhandling.rpym:630
     old "Reload"
@@ -1008,169 +1008,169 @@ translate chinese_simplified strings:
 
     # renpy/common/_compat/gamemenu.rpym:198
     old "Empty Slot."
-    new ""
+    new "空插槽。"
 
     # renpy/common/_compat/gamemenu.rpym:355
     old "Previous"
-    new ""
+    new "以前的"
 
     # renpy/common/_compat/gamemenu.rpym:362
     old "Next"
-    new ""
+    new "下一个"
 
     # renpy/common/_compat/preferences.rpym:428
     old "Joystick Mapping"
-    new ""
+    new "操纵杆映射"
 
     # renpy/common/_developer/developer.rpym:38
     old "Developer Menu"
-    new ""
+    new "开发人员菜单"
 
     # renpy/common/_developer/developer.rpym:43
     old "Interactive Director (D)"
-    new ""
+    new "互动总监（D）"
 
     # renpy/common/_developer/developer.rpym:45
     old "Reload Game (Shift+R)"
-    new ""
+    new "Reload Game (Shift+R)"
 
     # renpy/common/_developer/developer.rpym:47
     old "Console (Shift+O)"
-    new ""
+    new "Console (Shift+O)"
 
     # renpy/common/_developer/developer.rpym:49
     old "Variable Viewer"
-    new ""
+    new "变量观察器"
 
     # renpy/common/_developer/developer.rpym:51
     old "Image Location Picker"
-    new ""
+    new "图像位置选取器"
 
     # renpy/common/_developer/developer.rpym:53
     old "Filename List"
-    new ""
+    new "文件名列表"
 
     # renpy/common/_developer/developer.rpym:57
     old "Show Image Load Log (F4)"
-    new ""
+    new "显示图像加载日志（F4）"
 
     # renpy/common/_developer/developer.rpym:60
     old "Hide Image Load Log (F4)"
-    new ""
+    new "隐藏图像加载日志（F4）"
 
     # renpy/common/_developer/developer.rpym:63
     old "Image Attributes"
-    new ""
+    new "图像属性"
 
     # renpy/common/_developer/developer.rpym:90
     old "[name] [attributes] (hidden)"
-    new ""
+    new "[name] [attributes]（隐藏）"
 
     # renpy/common/_developer/developer.rpym:94
     old "[name] [attributes]"
-    new ""
+    new "[name] [attributes]"
 
     # renpy/common/_developer/developer.rpym:143
     old "Nothing to inspect."
-    new ""
+    new "无需检查。"
 
     # renpy/common/_developer/developer.rpym:154
     old "Hide deleted"
-    new ""
+    new "隐藏已删除"
 
     # renpy/common/_developer/developer.rpym:154
     old "Show deleted"
-    new ""
+    new "显示已删除"
 
     # renpy/common/_developer/developer.rpym:278
     old "Return to the developer menu"
-    new ""
+    new "返回开发者菜单"
 
     # renpy/common/_developer/developer.rpym:443
     old "Rectangle: %r"
-    new ""
+    new "矩形：%r"
 
     # renpy/common/_developer/developer.rpym:448
     old "Mouse position: %r"
-    new ""
+    new "鼠标位置：%r"
 
     # renpy/common/_developer/developer.rpym:453
     old "Right-click or escape to quit."
-    new ""
+    new "右键单击或退出。"
 
     # renpy/common/_developer/developer.rpym:485
     old "Rectangle copied to clipboard."
-    new ""
+    new "矩形已复制到剪贴板。"
 
     # renpy/common/_developer/developer.rpym:488
     old "Position copied to clipboard."
-    new ""
+    new "位置已复制到剪贴板。"
 
     # renpy/common/_developer/developer.rpym:506
     old "Type to filter: "
-    new ""
+    new "要筛选的类型："
 
     # renpy/common/_developer/developer.rpym:631
     old "Textures: [tex_count] ([tex_size_mb:.1f] MB)"
-    new ""
+    new "纹理：[tex_count]（[tex_size_mb:.1f]mb）"
 
     # renpy/common/_developer/developer.rpym:635
     old "Image cache: [cache_pct:.1f]% ([cache_size_mb:.1f] MB)"
-    new ""
+    new "图像缓存：[cache_pct:.1f]%（[cache_size_mb:.1f]mb）"
 
     # renpy/common/_developer/developer.rpym:645
     old "✔ "
-    new ""
+    new "✔"
 
     # renpy/common/_developer/developer.rpym:648
     old "✘ "
-    new ""
+    new "£1,000;"
 
     # renpy/common/_developer/developer.rpym:653
     old "\n{color=#cfc}✔ predicted image (good){/color}\n{color=#fcc}✘ unpredicted image (bad){/color}\n{color=#fff}Drag to move.{/color}"
-    new ""
+    new "\n{color=#cfc}✔ predicted image (good){/color}\n{color=#fcc}✘ unpredicted image (bad){/color}\n{color=#fff}Drag to move.{/color}"
 
     # renpy/common/_developer/inspector.rpym:38
     old "Displayable Inspector"
-    new ""
+    new "可显示检查器"
 
     # renpy/common/_developer/inspector.rpym:61
     old "Size"
-    new ""
+    new "大小"
 
     # renpy/common/_developer/inspector.rpym:65
     old "Style"
-    new ""
+    new "风格"
 
     # renpy/common/_developer/inspector.rpym:71
     old "Location"
-    new ""
+    new "地方"
 
     # renpy/common/_developer/inspector.rpym:122
     old "Inspecting Styles of [displayable_name!q]"
-    new ""
+    new "检查[displayable_name！q]的样式"
 
     # renpy/common/_developer/inspector.rpym:139
     old "displayable:"
-    new ""
+    new "可显示："
 
     # renpy/common/_developer/inspector.rpym:145
     old "        (no properties affect the displayable)"
-    new ""
+    new "（没有属性影响可显示）"
 
     # renpy/common/_developer/inspector.rpym:147
     old "        (default properties omitted)"
-    new ""
+    new "（默认属性省略）"
 
     # renpy/common/_developer/inspector.rpym:185
     old "<repr() failed>"
-    new ""
+    new "<repr（）失败>"
 
     # renpy/common/_layout/classic_load_save.rpym:170
     old "a"
-    new ""
+    new "a"
 
     # renpy/common/_layout/classic_load_save.rpym:179
     old "q"
-    new ""
+    new "q"
 

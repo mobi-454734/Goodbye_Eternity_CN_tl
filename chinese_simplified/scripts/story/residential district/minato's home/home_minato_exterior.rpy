@@ -474,9 +474,9 @@ translate chinese_simplified strings:
 
     # game/scripts/story/residential district/minato's home/home_minato_exterior.rpy:31
     old "Retrouver [asami.n] au {color=#efdf31}{b}parc{/b}{/color}."
-    new ""
+    new "Retrouver [asami.n] au {color=#efdf31}{b}parc{/b}{/color}"
 
     # game/scripts/story/residential district/minato's home/home_minato_exterior.rpy:106
     old "Rattraper l'individu louche avant [minato.n]"
-    new ""
+    new "Rattraper l'individu louche avant [minato.n]"
 

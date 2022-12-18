@@ -4,5 +4,5 @@ translate chinese_simplified strings:
 
     # game/skin/noriko_witch/scripts/noriko_witch.rpy:1
     old "noriko_witch"
-    new ""
+    new "诺里科·维奇"
 

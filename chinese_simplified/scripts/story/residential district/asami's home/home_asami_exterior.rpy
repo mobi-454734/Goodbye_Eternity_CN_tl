@@ -594,17 +594,17 @@ translate chinese_simplified strings:
 
     # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:31
     old "Rejoindre [natsume.n] au parc"
-    new ""
+    new "在公园加入[natsume.n]"
 
     # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:68
     old "Aller sonner chez [minato.n]"
-    new ""
+    new "去[minato.n]敲门"
 
     # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:105
     old "Passez la journée avec [asami.n] dans votre chambre."
-    new ""
+    new "和[asami.n]在你的房间里度过一天。"
 
     # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:172
     old "Attendre la surprise d'[asami.n] demain soir."
-    new ""
+    new "等到明晚的惊喜。"
 

@@ -21,5 +21,5 @@ translate chinese_simplified strings:
 
     # game/scripts/fondations/rename.rpy:85
     old "Indiquez votre nom :"
-    new "输入您的姓名："
+    new ""
 

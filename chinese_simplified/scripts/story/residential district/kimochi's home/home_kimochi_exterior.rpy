@@ -338,53 +338,53 @@ translate chinese_simplified home_kimochi_exterior_6c8b3e93:
 translate chinese_simplified home_kimochi_exterior_143ec67b:
 
     # nobu "TU N'IRAS PAS PLUS LOIN!" id home_kimochi_exterior_143ec67b
-    nobu "你不能再往前走了！" id home_kimochi_exterior_143ec67b
+    nobu "你不能准过去！" id home_kimochi_exterior_143ec67b
 
 # game/scripts/story/residential district/kimochi's home/home_kimochi_exterior.rpy:141
 translate chinese_simplified home_kimochi_exterior_75622339:
 
     # kimochic "{size=-10}Allez [player.n] reviens, je déconnais...{/size}" id home_kimochi_exterior_75622339
-    kimochic "{size=-10}Allez [player.n] reviens, je déconnais...{/size}" id home_kimochi_exterior_75622339
+    kimochic "{size=-10}拜托，[player.n]回来啊！我就开个玩笑！{/size}" id home_kimochi_exterior_75622339
 
 # game/scripts/story/residential district/kimochi's home/home_kimochi_exterior.rpy:142
 translate chinese_simplified home_kimochi_exterior_2d74e29a:
 
     # player "Quel enfoiré!" id home_kimochi_exterior_2d74e29a
-    player "真是个混蛋！" id home_kimochi_exterior_2d74e29a
+    player "真是个弱智。" id home_kimochi_exterior_2d74e29a
 
 # game/scripts/story/residential district/kimochi's home/home_kimochi_exterior.rpy:143
 translate chinese_simplified home_kimochi_exterior_df8d7c0a:
 
     # player sad "Je ferais mieux d'aller bosser, ça me changera les idées." id home_kimochi_exterior_df8d7c0a
-    player sad "我最好去工作，这会改变我的想法。" id home_kimochi_exterior_df8d7c0a
+    player sad "我最好去工作。那能让我把这些事抛之脑后。" id home_kimochi_exterior_df8d7c0a
 
 # game/scripts/story/residential district/kimochi's home/home_kimochi_exterior.rpy:152
 translate chinese_simplified home_kimochi_exterior_03775ec8_1:
 
     # player "..." id home_kimochi_exterior_03775ec8_1
-    player "..." id home_kimochi_exterior_03775ec8_1
+    player "。。。" id home_kimochi_exterior_03775ec8_1
 
 # game/scripts/story/residential district/kimochi's home/home_kimochi_exterior.rpy:153
 translate chinese_simplified home_kimochi_exterior_a6ecb8b1:
 
     # player "Je ne sais pas ce qui se trouve sur cette clef USB mais si le contenu peut me mener droit en prison..." id home_kimochi_exterior_a6ecb8b1
-    player "我不知道U盘上有什么，但如果里面的东西能把我送进监狱。。。" id home_kimochi_exterior_a6ecb8b1
+    player "我不知道U盘里有什么，但如果里面的东西能把我送进监狱……" id home_kimochi_exterior_a6ecb8b1
 
 # game/scripts/story/residential district/kimochi's home/home_kimochi_exterior.rpy:154
 translate chinese_simplified home_kimochi_exterior_b02e37fe:
 
     # player "Je suis partager entre la curiosité et l'effroie." id home_kimochi_exterior_b02e37fe
-    player "我在好奇心和恐惧中分享。" id home_kimochi_exterior_b02e37fe
+    player "我现在在好奇和害怕之间反复横跳。" id home_kimochi_exterior_b02e37fe
 
 # game/scripts/story/residential district/kimochi's home/home_kimochi_exterior.rpy:155
 translate chinese_simplified home_kimochi_exterior_5e490ec1:
 
     # player happy "...{w}Non, c'est pour [macumba.n], c'est quelqu'un de foncierement bon, ça ne peut pas etre si terrible que ça." id home_kimochi_exterior_5e490ec1
-    player happy "...{w}Non, c'est pour [macumba.n], c'est quelqu'un de foncierement bon, ça ne peut pas etre si terrible que ça." id home_kimochi_exterior_5e490ec1
+    player happy "...{w}不,这个是给[macumba.n]的。他是个好人，应该不会是什么坏东西。" id home_kimochi_exterior_5e490ec1
 
 translate chinese_simplified strings:
 
     # game/scripts/story/residential district/kimochi's home/home_kimochi_exterior.rpy:137
     old "Aller travailler au restaurant de Udon"
-    new "去乌冬餐厅工作"
+    new "去餐厅工作。"
 

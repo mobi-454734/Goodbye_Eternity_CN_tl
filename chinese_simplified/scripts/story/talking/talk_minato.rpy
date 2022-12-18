@@ -562,9 +562,9 @@ translate chinese_simplified strings:
 
     # game/scripts/story/talking/talk_minato.rpy:17
     old "Je dois retrouver [chiaki.n] le plus rapidement possible."
-    new "我必须尽快找到恰基。"
+    new ""
 
     # game/scripts/story/talking/talk_minato.rpy:161
     old "Elle en saura peut être plus sur le nouveau comportement de [minato.n]"
-    new "她可能会对[minato.n]的新行为有更多的了解。"
+    new ""
 

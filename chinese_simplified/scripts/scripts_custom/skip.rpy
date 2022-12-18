@@ -4,5 +4,5 @@ translate chinese_simplified strings:
 
     # game/scripts/scripts_custom/skip.rpy:3
     old "Je m'en fous!"
-    new "主不在乎！"
+    new "我不在乎！"
 

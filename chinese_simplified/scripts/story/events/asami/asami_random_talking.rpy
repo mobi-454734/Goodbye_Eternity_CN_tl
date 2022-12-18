@@ -46,5 +46,5 @@ translate chinese_simplified strings:
 
     # game/scripts/story/events/asami/asami_random_talking.rpy:3
     old "J'ai l'impression que [natsume.n] a des problèmes avec [minato.n]."
-    new "我觉得[natsume.n]和[minato.n]有问题。"
+    new ""
 

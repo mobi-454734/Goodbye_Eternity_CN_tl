@@ -436,5 +436,5 @@ translate chinese_simplified strings:
 
     # game/scripts/story/talking/talk_natsume.rpy:97
     old "Retrouvez [asami.n] devant chez elle demain."
-    new "明天在她家门口见。"
+    new ""
 

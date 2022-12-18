@@ -60,7 +60,7 @@ translate chinese_simplified strings:
 
     # game/scripts/fondations/core/screens.rpy:689
     old "SUBSCRIBESTAR"
-    new "订阅之星"
+    new "SUBSCRIBESTAR"
 
     # game/scripts/fondations/core/screens.rpy:715
     old "| NOUVELLE PARTIE"
@@ -296,7 +296,7 @@ translate chinese_simplified strings:
 
     # game/scripts/fondations/core/screens.rpy:1847
     old "Bouton R1\nA/Bouton du bas"
-    new "Bouton R1\nA/Bouton du bas"
+    new "R1键\nA/下按钮"
 
     # game/scripts/fondations/core/screens.rpy:1851
     old "Left Trigger\nLeft Shoulder"
@@ -412,23 +412,23 @@ translate chinese_simplified strings:
 
     # game/scripts/fondations/core/screens.rpy:221
     old "Un ou plusieurs choix sont indisponibles car aucun contenu n'est développé pour ces chemins."
-    new "一个或多个选项不可用，因为没有为这些路径开发内容。"
+    new "一个或多个选项暂时不可用，因为还没有开发任何实质性内容。"
 
     # game/scripts/fondations/core/screens.rpy:742
     old "TRAILER"
-    new "片头"
+    new "预告"
 
     # game/scripts/fondations/core/screens.rpy:1371
     old "Pour commencer le jeu depuis le début, où tout reste à faire. Cette option est fortement conseillée pour ceux qui découvrent l'histoire pour la première fois."
-    new "从一开始就开始比赛，在那里一切都要做。对于那些第一次发现历史的人来说，这是一个很好的选择。"
+    new "从头开始游戏，所有事都待您完成。强烈推荐给没玩过且想体验本作的玩家。"
 
     # game/scripts/fondations/core/screens.rpy:1372
     old "Pour ceux qui sont familiers avec l'histoire et désirent jouer à la version du jeu la plus récente. Dans ce mode, vous pouvez choisir vos relations."
-    new "对于那些熟悉历史并希望玩最新版本游戏的人。在这种模式下，您可以选择您的关系。"
+    new "此模式设计给那些已经熟悉游戏剧情并希望体验最新版本的玩家，在此模式下，您可以选择您与其他人的人际关系。"
 
     # game/scripts/fondations/core/screens.rpy:1387
     old "FRESH START"
-    new "重新开始"
+    new "新的起点"
 
     # game/scripts/fondations/core/screens.rpy:1406
     old "VETERAN START"
@@ -436,13 +436,13 @@ translate chinese_simplified strings:
 
     # game/scripts/fondations/core/screens.rpy:1474
     old "> CHOIX ROUTE"
-    new ">路线选择"
+    new ">选择道路"
 
     # game/scripts/fondations/core/screens.rpy:1532
     old "COMMENCER"
-    new "开始吧"
+    new "开始"
 
     # game/scripts/fondations/core/screens.rpy:1541
     old "POUR COMMENCER À JOUER, VEUILLEZ SÉLECTIONNER VOS PRÉCÉDENTES RELATIONS."
-    new "要开始玩游戏，请选择您以前的关系。"
+    new "在开始游戏之前，请选择您曾经与他人的人际关系。"
 

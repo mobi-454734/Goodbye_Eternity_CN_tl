@@ -1092,9 +1092,9 @@ translate chinese_simplified strings:
 
     # game/scripts/story/talking/talk_sakuya.rpy:63
     old "Je peux à présent me consacrer a mon entrainement avec [macumba.n]"
-    new "我现在可以和[macumba.n]一起训练了"
+    new ""
 
     # game/scripts/story/talking/talk_sakuya.rpy:64
     old "Je dois faire de [sakuya.n] une véritable star du X..."
-    new "我要让[sakuya.n]成为一个真正的X星。。。"
+    new ""
 

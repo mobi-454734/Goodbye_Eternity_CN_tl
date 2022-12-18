@@ -426,5 +426,5 @@ translate chinese_simplified strings:
 
     # game/scripts/story/residential district/player's home/home_player_bathroom.rpy:33
     old "Il faut absolument que je demande a [noriko.n]."
-    new "我一定要问[noriko.n]。"
+    new ""
 

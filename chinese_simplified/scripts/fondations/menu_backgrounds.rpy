@@ -76,19 +76,19 @@ translate chinese_simplified strings:
 
     # game/scripts/fondations/menu_backgrounds.rpy:1
     old "Maison de [minato_name]"
-    new "[minato_name]家"
+    new "水人的家"
 
     # game/scripts/fondations/menu_backgrounds.rpy:1
     old "Maison d'[asami_name]"
-    new "[asami_name]家"
+    new "麻美的家"
 
     # game/scripts/fondations/menu_backgrounds.rpy:1
     old "Maison de [kimochi_name]"
-    new "[kimochi_name]家"
+    new "爽哥的家"
 
     # game/scripts/fondations/menu_backgrounds.rpy:1
     old "Intérieur de la maison de [kimochi_name]"
-    new "[kimochi_name]家内"
+    new "爽哥家的内部"
 
     # game/scripts/fondations/menu_backgrounds.rpy:1
     old "Coffee boutique"
@@ -108,7 +108,7 @@ translate chinese_simplified strings:
 
     # game/scripts/fondations/menu_backgrounds.rpy:1
     old "Chambre de [yasuka_name]"
-    new "[yasuka_name]房间"
+    new "安香的房间"
 
     # game/scripts/fondations/menu_backgrounds.rpy:486
     old "> BACKGROUNDS"
@@ -120,49 +120,49 @@ translate chinese_simplified strings:
 
     # game/scripts/fondations/menu_backgrounds.rpy:1
     old "Chambre de [player.n]"
-    new "[player.n]的房间"
+    new ""
 
     # game/scripts/fondations/menu_backgrounds.rpy:1
     old "Chambre de [noriko.n]"
-    new "[noriko.n]房间"
+    new ""
 
     # game/scripts/fondations/menu_backgrounds.rpy:1
     old "Maison de [minato.n]"
-    new "[minato.n]之家"
+    new ""
 
     # game/scripts/fondations/menu_backgrounds.rpy:1
     old "Maison d'[asami.n]"
-    new "[asami.n]"
+    new ""
 
     # game/scripts/fondations/menu_backgrounds.rpy:1
     old "Maison de [kimochi.n]"
-    new "[kimochi.n]的房子"
+    new ""
 
     # game/scripts/fondations/menu_backgrounds.rpy:1
     old "Maison de [natsume.n]"
-    new "[natsume.n]之家"
+    new ""
 
     # game/scripts/fondations/menu_backgrounds.rpy:1
     old "Intérieur de la maison de [kimochi.n]"
-    new "[kimochi.n]住宅内部"
+    new ""
 
     # game/scripts/fondations/menu_backgrounds.rpy:1
     old "Réception du Love Hotel"
-    new "爱酒店接待处"
+    new ""
 
     # game/scripts/fondations/menu_backgrounds.rpy:1
     old "Chambre du Love Hotel"
-    new "爱情酒店客房"
+    new ""
 
     # game/scripts/fondations/menu_backgrounds.rpy:1
     old "Intérieur du Hostess club"
-    new "女主人俱乐部内部"
+    new ""
 
     # game/scripts/fondations/menu_backgrounds.rpy:1
     old "Allée du Hostess club"
-    new "女主人俱乐部走道"
+    new ""
 
     # game/scripts/fondations/menu_backgrounds.rpy:1
     old "Chambre de [yasuka.n]"
-    new "[yasuka.n]房间"
+    new ""
 

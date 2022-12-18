@@ -440,5 +440,5 @@ translate chinese_simplified strings:
 
     # game/scripts/story/residential district/player's home/home_player_noriko_room.rpy:80
     old "Jusqu'à quel point tu ne veux pas que ça se sache [noriko.n] ?"
-    new "你有多不想让别人知道？"
+    new ""
 

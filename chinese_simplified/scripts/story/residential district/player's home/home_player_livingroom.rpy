@@ -2670,61 +2670,61 @@ translate chinese_simplified home_player_livingroom_3a1f4b0f:
 translate chinese_simplified home_player_livingroom_495cb7a4:
 
     # noriko cute "Woah maman! Je ne t'avais jamais vu aussi sexy!" id home_player_livingroom_495cb7a4
-    noriko cute "哇，妈妈！我从没见过你这么性感！" id home_player_livingroom_495cb7a4
+    noriko cute "哇哦，妈！我从来没见过你穿得这么性感！" id home_player_livingroom_495cb7a4
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:971
 translate chinese_simplified home_player_livingroom_f847d1de:
 
     # yasuka "Merci ma chérie... Et toi [player.n], tu en penses quoi?" id home_player_livingroom_f847d1de
-    yasuka "谢谢你，亲爱的…你呢？" id home_player_livingroom_f847d1de
+    yasuka "谢谢你亲爱的。。。你呢，[player.n]？你觉得怎么样？" id home_player_livingroom_f847d1de
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:974
 translate chinese_simplified home_player_livingroom_780d96ea:
 
     # yasuka "Merci mon chéri." id home_player_livingroom_780d96ea
-    yasuka "谢谢你，亲爱的。" id home_player_livingroom_780d96ea
+    yasuka "谢谢你，甜心。" id home_player_livingroom_780d96ea
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:975
 translate chinese_simplified home_player_livingroom_7b21e575:
 
     # yasuka sad "J'espère que j'aurais du succes!" id home_player_livingroom_7b21e575
-    yasuka sad "我希望我能成功！" id home_player_livingroom_7b21e575
+    yasuka sad "我希望我能成功。" id home_player_livingroom_7b21e575
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:977
 translate chinese_simplified home_player_livingroom_1161be29:
 
     # noriko neutral "C'est un bar a hotesse!" id home_player_livingroom_1161be29
-    noriko neutral "这是酒店酒吧！" id home_player_livingroom_1161be29
+    noriko neutral "那是个小姐酒吧！" id home_player_livingroom_1161be29
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:978
 translate chinese_simplified home_player_livingroom_5740316b:
 
     # noriko "Il faut séduire! Comment tu crois que ça fonctionne?" id home_player_livingroom_5740316b
-    noriko "你必须诱惑！你觉得它是怎么工作的？" id home_player_livingroom_5740316b
+    noriko "你得去勾引其他人！那怎么能行？" id home_player_livingroom_5740316b
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:979
 translate chinese_simplified home_player_livingroom_647cf319:
 
     # yasuka sad "Je suis quand même un peu tendue, je ne sais pas trop a quoi m'attendre." id home_player_livingroom_647cf319
-    yasuka sad "我还是有点紧张，不知道还能期待什么。" id home_player_livingroom_647cf319
+    yasuka sad "我还是有点紧张。我真不知道应该期待点什么。" id home_player_livingroom_647cf319
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:980
 translate chinese_simplified home_player_livingroom_dce8de6e:
 
     # noriko disgusted "Fais juste attention aux pervers avec leurs mains baladeuse." id home_player_livingroom_dce8de6e
-    noriko disgusted "你只要小心那些手不稳的变态。" id home_player_livingroom_dce8de6e
+    noriko disgusted "就注意点那些色批的咸猪手。" id home_player_livingroom_dce8de6e
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:981
 translate chinese_simplified home_player_livingroom_147924ed:
 
     # noriko "Les hommes sont des porcs." id home_player_livingroom_147924ed
-    noriko "男人是猪。" id home_player_livingroom_147924ed
+    noriko "男人都是大猪蹄子。" id home_player_livingroom_147924ed
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:982
 translate chinese_simplified home_player_livingroom_ed6623a0_1:
 
     # player sad "..." id home_player_livingroom_ed6623a0_1
-    player sad "..." id home_player_livingroom_ed6623a0_1
+    player sad "。。。" id home_player_livingroom_ed6623a0_1
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:983
 translate chinese_simplified home_player_livingroom_81c16521:
@@ -2736,559 +2736,559 @@ translate chinese_simplified home_player_livingroom_81c16521:
 translate chinese_simplified home_player_livingroom_3b2034d1:
 
     # yasuka moved "Dis... {w}Tu ne voudrais pas m'accompagner jusqu'au club?" id home_player_livingroom_3b2034d1
-    yasuka moved "Dis... {w}Tu ne voudrais pas m'accompagner jusqu'au club?" id home_player_livingroom_3b2034d1
+    yasuka moved "话说。。。你愿意陪我去俱乐部吗？" id home_player_livingroom_3b2034d1
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:986
 translate chinese_simplified home_player_livingroom_e6357cba:
 
     # yasuka "S'il te plait!" id home_player_livingroom_e6357cba
-    yasuka "求你了！求你了！" id home_player_livingroom_e6357cba
+    yasuka "拜托！" id home_player_livingroom_e6357cba
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:987
 translate chinese_simplified home_player_livingroom_fd320b15:
 
     # player happy "Tu sais bien que tu peux toujours compter sur moi!" id home_player_livingroom_fd320b15
-    player happy "你知道你可以一直依靠我！" id home_player_livingroom_fd320b15
+    player happy "你知道的，你永远都能指的上我。" id home_player_livingroom_fd320b15
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:988
 translate chinese_simplified home_player_livingroom_dc79a81b:
 
     # player "Je t'attendrais même devant si tu veux." id home_player_livingroom_dc79a81b
-    player "如果你愿意，我甚至会在前面等你。" id home_player_livingroom_dc79a81b
+    player "你想的话我都可以在外边等你。" id home_player_livingroom_dc79a81b
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:989
 translate chinese_simplified home_player_livingroom_04b82f09:
 
     # yasuka "Merci tu es adorable." id home_player_livingroom_04b82f09
-    yasuka "谢谢你，你真可爱。" id home_player_livingroom_04b82f09
+    yasuka "谢谢。你真是个甜心。" id home_player_livingroom_04b82f09
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:990
 translate chinese_simplified home_player_livingroom_860cf267:
 
     # yasuka sad "Mais je risque de rentrer très tôt demain matin." id home_player_livingroom_860cf267
-    yasuka sad "但我明天早上可能很早就回家了。" id home_player_livingroom_860cf267
+    yasuka sad "不过，我可能直到明天早晨都不回家。" id home_player_livingroom_860cf267
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:991
 translate chinese_simplified home_player_livingroom_fb22a69b:
 
     # yasuka "C'est un travail de nuit après tout." id home_player_livingroom_fb22a69b
-    yasuka "这毕竟是个夜班。" id home_player_livingroom_fb22a69b
+    yasuka "毕竟这是个夜班工作。" id home_player_livingroom_fb22a69b
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:992
 translate chinese_simplified home_player_livingroom_53149d83:
 
     # player "Promet moi d'être prudente!" id home_player_livingroom_53149d83
-    player "答应我你会小心的！" id home_player_livingroom_53149d83
+    player "答应我，小心一点！" id home_player_livingroom_53149d83
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:993
 translate chinese_simplified home_player_livingroom_d7140c37:
 
     # yasuka moved "Oh tu t'inquiete pour moi?" id home_player_livingroom_d7140c37
-    yasuka moved "哦，你担心我吗？" id home_player_livingroom_d7140c37
+    yasuka moved "噢，你在担心我？" id home_player_livingroom_d7140c37
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:994
 translate chinese_simplified home_player_livingroom_d4f6d95d:
 
     # yasuka neutral "Ca ira, je suis confiante et puis... {w} ce sera toujours mieux que mon ancien travail." id home_player_livingroom_d4f6d95d
-    yasuka neutral "Ca ira, je suis confiante et puis... {w} ce sera toujours mieux que mon ancien travail." id home_player_livingroom_d4f6d95d
+    yasuka neutral "我肯定会没事的，还有。。。{w} 这依然比我曾经那个工作好。" id home_player_livingroom_d4f6d95d
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:995
 translate chinese_simplified home_player_livingroom_eafdd494:
 
     # player "Ton ancien travail? Tu faisais quoi?" id home_player_livingroom_eafdd494
-    player "你以前的工作？你在干什么？" id home_player_livingroom_eafdd494
+    player "你曾经的工作？你之前在做什么？" id home_player_livingroom_eafdd494
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:996
 translate chinese_simplified home_player_livingroom_8d8126b7:
 
     # yasuka "Je travaillais pour la petite coffee boutique au coin de la rue." id home_player_livingroom_8d8126b7
-    yasuka "我在拐角处的一家小咖啡店工作。" id home_player_livingroom_8d8126b7
+    yasuka "我以前在这条街上的一家小咖啡店工作。" id home_player_livingroom_8d8126b7
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:997
 translate chinese_simplified home_player_livingroom_901fedd4:
 
     # yasuka sad "Mais mon patron était un homme horrible." id home_player_livingroom_901fedd4
-    yasuka sad "但我的老板是个可怕的人。" id home_player_livingroom_901fedd4
+    yasuka sad "但我的老板可是个恐怖的人。" id home_player_livingroom_901fedd4
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:998
 translate chinese_simplified home_player_livingroom_c2f513b1:
 
     # yasuka moved "Je suis soulagée de ne plus avoir affaire a lui." id home_player_livingroom_c2f513b1
-    yasuka moved "我很高兴我不再和他打交道了。" id home_player_livingroom_c2f513b1
+    yasuka moved "我很高兴再也不用和他打交道了。" id home_player_livingroom_c2f513b1
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:999
 translate chinese_simplified home_player_livingroom_9c3fd7fa:
 
     # player sad "Je suis désolé j'ignorais tout ça!" id home_player_livingroom_9c3fd7fa
-    player sad "对不起，我不知道！" id home_player_livingroom_9c3fd7fa
+    player sad "对不起！我之前都不知道这事！" id home_player_livingroom_9c3fd7fa
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1000
 translate chinese_simplified home_player_livingroom_53875209:
 
     # player "Il ta laissé démissionner sans poser de problemes?" id home_player_livingroom_53875209
-    player "他让你辞职了？" id home_player_livingroom_53875209
+    player "他同意就这么让你辞了？" id home_player_livingroom_53875209
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1001
 translate chinese_simplified home_player_livingroom_57a70dec:
 
     # yasuka sad "...Non, il m'a menacé de m'empecher de travailler ailleurs mais j'ai déjà un autre travail maintenant donc je m'en fichais un peu." id home_player_livingroom_57a70dec
-    yasuka sad "……不，他威胁要阻止我在其他地方工作，但我现在已经有了另一份工作，所以我不在乎。" id home_player_livingroom_57a70dec
+    yasuka sad "。。。不，他威胁说不让我在别的地方工作，但是我已经得到另一份工作了所以没在乎。" id home_player_livingroom_57a70dec
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1007
 translate chinese_simplified home_player_livingroom_c3893a2a:
 
     # player "Quand je pense qu'elle a du traverser ça seule..." id home_player_livingroom_c3893a2a
-    player "当我认为她必须独自经历这一切。。。" id home_player_livingroom_c3893a2a
+    player "当我想到她必须独自承受这一切。。。" id home_player_livingroom_c3893a2a
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1008
 translate chinese_simplified home_player_livingroom_4fd30970:
 
     # player "J'étais vraiment une merde pour ne pas avoir vu a quel point elle pouvait souffrir de cette situation." id home_player_livingroom_4fd30970
-    player "我真是个混蛋，因为我没看到她在这种情况下会有多痛苦。" id home_player_livingroom_4fd30970
+    player "我真是一坨屎，竟然没有看到她在这种情况下受了多少苦。" id home_player_livingroom_4fd30970
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1009
 translate chinese_simplified home_player_livingroom_6f5c15a3:
 
     # player "En esperant que ce nouveau travail donne quelque chose de positif." id home_player_livingroom_6f5c15a3
-    player "希望这份新工作能带来一些积极的东西。" id home_player_livingroom_6f5c15a3
+    player "我希望这份新工作对你更好。" id home_player_livingroom_6f5c15a3
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1010
 translate chinese_simplified home_player_livingroom_75a316c5:
 
     # player "Quand j'y pense, dans mon ancienne vie, elle avait travaillée en tant qu'hotesse" id home_player_livingroom_75a316c5
-    player "当我想到这一点时，在我以前的生活中，她曾是一名女主人。" id home_player_livingroom_75a316c5
+    player "现在想起来，在我的上辈子她也做过酒吧小姐。" id home_player_livingroom_75a316c5
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1011
 translate chinese_simplified home_player_livingroom_02e31a66:
 
     # player "Mais la mort de [noriko.n] l'avait completement détruite." id home_player_livingroom_02e31a66
-    player "但诺里科的死彻底摧毁了它。" id home_player_livingroom_02e31a66
+    player "但[noriko.n]的死彻底击垮了她。" id home_player_livingroom_02e31a66
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1012
 translate chinese_simplified home_player_livingroom_1606c712:
 
     # player "Elle ne rentrait plus a la maison, ne me parlait plus..." id home_player_livingroom_1606c712
-    player "她不再回家，不再和我说话。。。" id home_player_livingroom_1606c712
+    player "她甚至再也不回家了，也不跟任何人说话。。。" id home_player_livingroom_1606c712
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1013
 translate chinese_simplified home_player_livingroom_0168a65e:
 
     # player "Je dois continuer mes efforts, je ne veux pas qu'il lui arrive malheur." id home_player_livingroom_0168a65e
-    player "我必须继续努力，我不想让她出事。" id home_player_livingroom_0168a65e
+    player "我必须继续努力工作。我不希望她有什么不测。" id home_player_livingroom_0168a65e
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1018
 translate chinese_simplified home_player_livingroom_0d6ac7ed:
 
     # yasuka shocked "Mon dieu! Je n'ai pas vu le temps passer, je vais être en retard pour mon premier jour." id home_player_livingroom_0d6ac7ed
-    yasuka shocked "哦，天哪！我没看到时间流逝，我第一天就要迟到了。" id home_player_livingroom_0d6ac7ed
+    yasuka shocked "天哪！我都没注意时间过得这么快，我第一天上班要迟到了！" id home_player_livingroom_0d6ac7ed
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1019
 translate chinese_simplified home_player_livingroom_6e2cc205:
 
     # player surprised "C'est ma faute, allons y!" id home_player_livingroom_6e2cc205
-    player surprised "是我的错，我们走！" id home_player_livingroom_6e2cc205
+    player surprised "我的错！咱们走！" id home_player_livingroom_6e2cc205
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1036
 translate chinese_simplified home_player_livingroom_476505df:
 
     # yasuka "Bonjour mes chéris!" id home_player_livingroom_476505df
-    yasuka "你好，亲爱的！" id home_player_livingroom_476505df
+    yasuka "嗨，甜心们！" id home_player_livingroom_476505df
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1037
 translate chinese_simplified home_player_livingroom_256277c3:
 
     # noriko "Salut M'man!" id home_player_livingroom_256277c3
-    noriko "嘿，妈妈！" id home_player_livingroom_256277c3
+    noriko "噢，嗨妈！" id home_player_livingroom_256277c3
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1038
 translate chinese_simplified home_player_livingroom_19c84fda:
 
     # noriko "Comment s'est passé ton premier jour?" id home_player_livingroom_19c84fda
-    noriko "你第一天过得怎么样？" id home_player_livingroom_19c84fda
+    noriko "你第一天怎么样？" id home_player_livingroom_19c84fda
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1039
 translate chinese_simplified home_player_livingroom_f495571f:
 
     # yasuka neutral "Je ne sais pas pourquoi je me suis autant inquiétée..." id home_player_livingroom_f495571f
-    yasuka neutral "我不知道我为什么这么担心。。。" id home_player_livingroom_f495571f
+    yasuka neutral "我也不知道为什么自己这么担心。。。" id home_player_livingroom_f495571f
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1040
 translate chinese_simplified home_player_livingroom_3f813edb:
 
     # yasuka "Tout le monde a été tres gentil avec moi, j'ai fais la connaissance d'enormement de monde." id home_player_livingroom_3f813edb
-    yasuka "每个人都对我很好，我认识了很多人。" id home_player_livingroom_3f813edb
+    yasuka "每个人都很棒，我邂逅了很多人。" id home_player_livingroom_3f813edb
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1041
 translate chinese_simplified home_player_livingroom_28650062:
 
     # yasuka "Même les clients étaient ravi de voir une nouvelle comme moi." id home_player_livingroom_28650062
-    yasuka "即使是顾客也很高兴看到像我这样的新闻。" id home_player_livingroom_28650062
+    yasuka "就连顾客也很高兴看到我这样的新人。" id home_player_livingroom_28650062
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1042
 translate chinese_simplified home_player_livingroom_54136832:
 
     # noriko "Genial je suis contente pour toi!" id home_player_livingroom_54136832
-    noriko "我真为你高兴！" id home_player_livingroom_54136832
+    noriko "真好！真为你感到高兴！" id home_player_livingroom_54136832
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1044
 translate chinese_simplified home_player_livingroom_7fb24f9d:
 
     # player "Je suis content qu'il que tout se soit bien passé." id home_player_livingroom_7fb24f9d
-    player "我很高兴一切顺利。" id home_player_livingroom_7fb24f9d
+    player "我很高兴一切都顺利。" id home_player_livingroom_7fb24f9d
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1045
 translate chinese_simplified home_player_livingroom_4a31f01b:
 
     # player sad "Je ne sais pas pourquoi j'ai imaginé le pire en te voyant travailler la bas." id home_player_livingroom_4a31f01b
-    player sad "我不知道为什么当我看到你在楼下工作时，我会想到最糟糕的事情。" id home_player_livingroom_4a31f01b
+    player sad "我不知道为什么看你在那工作会想到一些最坏的情况。" id home_player_livingroom_4a31f01b
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1046
 translate chinese_simplified home_player_livingroom_30d1c268:
 
     # yasuka neutral "Mon cheri ne t'inquiete pas autant pour moi, ce devrait etre l'inverse tu sais." id home_player_livingroom_30d1c268
-    yasuka neutral "亲爱的，别担心我，你知道的，应该是相反的。" id home_player_livingroom_30d1c268
+    yasuka neutral "你不用这么担心我，亲爱的。应该反过来，你知道的。" id home_player_livingroom_30d1c268
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1047
 translate chinese_simplified home_player_livingroom_6f677c50:
 
     # yasuka "Tu es un homme a présent." id home_player_livingroom_6f677c50
-    yasuka "你现在是个男人了。" id home_player_livingroom_6f677c50
+    yasuka "你是个男人了。" id home_player_livingroom_6f677c50
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1048
 translate chinese_simplified home_player_livingroom_6d8c7cc8:
 
     # yasuka "Je suis certain que ta future femme sera heureuse avec quelqu'un d'aussi intentionné que toi." id home_player_livingroom_6d8c7cc8
-    yasuka "我相信你未来的妻子会很高兴和你这样的人在一起。" id home_player_livingroom_6d8c7cc8
+    yasuka "我相信你未来的妻子和你这样好心的人在一起会很开心的。" id home_player_livingroom_6d8c7cc8
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1049
 translate chinese_simplified home_player_livingroom_b4e69ca9_2:
 
     # player neutral "..." id home_player_livingroom_b4e69ca9_2
-    player neutral "..." id home_player_livingroom_b4e69ca9_2
+    player neutral "。。。" id home_player_livingroom_b4e69ca9_2
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1050
 translate chinese_simplified home_player_livingroom_801ee4d0:
 
     # yasuka "Je vais aller me reposer a présent je tombe littéralement de sommeil et je reprend le travail ce soir." id home_player_livingroom_801ee4d0
-    yasuka "我现在要休息了，我真的睡着了，今晚我要回去工作了。" id home_player_livingroom_801ee4d0
+    yasuka "我得去休息了。我都快睡着了，然后我今晚还得工作。" id home_player_livingroom_801ee4d0
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1051
 translate chinese_simplified home_player_livingroom_d6369a9f:
 
     # player happy "Oui, je comprend, repose toi bien." id home_player_livingroom_d6369a9f
-    player happy "是的，我明白。好好休息。" id home_player_livingroom_d6369a9f
+    player happy "嗯，我理解。睡个好觉。" id home_player_livingroom_d6369a9f
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1052
 translate chinese_simplified home_player_livingroom_17bcaacf:
 
     # yasuka "Ne faites pas trop de bruits tout les deux." id home_player_livingroom_17bcaacf
-    yasuka "你们两个不要太吵。" id home_player_livingroom_17bcaacf
+    yasuka "你们两个不要太吵哦。" id home_player_livingroom_17bcaacf
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1053
 translate chinese_simplified home_player_livingroom_b4141f4a:
 
     # player "Promis!" id home_player_livingroom_b4141f4a
-    player "我保证" id home_player_livingroom_b4141f4a
+    player "我保证！" id home_player_livingroom_b4141f4a
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1067
 translate chinese_simplified home_player_livingroom_e4a767b5:
 
     # player "[yasuka.n] n'est pas là?" id home_player_livingroom_e4a767b5
-    player "yasuka.n不在吗？" id home_player_livingroom_e4a767b5
+    player "[yasuka.n]不在这？" id home_player_livingroom_e4a767b5
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1068
 translate chinese_simplified home_player_livingroom_e1615d6a:
 
     # noriko "Non, elle est déja partie." id home_player_livingroom_e1615d6a
-    noriko "不，她已经走了。" id home_player_livingroom_e1615d6a
+    noriko "没，她已经走了。" id home_player_livingroom_e1615d6a
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1069
 translate chinese_simplified home_player_livingroom_4c71155e:
 
     # player upset "Merde!" id home_player_livingroom_4c71155e
-    player upset "妈的，伙计！" id home_player_livingroom_4c71155e
+    player upset "操！" id home_player_livingroom_4c71155e
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1070
 translate chinese_simplified home_player_livingroom_2f3172d9:
 
     # noriko shame "Un probleme?" id home_player_livingroom_2f3172d9
-    noriko shame "有问题吗？" id home_player_livingroom_2f3172d9
+    noriko shame "出事了？" id home_player_livingroom_2f3172d9
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1071
 translate chinese_simplified home_player_livingroom_13f23864:
 
     # player "Oui je vais essayer de la rattraper!" id home_player_livingroom_13f23864
-    player "是的，我会尽力赶上她的！" id home_player_livingroom_13f23864
+    player "是啊，我得找到她！" id home_player_livingroom_13f23864
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1084
 translate chinese_simplified home_player_livingroom_c4254423:
 
     # yasuka "Bonjour mon cheri, tu as passé une bonne nuit?" id home_player_livingroom_c4254423
-    yasuka "你好，亲爱的，你睡得好吗？" id home_player_livingroom_c4254423
+    yasuka "嗨亲爱的！昨晚睡得还好吗？" id home_player_livingroom_c4254423
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1085
 translate chinese_simplified home_player_livingroom_ee52bdf2:
 
     # player "Et toi?" id home_player_livingroom_ee52bdf2
-    player "那你呢？" id home_player_livingroom_ee52bdf2
+    player "你怎么样？" id home_player_livingroom_ee52bdf2
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1086
 translate chinese_simplified home_player_livingroom_79d3b417:
 
     # player neutral "Est ce que tu as eu des problemes avec..." id home_player_livingroom_79d3b417
-    player neutral "你对。。。" id home_player_livingroom_79d3b417
+    player neutral "你有没有和他们。。。" id home_player_livingroom_79d3b417
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1087
 translate chinese_simplified home_player_livingroom_2361752a:
 
     # yasuka "Le garçon que tu avais mentionné est effectivement venu me parler mais honnetement tu n'avais pas a t'inquieter." id home_player_livingroom_2361752a
-    yasuka "你提到的那个男孩确实来找我说话，但老实说，你不用担心。" id home_player_livingroom_2361752a
+    yasuka "你提到的那个男孩昨天的确来找我了，但说真的你不需要担心。" id home_player_livingroom_2361752a
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1088
 translate chinese_simplified home_player_livingroom_8d6f4fee:
 
     # yasuka upset "Son attitude etait déplorable et la façon de traiter les femmes était absolument méprisable." id home_player_livingroom_8d6f4fee
-    yasuka upset "他的态度是可悲的，对待妇女的方式是完全卑鄙的。" id home_player_livingroom_8d6f4fee
+    yasuka upset "他的言行真的很可悲，而他对待女人的方式绝对算得上卑劣。" id home_player_livingroom_8d6f4fee
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1089
 translate chinese_simplified home_player_livingroom_e980fa5c:
 
     # yasuka "Il passé le reste de la soirée assis dans un coin." id home_player_livingroom_e980fa5c
-    yasuka "他整晚都坐在角落里。" id home_player_livingroom_e980fa5c
+    yasuka "他之后一整晚都待在一个角落里。" id home_player_livingroom_e980fa5c
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1090
 translate chinese_simplified home_player_livingroom_e1ec221b:
 
     # yasuka neutral "J'ai bien vu qu'il semblait furieux mais la sécurité est vraiment efficace la bas." id home_player_livingroom_e1ec221b
-    yasuka neutral "我知道他看起来很生气，但安全措施在下面很有效。" id home_player_livingroom_e1ec221b
+    yasuka neutral "我看得出他很生气，但那里的安保措施真的很有效。" id home_player_livingroom_e1ec221b
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1091
 translate chinese_simplified home_player_livingroom_ae2141db:
 
     # player happy "C'est une excellente nouvelle!" id home_player_livingroom_ae2141db
-    player happy "这是个好消息！" id home_player_livingroom_ae2141db
+    player happy "那可真是个好消息！" id home_player_livingroom_ae2141db
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1092
 translate chinese_simplified home_player_livingroom_47e22585:
 
     # yasuka sad "Par contre... Mr [ubs.n] s'est peut etre un peu trop amusé a le provoquer." id home_player_livingroom_47e22585
-    yasuka sad "另一方面，ubs.n先生可能有点太兴奋了。" id home_player_livingroom_47e22585
+    yasuka sad "另外，[ubs.n]先生挑衅他的方式真是有点有趣。" id home_player_livingroom_47e22585
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1093
 translate chinese_simplified home_player_livingroom_91e54d91:
 
     # player "Il n'a rien tenter quoi que se soit avec toi?" id home_player_livingroom_91e54d91
-    player "他对你什么都没做？" id home_player_livingroom_91e54d91
+    player "他没对你怎么样吧？" id home_player_livingroom_91e54d91
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1094
 translate chinese_simplified home_player_livingroom_e9625e33:
 
     # yasuka neutral "Non non bien au contraire... Il a été courtois, parfois amusant, sans jamais un geste déplacé." id home_player_livingroom_e9625e33
-    yasuka neutral "不，不，恰恰相反……他很有礼貌，有时很有趣，从来没有不恰当的举动。" id home_player_livingroom_e9625e33
+    yasuka neutral "不，不，恰恰相反……他彬彬有礼，有时甚至很有趣，没有做任何不恰当的动作。" id home_player_livingroom_e9625e33
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1095
 translate chinese_simplified home_player_livingroom_007769b1:
 
     # player surprised "Ah bon?" id home_player_livingroom_007769b1
-    player surprised "-是吗？-是的。" id home_player_livingroom_007769b1
+    player surprised "真的？" id home_player_livingroom_007769b1
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1100
 translate chinese_simplified home_player_livingroom_c753102b:
 
     # x "Je suis sur que cette ordure a la même objectif qu'[akira.n]." id home_player_livingroom_c753102b
-    x "我相信这个混蛋和阿基拉有着同样的目标。" id home_player_livingroom_c753102b
+    x "我敢肯定那个垃圾的目的和[akira.n]是一样的。" id home_player_livingroom_c753102b
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1101
 translate chinese_simplified home_player_livingroom_f77fb6b5:
 
     # x "De plus il semble bien plus calculateur." id home_player_livingroom_f77fb6b5
-    x "此外，它似乎更具计算性。" id home_player_livingroom_f77fb6b5
+    x "而他看起来更会算计。" id home_player_livingroom_f77fb6b5
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1102
 translate chinese_simplified home_player_livingroom_4eca95dc:
 
     # x "Putain ça me rend fou de savoir qu'il va passer tout son temps avec des intentions aussi sales a coté d'elle." id home_player_livingroom_4eca95dc
-    x "我他妈的疯了，知道他会把所有的时间都花在她身上。" id home_player_livingroom_4eca95dc
+    x "操，知道他怀揣着这么肮脏的意图花了他全部的精力待在她身边，快把我逼疯了。" id home_player_livingroom_4eca95dc
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1107
 translate chinese_simplified home_player_livingroom_ec4c5ba3:
 
     # yasuka "Tu vois que tu t'inquiete trop!" id home_player_livingroom_ec4c5ba3
-    yasuka "你太担心了！" id home_player_livingroom_ec4c5ba3
+    yasuka "对吧？你太担心了。" id home_player_livingroom_ec4c5ba3
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1108
 translate chinese_simplified home_player_livingroom_2297e48f:
 
     # yasuka "La soirée d'hier soir a d'ailleur été une tres bonne soirée" id home_player_livingroom_2297e48f
-    yasuka "昨晚真是个愉快的夜晚。" id home_player_livingroom_2297e48f
+    yasuka "昨晚真的很棒！" id home_player_livingroom_2297e48f
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1109
 translate chinese_simplified home_player_livingroom_826f8451:
 
     # yasuka "Je suis enfin capable de vous donner un peu d'argent de poche." id home_player_livingroom_826f8451
-    yasuka "我终于可以给你一些零用钱了。" id home_player_livingroom_826f8451
+    yasuka "我终于能给你些零花钱了。" id home_player_livingroom_826f8451
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1111
 translate chinese_simplified home_player_livingroom_505108b8:
 
     # yasuka "Je suis si heureuse, je vais enfin pouvoir payer mes dettes et vous faire plaisir." id home_player_livingroom_505108b8
-    yasuka "我太高兴了，我终于可以还清债务，取悦你了。" id home_player_livingroom_505108b8
+    yasuka "我好开心。我终于可以还上债，让你开心了！" id home_player_livingroom_505108b8
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1114
 translate chinese_simplified home_player_livingroom_75c56896:
 
     # yasuka pouting "Mon cheri, ne t'en fais pas ce n'est pas 10000¥ qui changeront quoi que se soit." id home_player_livingroom_75c56896
-    yasuka pouting "亲爱的，别担心，一万日元不会改变任何事情。" id home_player_livingroom_75c56896
+    yasuka pouting "亲爱的，别太担心。10000¥不算什么的。。" id home_player_livingroom_75c56896
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1115
 translate chinese_simplified home_player_livingroom_46c64f6d:
 
     # yasuka "S'il te plait, garde les et profite en un peu aussi, les choses semblent s'arranger pour le mieux donc autant en profiter." id home_player_livingroom_46c64f6d
-    yasuka "请把它们留着，好好享受吧，事情似乎正在好转，所以我们还是好好享受吧。" id home_player_livingroom_46c64f6d
+    yasuka "所以还请收下这些，自己好好享受一下。事情似乎都在往好处走，我们不妨享受一下。" id home_player_livingroom_46c64f6d
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1116
 translate chinese_simplified home_player_livingroom_5774b098:
 
     # player happy "Je gagne assez avec mon travail au restaurant, je tiens vraiment a ce que nous puissons rembourser nos dettes le plus vite possible." id home_player_livingroom_5774b098
-    player happy "我在餐馆工作挣的钱够多了，我真的很想尽快还清债务。" id home_player_livingroom_5774b098
+    player happy "我在餐厅赚到了足够的钱，我真的希望我们可以尽快还上债。" id home_player_livingroom_5774b098
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1117
 translate chinese_simplified home_player_livingroom_1bde17bc:
 
     # yasuka moved "Tu es si serieux... Mais tu as raison. Je vais les mettre de coté." id home_player_livingroom_1bde17bc
-    yasuka moved "你太认真了…但你是对的。我把它们放在一边。" id home_player_livingroom_1bde17bc
+    yasuka moved "你好认真。。。你是对的。我会把这些钱留着的。" id home_player_livingroom_1bde17bc
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1119
 translate chinese_simplified home_player_livingroom_c6612f1f:
 
     # yasuka "J'ai envie de vous faire plaisir." id home_player_livingroom_c6612f1f
-    yasuka "我想取悦你。" id home_player_livingroom_c6612f1f
+    yasuka "我希望能让你们两个都开开心心的。" id home_player_livingroom_c6612f1f
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1120
 translate chinese_simplified home_player_livingroom_87081007:
 
     # yasuka "Alors amusez vous toi et à [noriko.n]." id home_player_livingroom_87081007
-    yasuka "所以玩得开心点。" id home_player_livingroom_87081007
+    yasuka "玩得开心，你们俩。" id home_player_livingroom_87081007
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1121
 translate chinese_simplified home_player_livingroom_159d3215:
 
     # player "Merci beaucoup." id home_player_livingroom_159d3215
-    player "非常感谢您。" id home_player_livingroom_159d3215
+    player "十分感谢。" id home_player_livingroom_159d3215
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1124
 translate chinese_simplified home_player_livingroom_07e7f332:
 
     # yasuka "Je tombe de sommeil, je crois bien que je vais aller dormir à présent." id home_player_livingroom_07e7f332
-    yasuka "我睡着了，我想我现在要睡觉了。" id home_player_livingroom_07e7f332
+    yasuka "我都快睡着了，我得去睡了。" id home_player_livingroom_07e7f332
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1125
 translate chinese_simplified home_player_livingroom_2e5d5488:
 
     # player "Daccord, repose toi bien!" id home_player_livingroom_2e5d5488
-    player "达科德，好好休息！" id home_player_livingroom_2e5d5488
+    player "好的，睡个好觉！" id home_player_livingroom_2e5d5488
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1126
 translate chinese_simplified home_player_livingroom_8aac915e:
 
     # yasuka "Merci mon cheri." id home_player_livingroom_8aac915e
-    yasuka "谢谢你，亲爱的。" id home_player_livingroom_8aac915e
+    yasuka "谢谢你，甜心。" id home_player_livingroom_8aac915e
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1139
 translate chinese_simplified home_player_livingroom_1b5723bb:
 
     # yasuka "Bonjour mon cheri!" id home_player_livingroom_1b5723bb
-    yasuka "祝你生日快乐！" id home_player_livingroom_1b5723bb
+    yasuka "早上好，甜心！" id home_player_livingroom_1b5723bb
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1140
 translate chinese_simplified home_player_livingroom_19feb979:
 
     # yasuka "Tu as passé une bonne nuit?" id home_player_livingroom_19feb979
-    yasuka "你睡得好吗？" id home_player_livingroom_19feb979
+    yasuka "昨晚睡得还好吗？" id home_player_livingroom_19feb979
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1141
 translate chinese_simplified home_player_livingroom_0f5035bd:
 
     # player sad "J'ai... J'ai fait un rêve beaucoup trop étrange cette nuit, " id home_player_livingroom_0f5035bd
-    player sad "我昨晚做了一个非常奇怪的梦，" id home_player_livingroom_0f5035bd
+    player sad "我。。。我做了个很奇怪的梦。" id home_player_livingroom_0f5035bd
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1142
 translate chinese_simplified home_player_livingroom_4f2af91f:
 
     # yasuka "Mhh c'est curieux moi aussi... C'était a propos de quoi?" id home_player_livingroom_4f2af91f
-    yasuka "我也很好奇…是关于什么的？" id home_player_livingroom_4f2af91f
+    yasuka "嗯。。。好奇怪，我也一样。是个什么样的梦？" id home_player_livingroom_4f2af91f
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1143
 translate chinese_simplified home_player_livingroom_d925a004:
 
     # player "Euh je... Tu venais dans ma chambre et..." id home_player_livingroom_d925a004
-    player "呃，我…你来我房间。。。" id home_player_livingroom_d925a004
+    player "你。。。进了我屋，然后。。。" id home_player_livingroom_d925a004
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1144
 translate chinese_simplified home_player_livingroom_be57f3f8:
 
     # yasuka "C'est... Moi aussi je venais dans ta chambre pour..." id home_player_livingroom_be57f3f8
-    yasuka "我也是来你房间的。。。" id home_player_livingroom_be57f3f8
+    yasuka "那个。。。我也进了你屋。。。" id home_player_livingroom_be57f3f8
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1145
 translate chinese_simplified home_player_livingroom_6a9a30bf:
 
     # yasuka shocked "Oh mon dieu!" id home_player_livingroom_6a9a30bf
-    yasuka shocked "哦，我的上帝！" id home_player_livingroom_6a9a30bf
+    yasuka shocked "我的天哪！" id home_player_livingroom_6a9a30bf
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1146
 translate chinese_simplified home_player_livingroom_d822172f:
 
     # yasuka "Qu'est ce que j'ai fait?" id home_player_livingroom_d822172f
-    yasuka "我做了什么？" id home_player_livingroom_d822172f
+    yasuka "我都做了什么？" id home_player_livingroom_d822172f
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1151
 translate chinese_simplified home_player_livingroom_5f58c730:
 
     # x "Oh putain c'était donc pas un rêve?!" id home_player_livingroom_5f58c730
-    x "哦，天哪，那不是梦吗？" id home_player_livingroom_5f58c730
+    x "福生无量天尊啊，那不是个梦！？" id home_player_livingroom_5f58c730
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1152
 translate chinese_simplified home_player_livingroom_91b6ce49:
 
     # x "Bon sang a quel point avait elle bu pour me sauter dessus comme ça?" id home_player_livingroom_91b6ce49
-    x "她喝了多少酒就这样跳到我身上？" id home_player_livingroom_91b6ce49
+    x "该死，她昨天晚上喝了多少让她就这么扑到我身上的？" id home_player_livingroom_91b6ce49
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1153
 translate chinese_simplified home_player_livingroom_51e8dc27:
 
     # x "Il faut plus que de l'alcool pour provoquer ce genre de dérapage." id home_player_livingroom_51e8dc27
-    x "这需要的不仅仅是酒精。" id home_player_livingroom_51e8dc27
+    x "光靠酒精是做不到的。" id home_player_livingroom_51e8dc27
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1154
 translate chinese_simplified home_player_livingroom_2e908f82:
 
     # x "A bien y réfléchir, il y a forcement autre chose." id home_player_livingroom_2e908f82
-    x "仔细想想，肯定还有别的事。" id home_player_livingroom_2e908f82
+    x "现在想想，肯定还有别的原因。" id home_player_livingroom_2e908f82
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1155
 translate chinese_simplified home_player_livingroom_890d1dd7:
 
     # x "[macumba.n] a peut etre vu quelque chose de louche avant que [yasuka.n] s'en aille du club hier soir." id home_player_livingroom_890d1dd7
-    x "昨晚[yasuka.n]离开俱乐部之前，可能看到了一些可疑的东西。" id home_player_livingroom_890d1dd7
+    x "我想知道[macumba.n]在[yasuka.n]离开之前有没有看到什么可疑的事。" id home_player_livingroom_890d1dd7
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1160
 translate chinese_simplified home_player_livingroom_bb0b3a57:
 
     # yasuka depressed "Oh mon cheri, je suis tellement désolée, je ne sais pas du tout ce qui m'a pris." id home_player_livingroom_bb0b3a57
-    yasuka depressed "哦，亲爱的，我很抱歉，我不知道发生了什么事。" id home_player_livingroom_bb0b3a57
+    yasuka depressed "亲爱的，我很抱歉。我不知道我怎么了。" id home_player_livingroom_bb0b3a57
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1161
 translate chinese_simplified home_player_livingroom_e3cc0e39:
 
     # yasuka "J'ai vraiment fait quelque chose d'horrible." id home_player_livingroom_e3cc0e39
-    yasuka "我真的做了件可怕的事。" id home_player_livingroom_e3cc0e39
+    yasuka "我真的。。。做了很可怕的事。" id home_player_livingroom_e3cc0e39
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1162
 translate chinese_simplified home_player_livingroom_b74b8f38:
 
     # yasuka sad "Je te demande pardon..." id home_player_livingroom_b74b8f38
-    yasuka sad "我很抱歉。。。" id home_player_livingroom_b74b8f38
+    yasuka sad "我很抱歉。" id home_player_livingroom_b74b8f38
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1163
 translate chinese_simplified home_player_livingroom_c9b93f69:
@@ -3300,121 +3300,121 @@ translate chinese_simplified home_player_livingroom_c9b93f69:
 translate chinese_simplified home_player_livingroom_011a6359:
 
     # yasuka "Mon cheri, je suis tellement désolée, je ne sais plus ou me mettre." id home_player_livingroom_011a6359
-    yasuka "亲爱的，我很抱歉，我不知道该穿什么。" id home_player_livingroom_011a6359
+    yasuka "亲爱的，我很对不起。我不知道要怎么做了。" id home_player_livingroom_011a6359
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1165
 translate chinese_simplified home_player_livingroom_f0835c28:
 
     # yasuka "J'ai tellement honte de moi." id home_player_livingroom_f0835c28
-    yasuka "我为自己感到羞耻。" id home_player_livingroom_f0835c28
+    yasuka "我真为自己感到羞愧" id home_player_livingroom_f0835c28
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1170
 translate chinese_simplified home_player_livingroom_50928fae:
 
     # x "Cette situation est vraiment en train de la tuer..." id home_player_livingroom_50928fae
-    x "这种情况真的要杀了她。。。" id home_player_livingroom_50928fae
+    x "这情况真会要了她命的。" id home_player_livingroom_50928fae
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1171
 translate chinese_simplified home_player_livingroom_17680b8c:
 
     # x "Il faut que je fasse quelque chose ou elle s'en voudra toute sa vie." id home_player_livingroom_17680b8c
-    x "我得做点什么，否则她一辈子都会自责的。" id home_player_livingroom_17680b8c
+    x "我必须做点什么，否则她会自责一辈子的。" id home_player_livingroom_17680b8c
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1176
 translate chinese_simplified home_player_livingroom_78235b70:
 
     # player "Je suis sur d'avoir rêver en fait... J'ai du mal a me souvenir ce qui s'est exactement passé." id home_player_livingroom_78235b70
-    player "我肯定我在做梦…我不记得到底发生了什么。" id home_player_livingroom_78235b70
+    player "我敢肯定我是在做梦。。。其实我记不清到底发生了什么。" id home_player_livingroom_78235b70
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1177
 translate chinese_simplified home_player_livingroom_fe4f044e:
 
     # player "Je t'ai vu venir dans ma chambre en lingerie et... je me vois te raccompagner apres ça..." id home_player_livingroom_fe4f044e
-    player "我看见你穿着内衣走进我的房间，然后…我看到我送你回家。。。" id home_player_livingroom_fe4f044e
+    player "我看见你穿着内衣走进我的房间，然后。。。我记得之后我陪你回了房间。" id home_player_livingroom_fe4f044e
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1178
 translate chinese_simplified home_player_livingroom_6c848cff:
 
     # player "Le trou noir total." id home_player_livingroom_6c848cff
-    player "整个黑洞。" id home_player_livingroom_6c848cff
+    player "之后我就完全不记得了。" id home_player_livingroom_6c848cff
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1179
 translate chinese_simplified home_player_livingroom_5fdf9c5f:
 
     # yasuka "Oh! Je... Tu ne te souviens pas de la suite?" id home_player_livingroom_5fdf9c5f
-    yasuka "哦，天哪！一、…你不记得接下来发生了什么吗？" id home_player_livingroom_5fdf9c5f
+    yasuka "噢！你。。。不记得接下来发生什么了吗？" id home_player_livingroom_5fdf9c5f
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1180
 translate chinese_simplified home_player_livingroom_b13e159a:
 
     # player "Non... Apres je crois que le toit de ta chambre s'est ouvert et tu t'es envolée comme si tu pilotait ton lit comme un avion." id home_player_livingroom_b13e159a
-    player "不…然后我想你房间的屋顶开了，你像飞机一样飞走了。" id home_player_livingroom_b13e159a
+    player "不记得了。。。在那之后，你房间的天花板打开了，然后你好像跟开飞机一样和你的床一起飞上天了。" id home_player_livingroom_b13e159a
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1181
 translate chinese_simplified home_player_livingroom_1bf78d55:
 
     # yasuka shocked "Effectivement c'est... Un drole de rêve..." id home_player_livingroom_1bf78d55
-    yasuka shocked "事实上，这是…一个梦中的笑话。。。" id home_player_livingroom_1bf78d55
+    yasuka shocked "确实，那可真是个。。。奇怪的梦啊。" id home_player_livingroom_1bf78d55
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1182
 translate chinese_simplified home_player_livingroom_34b15c01:
 
     # yasuka moved "Tu m'as fais une peur bleue, j'ai cru que j'avais...." id home_player_livingroom_34b15c01
-    yasuka moved "你吓到我了，我以为我。。。" id home_player_livingroom_34b15c01
+    yasuka moved "你吓死我了，我还以为。。。" id home_player_livingroom_34b15c01
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1183
 translate chinese_simplified home_player_livingroom_cd173feb:
 
     # player happy "Que tu avais... quoi?" id home_player_livingroom_cd173feb
-    player happy "你…什么？" id home_player_livingroom_cd173feb
+    player happy "你以为。。。什么？" id home_player_livingroom_cd173feb
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1184
 translate chinese_simplified home_player_livingroom_8256d083:
 
     # yasuka pouting "Rien!" id home_player_livingroom_8256d083
-    yasuka pouting "没什么" id home_player_livingroom_8256d083
+    yasuka pouting "没什么！" id home_player_livingroom_8256d083
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1185
 translate chinese_simplified home_player_livingroom_946c509c:
 
     # yasuka "Je dois te laisser j'ai... a faire!" id home_player_livingroom_946c509c
-    yasuka "我得走了，我有…事情要做！" id home_player_livingroom_946c509c
+    yasuka "我得走了，我。。。还有事要做！" id home_player_livingroom_946c509c
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1188
 translate chinese_simplified home_player_livingroom_392bf5ff:
 
     # player "Bon elle semble avoir cru a mon mensonge..." id home_player_livingroom_392bf5ff
-    player "她似乎相信我的谎言。。。" id home_player_livingroom_392bf5ff
+    player "行吧，看上去她相信我撒的谎了。" id home_player_livingroom_392bf5ff
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1189
 translate chinese_simplified home_player_livingroom_d0c3468a:
 
     # player "Désolé [yasuka.n] mais je me souviens de tout." id home_player_livingroom_d0c3468a
-    player "对不起，我什么都记得。" id home_player_livingroom_d0c3468a
+    player "抱歉，[yasuka.n],我全都记得。" id home_player_livingroom_d0c3468a
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1193
 translate chinese_simplified home_player_livingroom_d64fd862:
 
     # x "Cette situation me rappelle quelque chose mais je ne parviens pas a m'en souvenir." id home_player_livingroom_d64fd862
-    x "这让我想起了一些事情，但我不记得了。" id home_player_livingroom_d64fd862
+    x "这种情况让我想起了什么，但我不记得是什么了。" id home_player_livingroom_d64fd862
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1194
 translate chinese_simplified home_player_livingroom_7d03dbb5:
 
     # x "Je deviens parano a force." id home_player_livingroom_7d03dbb5
-    x "我越来越偏执了。" id home_player_livingroom_7d03dbb5
+    x "我好像变得多疑了。" id home_player_livingroom_7d03dbb5
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1195
 translate chinese_simplified home_player_livingroom_f0f4a033:
 
     # x "S'il s'agit d'une drogue peut etre que [kimochi.n] en aura entendue parlé." id home_player_livingroom_f0f4a033
-    x "如果这是一种毒品，也许kimochi.n.听说过。" id home_player_livingroom_f0f4a033
+    x "如果那是一种药物的话，没准[kimochi.n]听说过。" id home_player_livingroom_f0f4a033
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1196
 translate chinese_simplified home_player_livingroom_ff524161:
 
     # x "Il aura peut etre des choses a m'apprendre." id home_player_livingroom_ff524161
-    x "也许他有东西要教我。" id home_player_livingroom_ff524161
+    x "他也许能教我点什么。" id home_player_livingroom_ff524161
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1210
 translate chinese_simplified home_player_livingroom_2e7220e7:
@@ -3426,95 +3426,95 @@ translate chinese_simplified home_player_livingroom_2e7220e7:
 translate chinese_simplified home_player_livingroom_03775ec8_2:
 
     # player "..." id home_player_livingroom_03775ec8_2
-    player "..." id home_player_livingroom_03775ec8_2
+    player "。。。" id home_player_livingroom_03775ec8_2
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1212
 translate chinese_simplified home_player_livingroom_ede251e5:
 
     # player "Elle serait déja en train de dormir?" id home_player_livingroom_ede251e5
-    player "她睡过觉吗？" id home_player_livingroom_ede251e5
+    player "她睡着了吗？" id home_player_livingroom_ede251e5
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1213
 translate chinese_simplified home_player_livingroom_8df197e8:
 
     # player upset "Merde, je devrais peut etre aller voir dans sa chambre si tout va bien..." id home_player_livingroom_8df197e8
-    player upset "妈的，也许我应该去他的房间看看一切都好吗。。。" id home_player_livingroom_8df197e8
+    player upset "见鬼，也许我应该去看看她是否一切都好。。。" id home_player_livingroom_8df197e8
 
 translate chinese_simplified strings:
 
     # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:195
     old "Je dois décrocher ce job à tout prix pour [yasuka.n]."
-    new "我必须不惜一切代价得到这份工作。"
+    new ""
 
     # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:243
     old "Il faut absolument que je me trouve un travail. Je dois aider [yasuka.n]."
-    new "我得找份工作。我必须帮助[yasuka.n]。"
+    new ""
 
     # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:409
     old "Fouiller la chambre de [noriko.n]  et retrouver le lecteur MP3."
-    new "搜查[noriko.n]的房间，找到MP3播放器。"
+    new ""
 
     # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:511
     old "Demander de l'aide a [macumba.n]"
-    new "向[macumba.n]寻求帮助"
+    new ""
 
     # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:665
     old "Retrouver [yasuka.n]."
-    new "找到[yasuka.n]。"
+    new ""
 
     # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:695
     old "Retourner à la boutique demain matin pour apporter la démission de [yasuka.n]."
-    new "明天早上回到商店，带着[yasuka.n]的辞职书。"
+    new ""
 
     # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:771
     old "Rejoindre [yasuka.n] dans sa chambre."
-    new "回到他的房间。"
+    new ""
 
     # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:855
     old "Vous donnez les documents a [yasuka.n]"
-    new "你把文件给了[yasuka.n]"
+    new ""
 
     # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:961
     old "Accompagner [yasuka.n] au bar à hotesse."
-    new "陪同[yasuka.n]去酒店的酒吧。"
+    new "和[yasuka.n]一起去天师会所。"
 
     # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:972
     old "Tu es magnifique"
-    new "Tues放大镜"
+    new "你很漂亮。"
 
     # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:972
     old "C'est pas un peu trop... sexy justement?"
-    new "这不是有点…性感吗？"
+    new "是不是有点。。。太性感了？"
 
     # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1028
     old "Sortir en ville pour profiter de la journée."
-    new "到城里去享受一天。"
+    new "去城里享受今天吧。"
 
     # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1060
     old "Rattrapez [yasuka.n] avant qu'elle ne commence sa nuit."
-    new "在她开始睡觉之前赶上[yasuka.n]。"
+    new "在[yasuka.n]开始她的工作之前找到她。"
 
     # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1078
     old "Sortez de la maison pour faire le point sur ce que vous avez appris."
-    new "走出家门，总结你所学的知识。"
+    new "走出家门，盘一盘你都了解到了什么。"
 
     # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1112
     old "Merci mais... Je prefererais que tu garde l'argent pour rembourser les dettes"
-    new "谢谢，但是…我宁愿你留着钱还债。"
+    new "谢谢但...我宁愿你留着这些钱还债。"
 
     # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1112
     old "Oh c'est gentil mais c'était pas nécéssaire tu sais."
-    new "哦，太好了，但没必要。"
+    new "噢，那很好啊。但你没必要这么做，你知道的。"
 
     # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1122
     old "Vous obtenez 10000¥"
-    new "Vous obtenez 10000日元"
+    new "你得到了10000¥"
 
     # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1133
     old "Aller voir [kimochi.n] avant la nuit."
-    new "天黑前去看看[kimochi.n]。"
+    new "在晚上之前去见[kimochi.n]"
 
     # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:1205
     old "Allez vous assurer que [yasuka.n] se porte bien."
-    new "去确保[yasuka.n]没事。"
+    new "去看看[yasuka.n]是否安好。"
 

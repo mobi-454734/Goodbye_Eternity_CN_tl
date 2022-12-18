@@ -10,7 +10,7 @@ translate chinese_simplified restaurant_interior_aedbd962:
 translate chinese_simplified restaurant_interior_d3edb817:
 
     # player sad "Salut..." id restaurant_interior_d3edb817
-    player sad "健康..." id restaurant_interior_d3edb817
+    player sad "嘿..." id restaurant_interior_d3edb817
 
 # game/scripts/story/business district/restaurant/restaurant_interior.rpy:28
 translate chinese_simplified restaurant_interior_82c45628:
@@ -354,169 +354,169 @@ translate chinese_simplified strings:
 translate chinese_simplified restaurant_interior_f23760db:
 
     # player "Je suis sincerement désolé pour tout ça [chef.n]." id restaurant_interior_f23760db
-    player "我真的很抱歉。" id restaurant_interior_f23760db
+    player "我为这一切感到抱歉，[chef.n]" id restaurant_interior_f23760db
 
 # game/scripts/story/business district/restaurant/restaurant_interior.rpy:140
 translate chinese_simplified restaurant_interior_5b5ad7b5:
 
     # chef "Gamin!" id restaurant_interior_5b5ad7b5
-    chef "孩子！" id restaurant_interior_5b5ad7b5
+    chef "小伙子！" id restaurant_interior_5b5ad7b5
 
 # game/scripts/story/business district/restaurant/restaurant_interior.rpy:141
 translate chinese_simplified restaurant_interior_414b0861:
 
     # chef "Ne t'inquiete pas! Je sais reconnaitre les emmerdeurs." id restaurant_interior_414b0861
-    chef "别担心！我能认出那些讨厌的人。" id restaurant_interior_414b0861
+    chef "我知道怎么认闹事的。" id restaurant_interior_414b0861
 
 # game/scripts/story/business district/restaurant/restaurant_interior.rpy:142
 translate chinese_simplified restaurant_interior_f02db02f:
 
     # chef "Tu es un bon garçon et personne ne viendra te chercher des ennuis ici." id restaurant_interior_f02db02f
-    chef "你是个好孩子，没人会来找你麻烦的。" id restaurant_interior_f02db02f
+    chef "你是个好孩子，在这没人会找你麻烦的。" id restaurant_interior_f02db02f
 
 # game/scripts/story/business district/restaurant/restaurant_interior.rpy:143
 translate chinese_simplified restaurant_interior_809bcc0c:
 
     # chef "Essaye de ne plus trop y penser pour le moment, va travailler on essaiera de trouver une solution a tout ça." id restaurant_interior_809bcc0c
-    chef "现在不要想太多，去工作吧，我们会尽力解决的。" id restaurant_interior_809bcc0c
+    chef "别想太多。去工作吧。我们会想办法解决这一切的。" id restaurant_interior_809bcc0c
 
 # game/scripts/story/business district/restaurant/restaurant_interior.rpy:144
 translate chinese_simplified restaurant_interior_5ef94b81:
 
     # player "C'est... [chef.n]..." id restaurant_interior_5ef94b81
-    player "最后…[chef.n]。。。" id restaurant_interior_5ef94b81
+    player "[chef.n]。。。" id restaurant_interior_5ef94b81
 
 # game/scripts/story/business district/restaurant/restaurant_interior.rpy:145
 translate chinese_simplified restaurant_interior_5bdd5f35:
 
     # player "Je ne peux pas passer mon temps a sans arret compter sur les autres pour me sortir de toutes ces situations." id restaurant_interior_5bdd5f35
-    player "我不能一直依赖别人来帮助我摆脱这些困境。" id restaurant_interior_5bdd5f35
+    player "我不能一直依靠别人帮我摆脱这些困境。" id restaurant_interior_5bdd5f35
 
 # game/scripts/story/business district/restaurant/restaurant_interior.rpy:146
 translate chinese_simplified restaurant_interior_046f3b26:
 
     # player "Je pense que je dois surmonter ça a ma façon." id restaurant_interior_046f3b26
-    player "我想我必须用我自己的方式克服它。" id restaurant_interior_046f3b26
+    player "我想我必须开始自己克服这些。" id restaurant_interior_046f3b26
 
 # game/scripts/story/business district/restaurant/restaurant_interior.rpy:147
 translate chinese_simplified restaurant_interior_eb973533:
 
     # chef "Tu es courageux gamin mais n'oublie pas, si tu te sent dépassé il n'y a aucun mal a demander de l'aide, compris?" id restaurant_interior_eb973533
-    chef "你是个勇敢的孩子，但别忘了，如果你觉得自己过时了，寻求帮助是没有错的，明白吗？" id restaurant_interior_eb973533
+    chef "你很勇敢，孩子。记住，如果你压力太大了，寻求帮助没什么错，明白吗?" id restaurant_interior_eb973533
 
 # game/scripts/story/business district/restaurant/restaurant_interior.rpy:148
 translate chinese_simplified restaurant_interior_e93b342b:
 
     # chef "Allez au boulot!" id restaurant_interior_e93b342b
-    chef "去工作吧！" id restaurant_interior_e93b342b
+    chef "现在去工作吧！" id restaurant_interior_e93b342b
 
 # game/scripts/story/business district/restaurant/restaurant_interior.rpy:150
 translate chinese_simplified restaurant_interior_9ccaad4d:
 
     # centered "[player.n] se sentant redevable il travailla deux fois plus que d'habitude, le chef remarqua ses effort avec un sourire au coin." id restaurant_interior_9ccaad4d
-    centered "[player.n]老板觉得自己欠了他两倍的工钱，于是微笑着注意到他的努力。" id restaurant_interior_9ccaad4d
+    centered "感到亏欠了大厨什么，[player.n]比平时付出了两倍的努力。大厨注意到了，傻笑着走到他旁边。" id restaurant_interior_9ccaad4d
 
 # game/scripts/story/business district/restaurant/restaurant_interior.rpy:152
 translate chinese_simplified restaurant_interior_1bd9110e:
 
     # chef happy "Tu as bien bossé aujourd'hui, continue comme ça!" id restaurant_interior_1bd9110e
-    chef happy "你今天干得很好，继续努力！" id restaurant_interior_1bd9110e
+    chef happy "你今天干得不错。坚持下去!" id restaurant_interior_1bd9110e
 
 # game/scripts/story/business district/restaurant/restaurant_interior.rpy:153
 translate chinese_simplified restaurant_interior_4c8878f2:
 
     # player happy "Merci [chef.n]!" id restaurant_interior_4c8878f2
-    player happy "谢谢你！" id restaurant_interior_4c8878f2
+    player happy "谢谢你，[chef.n]！" id restaurant_interior_4c8878f2
 
 # game/scripts/story/business district/restaurant/restaurant_interior.rpy:157
 translate chinese_simplified restaurant_interior_70b249b3:
 
     # chef angry "Allez prend ça fais attention a toi!" id restaurant_interior_70b249b3
-    chef angry "来吧，小心点！" id restaurant_interior_70b249b3
+    chef angry "拿着这些，保重！" id restaurant_interior_70b249b3
 
 # game/scripts/story/business district/restaurant/restaurant_interior.rpy:176
 translate chinese_simplified restaurant_interior_bc0a943b:
 
     # sakuya "Bonjour [player.n], tu as l'air de bonne humeur aujourd'hui!" id restaurant_interior_bc0a943b
-    sakuya "你好，你今天心情很好！" id restaurant_interior_bc0a943b
+    sakuya "嗨，[player.n]！你今天看上去心情不错!" id restaurant_interior_bc0a943b
 
 # game/scripts/story/business district/restaurant/restaurant_interior.rpy:177
 translate chinese_simplified restaurant_interior_be45d279:
 
     # player "Ah oui? Tu as raison, ça faisait longtemps que je n'avais pas aussi bien dormi." id restaurant_interior_be45d279
-    player "-是吗？-是的。你说得对，我很久没睡得这么好了。" id restaurant_interior_be45d279
+    player "噢是吗？你说得是。我好久没睡得这么安稳过了。" id restaurant_interior_be45d279
 
 # game/scripts/story/business district/restaurant/restaurant_interior.rpy:178
 translate chinese_simplified restaurant_interior_4e8b5878:
 
     # player "Les thugs sont visiblement tombé sur quelqu'un qu'ils n'aurait pas du énervé." id restaurant_interior_4e8b5878
-    player "大拇指显然碰到了一个他们不该生气的人。" id restaurant_interior_4e8b5878
+    player "那群小混混明显惹到了不该惹的人。" id restaurant_interior_4e8b5878
 
 # game/scripts/story/business district/restaurant/restaurant_interior.rpy:179
 translate chinese_simplified restaurant_interior_0620a483:
 
     # player "Je ne les ai jamais vu aussi térrifiés." id restaurant_interior_0620a483
-    player "我从没见过他们这么胆怯。" id restaurant_interior_0620a483
+    player "我从没见过他们这么害怕。" id restaurant_interior_0620a483
 
 # game/scripts/story/business district/restaurant/restaurant_interior.rpy:180
 translate chinese_simplified restaurant_interior_516d90c8:
 
     # sakuya "Hihi, on trouve toujours plus fort que soit." id restaurant_interior_516d90c8
-    sakuya "嗨，我们总能找到比这更强大的东西。" id restaurant_interior_516d90c8
+    sakuya "嘿嘿。。。人外有人，天外有天。" id restaurant_interior_516d90c8
 
 # game/scripts/story/business district/restaurant/restaurant_interior.rpy:181
 translate chinese_simplified restaurant_interior_89cae9d2:
 
     # sakuya "Mais je suis contente de te voir sourire de nouveau." id restaurant_interior_89cae9d2
-    sakuya "但我很高兴看到你再次微笑。" id restaurant_interior_89cae9d2
+    sakuya "不过我很高兴看到你又笑了。" id restaurant_interior_89cae9d2
 
 # game/scripts/story/business district/restaurant/restaurant_interior.rpy:182
 translate chinese_simplified restaurant_interior_ad6ac332:
 
     # player "Ah, oh merci!" id restaurant_interior_ad6ac332
-    player "哦，谢谢！" id restaurant_interior_ad6ac332
+    player "啊？噢，谢谢你！" id restaurant_interior_ad6ac332
 
 # game/scripts/story/business district/restaurant/restaurant_interior.rpy:183
 translate chinese_simplified restaurant_interior_37a3da31:
 
     # sakuya "Il est temps de se mettre au travail, tu ne crois pas?" id restaurant_interior_37a3da31
-    sakuya "是时候开始工作了，不是吗？" id restaurant_interior_37a3da31
+    sakuya "是时候开始工作了，是吧？" id restaurant_interior_37a3da31
 
 # game/scripts/story/business district/restaurant/restaurant_interior.rpy:184
 translate chinese_simplified restaurant_interior_1e58c69b:
 
     # player "Oui tu as raison!" id restaurant_interior_1e58c69b
-    player "是的，你说得对。" id restaurant_interior_1e58c69b
+    player "对，你说的太对了！" id restaurant_interior_1e58c69b
 
 # game/scripts/story/business district/restaurant/restaurant_interior.rpy:186
 translate chinese_simplified restaurant_interior_4bebd1fe:
 
     # centered "En sachant qu'il était débarassé des thugs pour un moment [player.n] ne vis pas le temps passer." id restaurant_interior_4bebd1fe
-    centered "他知道自己有一段时间没有受到打击，所以没有时间过了。" id restaurant_interior_4bebd1fe
+    centered "知道自己暂时不用和那些小混混纠缠了，[player.n]没有注意到时间的流逝。" id restaurant_interior_4bebd1fe
 
 # game/scripts/story/business district/restaurant/restaurant_interior.rpy:189
 translate chinese_simplified restaurant_interior_1bd9110e_1:
 
     # chef happy "Tu as bien bossé aujourd'hui, continue comme ça!" id restaurant_interior_1bd9110e_1
-    chef happy "你今天干得很好，继续努力！" id restaurant_interior_1bd9110e_1
+    chef happy "你今天干得不错。继续坚持！" id restaurant_interior_1bd9110e_1
 
 # game/scripts/story/business district/restaurant/restaurant_interior.rpy:190
 translate chinese_simplified restaurant_interior_4c8878f2_1:
 
     # player happy "Merci [chef.n]!" id restaurant_interior_4c8878f2_1
-    player happy "谢谢你！" id restaurant_interior_4c8878f2_1
+    player happy "谢谢你，[chef.n]！" id restaurant_interior_4c8878f2_1
 
 # game/scripts/story/business district/restaurant/restaurant_interior.rpy:194
 translate chinese_simplified restaurant_interior_70b249b3_1:
 
     # chef angry "Allez prend ça fais attention a toi!" id restaurant_interior_70b249b3_1
-    chef angry "来吧，小心点！" id restaurant_interior_70b249b3_1
+    chef angry "拿着这些，保重！" id restaurant_interior_70b249b3_1
 
 translate chinese_simplified strings:
 
     # game/scripts/story/business district/restaurant/restaurant_interior.rpy:73
     old "Je ferais mieux de rentrer voir [yasuka.n], je ne peux rien faire de plus."
-    new "我最好回家看看[yasuka.n]，我无能为力。"
+    new "我最好回去看看[yasuka.n]，我无能为力了。"
 
     # game/scripts/story/business district/restaurant/restaurant_interior.rpy:134
     old "Sortir du restaurant."
@@ -524,5 +524,5 @@ translate chinese_simplified strings:
 
     # game/scripts/story/business district/restaurant/restaurant_interior.rpy:169
     old "Rentrer a la maison pour y dormir, la journée a été épuisante."
-    new "回家睡觉，这一天很累。"
+    new "回家睡会觉，今天可算累坏了。"
 

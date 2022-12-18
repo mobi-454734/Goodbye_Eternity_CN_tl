@@ -23,5 +23,5 @@ translate chinese_simplified strings:
 
     # game/scripts/screens/world/s_city.rpy:14
     old "Maison de [player.n]"
-    new "[player.n]家"
+    new ""
 

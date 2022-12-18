@@ -174,287 +174,287 @@ translate chinese_simplified strings:
 translate chinese_simplified love_hotel_exterior_e1250044:
 
     # player "Ca devrait ne plus etre tres loin." id love_hotel_exterior_e1250044
-    player "应该不远了。" id love_hotel_exterior_e1250044
+    player "应该离得不远了。" id love_hotel_exterior_e1250044
 
 # game/scripts/story/business district/love hotel/love_hotel_exterior.rpy:78
 translate chinese_simplified love_hotel_exterior_982abe80:
 
     # inconnus "CHOPEZ LE!" id love_hotel_exterior_982abe80
-    inconnus "抓住他！" id love_hotel_exterior_982abe80
+    inconnus "拿下他！" id love_hotel_exterior_982abe80
 
 # game/scripts/story/business district/love hotel/love_hotel_exterior.rpy:79
 translate chinese_simplified love_hotel_exterior_b37e98ac:
 
     # player surprised "Put-" id love_hotel_exterior_b37e98ac
-    player surprised "看跌期权-" id love_hotel_exterior_b37e98ac
+    player surprised "操。。。" id love_hotel_exterior_b37e98ac
 
 # game/scripts/story/business district/love hotel/love_hotel_exterior.rpy:84
 translate chinese_simplified love_hotel_exterior_a83d8eeb:
 
     # nobu "Personne dans le coin, attirez le dans la ruelle a coté et défoncer le!" id love_hotel_exterior_a83d8eeb
-    nobu "没人在附近，把他拉到路边的巷子里，把他打倒！" id love_hotel_exterior_a83d8eeb
+    nobu "这附近没人。把他拖进小巷里揍他一顿！" id love_hotel_exterior_a83d8eeb
 
 # game/scripts/story/business district/love hotel/love_hotel_exterior.rpy:88
 translate chinese_simplified love_hotel_exterior_43843ac8:
 
     # centered "[player.n] se fit entrainer dans une ruelle sombre." id love_hotel_exterior_43843ac8
-    centered "[player.n]被拖到一条黑暗的小巷里。" id love_hotel_exterior_43843ac8
+    centered "[player.n]被拖进了一个黑暗的小巷里。" id love_hotel_exterior_43843ac8
 
 # game/scripts/story/business district/love hotel/love_hotel_exterior.rpy:89
 translate chinese_simplified love_hotel_exterior_8beb1479:
 
     # centered "Les trois thugs le passerent a tabac a long moment avant de finalement récupérer son argent et de le laisser là." id love_hotel_exterior_8beb1479
-    centered "三个大拇指在他最终拿回钱并把他留在那里之前，会把他打得很长时间。" id love_hotel_exterior_8beb1479
+    centered "三个小混混揍了他很久，抢走了他的钱然后把他扔在了那里。" id love_hotel_exterior_8beb1479
 
 # game/scripts/story/business district/love hotel/love_hotel_exterior.rpy:96
 translate chinese_simplified love_hotel_exterior_7eba8098:
 
     # takeo bad "Ouhlala mais c'est qu'il en avait des economies cet idiot!" id love_hotel_exterior_7eba8098
-    takeo bad "哦，天哪，他真是个混蛋！" id love_hotel_exterior_7eba8098
+    takeo bad "哇哦，看看这傻逼存了多少钱！" id love_hotel_exterior_7eba8098
 
 # game/scripts/story/business district/love hotel/love_hotel_exterior.rpy:97
 translate chinese_simplified love_hotel_exterior_80316393:
 
     # kenji bad "Mec se balader avec tout son fric sur soit quand on est une putain de cible sur pattes." id love_hotel_exterior_80316393
-    kenji bad "一个拿着他所有的钱到处乱跑的人，不管你是不是一个该死的目标。" id love_hotel_exterior_80316393
+    kenji bad "伙计，带着那么多钱到处走，跟个活靶子一样。" id love_hotel_exterior_80316393
 
 # game/scripts/story/business district/love hotel/love_hotel_exterior.rpy:98
 translate chinese_simplified love_hotel_exterior_d82c7b50:
 
     # nobu bad "Je t'avais dit que je finirais par t'avoir et c'est que le debut!" id love_hotel_exterior_d82c7b50
-    nobu bad "我告诉过你我会找到你的，这才是开始！" id love_hotel_exterior_d82c7b50
+    nobu bad "我说过我会搞你的，这只是开端！" id love_hotel_exterior_d82c7b50
 
 # game/scripts/story/business district/love hotel/love_hotel_exterior.rpy:100
 translate chinese_simplified love_hotel_exterior_07c0f38a:
 
     # player "Rendez-moi... cet argent!" id love_hotel_exterior_07c0f38a
-    player "把钱还给我！" id love_hotel_exterior_07c0f38a
+    player "把钱。。。还给我！" id love_hotel_exterior_07c0f38a
 
 # game/scripts/story/business district/love hotel/love_hotel_exterior.rpy:101
 translate chinese_simplified love_hotel_exterior_55ebd0b0:
 
     # player "Vous n'avez pas le droit de..." id love_hotel_exterior_55ebd0b0
-    player "你不能。。。" id love_hotel_exterior_55ebd0b0
+    player "你们不能。。。" id love_hotel_exterior_55ebd0b0
 
 # game/scripts/story/business district/love hotel/love_hotel_exterior.rpy:102
 translate chinese_simplified love_hotel_exterior_628e4f27:
 
     # takeo "Oh mais nous aussi, regarde comme je transpire!" id love_hotel_exterior_628e4f27
-    takeo "哦，但我们也是，看看我有多出汗！" id love_hotel_exterior_628e4f27
+    takeo "那我呢？我浑身都是汗！" id love_hotel_exterior_628e4f27
 
 # game/scripts/story/business district/love hotel/love_hotel_exterior.rpy:103
 translate chinese_simplified love_hotel_exterior_bb9c0617:
 
     # kenji "Et moi regarde, je saigne des phallanges a force de te frapper, ça mérite bien un dédommagement." id love_hotel_exterior_bb9c0617
-    kenji "我看，我在流血，因为我打了你，这应该得到补偿。" id love_hotel_exterior_bb9c0617
+    kenji "还有我!听着，我的指关节打你打到都流血了。你得赔我钱。" id love_hotel_exterior_bb9c0617
 
 # game/scripts/story/business district/love hotel/love_hotel_exterior.rpy:105
 translate chinese_simplified love_hotel_exterior_ed6623a0:
 
     # player sad "..." id love_hotel_exterior_ed6623a0
-    player sad "..." id love_hotel_exterior_ed6623a0
+    player sad "。。。" id love_hotel_exterior_ed6623a0
 
 # game/scripts/story/business district/love hotel/love_hotel_exterior.rpy:106
 translate chinese_simplified love_hotel_exterior_ce3a8fac:
 
     # takeo disgusted "Toujours rien a dire?" id love_hotel_exterior_ce3a8fac
-    takeo disgusted "还有什么要说的吗？" id love_hotel_exterior_ce3a8fac
+    takeo disgusted "还是没话可说？" id love_hotel_exterior_ce3a8fac
 
 # game/scripts/story/business district/love hotel/love_hotel_exterior.rpy:107
 translate chinese_simplified love_hotel_exterior_6fb65c06:
 
     # nobu disgusted "Pff laisse tomber cette loque." id love_hotel_exterior_6fb65c06
-    nobu disgusted "PFF让这个裂缝消失。" id love_hotel_exterior_6fb65c06
+    nobu disgusted "嘁，别管他了。" id love_hotel_exterior_6fb65c06
 
 # game/scripts/story/business district/love hotel/love_hotel_exterior.rpy:108
 translate chinese_simplified love_hotel_exterior_857b36ce:
 
     # kenji "Allez on s'arrache, je cramerai bien tout son fric aux arcades." id love_hotel_exterior_857b36ce
-    kenji "快点，我们走。我要把他的钱都烧成灰烬。" id love_hotel_exterior_857b36ce
+    kenji "咋们走。我会在街机厅把他的钱全花光的。" id love_hotel_exterior_857b36ce
 
 # game/scripts/story/business district/love hotel/love_hotel_exterior.rpy:109
 translate chinese_simplified love_hotel_exterior_d0b5b04d:
 
     # player upset "ATTENDEZ!" id love_hotel_exterior_d0b5b04d
-    player upset "等等！等等！" id love_hotel_exterior_d0b5b04d
+    player upset "等等！" id love_hotel_exterior_d0b5b04d
 
 # game/scripts/story/business district/love hotel/love_hotel_exterior.rpy:110
 translate chinese_simplified love_hotel_exterior_a754ebdc:
 
     # takeo angry "Putain mais t'en as pas eu assez? Tu veux qu'on en remette une couche?" id love_hotel_exterior_a754ebdc
-    takeo angry "你他妈的受够了吗？你想穿尿布吗？" id love_hotel_exterior_a754ebdc
+    takeo angry "妈的，你还没受够？你还想挨揍？" id love_hotel_exterior_a754ebdc
 
 # game/scripts/story/business district/love hotel/love_hotel_exterior.rpy:111
 translate chinese_simplified love_hotel_exterior_09d97f46:
 
     # player furious "Je vous jure qu'un jour... vous allez payer au centuple toutes ces humiliations." id love_hotel_exterior_09d97f46
-    player furious "我向你发誓，总有一天…你会为所有这些羞辱付出100倍的代价。" id love_hotel_exterior_09d97f46
+    player furious "我发誓，总有一天会让你们血债血偿的。" id love_hotel_exterior_09d97f46
 
 # game/scripts/story/business district/love hotel/love_hotel_exterior.rpy:112
 translate chinese_simplified love_hotel_exterior_2300047a:
 
     # player "Et ce jour là, il n'y aura aucun pardon." id love_hotel_exterior_2300047a
-    player "在那一天，没有宽恕。" id love_hotel_exterior_2300047a
+    player "然后，总有一天，我不会手下留情。" id love_hotel_exterior_2300047a
 
 # game/scripts/story/business district/love hotel/love_hotel_exterior.rpy:113
 translate chinese_simplified love_hotel_exterior_fa0e68f1:
 
     # takeo bad "HAHAHA" id love_hotel_exterior_fa0e68f1
-    takeo bad "小时" id love_hotel_exterior_fa0e68f1
+    takeo bad "哈哈哈哈哈哈！" id love_hotel_exterior_fa0e68f1
 
 # game/scripts/story/business district/love hotel/love_hotel_exterior.rpy:114
 translate chinese_simplified love_hotel_exterior_8dc6d726:
 
     # nobu bad "Mais j'en peux plus..." id love_hotel_exterior_8dc6d726
-    nobu bad "但我不能。。。" id love_hotel_exterior_8dc6d726
+    nobu bad "老哥，我真的绷不住了。" id love_hotel_exterior_8dc6d726
 
 # game/scripts/story/business district/love hotel/love_hotel_exterior.rpy:115
 translate chinese_simplified love_hotel_exterior_ec75b4b4:
 
     # kenji bad "Dans ce cas bonne chance" id love_hotel_exterior_ec75b4b4
-    kenji bad "在这种情况下，祝你好运。" id love_hotel_exterior_ec75b4b4
+    kenji bad "行吧，那祝你好运。" id love_hotel_exterior_ec75b4b4
 
 # game/scripts/story/business district/love hotel/love_hotel_exterior.rpy:116
 translate chinese_simplified love_hotel_exterior_e1021b8c:
 
     # kenji "Allez dégage d'ici!" id love_hotel_exterior_e1021b8c
-    kenji "快离开这里！" id love_hotel_exterior_e1021b8c
+    kenji "滚开吧！" id love_hotel_exterior_e1021b8c
 
 # game/scripts/story/business district/love hotel/love_hotel_exterior.rpy:129
 translate chinese_simplified love_hotel_exterior_a1c9f3e9:
 
     # ubs "Ce putain de petit batard!" id love_hotel_exterior_a1c9f3e9
-    ubs "那个混蛋！" id love_hotel_exterior_a1c9f3e9
+    ubs "那个小王八犊子！" id love_hotel_exterior_a1c9f3e9
 
 # game/scripts/story/business district/love hotel/love_hotel_exterior.rpy:130
 translate chinese_simplified love_hotel_exterior_ceaa5e00:
 
     # ubs "Il va voir ce qu'il va voir!" id love_hotel_exterior_ceaa5e00
-    ubs "他会看到的！" id love_hotel_exterior_ceaa5e00
+    ubs "我要让他好看！" id love_hotel_exterior_ceaa5e00
 
 # game/scripts/story/business district/love hotel/love_hotel_exterior.rpy:131
 translate chinese_simplified love_hotel_exterior_24f6861d:
 
     # ubs "Ils sont fini! FINI!!!" id love_hotel_exterior_24f6861d
-    ubs "他们完了！完成！！！" id love_hotel_exterior_24f6861d
+    ubs "他们完了！完蛋了！" id love_hotel_exterior_24f6861d
 
 # game/scripts/story/business district/love hotel/love_hotel_exterior.rpy:132
 translate chinese_simplified love_hotel_exterior_a06ac8a0:
 
     # ubs "Avec tout ce que j'ai sur cette pute, j'ai de quoi la faire se prostituer jusqu'a la fin de sa vie!" id love_hotel_exterior_a06ac8a0
-    ubs "我所拥有的关于那个婊子的一切，我有足够的钱让她卖淫直到她生命的尽头！" id love_hotel_exterior_a06ac8a0
+    ubs "我有那个荡妇所有的信息。我有足够的证据让她当一辈子妓女！" id love_hotel_exterior_a06ac8a0
 
 # game/scripts/story/business district/love hotel/love_hotel_exterior.rpy:133
 translate chinese_simplified love_hotel_exterior_6d703bc6:
 
     # ubs "Elle sera a moi d'une maniere ou d'une autre" id love_hotel_exterior_6d703bc6
-    ubs "不管怎样，她都会是我的。" id love_hotel_exterior_6d703bc6
+    ubs "无论如何她都会是我的。" id love_hotel_exterior_6d703bc6
 
 # game/scripts/story/business district/love hotel/love_hotel_exterior.rpy:134
 translate chinese_simplified love_hotel_exterior_14e3e045:
 
     # ubs "Quand a lui... Je vais le... le... je vais le tuer!!!" id love_hotel_exterior_14e3e045
-    ubs "当他…我要…他…我要杀了他！！！" id love_hotel_exterior_14e3e045
+    ubs "对于他。。。我要。。。我要杀了他！" id love_hotel_exterior_14e3e045
 
 # game/scripts/story/business district/love hotel/love_hotel_exterior.rpy:137
 translate chinese_simplified love_hotel_exterior_ac7728e7:
 
     # sakuya "Bonsoir Mr.[ubs.n], la nuit est magnifique, vous ne trouvez pas?" id love_hotel_exterior_ac7728e7
-    sakuya "晚上好，ubs.n先生，夜晚很美，你不觉得吗？" id love_hotel_exterior_ac7728e7
+    sakuya "晚上好，[ubs.n]先生。夜色真美啊，不是吗？" id love_hotel_exterior_ac7728e7
 
 # game/scripts/story/business district/love hotel/love_hotel_exterior.rpy:138
 translate chinese_simplified love_hotel_exterior_71424ba2:
 
     # ubs "Mais t'es qui bordel?" id love_hotel_exterior_71424ba2
-    ubs "你到底是谁？" id love_hotel_exterior_71424ba2
+    ubs "你他妈又是谁？" id love_hotel_exterior_71424ba2
 
 # game/scripts/story/business district/love hotel/love_hotel_exterior.rpy:139
 translate chinese_simplified love_hotel_exterior_98625ab4:
 
     # sakuya "Je crois savoir que vous êtes friand de chantage." id love_hotel_exterior_98625ab4
-    sakuya "我知道你喜欢勒索。" id love_hotel_exterior_98625ab4
+    sakuya "我知道您喜欢敲诈勒索。" id love_hotel_exterior_98625ab4
 
 # game/scripts/story/business district/love hotel/love_hotel_exterior.rpy:140
 translate chinese_simplified love_hotel_exterior_0bd801ec:
 
     # sakuya "Et que possedez un réel talent..." id love_hotel_exterior_0bd801ec
-    sakuya "拥有真正的天赋。。。" id love_hotel_exterior_0bd801ec
+    sakuya "您在那方面很有天赋。。。" id love_hotel_exterior_0bd801ec
 
 # game/scripts/story/business district/love hotel/love_hotel_exterior.rpy:141
 translate chinese_simplified love_hotel_exterior_8d0ce918:
 
     # ubs arrogant "Et alors tu veux quoi? Un autographe?" id love_hotel_exterior_8d0ce918
-    ubs arrogant "你想要什么？签名？" id love_hotel_exterior_8d0ce918
+    ubs arrogant "所以你想干嘛？找我签名？" id love_hotel_exterior_8d0ce918
 
 # game/scripts/story/business district/love hotel/love_hotel_exterior.rpy:142
 translate chinese_simplified love_hotel_exterior_f654124f:
 
     # sakuya "Je suis simplement venue vous avertir." id love_hotel_exterior_f654124f
-    sakuya "我只是来警告你的。" id love_hotel_exterior_f654124f
+    sakuya "我只是来警告您的。" id love_hotel_exterior_f654124f
 
 # game/scripts/story/business district/love hotel/love_hotel_exterior.rpy:143
 translate chinese_simplified love_hotel_exterior_576b27a5:
 
     # ubs bad "M'avertir? C'est la meilleure blague que j'ai entendu!" id love_hotel_exterior_576b27a5
-    ubs bad "警告我？这是我听过的最好的笑话！" id love_hotel_exterior_576b27a5
+    ubs bad "警告我？这可他妈的能排上我的年度笑话榜了！" id love_hotel_exterior_576b27a5
 
 # game/scripts/story/business district/love hotel/love_hotel_exterior.rpy:144
 translate chinese_simplified love_hotel_exterior_42bc640e:
 
     # ubs "La personne qui me fera plier sous la menace n'est pas encore née." id love_hotel_exterior_42bc640e
-    ubs "那个让我屈服于威胁的人还没出生。" id love_hotel_exterior_42bc640e
+    ubs "能威胁到我的人还没出生！" id love_hotel_exterior_42bc640e
 
 # game/scripts/story/business district/love hotel/love_hotel_exterior.rpy:145
 translate chinese_simplified love_hotel_exterior_555c56f1:
 
     # sakuya melancholic "Oh mais vous faites fausse route Mr.[ubs.n], je ne suis pas venue pour vous menacer." id love_hotel_exterior_555c56f1
-    sakuya melancholic "哦，但你错了，ubs.n先生，我不是来威胁你的。" id love_hotel_exterior_555c56f1
+    sakuya melancholic "噢，你想错了，[ubs.n]先生。我不是来威胁您的。" id love_hotel_exterior_555c56f1
 
 # game/scripts/story/business district/love hotel/love_hotel_exterior.rpy:146
 translate chinese_simplified love_hotel_exterior_b4df7b91:
 
     # sakuya happy "Je prefere agir..." id love_hotel_exterior_b4df7b91
-    sakuya happy "我宁愿做点什么。。。" id love_hotel_exterior_b4df7b91
+    sakuya happy "我更喜欢行动。" id love_hotel_exterior_b4df7b91
 
 # game/scripts/story/business district/love hotel/love_hotel_exterior.rpy:147
 translate chinese_simplified love_hotel_exterior_6b782802:
 
     # sakuya "D'ailleur a ce sujet... Vous ne trouvez pas que cela sent le brulé?" id love_hotel_exterior_6b782802
-    sakuya "关于这个…你不觉得它闻起来像烧焦的吗？" id love_hotel_exterior_6b782802
+    sakuya "说起来，您不觉得有什么东西好像烧起来了吗？" id love_hotel_exterior_6b782802
 
 # game/scripts/story/business district/love hotel/love_hotel_exterior.rpy:148
 translate chinese_simplified love_hotel_exterior_8c9f230b:
 
     # ubs "Mais de quoi tu p-" id love_hotel_exterior_8c9f230b
-    ubs "但你为什么要-" id love_hotel_exterior_8c9f230b
+    ubs "你他妈鬼扯什么呢，婊—" id love_hotel_exterior_8c9f230b
 
 # game/scripts/story/business district/love hotel/love_hotel_exterior.rpy:149
 translate chinese_simplified love_hotel_exterior_75967fc5:
 
     # sakuya "Il me semblait pourtant avoir sentit votre maison en train de bruler..." id love_hotel_exterior_75967fc5
-    sakuya "我觉得你的房子着火了。。。" id love_hotel_exterior_75967fc5
+    sakuya "我好像能闻到您的房子着了。" id love_hotel_exterior_75967fc5
 
 # game/scripts/story/business district/love hotel/love_hotel_exterior.rpy:150
 translate chinese_simplified love_hotel_exterior_93d8ae63:
 
     # ubs "Quoi?!" id love_hotel_exterior_93d8ae63
-    ubs "什么？" id love_hotel_exterior_93d8ae63
+    ubs "啥！？！？" id love_hotel_exterior_93d8ae63
 
 # game/scripts/story/business district/love hotel/love_hotel_exterior.rpy:151
 translate chinese_simplified love_hotel_exterior_19c3ae76:
 
     # ubs "NOON NON NON NON NONNNNN" id love_hotel_exterior_19c3ae76
-    ubs "中午非非nnnn" id love_hotel_exterior_19c3ae76
+    ubs "不！操！操！操！不！！！！" id love_hotel_exterior_19c3ae76
 
 # game/scripts/story/business district/love hotel/love_hotel_exterior.rpy:154
 translate chinese_simplified love_hotel_exterior_30349a32:
 
     # sakuya "Ahlala quel infortune!" id love_hotel_exterior_30349a32
-    sakuya "Ahlala quel infotune！" id love_hotel_exterior_30349a32
+    sakuya "真是太不幸了。" id love_hotel_exterior_30349a32
 
 translate chinese_simplified strings:
 
     # game/scripts/story/business district/love hotel/love_hotel_exterior.rpy:32
     old "Retrouver [yasuka.n] avant que [ubs.n] ne réussisse son coup."
-    new "在[ubs.n]成功之前找到[yasuka.n]。"
+    new "在[ubs.n]得逞之前找到[yasuka.n]。"
 

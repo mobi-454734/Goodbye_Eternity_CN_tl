@@ -4,5 +4,5 @@ translate chinese_simplified strings:
 
     # game/skin/yasuka_succubus/scripts/yasuka_succubus.rpy:1
     old "yasuka_succubus"
-    new "yasuka_succubus公司"
+    new ""
 

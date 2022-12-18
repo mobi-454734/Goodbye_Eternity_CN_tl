@@ -4,7 +4,7 @@
 translate chinese_simplified sleep_53c814c7:
 
     # player "Allez j'ai du pain sur la planche!"
-    player "来吧，我的工作完成了！"
+    player "来吧，我还有活儿要干！！"
 
 translate chinese_simplified strings:
 
@@ -46,17 +46,17 @@ translate chinese_simplified strings:
 
     # game/scripts/story/action/sleep.rpy:12
     old "Faire venir [noriko.n] dans la chambre"
-    new "把[noriko.n]带进房间"
+    new "小睡一会"
 
     # game/scripts/story/action/sleep.rpy:12
     old "Certaines quêtes doivent être accomplies avant la fin de journée."
-    new "有些任务必须在一天结束前完成。"
+    new "有些任务需要在一天结束前完成。"
 
     # game/scripts/story/action/sleep.rpy:14
     old "Dormir avec [asami.n]"
-    new "和[asami.n]睡觉"
+    new "和[asami.n]睡"
 
     # game/scripts/story/action/sleep.rpy:14
     old "Dormir avec [yasuka.n]"
-    new "和[yasuka.n]"
+    new "和[yasuka.n]睡"
 

@@ -32,13 +32,13 @@ translate chinese_simplified strings:
 
     # game/scripts/story/advert/advert.rpy:14
     old "Vous pouvez dès à présent poursuivre l’histoire\nd’[asami.n] et revenir à l’intrigue principale quand vous\nle souhaitez."
-    new "现在，您可以继续讲述\nd'[asami.n]的故事，\n并随时返回主情节。"
+    new ""
 
     # game/scripts/story/advert/advert.rpy:42
     old "Vous pouvez dès à présent poursuivre l’histoire\nde [yasuka.n] et revenir à l’intrigue principale quand vous\nle souhaitez."
-    new "现在，您可以继续\n[yasuka.n]故事，\n并随时返回主情节。"
+    new ""
 
     # game/scripts/story/advert/advert.rpy:49
     old "Vous avez fait le choix de la laisser {color=#ff0}travailler au bar à hotesse.{/color}"
-    new "你选择让她{color=#ff0}在酒店酒吧工作{/color}。"
+    new "你选择继续让她{color=#ff0}在会所上班。{/color}"
 

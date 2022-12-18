@@ -4,5 +4,5 @@ translate chinese_simplified strings:
 
     # game/skin/player_hiraga/scripts/player_hiraga.rpy:1
     old "player_hiraga"
-    new "玩家_海拉加"
+    new ""
 

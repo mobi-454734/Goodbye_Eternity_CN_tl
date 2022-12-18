@@ -1736,93 +1736,93 @@ translate chinese_simplified strings:
 translate chinese_simplified yasuka_love_sexe_repeat_64c09b00:
 
     # x "Elle a l'air de dormir a poing fermée." id yasuka_love_sexe_repeat_64c09b00
-    x "她好像闭着拳头睡着了。" id yasuka_love_sexe_repeat_64c09b00
+    x "她似乎睡得很熟。" id yasuka_love_sexe_repeat_64c09b00
 
 # game/scripts/story/residential district/player's home/home_player_yasuka_room.rpy:604
 translate chinese_simplified yasuka_love_sexe_repeat_3c746642:
 
     # x "Je ferais peut etre mieux de m'assurer qu'elle n'est pas fait un malaise." id yasuka_love_sexe_repeat_3c746642
-    x "也许我最好确保她没有晕倒。" id yasuka_love_sexe_repeat_3c746642
+    x "我最好确认一下她没有晕过去。" id yasuka_love_sexe_repeat_3c746642
 
 # game/scripts/story/residential district/player's home/home_player_yasuka_room.rpy:605
 translate chinese_simplified yasuka_love_sexe_repeat_4bc5f2cf:
 
     # x "ou autre chose." id yasuka_love_sexe_repeat_4bc5f2cf
-    x "或者别的什么。" id yasuka_love_sexe_repeat_4bc5f2cf
+    x "或者其他什么的。" id yasuka_love_sexe_repeat_4bc5f2cf
 
 # game/scripts/story/residential district/player's home/home_player_yasuka_room.rpy:606
 translate chinese_simplified yasuka_love_sexe_repeat_edb624be:
 
     # x "J'allume la lumiere quelques secondes ça devrait me permettre d'avoir la conscience tranquille." id yasuka_love_sexe_repeat_edb624be
-    x "我打开灯几秒钟，这样我就可以安心了。" id yasuka_love_sexe_repeat_edb624be
+    x "我把灯打开个几秒钟。这应该足够让我安心了。" id yasuka_love_sexe_repeat_edb624be
 
 # game/scripts/story/residential district/player's home/home_player_yasuka_room.rpy:619
 translate chinese_simplified yasuka_love_sexe_repeat_7d534ea9:
 
     # player "Oh la vache quel nuit..." id yasuka_love_sexe_repeat_7d534ea9
-    player "哦，天哪，多好的夜晚。。。" id yasuka_love_sexe_repeat_7d534ea9
+    player "噢天哪，多么糟糕一晚啊。" id yasuka_love_sexe_repeat_7d534ea9
 
 # game/scripts/story/residential district/player's home/home_player_yasuka_room.rpy:620
 translate chinese_simplified yasuka_love_sexe_repeat_c0d41020:
 
     # player "Mais..! C'est déja le soir?!" id yasuka_love_sexe_repeat_c0d41020
-    player "但是。。。已经是晚上了？" id yasuka_love_sexe_repeat_c0d41020
+    player "但。。。已经到晚上了？" id yasuka_love_sexe_repeat_c0d41020
 
 # game/scripts/story/residential district/player's home/home_player_yasuka_room.rpy:621
 translate chinese_simplified yasuka_love_sexe_repeat_d2c105d0:
 
     # player neutral "J'ai tellement bien dormis que j'ai presque fait le tour du cadran." id yasuka_love_sexe_repeat_d2c105d0
-    player neutral "我睡得很好，几乎把表盘转了一圈。" id yasuka_love_sexe_repeat_d2c105d0
+    player neutral "我睡得太好了，都有点昼夜颠倒了！" id yasuka_love_sexe_repeat_d2c105d0
 
 # game/scripts/story/residential district/player's home/home_player_yasuka_room.rpy:624
 translate chinese_simplified yasuka_love_sexe_repeat_c3e2c8da:
 
     # noriko "Je peux savoir ce que tu fais dans la chambre de ma mere en celeçon espece de gros pervers?" id yasuka_love_sexe_repeat_c3e2c8da
-    noriko "我能知道你在我妈妈的房间里干什么吗，你这个大变态？" id yasuka_love_sexe_repeat_c3e2c8da
+    noriko "你能告诉我你穿着内裤在我妈的房间里干什么吗，你个变态?" id yasuka_love_sexe_repeat_c3e2c8da
 
 # game/scripts/story/residential district/player's home/home_player_yasuka_room.rpy:625
 translate chinese_simplified yasuka_love_sexe_repeat_76b9e916:
 
     # noriko "T'étais en train de te branler dans ses sous vetements j'en suis certaine." id yasuka_love_sexe_repeat_76b9e916
-    noriko "我肯定你穿着他的内裤到处乱跑。" id yasuka_love_sexe_repeat_76b9e916
+    noriko "我肯定你当时拿着她的内裤打飞机。" id yasuka_love_sexe_repeat_76b9e916
 
 # game/scripts/story/residential district/player's home/home_player_yasuka_room.rpy:626
 translate chinese_simplified yasuka_love_sexe_repeat_13417148:
 
     # player upset "NON! Je... Il y a une explication a ça mais..." id yasuka_love_sexe_repeat_13417148
-    player upset "不，我没有。一、…这是有原因的，但是。。。" id yasuka_love_sexe_repeat_13417148
+    player upset "不是！我可以解释的，但。。。" id yasuka_love_sexe_repeat_13417148
 
 # game/scripts/story/residential district/player's home/home_player_yasuka_room.rpy:627
 translate chinese_simplified yasuka_love_sexe_repeat_d0244fff:
 
     # noriko bad "Quand elle apprendra ça, j'en connais un qui va dormir dehors!" id yasuka_love_sexe_repeat_d0244fff
-    noriko bad "当她发现的时候，我认识一个会睡在外面的人！" id yasuka_love_sexe_repeat_d0244fff
+    noriko bad "如果她知道了，我知道有人会睡在外面的!" id yasuka_love_sexe_repeat_d0244fff
 
 # game/scripts/story/residential district/player's home/home_player_yasuka_room.rpy:628
 translate chinese_simplified yasuka_love_sexe_repeat_928806ee:
 
     # player upset "...peu importe, pense ce que tu veux!" id yasuka_love_sexe_repeat_928806ee
-    player upset "不管怎样，想什么都行！" id yasuka_love_sexe_repeat_928806ee
+    player upset "。。。随便你怎么想吧！" id yasuka_love_sexe_repeat_928806ee
 
 # game/scripts/story/residential district/player's home/home_player_yasuka_room.rpy:629
 translate chinese_simplified yasuka_love_sexe_repeat_d6fa2e29:
 
     # player "Maintenant bouge de là je suis préssé!" id yasuka_love_sexe_repeat_d6fa2e29
-    player "现在离开这里，我已经准备好了！" id yasuka_love_sexe_repeat_d6fa2e29
+    player "现在给我让开，我很急！" id yasuka_love_sexe_repeat_d6fa2e29
 
 # game/scripts/story/residential district/player's home/home_player_yasuka_room.rpy:630
 translate chinese_simplified yasuka_love_sexe_repeat_79977168:
 
     # noriko fear "M-" id yasuka_love_sexe_repeat_79977168
-    noriko fear "米-" id yasuka_love_sexe_repeat_79977168
+    noriko fear "但—" id yasuka_love_sexe_repeat_79977168
 
 translate chinese_simplified strings:
 
     # game/scripts/story/residential district/player's home/home_player_yasuka_room.rpy:598
     old "Allumer la lampe de chevet et inspecter [yasuka.n]."
-    new "打开床头灯检查[yasuka.n]。"
+    new "打开台灯并查看一下[yasuka.n]。"
 
     # game/scripts/story/residential district/player's home/home_player_yasuka_room.rpy:613
     old "Aller vite rejoindre [yasuka.n] au bar à hôtesse."
-    new "快去女主人酒吧见[yasuka.n]。"
+    new "迅速到会所找到[yasuka.n]。"
 

@@ -4,5 +4,5 @@
 translate chinese_simplified hostess_club_interior_unavailable_6adc69a4:
 
     # player "Je devrais revenir plus tard."
-    player "我应该晚点再来。"
+    player ""
 

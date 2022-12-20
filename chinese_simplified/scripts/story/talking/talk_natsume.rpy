@@ -130,7 +130,7 @@ translate chinese_simplified talk_natsume_f1f130b7:
 translate chinese_simplified talk_natsume_8f6699a1:
 
     # natsume "Moi j'ai répondu sur le ton de la plaisanterie. \"Tu peux toujours le sucer!\"" id talk_natsume_8f6699a1
-    natsume "我用开玩笑的语气回答。\"你你可以给他口交！\"" id talk_natsume_8f6699a1
+    natsume "我用开玩笑的语气回答。\"你可以给他口交！\"" id talk_natsume_8f6699a1
 
 # game/scripts/story/talking/talk_natsume.rpy:44
 translate chinese_simplified talk_natsume_b63c9628:

@@ -36,7 +36,7 @@ translate chinese_simplified strings:
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Attente"
-    new "等待"
+    new "等待插入"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Insertion vaginale"
@@ -44,11 +44,11 @@ translate chinese_simplified strings:
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Lent vaginal"
-    new "透视阴道"
+    new "抽插阴道"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Rapide vaginal"
-    new "快速阴道"
+    new "快速抽插"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Orgasme vaginal"
@@ -56,7 +56,7 @@ translate chinese_simplified strings:
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Creampie vaginal"
-    new "奶油阴道"
+    new "奶油夹心"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Insertion anale"
@@ -64,11 +64,11 @@ translate chinese_simplified strings:
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Lent anal"
-    new "透视肛门"
+    new "抽插肛门"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Rapide anal"
-    new "模拟快速"
+    new "快速肛交"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Orgasme anal"
@@ -88,7 +88,7 @@ translate chinese_simplified strings:
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Handjob"
-    new "手工作业"
+    new "打枪"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Insertion orale"
@@ -96,7 +96,7 @@ translate chinese_simplified strings:
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Lent oral"
-    new "香菇口服"
+    new "69口交"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Éjaculation faciale"
@@ -108,7 +108,7 @@ translate chinese_simplified strings:
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Rapide oral"
-    new "快速口服"
+    new "快速口交"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Gorge profonde"
@@ -120,7 +120,7 @@ translate chinese_simplified strings:
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Creampie"
-    new "体内射精"
+    new "中出"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Orgasme vaginal extérieur"
@@ -140,7 +140,7 @@ translate chinese_simplified strings:
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Oral"
-    new "口头的"
+    new "深喉"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Orgasme"
@@ -156,11 +156,11 @@ translate chinese_simplified strings:
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Lent"
-    new "透视"
+    new "抽插"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Rapide"
-    new "速度"
+    new "搅动"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Suivre l'histoire de [yasuka.n]"
@@ -168,7 +168,7 @@ translate chinese_simplified strings:
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Attente orgasme"
-    new "等待性高潮"
+    new "事后"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "En avant"
@@ -200,19 +200,19 @@ translate chinese_simplified strings:
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Missionaire"
-    new "百万富翁"
+    new "深山"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Face au mur"
-    new "面向au-mur"
+    new "面向观众后入"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Contre la porte"
-    new "靠着门"
+    new "按墙猛冲"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Voir derrière la porte"
-    new "见门后"
+    new "门后"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Corrompre [yasuka.n]"
@@ -220,41 +220,41 @@ translate chinese_simplified strings:
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Lécher, endormi"
-    new "舔，睡觉"
+    new "夜袭口交"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Lécher, éveillé"
-    new "舔，清醒"
+    new "清醒口交"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Modéré oral"
-    new "中度口服"
+    new "69加速"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Éjaculation"
-    new "Éjaculation公司"
+    new "即将高潮"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Pénétration"
-    new "贯穿件"
+    new "燕返起手式"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Modéré"
-    new "中等"
+    new "燕返2"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Lent orgasme"
-    new "缓慢性高潮"
+    new "事后"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Face à face"
-    new "脸和脸"
+    new "深吻对坐式"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Lap dance"
-    new "膝上舞"
+    new "膝坐后入式"
 
     # game/scripts/fondations/menu_cutscene.rpy:5
     old "Repos"
-    new "休息"
+    new "中场休息"
 

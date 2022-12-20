@@ -268,13 +268,13 @@ translate chinese_simplified restaurant_exterior_58bfb8e8:
 translate chinese_simplified restaurant_exterior_0d8a2293:
 
     # chef angry "Espèce de salle vaurien, écarte-toi de ma fille." id restaurant_exterior_0d8a2293
-    chef angry "扑街仔！离我女儿远点。" id restaurant_exterior_0d8a2293
+    chef angry "你这个混小子，离我女儿远点。" id restaurant_exterior_0d8a2293
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:129
 translate chinese_simplified restaurant_exterior_eebce560:
 
     # chef "Tire-toi vite d'ici ou je te jure que ta petite gueule d'ange va finir sur le grill de mon restaurant pourri." id restaurant_exterior_eebce560
-    chef "滚开，信不信我把你当叉烧卤了！" id restaurant_exterior_eebce560
+    chef "再缠着我女儿，信不信我把你剁成人肉包子！" id restaurant_exterior_eebce560
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:130
 translate chinese_simplified restaurant_exterior_bb6b5760:
@@ -298,7 +298,7 @@ translate chinese_simplified restaurant_exterior_7cfc3e89:
 translate chinese_simplified restaurant_exterior_dbef479b:
 
     # chef "Qu'est-ce que tu fais la gamin?" id restaurant_exterior_dbef479b
-    chef "你喺度做咩？" id restaurant_exterior_dbef479b
+    chef "你怎么又来了？" id restaurant_exterior_dbef479b
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:136
 translate chinese_simplified restaurant_exterior_dbef479b232:
@@ -310,7 +310,7 @@ translate chinese_simplified restaurant_exterior_dbef479b232:
 translate chinese_simplified restaurant_exterior_291b62f0:
 
     # chef "...Putain qu'est ce que vous avez tous à me faire perdre mon temps aujourd'hui?" id restaurant_exterior_291b62f0
-    chef "...仲喺度搞搞阵？" id restaurant_exterior_291b62f0
+    chef "...你们今天又浪费了我多少时间？" id restaurant_exterior_291b62f0
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:138
 translate chinese_simplified restaurant_exterior_7ecbf22f:
@@ -322,13 +322,13 @@ translate chinese_simplified restaurant_exterior_7ecbf22f:
 translate chinese_simplified restaurant_exterior_38861200:
 
     # chef "Et moi j'ai besoin de quelqu'un de sérieux qui tienne la route et qui ne passe pas son temps à tourner autour de ma fille." id restaurant_exterior_38861200
-    chef "我需要一个认真做嘢嘅人，唔会打我个女嘅主意。" id restaurant_exterior_38861200
+    chef "我需要一个认真做事的人，不对我女儿动歪脑筋的人。" id restaurant_exterior_38861200
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:140
 translate chinese_simplified restaurant_exterior_b4f16729:
 
     # chef "Si tu es sérieux, reviens quand tu auras meilleure mine..." id restaurant_exterior_b4f16729
-    chef "如果你系认真嘅话，等你再壮啲嘅时候，再过嚟......" id restaurant_exterior_b4f16729
+    chef "如果你是认真的，等你再壮点的时候再过来......" id restaurant_exterior_b4f16729
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:146
 translate chinese_simplified restaurant_exterior_a9b99e8c:
@@ -352,7 +352,7 @@ translate chinese_simplified restaurant_exterior_beeed2ce:
 translate chinese_simplified restaurant_exterior_59c8cad7:
 
     # sakuya -melancholic "{color=#fdcb6e}{b}明{/b}{/color} est toujours insistant, j'ai de plus en plus de mal à trouver une raison de lui dire non." id restaurant_exterior_59c8cad7
-    sakuya -melancholic "{color=#fdcb6e}{b}明{/b}{/color} 是如此执着，最近越来越难找到拒绝的理由..." id restaurant_exterior_59c8cad7
+    sakuya -melancholic "{color=#fdcb6e}{b}明{/b}{/color} 太缠人了，最近越来越难找到拒绝的理由..." id restaurant_exterior_59c8cad7
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:150
 translate chinese_simplified restaurant_exterior_c9cada5b:
@@ -598,7 +598,7 @@ translate chinese_simplified restaurant_exterior_24eb94b1:
 translate chinese_simplified restaurant_exterior_0c5fb6fb:
 
     # chef angry "Putain gamin qu'est-ce que ta foutu? Je viens de voir ma fille en pleur." id restaurant_exterior_0c5fb6fb
-    chef angry "扑街仔！你做咗咩？我女儿怎么哭了！" id restaurant_exterior_0c5fb6fb
+    chef angry "你做了什么？我女儿怎么哭了！" id restaurant_exterior_0c5fb6fb
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:237
 translate chinese_simplified restaurant_exterior_f730d697:
@@ -694,7 +694,7 @@ translate chinese_simplified restaurant_exterior_314b3aac:
 translate chinese_simplified restaurant_exterior_3571eab9:
 
     # player "Je me fais courser tous les jours par une montagne de muscle qui me menace de m'insérer du mobilier urbain dans le cul si je ne cours pas assez vite." id restaurant_exterior_3571eab9
-    player "我可是每天都被一个肌肉猛男狂追，如果跑得不够快，那家伙可能会把路边的随便什么公共设施插到我屁股里呢。" id restaurant_exterior_3571eab9
+    player "我可是每天都被一个肌肉猛男狂追，如果跑得不够快，那家伙可能会把路边的随便什么柱状物体插到我屁股里呢。" id restaurant_exterior_3571eab9
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:270
 translate chinese_simplified restaurant_exterior_8281db32:
@@ -772,7 +772,7 @@ translate chinese_simplified restaurant_exterior_9b431fad:
 translate chinese_simplified restaurant_exterior_d7cc6f56:
 
     # x "J'espère quand même qu'il ne lui est rien arrivé." id restaurant_exterior_d7cc6f56
-    x "我仍然希望他没有发生任何事情。" id restaurant_exterior_d7cc6f56
+    x "我仍然希望她没有发生任何事情。" id restaurant_exterior_d7cc6f56
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:311
 translate chinese_simplified restaurant_exterior_82627d98:
@@ -877,8 +877,8 @@ translate chinese_simplified strings:
     new "去 {color=FFFF00}{b}餐馆{/b}{/color} 的 {color=ff9f1a}{b}师傅{/b}{/color} 试试并获得这份工作。"
 
     # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:61
-    old "Peut-être que {color=#32ff7e}{b}[macumba_name]{/b}{/color} pourrait m'aider a gagner en force aussi?"
-    new "也许 {color=#32ff7e}{b}马库姆巴{/b}{/color} 也可以帮助我获得力量？"
+    # old "Peut-être que {color=#32ff7e}{b}[macumba_name]{/b}{/color} pourrait m'aider a gagner en force aussi?"
+    # new "也许 {color=#32ff7e}{b}马库姆巴{/b}{/color} 也可以帮助我获得力量？"
 
     # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:62
     old "Elle est sacrément mignonne j'espère que je la recroiserais vite."
@@ -889,32 +889,32 @@ translate chinese_simplified strings:
     new "操，这份工作泡汤了，我得找点别的路子了。"
 
     # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:185
-    old "J'ai cassé le coup d'{color=#fdcb6e}{b}[akira_name]{/b}{/color} c'est toujours ça de gagner."
-    new "我打破了{color=#fdcb6e}{b}明{/b}{/color} 的把戏，至少现在是这样。"
+    # old "J'ai cassé le coup d'{color=#fdcb6e}{b}[akira_name]{/b}{/color} c'est toujours ça de gagner."
+    # new "我打破了{color=#fdcb6e}{b}明{/b}{/color} 的把戏，至少现在是这样。"
 
     # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:332
     old "J'ai peut-être oublié un endroit..."
     new "也许我忘了什么地方..."
 
     # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:353
-    old "Rentrer à la maison voir {color=#a29bfe}{b}[yasuka_name]{/b}{/color}."
-    new "回家看看 {color=#a29bfe}{b}安香{/b}{/color}。"
+    #old "Rentrer à la maison voir {color=#a29bfe}{b}[yasuka_name]{/b}{/color}."
+    #new "回家看看 {color=#a29bfe}{b}安香{/b}{/color}。"
 
     # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:371
-    old "Rentrer à la maison retrouver {color=#a29bfe}{b}[yasuka_name]{/b}{/color}."
-    new "回家寻找 {color=#a29bfe}{b}安香{/b}{/color}。"
+    #old "Rentrer à la maison retrouver {color=#a29bfe}{b}[yasuka_name]{/b}{/color}."
+    #new "回家寻找 {color=#a29bfe}{b}安香{/b}{/color}。"
 
     # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:379
     old "Retour à la maison."
     new "回家。"
 
     # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:387
-    old "Demandez des explications à {color=#fd79a8}{b}[noriko_name]{/b}{/color}"
-    new "向 {color=#fd79a8}{b}纪子{/b}{/color} 寻求解释"
+    #old "Demandez des explications à {color=#fd79a8}{b}[noriko_name]{/b}{/color}"
+    #new "向 {color=#fd79a8}{b}纪子{/b}{/color} 寻求解释"
 
     # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:395
-    old "Rentrez à la maison, {color=#a29bfe}{b}[yasuka_name]{/b}{/color} attend votre retour."
-    new "回家吧，{color=#a29bfe}{b}安香{/b}{/color} 等着你回来。"
+    #old "Rentrez à la maison, {color=#a29bfe}{b}[yasuka_name]{/b}{/color} attend votre retour."
+    #new "回家吧，{color=#a29bfe}{b}安香{/b}{/color} 等着你回来。"
 
 # TODO: Translation updated at 2022-09-13 15:40
 

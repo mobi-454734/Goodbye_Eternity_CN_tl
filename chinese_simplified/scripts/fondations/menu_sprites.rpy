@@ -184,7 +184,7 @@ translate chinese_simplified strings:
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "disgusted"
-    new "厌恶，厌恶"
+    new "厌恶"
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "doubt"
@@ -196,7 +196,7 @@ translate chinese_simplified strings:
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "everyday"
-    new "每天的"
+    new "常服"
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "fear"
@@ -212,11 +212,11 @@ translate chinese_simplified strings:
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "glasses"
-    new "玻璃杯"
+    new "眼镜"
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "hairpin_earring"
-    new "发夹_到达"
+    new "发夹"
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "happy"
@@ -224,7 +224,7 @@ translate chinese_simplified strings:
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "horny"
-    new "角状的"
+    new "角"
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "jacket"
@@ -316,7 +316,7 @@ translate chinese_simplified strings:
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "suit"
-    new "适合"
+    new "西服"
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "sulking"
@@ -332,7 +332,7 @@ translate chinese_simplified strings:
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "tailleur"
-    new "尾灯"
+    new "定制女装"
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "think"
@@ -344,7 +344,7 @@ translate chinese_simplified strings:
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "toque"
-    new "托克牌手表"
+    new "厨师帽"
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "upset"
@@ -352,7 +352,7 @@ translate chinese_simplified strings:
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "accessories"
-    new "配件"
+    new "装饰"
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "badge"
@@ -360,11 +360,11 @@ translate chinese_simplified strings:
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "cloth"
-    new "布"
+    new "服装"
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "face"
-    new "面对"
+    new "表情"
 
     # game/scripts/fondations/menu_sprites.rpy:6
     old "hair"

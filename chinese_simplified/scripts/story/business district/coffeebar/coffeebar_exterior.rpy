@@ -1216,7 +1216,7 @@ translate chinese_simplified strings:
 
     # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:361
     old "Mais carrement!"
-    new "更多随身携带！"
+    new "必须的！"
 
     # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:361
     old "Arrete de te foutre de moi"
@@ -1224,5 +1224,5 @@ translate chinese_simplified strings:
 
     # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:441
     old "Retournez chez vous prévenir [yasuka.n] de faire tres attention a [akira.n]."
-    new "回到你的家里，警告[yasuka.n]要小心[akira.n]。"
+    new "回家警告[yasuka.n]要小心[akira.n]。"
 

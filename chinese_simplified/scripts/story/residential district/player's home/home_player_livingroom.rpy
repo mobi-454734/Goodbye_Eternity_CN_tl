@@ -2480,7 +2480,7 @@ translate chinese_simplified strings:
 
     # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:41
     old "Dirigez-vous vers le {color=#FFFF00}{b}parc{/b}{/color} pour aller courir."
-    new "前往 {color=#FFFF00}{b}park{/b}{/color} 跑步。"
+    new "前往 {color=#FFFF00}{b}公园{/b}{/color} 跑步。"
 
     # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:116
     old "C'est probablement une bonne idée en effet!"
@@ -2596,25 +2596,25 @@ translate chinese_simplified strings:
 translate chinese_simplified home_player_livingroom_c6e8b355:
 
     # yasuka "Pret a passer la soirée rien que toi et moi?" id home_player_livingroom_c6e8b355
-    yasuka "准备好只剩下你和我度过一个夜晚了吗？" id home_player_livingroom_c6e8b355
+    yasuka "准备好一起共度春宵了吗？" id home_player_livingroom_c6e8b355
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:947
 translate chinese_simplified home_player_livingroom_b2f0b7bc:
 
     # player "Ce n'est pas le genre de proposition qui se refuse mais..." id home_player_livingroom_b2f0b7bc
-    player "不是那种可以拒绝的提议，但是……" id home_player_livingroom_b2f0b7bc
+    player "我不是想拒绝……就是那个……" id home_player_livingroom_b2f0b7bc
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:948
 translate chinese_simplified home_player_livingroom_11a90105:
 
     # player neutral "Ou est {color=#fd79a8}{b}纪子{/b}{/color}?" id home_player_livingroom_11a90105
-    player neutral "还是{color=#fd79a8}{b}纪子{/b}{/color}？" id home_player_livingroom_11a90105
+    player neutral "{color=#fd79a8}{b}纪子{/b}{/color}还在家吧？" id home_player_livingroom_11a90105
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:949
 translate chinese_simplified home_player_livingroom_b9fc15b0:
 
     # yasuka neutral "...Dans sa chambre." id home_player_livingroom_b9fc15b0
-    yasuka neutral "...在他房间里。" id home_player_livingroom_b9fc15b0
+    yasuka neutral "...在她房间里。" id home_player_livingroom_b9fc15b0
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:950
 translate chinese_simplified home_player_livingroom_db5e7a05:
@@ -2626,19 +2626,19 @@ translate chinese_simplified home_player_livingroom_db5e7a05:
 translate chinese_simplified home_player_livingroom_4c3003b8:
 
     # yasuka pouting "J'en ai assez de me cacher ou de retenir mes sentiments." id home_player_livingroom_4c3003b8
-    yasuka pouting "我厌倦了隐藏或抑制自己的感受。" id home_player_livingroom_4c3003b8
+    yasuka pouting "你怕了吗？" id home_player_livingroom_4c3003b8
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:952
 translate chinese_simplified home_player_livingroom_b8278363:
 
     # yasuka "Peu importe si elle est au courant, j'ai envie de penser a moi et de ce qui me fait plaisir!" id home_player_livingroom_b8278363
-    yasuka "她知不知道没关系，我想想想我，什么让我快乐！" id home_player_livingroom_b8278363
+    yasuka "就算发现又怎么样，现在我只想要你！" id home_player_livingroom_b8278363
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:953
 translate chinese_simplified home_player_livingroom_6e3b5bf1:
 
     # yasuka "Et c'est toi dont j'ai envie!" id home_player_livingroom_6e3b5bf1
-    yasuka "而我想要的就是你！" id home_player_livingroom_6e3b5bf1
+    yasuka "别想其他女人！" id home_player_livingroom_6e3b5bf1
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:954
 translate chinese_simplified home_player_livingroom_9fdeed69:
@@ -2650,19 +2650,19 @@ translate chinese_simplified home_player_livingroom_9fdeed69:
 translate chinese_simplified home_player_livingroom_3991d6db:
 
     # yasuka moved "Allons prendre un bain ensemble, j'étais tellement bien dans tes bras la derniere fois..." id home_player_livingroom_3991d6db
-    yasuka moved "一起洗澡吧，上次在你怀里我是那么的好……" id home_player_livingroom_3991d6db
+    yasuka moved "一起洗澡吧，上次一起洗澡的时候你还是个小孩呢……" id home_player_livingroom_3991d6db
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:956
 translate chinese_simplified home_player_livingroom_02e9c44a:
 
     # yasuka "Ca m'a trop manquée!" id home_player_livingroom_02e9c44a
-    yasuka "我太想念它了！" id home_player_livingroom_02e9c44a
+    yasuka "有点怀念呢！" id home_player_livingroom_02e9c44a
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:957
 translate chinese_simplified home_player_livingroom_3a1f4b0f:
 
     # player "A moi aussi!" id home_player_livingroom_3a1f4b0f
-    player "也给我！" id home_player_livingroom_3a1f4b0f
+    player "我也是！" id home_player_livingroom_3a1f4b0f
 
 # TODO: Translation updated at 2022-12-15 12:14
 
@@ -3444,35 +3444,35 @@ translate chinese_simplified strings:
 
     # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:195
     old "Je dois décrocher ce job à tout prix pour [yasuka.n]."
-    new ""
+    new "为了[yasuka.n],我必须不惜一切代价得到这份工作。"
 
     # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:243
     old "Il faut absolument que je me trouve un travail. Je dois aider [yasuka.n]."
-    new ""
+    new "我得找份工作。我必须帮助[yasuka.n]。"
 
     # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:409
     old "Fouiller la chambre de [noriko.n]  et retrouver le lecteur MP3."
-    new ""
+    new "搜查[noriko.n]的房间，找到MP3播放器。"
 
     # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:511
     old "Demander de l'aide a [macumba.n]"
-    new ""
+    new "向[macumba.n]寻求帮助"
 
     # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:665
     old "Retrouver [yasuka.n]."
-    new ""
+    new "找到[yasuka.n]。"
 
     # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:695
     old "Retourner à la boutique demain matin pour apporter la démission de [yasuka.n]."
-    new ""
+    new "明天早上回到商店，带着[yasuka.n]的辞职书。"
 
     # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:771
     old "Rejoindre [yasuka.n] dans sa chambre."
-    new ""
+    new "回到他的房间。"
 
     # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:855
     old "Vous donnez les documents a [yasuka.n]"
-    new ""
+    new "你把文件给了[yasuka.n]"
 
     # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:961
     old "Accompagner [yasuka.n] au bar à hotesse."

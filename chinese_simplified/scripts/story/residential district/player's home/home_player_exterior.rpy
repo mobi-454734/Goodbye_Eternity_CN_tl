@@ -2178,79 +2178,79 @@ translate chinese_simplified strings:
 translate chinese_simplified home_player_exterior_828a63e1:
 
     # natsume "[player.n] j'ai envie de croire que tu vaud mieux que ça." id home_player_exterior_828a63e1
-    natsume "" id home_player_exterior_828a63e1
+    natsume "我觉得你比那更好。" id home_player_exterior_828a63e1
 
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:415
 translate chinese_simplified home_player_exterior_a28828c7:
 
     # centered "[player.n] raconta toute l'histoire a [natsume.n]." id home_player_exterior_a28828c7
-    centered "" id home_player_exterior_a28828c7
+    centered "[player.n]把整个故事讲给了[natsume.n]。" id home_player_exterior_a28828c7
 
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:434
 translate chinese_simplified home_player_exterior_7f7aefe5:
 
     # player "[natsume.n] bordel!" id home_player_exterior_7f7aefe5
-    player "" id home_player_exterior_7f7aefe5
+    player "[natsume.n]该死的！" id home_player_exterior_7f7aefe5
 
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:438
 translate chinese_simplified home_player_exterior_0572e4be:
 
     # natsume -happy "...{w}[player.n]?" id home_player_exterior_0572e4be
-    natsume -happy "" id home_player_exterior_0572e4be
+    natsume -happy "...{w}[player.n]?" id home_player_exterior_0572e4be
 
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:443
 translate chinese_simplified home_player_exterior_ea18bec3:
 
     # player "[natsume.n]..." id home_player_exterior_ea18bec3
-    player "" id home_player_exterior_ea18bec3
+    player "[natsume.n]。。。" id home_player_exterior_ea18bec3
 
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:492
 translate chinese_simplified home_player_exterior_52fa06df:
 
     # asami -happy "Allez a la prochaine [player.n]!" id home_player_exterior_52fa06df
-    asami -happy "" id home_player_exterior_52fa06df
+    asami -happy "去下一个[player.n]！" id home_player_exterior_52fa06df
 
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:527
 translate chinese_simplified home_player_exterior_0e58b0c7:
 
     # natsume happy "[natsume.n], tu ne me connais pas, mais je te connais." id home_player_exterior_0e58b0c7
-    natsume happy "" id home_player_exterior_0e58b0c7
+    natsume happy "[natsume.n]你不认识我，但我认识你。" id home_player_exterior_0e58b0c7
 
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:529
 translate chinese_simplified home_player_exterior_99b75cce:
 
     # natsume "Et tu es le soi-disant meilleur ami de [minato.n]." id home_player_exterior_99b75cce
-    natsume "" id home_player_exterior_99b75cce
+    natsume "你是[minato.n]最好的朋友。" id home_player_exterior_99b75cce
 
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:537
 translate chinese_simplified home_player_exterior_33853288:
 
     # natsume "Mais oublie [minato.n] et [chiaki.n]." id home_player_exterior_33853288
-    natsume "" id home_player_exterior_33853288
+    natsume "但忘了[minato.n]和[chiaki.n]。" id home_player_exterior_33853288
 
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:539
 translate chinese_simplified home_player_exterior_3c30597c:
 
     # player surprised "...Tu me demander d'abandonner la petite [chiaki.n] a son sort?" id home_player_exterior_3c30597c
-    player surprised "" id home_player_exterior_3c30597c
+    player surprised "…你要我放弃那个女孩吗？" id home_player_exterior_3c30597c
 
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:547
 translate chinese_simplified home_player_exterior_e7378638:
 
     # natsume -happy "Passe une bonne nuit [player.n], ravie d'avoir discutée avec toi." id home_player_exterior_e7378638
-    natsume -happy "" id home_player_exterior_e7378638
+    natsume -happy "晚安，很高兴和你聊天。" id home_player_exterior_e7378638
 
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:567
 translate chinese_simplified home_player_exterior_71599891:
 
     # player "Rester loin de tout ce qui peut être lié de près ou de loin a [minato.n]?" id home_player_exterior_71599891
-    player "" id home_player_exterior_71599891
+    player "远离任何可能与[minato.n]有密切或遥远联系的东西？" id home_player_exterior_71599891
 
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:569
 translate chinese_simplified home_player_exterior_dc956414:
 
     # natsume "[minato.n] a très mal digéré la petite provoque de ta nouvelle copine." id home_player_exterior_dc956414
-    natsume "" id home_player_exterior_dc956414
+    natsume "[minato.n]把你新女友的小挑逗搞得一团糟。" id home_player_exterior_dc956414
 
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:727
 translate chinese_simplified home_player_exterior_3b8d648a:

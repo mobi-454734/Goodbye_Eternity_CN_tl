@@ -1762,19 +1762,19 @@ translate chinese_simplified strings:
 
     # game/scripts/story/residential district/player's home/home_player_corridor.rpy:43
     old "Evitez cette peste de [noriko.n] à tout prix!"
-    new "不惜一切代价避免这场瘟疫！"
+    new "不惜一切代价避免[noriko.n]的悲剧！"
 
     # game/scripts/story/residential district/player's home/home_player_corridor.rpy:103
     old "Continuer d'ignorer [noriko.n]!"
-    new "继续忽略[noriko.n]！"
+    new "无视[noriko.n]！"
 
     # game/scripts/story/residential district/player's home/home_player_corridor.rpy:197
     old "Retournez au {color=#ff0}{b}parc{/b}{/color} voir si [macumba.n] est encore là."
-    new "回{color=#ff0}{b}公园{/b}{/color}看看[macumba.n]还在不在那。"
+    new "回{color=#ff0}{b}公园{/b}{/color}看看[macumba.n]还在不在哪。"
 
     # game/scripts/story/residential district/player's home/home_player_corridor.rpy:198
     old "[noriko.n] à enfin eu ce qu'elle méritait, je suis libre à présent!"
-    new "终于得到了她应得的，我现在自由了！"
+    new "[noriko.n]终于得到了她应得的，我现在自由了！"
 
     # game/scripts/story/residential district/player's home/home_player_corridor.rpy:404
     old "Allons chez [minato.n] histoire d'en apprendre plus sur sa copine"

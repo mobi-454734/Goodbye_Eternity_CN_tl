@@ -5736,67 +5736,67 @@ translate chinese_simplified strings:
 
     # game/scripts/story/residential district/player's home/home_player_room.rpy:37
     old "Sortir de la chambre et aller voir  [yasuka.n] dans le salon."
-    new ""
+    new "走出房间，到客厅里去看看[yasuka.n]。"
 
     # game/scripts/story/residential district/player's home/home_player_room.rpy:165
     old "Se renseigner auprès de [yasuka.n]."
-    new ""
+    new "请咨询[yasuka.n]。"
 
     # game/scripts/story/residential district/player's home/home_player_room.rpy:182
     old "Demandez des explications à [noriko.n]."
-    new ""
+    new "请向[noriko.n]寻求解释。"
 
     # game/scripts/story/residential district/player's home/home_player_room.rpy:241
     old "[macumba.n] doit m'attendre pour mon premier jour d'entrainement."
-    new ""
+    new "我必须在[macumba.n]练的第一天等我。"
 
     # game/scripts/story/residential district/player's home/home_player_room.rpy:381
     old "Se rendre chez [minato.n]."
-    new ""
+    new "去[minato.n]。"
 
     # game/scripts/story/residential district/player's home/home_player_room.rpy:397
     old "J'ai hâte retrouver [asami.n] cet après-midi."
-    new ""
+    new "我期待着今天下午再次见到[asami.n]。"
 
     # game/scripts/story/residential district/player's home/home_player_room.rpy:634
     old "Retrouver [asami.n] au parc l'après-midi"
-    new ""
+    new "下午在公园见[asami.n]"
 
     # game/scripts/story/residential district/player's home/home_player_room.rpy:651
     old "Raccompagner [asami.n] chez elle."
-    new ""
+    new "送[asami.n]回家。"
 
     # game/scripts/story/residential district/player's home/home_player_room.rpy:901
     old "Retourner chez [minato.n] pour mettre les choses au clair"
-    new ""
+    new "回到[minato.n]把事情弄清楚"
 
     # game/scripts/story/residential district/player's home/home_player_room.rpy:916
     old "Aller voir [kimochi.n] à l'adresse indiquée"
-    new ""
+    new "在指定地址查看[Kimochi.n]"
 
     # game/scripts/story/residential district/player's home/home_player_room.rpy:1133
     old "[asami.n]?"
-    new ""
+    new "[asami.n]？"
 
     # game/scripts/story/residential district/player's home/home_player_room.rpy:1298
     old "Aller voir [kimochi.n] pour établir un plan."
-    new ""
+    new "去[Kimochi.n]制定计划。"
 
     # game/scripts/story/residential district/player's home/home_player_room.rpy:1559
     old "Retrouver [asami.n] cette nuit dans votre chambre."
-    new ""
+    new "今晚在你的房间见。"
 
     # game/scripts/story/residential district/player's home/home_player_room.rpy:1801
     old "Prendre des nouvelles de [yasuka.n]"
-    new ""
+    new "从[yasuka.n]获取消息"
 
     # game/scripts/story/residential district/player's home/home_player_room.rpy:1810
     old "Annoncer à [ubs.n] que [yasuka.n] ne reviendra plus."
-    new ""
+    new "向[ubs.n]宣布[yasuka.n]将不再返回。"
 
     # game/scripts/story/residential district/player's home/home_player_room.rpy:1911
     old "Aller voir [yasuka.n]."
-    new ""
+    new "去看看[yasuka.n]。"
 
     # game/scripts/story/residential district/player's home/home_player_room.rpy:2067
     old "Rejoindre [yasuka.n] dans le salon"

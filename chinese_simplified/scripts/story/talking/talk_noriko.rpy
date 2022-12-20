@@ -922,13 +922,13 @@ translate chinese_simplified talk_noriko_898b1990_2:
 translate chinese_simplified talk_noriko_403a83ce:
 
     # noriko "Marron, tu as les yeux marron." id talk_noriko_403a83ce
-    noriko "棕色，你有棕色的眼睛。" id talk_noriko_403a83ce
+    noriko "棕色……是棕色的。" id talk_noriko_403a83ce
 
 # game/scripts/story/talking/talk_noriko.rpy:314
 translate chinese_simplified talk_noriko_a8ddeb9f:
 
     # noriko "Tu avais juste à regarder dans la salle de bain..." id talk_noriko_a8ddeb9f
-    noriko "你只需要在浴室里看看..." id talk_noriko_a8ddeb9f
+    noriko "你照照镜子就能看到..." id talk_noriko_a8ddeb9f
 
 # game/scripts/story/talking/talk_noriko.rpy:315
 translate chinese_simplified talk_noriko_070865d3:
@@ -940,7 +940,7 @@ translate chinese_simplified talk_noriko_070865d3:
 translate chinese_simplified talk_noriko_6764641e:
 
     # noriko "Pourqu-" id talk_noriko_6764641e
-    noriko "为什么-" id talk_noriko_6764641e
+    noriko "不用谢……" id talk_noriko_6764641e
 
 # game/scripts/story/talking/talk_noriko.rpy:322
 translate chinese_simplified talk_noriko_d385f1f5:
@@ -958,7 +958,7 @@ translate chinese_simplified talk_noriko_9f34edda:
 translate chinese_simplified talk_noriko_200e1f01:
 
     # noriko "Attends-je..." id talk_noriko_200e1f01
-    noriko "我等着..." id talk_noriko_200e1f01
+    noriko "等一下……" id talk_noriko_200e1f01
 
 # game/scripts/story/talking/talk_noriko.rpy:325
 translate chinese_simplified talk_noriko_64ae250a:
@@ -970,25 +970,25 @@ translate chinese_simplified talk_noriko_64ae250a:
 translate chinese_simplified talk_noriko_f6039c86:
 
     # noriko "...Non laisse tomber." id talk_noriko_f6039c86
-    noriko "...没关系。" id talk_noriko_f6039c86
+    noriko "……没关系。" id talk_noriko_f6039c86
 
 # game/scripts/story/talking/talk_noriko.rpy:330
 translate chinese_simplified talk_noriko_1446a0d4:
 
     # player "S'il te plait..." id talk_noriko_1446a0d4
-    player "请..." id talk_noriko_1446a0d4
+    player "求你了..." id talk_noriko_1446a0d4
 
 # game/scripts/story/talking/talk_noriko.rpy:331
 translate chinese_simplified talk_noriko_045e61d8:
 
     # noriko furious "de la merde!" id talk_noriko_045e61d8
-    noriko furious "狗屎！" id talk_noriko_045e61d8
+    noriko furious "妈的！" id talk_noriko_045e61d8
 
 # game/scripts/story/talking/talk_noriko.rpy:332
 translate chinese_simplified talk_noriko_84f6a032:
 
     # player "Attend quoi?" id talk_noriko_84f6a032
-    player "等什么？" id talk_noriko_84f6a032
+    player "怎么了？" id talk_noriko_84f6a032
 
 # game/scripts/story/talking/talk_noriko.rpy:333
 translate chinese_simplified talk_noriko_8ce77e83:
@@ -1012,7 +1012,7 @@ translate chinese_simplified talk_noriko_9f34edda_1:
 translate chinese_simplified talk_noriko_50516910:
 
     # noriko neutral "...{w}Taré." id talk_noriko_50516910
-    noriko neutral "...{w}我会的" id talk_noriko_50516910
+    noriko neutral "...{w}不谢" id talk_noriko_50516910
 
 # game/scripts/story/talking/talk_noriko.rpy:348
 translate chinese_simplified talk_noriko_70f3029f:
@@ -1030,7 +1030,7 @@ translate chinese_simplified talk_noriko_a2482878:
 translate chinese_simplified talk_noriko_2af12181:
 
     # noriko furious "Sort de ma chambre sale chien!" id talk_noriko_2af12181
-    noriko furious "滚出我的脏狗房！" id talk_noriko_2af12181
+    noriko furious "滚出我的房间，蠢狗！" id talk_noriko_2af12181
 
 translate chinese_simplified strings:
 

@@ -928,7 +928,7 @@ translate chinese_simplified restaurant_exterior_5afa27f0:
 translate chinese_simplified restaurant_exterior_7e53d06a:
 
     # x "Timide comme elle est..." id restaurant_exterior_7e53d06a
-    x "害羞的她..." id restaurant_exterior_7e53d06a
+    x "她那么内向..." id restaurant_exterior_7e53d06a
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:322
 translate chinese_simplified restaurant_exterior_ef8cca36:

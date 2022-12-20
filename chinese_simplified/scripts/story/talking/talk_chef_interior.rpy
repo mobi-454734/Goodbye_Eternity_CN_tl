@@ -16,7 +16,7 @@ translate chinese_simplified talk_chef_interior_2b0313c6:
 translate chinese_simplified talk_chef_interior_1f0bc787:
 
     # chef -happy "J'ai quand même besoin d'une personne supplémentaire pour m'aider a gérer ce restaurant." id talk_chef_interior_1f0bc787
-    chef -happy "我仍然需要一个额外的人来帮助我经营这家餐厅。" id talk_chef_interior_1f0bc787
+    chef -happy "我需要靠谱的人手来帮助我经营这家餐厅。" id talk_chef_interior_1f0bc787
 
 # game/scripts/story/talking/talk_chef_interior.rpy:15
 translate chinese_simplified talk_chef_interior_c71aa818:
@@ -35,7 +35,7 @@ translate chinese_simplified talk_chef_interior_a6340e2f:
 
     # player "Il y a un 'mais'?" id talk_chef_interior_a6340e2f
     player "我第一天上班能放点水吗？" id talk_chef_interior_a6340e2f
-#这里需要改进
+
 # game/scripts/story/talking/talk_chef_interior.rpy:18
 translate chinese_simplified talk_chef_interior_813edc3e:
 
@@ -58,13 +58,13 @@ translate chinese_simplified talk_chef_interior_055ba6ef:
 translate chinese_simplified talk_chef_interior_ae0fa5e4:
 
     # chef "Un jour peut être, je dis bien peut être, si tu as fait tes preuves je ferais de toi mon apprenti et une centaine d'années plus tard..." id talk_chef_interior_ae0fa5e4
-    chef "也许有一天，我是说也许，如果你证明了自己，我会让你成为我的徒弟，一百年后..." id talk_chef_interior_ae0fa5e4
+    chef "也许有一天，我是说也许，如果你证明了自己，我会让你成为我的徒弟..." id talk_chef_interior_ae0fa5e4
 
 # game/scripts/story/talking/talk_chef_interior.rpy:22
 translate chinese_simplified talk_chef_interior_ce8c54af:
 
     # player sad "Je serais... mort?" id talk_chef_interior_ce8c54af
-    player sad "我会……死吗？" id talk_chef_interior_ce8c54af
+    player sad "然……然后呢？" id talk_chef_interior_ce8c54af
 
 # game/scripts/story/talking/talk_chef_interior.rpy:23
 translate chinese_simplified talk_chef_interior_34b684a7:
@@ -136,7 +136,7 @@ translate chinese_simplified talk_chef_interior_c0a1fc33:
 translate chinese_simplified talk_chef_interior_ed1b11c2:
 
     # chef "ALLEZ AU BOULOT." id talk_chef_interior_ed1b11c2
-    chef "去工活。" id talk_chef_interior_ed1b11c2
+    chef "去干活。" id talk_chef_interior_ed1b11c2
 
 # game/scripts/story/talking/talk_chef_interior.rpy:44
 translate chinese_simplified talk_chef_interior_2193ec9a:
@@ -166,7 +166,7 @@ translate chinese_simplified talk_chef_interior_faabb192:
 translate chinese_simplified talk_chef_interior_d18fcff3:
 
     # chef mocking "On peut manger dedans?" id talk_chef_interior_d18fcff3
-    chef mocking "我们可以在里面吃吗？" id talk_chef_interior_d18fcff3
+    chef mocking "我们可以在里面吃饭吗？" id talk_chef_interior_d18fcff3
 
 # game/scripts/story/talking/talk_chef_interior.rpy:51
 translate chinese_simplified talk_chef_interior_ec19569e:
@@ -196,13 +196,13 @@ translate chinese_simplified talk_chef_interior_c3749ab9:
 translate chinese_simplified talk_chef_interior_3d085569:
 
     # player happy "Oui j'ai donné tout ce que j'avais afin qu'il soit satisfait." id talk_chef_interior_3d085569
-    player happy "是的，我付出了我所有的一切，这样他才会满意。" id talk_chef_interior_3d085569
+    player happy "是的，我尽我所能，这样他才会满意。" id talk_chef_interior_3d085569
 
 # game/scripts/story/talking/talk_chef_interior.rpy:58
 translate chinese_simplified talk_chef_interior_5937cc76:
 
     # player "Je lui ai même dit que c'était tellement propre qu'on pourrait manger dedans!" id talk_chef_interior_5937cc76
-    player "我甚至告诉他它很干净，你可以在里面吃！" id talk_chef_interior_5937cc76
+    player "我甚至把厕所打扫得干净到可以在里面吃饭！" id talk_chef_interior_5937cc76
 
 # game/scripts/story/talking/talk_chef_interior.rpy:59
 translate chinese_simplified talk_chef_interior_2d92220a:
@@ -214,7 +214,7 @@ translate chinese_simplified talk_chef_interior_2d92220a:
 translate chinese_simplified talk_chef_interior_d2d96c14:
 
     # player "Oui pourquoi?" id talk_chef_interior_d2d96c14
-    player "是的，为什么？" id talk_chef_interior_d2d96c14
+    player "是的，怎么了？" id talk_chef_interior_d2d96c14
 
 # game/scripts/story/talking/talk_chef_interior.rpy:61
 translate chinese_simplified talk_chef_interior_e2e1466e:
@@ -268,13 +268,13 @@ translate chinese_simplified talk_chef_interior_09962828:
 translate chinese_simplified talk_chef_interior_b1d5d956:
 
     # chef "Donc maintenant tu as le choix..." id talk_chef_interior_b1d5d956
-    chef "所以现在你有一个选择..." id talk_chef_interior_b1d5d956
+    chef "所以现在你有两个选择..." id talk_chef_interior_b1d5d956
 
 # game/scripts/story/talking/talk_chef_interior.rpy:72
 translate chinese_simplified talk_chef_interior_190065ea:
 
     # chef "Tu manges dans les toilettes que tu viens de nettoyer ou tu dégages?" id talk_chef_interior_190065ea
-    chef "你是在刚打扫过的厕所里吃饭还是承认你没有清理干净？" id talk_chef_interior_190065ea
+    chef "你是在马桶里把面吃了，还是承认你没有清理干净？" id talk_chef_interior_190065ea
 
 # game/scripts/story/talking/talk_chef_interior.rpy:73
 translate chinese_simplified talk_chef_interior_9d2ba5a5:
@@ -370,19 +370,19 @@ translate chinese_simplified talk_chef_interior_58cb766d:
 translate chinese_simplified talk_chef_interior_aa379d17:
 
     # chef neutral "Bon bon ça va... Je voulais voir de quel bois tu étais fait et il semble que tu tiennes tes promesses." id talk_chef_interior_aa379d17
-    chef neutral "吼吼吼...我想看看你究竟是怎样一个人，看来你信守诺言了。" id talk_chef_interior_aa379d17
+    chef neutral "吼吼吼...我想看看他究竟是怎样一个人，看来他信守诺言了。" id talk_chef_interior_aa379d17
 
 # game/scripts/story/talking/talk_chef_interior.rpy:113
 translate chinese_simplified talk_chef_interior_b6c61215:
 
     # chef "Je vais te donner un bonus." id talk_chef_interior_b6c61215
-    chef "我会给你奖金。" id talk_chef_interior_b6c61215
+    chef "我会给他奖金。" id talk_chef_interior_b6c61215
 
 # game/scripts/story/talking/talk_chef_interior.rpy:119
 translate chinese_simplified talk_chef_interior_9804b8ce:
 
     # x "Ah, finalement j'ai peut être pas tout ça pour rien..." id talk_chef_interior_9804b8ce
-    x "啊，最后我可能不会白白拥有这一切..." id talk_chef_interior_9804b8ce
+    x "啊，至少我今天没有白干……" id talk_chef_interior_9804b8ce
 
 # game/scripts/story/talking/talk_chef_interior.rpy:127
 translate chinese_simplified talk_chef_interior_aafdcf24:

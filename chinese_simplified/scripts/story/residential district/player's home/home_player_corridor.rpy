@@ -736,13 +736,13 @@ translate chinese_simplified home_player_corridor_92d64b6f:
 translate chinese_simplified home_player_corridor_977d79b0:
 
     # player happy "On verra ça avec le temps! Je dois filer au restaurant." id home_player_corridor_977d79b0
-    player happy "随着时间的推移，我们将看到这一点！我得去餐厅。" id home_player_corridor_977d79b0
+    player happy "将来我应该能搞懂的！现在我得去餐厅了。" id home_player_corridor_977d79b0
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:414
 translate chinese_simplified home_player_corridor_e84ea1c4:
 
     # player sad "Je vais me faire virer si j'arrive en retard dès le premier jour." id home_player_corridor_e84ea1c4
-    player sad "如果我在第一天迟到，我会被解雇。" id home_player_corridor_e84ea1c4
+    player sad "上班第一天就迟到，开的可不是什么好头。" id home_player_corridor_e84ea1c4
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:429
 translate chinese_simplified home_player_corridor_55ee076d:
@@ -820,7 +820,7 @@ translate chinese_simplified home_player_corridor_5544a5a2:
 translate chinese_simplified home_player_corridor_0c694d35:
 
     # player sad "Shhht! Pas si fort! Tu veux ma mort ou quoi?" id home_player_corridor_0c694d35
-    player sad "嘘！没那么难！你要我死还是什么？" id home_player_corridor_0c694d35
+    player sad "嘘！别这么大声！你是要我死还是什么？" id home_player_corridor_0c694d35
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:455
 translate chinese_simplified home_player_corridor_8e4b713f:
@@ -832,7 +832,7 @@ translate chinese_simplified home_player_corridor_8e4b713f:
 translate chinese_simplified home_player_corridor_973efdac:
 
     # x "Oh putain, je sens déjà les nouveaux problèmes arriver à grande vitesse." id home_player_corridor_973efdac
-    x "哦，操，我已经听到新问题正在高速袭来。" id home_player_corridor_973efdac
+    x "哦，操，我已经听到母老虎正在高速袭来。" id home_player_corridor_973efdac
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:463
 translate chinese_simplified home_player_corridor_14be133d:
@@ -874,13 +874,13 @@ translate chinese_simplified home_player_corridor_aef18ea2:
 translate chinese_simplified home_player_corridor_0abec66e:
 
     # asami "J'ai aussi une très forte libido donc il est possible que tu nous entendes." id home_player_corridor_0abec66e
-    asami "悄悄告诉你，我这人很饥渴，所以待会儿你可能会听到我们发出一些噪音。" id home_player_corridor_0abec66e
+    asami "悄悄告诉你，我这人很饥渴，所以待会儿你可能会听到我们发出一些嗯嗯啊啊的声音。" id home_player_corridor_0abec66e
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:477
 translate chinese_simplified home_player_corridor_b4e40eb1:
 
     # asami "Il y aura du sexe, énormément de sexe." id home_player_corridor_b4e40eb1
-    asami "我们会从床上干到地板上。" id home_player_corridor_b4e40eb1
+    asami "我们会干个爽，非常非常爽。" id home_player_corridor_b4e40eb1
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:478
 translate chinese_simplified home_player_corridor_d9007c9d:
@@ -892,19 +892,19 @@ translate chinese_simplified home_player_corridor_d9007c9d:
 translate chinese_simplified home_player_corridor_b2166ecf:
 
     # noriko shame "Mais... n-" id home_player_corridor_b2166ecf
-    noriko shame "但是... 你-" id home_player_corridor_b2166ecf
+    noriko shame "你……你……" id home_player_corridor_b2166ecf
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:480
 translate chinese_simplified home_player_corridor_4125cfb9:
 
     # asami "Ravi d'avoir fait ta connaissance, a bientôt j'espère?" id home_player_corridor_4125cfb9
-    asami "很高兴认识你，希望很快见到你？" id home_player_corridor_4125cfb9
+    asami "很高兴认识你！[player.n]的小妹妹。" id home_player_corridor_4125cfb9
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:481
 translate chinese_simplified home_player_corridor_968d5254:
 
     # asami "Tu viens mon étalon?" id home_player_corridor_968d5254
-    asami "我们肘，进屋。" id home_player_corridor_968d5254
+    asami "我们肘，[player.n]，进屋。" id home_player_corridor_968d5254
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:482
 translate chinese_simplified home_player_corridor_bba66073:

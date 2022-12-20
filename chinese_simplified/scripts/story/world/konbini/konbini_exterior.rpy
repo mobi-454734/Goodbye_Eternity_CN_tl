@@ -160,7 +160,7 @@ translate chinese_simplified konbini_exterior_aaedf05c:
 translate chinese_simplified konbini_exterior_9e0efe8c:
 
     # minato "Je veux bien être sympa avec toi {color=#0984e3}{b}[player_name]{/b}{/color} mais faut pas déconner avec ça." id konbini_exterior_9e0efe8c
-    minato "我一直待你不薄吧 {color=#0984e3}{b}[player_name]{/b}{/color}，但不要好心当成驴肝肺。" id konbini_exterior_9e0efe8c
+    minato "我一直待你不薄吧 {color=#0984e3}{b}[player_name]{/b}{/color}，你现在就这样报答我的吗？" id konbini_exterior_9e0efe8c
 
 # game/scripts/story/world/konbini/konbini_exterior.rpy:75
 translate chinese_simplified konbini_exterior_ce3ffa61:
@@ -490,7 +490,7 @@ translate chinese_simplified konbini_exterior_5c2e1b34:
 translate chinese_simplified konbini_exterior_640c5da6:
 
     # player upset "J'ai le sentiment qu'il n'est pas seulement étouffant, je me trompe?" id konbini_exterior_640c5da6
-    player upset "我有一种感觉，不只是闷，对吗？" id konbini_exterior_640c5da6
+    player upset "我猜他对你做了些什么，对吗？" id konbini_exterior_640c5da6
 
 # game/scripts/story/world/konbini/konbini_exterior.rpy:48
 translate chinese_simplified konbini_exterior_db6b4839:
@@ -508,13 +508,13 @@ translate chinese_simplified konbini_exterior_78ddf259:
 translate chinese_simplified konbini_exterior_f7c4062a:
 
     # minato angry "Je rêve ou on dirait que tu me prends pour un putain de pervers?" id konbini_exterior_f7c4062a
-    minato angry "我是在做梦还是你看起来像你认为我是一个他妈的变态？" id konbini_exterior_f7c4062a
+    minato angry "你在说什么？你的意思是我有问题咯？" id konbini_exterior_f7c4062a
 
 # game/scripts/story/world/konbini/konbini_exterior.rpy:80
 translate chinese_simplified konbini_exterior_187f15d2:
 
     # minato happy "Tu serais prêt à foutre en l'air une amitié à cause de mots aussi vagues, ou d'une formulation de phrase un peu bancale?" id konbini_exterior_187f15d2
-    minato happy "你会准备好因为这样模糊的词或稍微摇摇晃晃的句子表达而搞砸友谊吗？" id konbini_exterior_187f15d2
+    minato happy "你该不会就凭她的只言片语就来怀疑我吧？" id konbini_exterior_187f15d2
 
 # game/scripts/story/world/konbini/konbini_exterior.rpy:85
 translate chinese_simplified konbini_exterior_1d542e8e:
@@ -526,25 +526,25 @@ translate chinese_simplified konbini_exterior_1d542e8e:
 translate chinese_simplified konbini_exterior_a05403c9:
 
     # minato neutral "Donc oui, je suis peut être un peu sévère, mais nos parent m'ont dit de m'occuper d'elle et c'est exctement ce que je compte faire!" id konbini_exterior_a05403c9
-    minato neutral "所以是的，我可能有点苛刻，但我们的父母告诉我要照顾她，这正是我打算做的！" id konbini_exterior_a05403c9
+    minato neutral "所以是的，我可能有点苛刻，但我答应了我父母，说到就要做到！" id konbini_exterior_a05403c9
 
 # game/scripts/story/world/konbini/konbini_exterior.rpy:90
 translate chinese_simplified konbini_exterior_bf09d7e3:
 
     # player "{color=#ffcccc}{b}[chiaki_name]{/b}{/color}, tu es daccord avec ce qu'il dit?" id konbini_exterior_bf09d7e3
-    player "{color=#ffcccc}{b}千秋{/b}{/color}，你同意他的话吗？" id konbini_exterior_bf09d7e3
+    player "{color=#ffcccc}{b}千秋{/b}{/color}，是他说的那样吗？" id konbini_exterior_bf09d7e3
 
 # game/scripts/story/world/konbini/konbini_exterior.rpy:110
 translate chinese_simplified konbini_exterior_de37314b:
 
     # player "Pas de problème, n'hésite pas a me laisser {color=#ffcccc}{b}[chiaki_name]{/b}{/color} un de ces jours!" id konbini_exterior_de37314b
-    player "没问题，请随时给我{color=#ffcccc}{b}千秋{/b}{/color}！" id konbini_exterior_de37314b
+    player "你也不必一个人承担一切，{color=#ffcccc}{b}千秋{/b}{/color}也可以来我家住一阵子！" id konbini_exterior_de37314b
 
 # game/scripts/story/world/konbini/konbini_exterior.rpy:111
 translate chinese_simplified konbini_exterior_f56abd17:
 
     # player happy "J'irais me balader avec elle et je suis sur qu-" id konbini_exterior_f56abd17
-    player happy "我会和她一起去散步，我敢肯定——" id konbini_exterior_f56abd17
+    player happy "安香一定会很喜欢她的——" id konbini_exterior_f56abd17
 
 # TODO: Translation updated at 2022-12-15 12:14
 

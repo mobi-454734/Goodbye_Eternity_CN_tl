@@ -19,8 +19,8 @@ translate chinese_simplified strings:
     new "我明白了"
 
     # game/scripts/story/advert/advert.rpy:42
-    old "Vous pouvez dès à présent poursuivre l’histoire\nde {color=#a29bfe}[yasuka_name]{/color} et revenir à l’intrigue principale quand vous\nle souhaitez."
-    new "您现在可以继续{color=#a29bfe}安香{/color} 的故事\n并随时返回主线。"
+    # old "Vous pouvez dès à présent poursuivre l’histoire\nde {color=#a29bfe}[yasuka_name]{/color} et revenir à l’intrigue principale quand vous\nle souhaitez."
+    # new "您现在可以继续{color=#a29bfe}安香{/color} 的故事\n并随时返回主线。"
 
     # game/scripts/story/advert/advert.rpy:46
     old "Vous avez fait le choix de l'{color=#ff0}aimer et de la soutenir.{/color}"
@@ -32,7 +32,7 @@ translate chinese_simplified strings:
 
     # game/scripts/story/advert/advert.rpy:14
     old "Vous pouvez dès à présent poursuivre l’histoire\nd’[asami.n] et revenir à l’intrigue principale quand vous\nle souhaitez."
-    new "现在，您可以继续讲述\nd'[asami.n]的故事，\n并随时返回主情节。"
+    new "您现在可以继续\n[asami.n]的故事，\n并随时返回主线。"
 
     # game/scripts/story/advert/advert.rpy:42
     old "Vous pouvez dès à présent poursuivre l’histoire\nde [yasuka.n] et revenir à l’intrigue principale quand vous\nle souhaitez."

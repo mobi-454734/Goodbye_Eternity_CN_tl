@@ -1222,7 +1222,7 @@ translate chinese_simplified home_player_livingroom_b481c03a:
 translate chinese_simplified home_player_livingroom_030d62c0:
 
     # yasuka "Qu'est-ce que je ne donnerais pas pour perdre quelques années ?" id home_player_livingroom_030d62c0
-    yasuka "有什么不能浪费几年？" id home_player_livingroom_030d62c0
+    yasuka "真是懂得享受青春？" id home_player_livingroom_030d62c0
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:477
 translate chinese_simplified home_player_livingroom_76dc1cb8:

@@ -1330,7 +1330,7 @@ translate chinese_simplified home_player_exterior_d06b965d:
 translate chinese_simplified home_player_exterior_c9dc832c:
 
     # player upset "Ma vengeance sera terrible..."
-    player upset "我的报复将是残酷的..."
+    player upset "这个仇我记下了..."
 
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:507
 translate chinese_simplified home_player_exterior_0953b504:
@@ -2208,7 +2208,7 @@ translate chinese_simplified home_player_exterior_ea18bec3:
 translate chinese_simplified home_player_exterior_52fa06df:
 
     # asami -happy "Allez a la prochaine [player.n]!" id home_player_exterior_52fa06df
-    asami -happy "去下一个[player.n]！" id home_player_exterior_52fa06df
+    asami -happy "就这样，回见了[player.n]！" id home_player_exterior_52fa06df
 
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:527
 translate chinese_simplified home_player_exterior_0e58b0c7:

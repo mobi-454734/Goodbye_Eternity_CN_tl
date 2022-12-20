@@ -28,7 +28,7 @@ translate chinese_simplified hostess_club_alley_e93f863b:
 translate chinese_simplified hostess_club_alley_d032c491:
 
     # ubs disdainful "Allons bon... Des menaces a présent..." id hostess_club_alley_d032c491
-    ubs disdainful "差不多得了。。还威胁我。。。" id hostess_club_alley_d032c491
+    ubs disdainful "差不多得了。。还威胁我……" id hostess_club_alley_d032c491
 
 # game/scripts/story/business district/hostess club/hostess_club_alley.rpy:44
 translate chinese_simplified hostess_club_alley_5a1ca7d6:
@@ -52,13 +52,13 @@ translate chinese_simplified hostess_club_alley_c7791153:
 translate chinese_simplified hostess_club_alley_81a90907:
 
     # akira upset "...Tu ne sais vraiment pas a quoi tu t'expose vieux con." id hostess_club_alley_81a90907
-    akira upset "。。。你不知道你在招惹谁，老混蛋。" id hostess_club_alley_81a90907
+    akira upset "……你不知道你在招惹谁，老混蛋。" id hostess_club_alley_81a90907
 
 # game/scripts/story/business district/hostess club/hostess_club_alley.rpy:48
 translate chinese_simplified hostess_club_alley_d1300208:
 
     # akira "Les gens chez qui... je me suis fournis." id hostess_club_alley_d1300208
-    akira "那些。。。援助我的人。。。" id hostess_club_alley_d1300208
+    akira "那些……援助我的人……" id hostess_club_alley_d1300208
 
 # game/scripts/story/business district/hostess club/hostess_club_alley.rpy:49
 translate chinese_simplified hostess_club_alley_94c94d76:
@@ -70,7 +70,7 @@ translate chinese_simplified hostess_club_alley_94c94d76:
 translate chinese_simplified hostess_club_alley_fbad0346:
 
     # akira "Si je retourne les voir en disant que quelqu'un m'a tout pris." id hostess_club_alley_fbad0346
-    akira "如果我回去告诉他们有人夺走了我的一切。。。" id hostess_club_alley_fbad0346
+    akira "如果我回去告诉他们有人夺走了我的一切……" id hostess_club_alley_fbad0346
 
 # game/scripts/story/business district/hostess club/hostess_club_alley.rpy:51
 translate chinese_simplified hostess_club_alley_649db714:
@@ -94,7 +94,7 @@ translate chinese_simplified hostess_club_alley_1c84b971:
 translate chinese_simplified hostess_club_alley_8a72b844:
 
     # ubs disdainful "mmhh je vois et si... {w} si par le plus grand des hasards tu retrouvais toute la marchandise mais qu'il manquait quelques pillules?" id hostess_club_alley_8a72b844
-    ubs disdainful "嗯。。。我明白了。但如果是因为{w}完全的一场意外，你拿到了货，但里面少了几颗药呢？" id hostess_club_alley_8a72b844
+    ubs disdainful "嗯……我明白了。但如果是因为{w}完全的一场意外，你拿到了货，但里面少了几颗药呢？" id hostess_club_alley_8a72b844
 
 # game/scripts/story/business district/hostess club/hostess_club_alley.rpy:55
 translate chinese_simplified hostess_club_alley_10979315:
@@ -112,7 +112,7 @@ translate chinese_simplified hostess_club_alley_673bb0a0:
 translate chinese_simplified hostess_club_alley_f3cdf8a0:
 
     # ubs "Mais avant...{w} Je veux savoir." id hostess_club_alley_f3cdf8a0
-    ubs "但首先。。。{w}我想知道。" id hostess_club_alley_f3cdf8a0
+    ubs "但首先……{w}我想知道。" id hostess_club_alley_f3cdf8a0
 
 # game/scripts/story/business district/hostess club/hostess_club_alley.rpy:59
 translate chinese_simplified hostess_club_alley_6ba2d088:
@@ -154,7 +154,7 @@ translate chinese_simplified hostess_club_alley_b96f0023:
 translate chinese_simplified hostess_club_alley_13c48494:
 
     # akira "C'est... Une nouvelle drogue de synthese." id hostess_club_alley_13c48494
-    akira "那是一种。。。新型合成毒品。" id hostess_club_alley_13c48494
+    akira "那是一种……新型合成毒品。" id hostess_club_alley_13c48494
 
 # game/scripts/story/business district/hostess club/hostess_club_alley.rpy:66
 translate chinese_simplified hostess_club_alley_a62253e6:
@@ -184,7 +184,7 @@ translate chinese_simplified hostess_club_alley_f26b4f1f:
 translate chinese_simplified hostess_club_alley_b1bbcd2c:
 
     # akira "deux fois hein..." id hostess_club_alley_b1bbcd2c
-    akira "两片，嗯。。。" id hostess_club_alley_b1bbcd2c
+    akira "两片，嗯……" id hostess_club_alley_b1bbcd2c
 
 # game/scripts/story/business district/hostess club/hostess_club_alley.rpy:71
 translate chinese_simplified hostess_club_alley_8707b9f8:
@@ -214,19 +214,19 @@ translate chinese_simplified hostess_club_alley_00c33051:
 translate chinese_simplified hostess_club_alley_13517fcb:
 
     # akira "La seconde dose... augmente drastiquement la libido, à tel point que le désir l'emporte sur la raison." id hostess_club_alley_13517fcb
-    akira "第二片。。。会极大地增加性欲，以至于欲望会压倒理智。" id hostess_club_alley_13517fcb
+    akira "第二片……会极大地增加性欲，以至于欲望会压倒理智。" id hostess_club_alley_13517fcb
 
 # game/scripts/story/business district/hostess club/hostess_club_alley.rpy:78
 translate chinese_simplified hostess_club_alley_ceab86ee:
 
     # ubs "Mon dieu..." id hostess_club_alley_ceab86ee
-    ubs "天哪。。。" id hostess_club_alley_ceab86ee
+    ubs "天哪……" id hostess_club_alley_ceab86ee
 
 # game/scripts/story/business district/hostess club/hostess_club_alley.rpy:79
 translate chinese_simplified hostess_club_alley_6653c980:
 
     # ubs "et... et... la troisieme?" id hostess_club_alley_6653c980
-    ubs "然。。。然后。。第三片呢？" id hostess_club_alley_6653c980
+    ubs "然……然后。。第三片呢？" id hostess_club_alley_6653c980
 
 # game/scripts/story/business district/hostess club/hostess_club_alley.rpy:81
 translate chinese_simplified hostess_club_alley_4f29364d:
@@ -262,7 +262,7 @@ translate chinese_simplified hostess_club_alley_39b72ce6:
 translate chinese_simplified hostess_club_alley_cb3771fd:
 
     # ubs bad "...extraordinnaire." id hostess_club_alley_cb3771fd
-    ubs bad "太棒了。。。" id hostess_club_alley_cb3771fd
+    ubs bad "太棒了……" id hostess_club_alley_cb3771fd
 
 # game/scripts/story/business district/hostess club/hostess_club_alley.rpy:91
 translate chinese_simplified hostess_club_alley_93c68001:
@@ -280,7 +280,7 @@ translate chinese_simplified hostess_club_alley_e9de3ebb:
 translate chinese_simplified hostess_club_alley_64da7e25:
 
     # akira "Oh?! Tu veux dire que...{w}HAHAHA Putain c'est la meilleure." id hostess_club_alley_64da7e25
-    akira "噢！？你说的是。。。{w}哈哈哈！操，那可太棒了！" id hostess_club_alley_64da7e25
+    akira "噢！？你说的是……{w}哈哈哈！操，那可太棒了！" id hostess_club_alley_64da7e25
 
 # game/scripts/story/business district/hostess club/hostess_club_alley.rpy:94
 translate chinese_simplified hostess_club_alley_36c3459a:
@@ -316,13 +316,13 @@ translate chinese_simplified hostess_club_alley_ec0ebd84:
 translate chinese_simplified hostess_club_alley_0ed4f60a:
 
     # ubs bad "...Tiens!" id hostess_club_alley_0ed4f60a
-    ubs bad "。。。在这儿！" id hostess_club_alley_0ed4f60a
+    ubs bad "……在这儿！" id hostess_club_alley_0ed4f60a
 
 # game/scripts/story/business district/hostess club/hostess_club_alley.rpy:100
 translate chinese_simplified hostess_club_alley_ea98c66b:
 
     # ubs "Une derniere chose... Y'a un antidote?" id hostess_club_alley_ea98c66b
-    ubs "还有一件事。。。这玩意有解药么？" id hostess_club_alley_ea98c66b
+    ubs "还有一件事……这玩意有解药么？" id hostess_club_alley_ea98c66b
 
 # game/scripts/story/business district/hostess club/hostess_club_alley.rpy:101
 translate chinese_simplified hostess_club_alley_cdf50c9b:
@@ -358,7 +358,7 @@ translate chinese_simplified hostess_club_alley_a70726cb:
 translate chinese_simplified hostess_club_alley_92ba6e25:
 
     # ubs bad "Bon... Je fais pas ça souvent mais je pense qu'avec tout de que tu m'as dit c'est largement mérité." id hostess_club_alley_92ba6e25
-    ubs bad "嗯。。。我不常这么做，但我觉得在你告诉我那些事后你活该。" id hostess_club_alley_92ba6e25
+    ubs bad "嗯……我不常这么做，但我觉得在你告诉我那些事后你活该。" id hostess_club_alley_92ba6e25
 
 # game/scripts/story/business district/hostess club/hostess_club_alley.rpy:107
 translate chinese_simplified hostess_club_alley_db4a9875:
@@ -388,7 +388,7 @@ translate chinese_simplified hostess_club_alley_6b4a57cc:
 translate chinese_simplified hostess_club_alley_2ddb08e8:
 
     # ubs "Hahaha... ça pourrait etre intéréssant ouai..." id hostess_club_alley_2ddb08e8
-    ubs "哈哈哈。。。那会很有趣的。" id hostess_club_alley_2ddb08e8
+    ubs "哈哈哈……那会很有趣的。" id hostess_club_alley_2ddb08e8
 
 # game/scripts/story/business district/hostess club/hostess_club_alley.rpy:126
 translate chinese_simplified hostess_club_alley_2196ec8c:

@@ -28,13 +28,13 @@ translate chinese_simplified yasuka_wake_up_saito_f8864334:
 translate chinese_simplified yasuka_wake_up_saito_a6cae15e:
 
     # player "[yasuka.n]...?" id yasuka_wake_up_saito_a6cae15e
-    player "[yasuka.n]。。。？" id yasuka_wake_up_saito_a6cae15e
+    player "[yasuka.n]……？" id yasuka_wake_up_saito_a6cae15e
 
 # game/scripts/story/events/yasuka/yasuka_wake_up_saito.rpy:17
 translate chinese_simplified yasuka_wake_up_saito_8791e309:
 
     # player "Mais...Pourquoi tu..." id yasuka_wake_up_saito_8791e309
-    player "但，你为什么。。。" id yasuka_wake_up_saito_8791e309
+    player "但，你为什么……" id yasuka_wake_up_saito_8791e309
 
 # game/scripts/story/events/yasuka/yasuka_wake_up_saito.rpy:19
 translate chinese_simplified yasuka_wake_up_saito_06e23992:
@@ -64,13 +64,13 @@ translate chinese_simplified yasuka_wake_up_saito_ab0366a3:
 translate chinese_simplified yasuka_wake_up_saito_76b469d2:
 
     # player "...Mais... tu n'aurais pas encore abusée de l'alcool?" id yasuka_wake_up_saito_76b469d2
-    player "但是。。。你是不是喝得太多了？" id yasuka_wake_up_saito_76b469d2
+    player "但是……你是不是喝得太多了？" id yasuka_wake_up_saito_76b469d2
 
 # game/scripts/story/events/yasuka/yasuka_wake_up_saito.rpy:24
 translate chinese_simplified yasuka_wake_up_saito_21e1d8e1:
 
     # yasukac "Rhoo" id yasuka_wake_up_saito_21e1d8e1
-    yasukac "不是。。。" id yasuka_wake_up_saito_21e1d8e1
+    yasukac "不是……" id yasuka_wake_up_saito_21e1d8e1
 
 # game/scripts/story/events/yasuka/yasuka_wake_up_saito.rpy:26
 translate chinese_simplified yasuka_wake_up_saito_8c1a1799:
@@ -88,7 +88,7 @@ translate chinese_simplified yasuka_wake_up_saito_efc6a08c:
 translate chinese_simplified yasuka_wake_up_saito_37d4a94a:
 
     # yasukac "Tu n'as pas envie de... me l'enlever?" id yasuka_wake_up_saito_37d4a94a
-    yasukac "你不想。。。亲手帮我脱下来吗？" id yasuka_wake_up_saito_37d4a94a
+    yasukac "你不想……亲手帮我脱下来吗？" id yasuka_wake_up_saito_37d4a94a
 
 # game/scripts/story/events/yasuka/yasuka_wake_up_saito.rpy:29
 translate chinese_simplified yasuka_wake_up_saito_5bb035d8:
@@ -124,7 +124,7 @@ translate chinese_simplified yasuka_wake_up_saito_8d334278:
 translate chinese_simplified yasuka_wake_up_saito_798a60bb:
 
     # player "Bon... La soirée a du être compliqué pour elle visiblement." id yasuka_wake_up_saito_798a60bb
-    player "嗯。。。显然，这个晚上对她来说一定很复杂。" id yasuka_wake_up_saito_798a60bb
+    player "嗯……显然，这个晚上对她来说一定很复杂。" id yasuka_wake_up_saito_798a60bb
 
 # game/scripts/story/events/yasuka/yasuka_wake_up_saito.rpy:45
 translate chinese_simplified yasuka_wake_up_saito_32950e81:
@@ -166,7 +166,7 @@ translate chinese_simplified yasuka_wake_up_saito_a32beda6:
 translate chinese_simplified yasuka_wake_up_saito_7f5c845d:
 
     # centered "Il pensait être en train de rever..." id yasuka_wake_up_saito_7f5c845d
-    centered "他以为他在做梦。。。" id yasuka_wake_up_saito_7f5c845d
+    centered "他以为他在做梦……" id yasuka_wake_up_saito_7f5c845d
 
 # game/scripts/story/events/yasuka/yasuka_wake_up_saito.rpy:57
 translate chinese_simplified yasuka_wake_up_saito_137e4db1:
@@ -196,7 +196,7 @@ translate chinese_simplified yasuka_wake_up_saito_2cc6b7be:
 translate chinese_simplified yasuka_wake_up_saito_283c7dca:
 
     # yasuka "Mhhh" id yasuka_wake_up_saito_283c7dca
-    yasuka "唔呣。。。" id yasuka_wake_up_saito_283c7dca
+    yasuka "唔呣……" id yasuka_wake_up_saito_283c7dca
 
 # game/scripts/story/events/yasuka/yasuka_wake_up_saito.rpy:64
 translate chinese_simplified yasuka_wake_up_saito_46277eb4:
@@ -208,13 +208,13 @@ translate chinese_simplified yasuka_wake_up_saito_46277eb4:
 translate chinese_simplified yasuka_wake_up_saito_8b339172:
 
     # player "Mhhhh" id yasuka_wake_up_saito_8b339172
-    player "唔。。。" id yasuka_wake_up_saito_8b339172
+    player "唔……" id yasuka_wake_up_saito_8b339172
 
 # game/scripts/story/events/yasuka/yasuka_wake_up_saito.rpy:68
 translate chinese_simplified yasuka_wake_up_saito_89fddab2:
 
     # yasuka "C'est ça..." id yasuka_wake_up_saito_89fddab2
-    yasuka "那可真是。。。" id yasuka_wake_up_saito_89fddab2
+    yasuka "那可真是……" id yasuka_wake_up_saito_89fddab2
 
 # game/scripts/story/events/yasuka/yasuka_wake_up_saito.rpy:69
 translate chinese_simplified yasuka_wake_up_saito_9932d178:
@@ -238,7 +238,7 @@ translate chinese_simplified yasuka_wake_up_saito_91f28a95:
 translate chinese_simplified yasuka_wake_up_saito_9cd48d5c:
 
     # x "{i}**Qui aurait pu imaginé qu'il serait si bien membré.**{/i}" id yasuka_wake_up_saito_9cd48d5c
-    x "{i}**谁想得到她活儿竟然这么好。。。**{/i}" id yasuka_wake_up_saito_9cd48d5c
+    x "{i}**谁想得到她活儿竟然这么好……**{/i}" id yasuka_wake_up_saito_9cd48d5c
 
 # game/scripts/story/events/yasuka/yasuka_wake_up_saito.rpy:75
 translate chinese_simplified yasuka_wake_up_saito_8bc14683:
@@ -250,7 +250,7 @@ translate chinese_simplified yasuka_wake_up_saito_8bc14683:
 translate chinese_simplified yasuka_wake_up_saito_530eed26:
 
     # x "{i}**Je suis certaine que je pourrais l'avaler encore plus...**{/i}" id yasuka_wake_up_saito_530eed26
-    x "{i}**我很确定我还能再深入一些。。。**{/i}" id yasuka_wake_up_saito_530eed26
+    x "{i}**我很确定我还能再深入一些……**{/i}" id yasuka_wake_up_saito_530eed26
 
 # game/scripts/story/events/yasuka/yasuka_wake_up_saito.rpy:77
 translate chinese_simplified yasuka_wake_up_saito_1da99494:
@@ -262,7 +262,7 @@ translate chinese_simplified yasuka_wake_up_saito_1da99494:
 translate chinese_simplified yasuka_wake_up_saito_4c4b7967:
 
     # x "{i}**Mhh oui, un vrai régal.**{/i}" id yasuka_wake_up_saito_4c4b7967
-    x "{i}**啊。。。真是种享受！**{/i}" id yasuka_wake_up_saito_4c4b7967
+    x "{i}**啊……真是种享受！**{/i}" id yasuka_wake_up_saito_4c4b7967
 
 # game/scripts/story/events/yasuka/yasuka_wake_up_saito.rpy:81
 translate chinese_simplified yasuka_wake_up_saito_26793075:
@@ -298,7 +298,7 @@ translate chinese_simplified yasuka_wake_up_saito_abc89dbd:
 translate chinese_simplified yasuka_wake_up_saito_87c78aed:
 
     # "{i}**Mmmmhhh**{/i}" id yasuka_wake_up_saito_87c78aed
-    "{i}**嗯。。。。！**{/i}" id yasuka_wake_up_saito_87c78aed
+    "{i}**嗯……。！**{/i}" id yasuka_wake_up_saito_87c78aed
 
 # game/scripts/story/events/yasuka/yasuka_wake_up_saito.rpy:100
 translate chinese_simplified yasuka_wake_up_saito_196d30c1:
@@ -322,7 +322,7 @@ translate chinese_simplified yasuka_wake_up_saito_a96a756c:
 translate chinese_simplified yasuka_wake_up_saito_3321aa6a:
 
     # yasuka "{size=-10}Je reviendrais te voir très vite...{/size}" id yasuka_wake_up_saito_3321aa6a
-    yasuka "{size=-10}我很快还会回来找你的。。。{/size}" id yasuka_wake_up_saito_3321aa6a
+    yasuka "{size=-10}我很快还会回来找你的……{/size}" id yasuka_wake_up_saito_3321aa6a
 
 # game/scripts/story/events/yasuka/yasuka_wake_up_saito.rpy:106
 translate chinese_simplified yasuka_wake_up_saito_9c0c6d04:

@@ -1266,7 +1266,7 @@ translate chinese_simplified yasuka_love_sexe_repeat_7b2a2d8c:
 translate chinese_simplified yasuka_love_sexe_repeat_878e28dd:
 
     # yasukac "Si j'avais su que se serait si bon..." id yasuka_love_sexe_repeat_878e28dd
-    yasukac "早知道就好了。。。" id yasuka_love_sexe_repeat_878e28dd
+    yasukac "早知道就好了……" id yasuka_love_sexe_repeat_878e28dd
 
 # game/scripts/story/residential district/player's home/home_player_yasuka_room.rpy:457
 translate chinese_simplified yasuka_love_sexe_repeat_c80ee6e1:
@@ -1766,7 +1766,7 @@ translate chinese_simplified yasuka_love_sexe_repeat_7d534ea9:
 translate chinese_simplified yasuka_love_sexe_repeat_c0d41020:
 
     # player "Mais..! C'est déja le soir?!" id yasuka_love_sexe_repeat_c0d41020
-    player "但。。。已经到晚上了？" id yasuka_love_sexe_repeat_c0d41020
+    player "但……已经到晚上了？" id yasuka_love_sexe_repeat_c0d41020
 
 # game/scripts/story/residential district/player's home/home_player_yasuka_room.rpy:621
 translate chinese_simplified yasuka_love_sexe_repeat_d2c105d0:
@@ -1790,7 +1790,7 @@ translate chinese_simplified yasuka_love_sexe_repeat_76b9e916:
 translate chinese_simplified yasuka_love_sexe_repeat_13417148:
 
     # player upset "NON! Je... Il y a une explication a ça mais..." id yasuka_love_sexe_repeat_13417148
-    player upset "不是！我可以解释的，但。。。" id yasuka_love_sexe_repeat_13417148
+    player upset "不是！我可以解释的，但……" id yasuka_love_sexe_repeat_13417148
 
 # game/scripts/story/residential district/player's home/home_player_yasuka_room.rpy:627
 translate chinese_simplified yasuka_love_sexe_repeat_d0244fff:
@@ -1802,7 +1802,7 @@ translate chinese_simplified yasuka_love_sexe_repeat_d0244fff:
 translate chinese_simplified yasuka_love_sexe_repeat_928806ee:
 
     # player upset "...peu importe, pense ce que tu veux!" id yasuka_love_sexe_repeat_928806ee
-    player upset "。。。随便你怎么想吧！" id yasuka_love_sexe_repeat_928806ee
+    player upset "……随便你怎么想吧！" id yasuka_love_sexe_repeat_928806ee
 
 # game/scripts/story/residential district/player's home/home_player_yasuka_room.rpy:629
 translate chinese_simplified yasuka_love_sexe_repeat_d6fa2e29:

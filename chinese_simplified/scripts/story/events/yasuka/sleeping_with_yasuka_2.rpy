@@ -10,7 +10,7 @@ translate chinese_simplified sleeping_with_yasuka_2_4ad13b11:
 translate chinese_simplified sleeping_with_yasuka_2_005e16fd:
 
     # yasuka "Moi qui pensais devoir venir dans ta chambre pour une petite visite nocturne..." id sleeping_with_yasuka_2_005e16fd
-    yasuka "我今天晚上得来你屋。。。" id sleeping_with_yasuka_2_005e16fd
+    yasuka "我今天晚上得来你屋……" id sleeping_with_yasuka_2_005e16fd
 
 # game/scripts/story/events/yasuka/sleeping_with_yasuka_2.rpy:12
 translate chinese_simplified sleeping_with_yasuka_2_14bfc72d:
@@ -22,19 +22,19 @@ translate chinese_simplified sleeping_with_yasuka_2_14bfc72d:
 translate chinese_simplified sleeping_with_yasuka_2_57a791c0:
 
     # player "Il semblerait qu'au club tu ai été droguée par..." id sleeping_with_yasuka_2_57a791c0
-    player "你看上去好像在会所里被别人下了药。。。" id sleeping_with_yasuka_2_57a791c0
+    player "你看上去好像在会所里被别人下了药……" id sleeping_with_yasuka_2_57a791c0
 
 # game/scripts/story/events/yasuka/sleeping_with_yasuka_2.rpy:14
 translate chinese_simplified sleeping_with_yasuka_2_fb13de64:
 
     # yasuka "Shhhhhht ne dis rien!" id sleeping_with_yasuka_2_fb13de64
-    yasuka "嘘。。。别说话！" id sleeping_with_yasuka_2_fb13de64
+    yasuka "嘘……别说话！" id sleeping_with_yasuka_2_fb13de64
 
 # game/scripts/story/events/yasuka/sleeping_with_yasuka_2.rpy:15
 translate chinese_simplified sleeping_with_yasuka_2_18ed30a1:
 
     # yasuka "Je promet de t'ecouter autant que tu le souhaite mais avant..." id sleeping_with_yasuka_2_18ed30a1
-    yasuka "我保证我会尽量听你的，但首先。。。" id sleeping_with_yasuka_2_18ed30a1
+    yasuka "我保证我会尽量听你的，但首先……" id sleeping_with_yasuka_2_18ed30a1
 
 # game/scripts/story/events/yasuka/sleeping_with_yasuka_2.rpy:16
 translate chinese_simplified sleeping_with_yasuka_2_50d4b793:
@@ -64,7 +64,7 @@ translate chinese_simplified sleeping_with_yasuka_2_dc45f29b:
 translate chinese_simplified sleeping_with_yasuka_2_750aa037:
 
     # yasuka "Il me semble pourtant que tu n'étais pas aussi timide la derniere fois que je suis venu dans ta chambre..." id sleeping_with_yasuka_2_750aa037
-    yasuka "我记得上次我来你房间的时候你没那么害羞啊。。。" id sleeping_with_yasuka_2_750aa037
+    yasuka "我记得上次我来你房间的时候你没那么害羞啊……" id sleeping_with_yasuka_2_750aa037
 
 # game/scripts/story/events/yasuka/sleeping_with_yasuka_2.rpy:21
 translate chinese_simplified sleeping_with_yasuka_2_66332e88:
@@ -76,7 +76,7 @@ translate chinese_simplified sleeping_with_yasuka_2_66332e88:
 translate chinese_simplified sleeping_with_yasuka_2_7f9d4463:
 
     # player "Je... je" id sleeping_with_yasuka_2_7f9d4463
-    player "我。。。我。。。" id sleeping_with_yasuka_2_7f9d4463
+    player "我……我……" id sleeping_with_yasuka_2_7f9d4463
 
 # game/scripts/story/events/yasuka/sleeping_with_yasuka_2.rpy:23
 translate chinese_simplified sleeping_with_yasuka_2_00dc0725:
@@ -100,7 +100,7 @@ translate chinese_simplified sleeping_with_yasuka_2_b0f7b963:
 translate chinese_simplified sleeping_with_yasuka_2_889d3700:
 
     # yasuka "Mais avant ça..." id sleeping_with_yasuka_2_889d3700
-    yasuka "但在那之前。。。" id sleeping_with_yasuka_2_889d3700
+    yasuka "但在那之前……" id sleeping_with_yasuka_2_889d3700
 
 # game/scripts/story/events/yasuka/sleeping_with_yasuka_2.rpy:27
 translate chinese_simplified sleeping_with_yasuka_2_a05e5d3f:
@@ -112,7 +112,7 @@ translate chinese_simplified sleeping_with_yasuka_2_a05e5d3f:
 translate chinese_simplified sleeping_with_yasuka_2_b57b8c90:
 
     # x "Bon... Elle n'en demordras pas." id sleeping_with_yasuka_2_b57b8c90
-    x "好吧。。。她看上去不会放弃的。" id sleeping_with_yasuka_2_b57b8c90
+    x "好吧……她看上去不会放弃的。" id sleeping_with_yasuka_2_b57b8c90
 
 # game/scripts/story/events/yasuka/sleeping_with_yasuka_2.rpy:29
 translate chinese_simplified sleeping_with_yasuka_2_8965df4e:
@@ -142,7 +142,7 @@ translate chinese_simplified sleeping_with_yasuka_2_cf47fddc:
 translate chinese_simplified sleeping_with_yasuka_2_030ce30c:
 
     # yasuka "Mon chéri... Maman veux ton sexe en elle!" id sleeping_with_yasuka_2_030ce30c
-    yasuka "甜心。。。妈咪想让你的鸡巴插进去。" id sleeping_with_yasuka_2_030ce30c
+    yasuka "甜心……妈咪想让你的鸡巴插进去。" id sleeping_with_yasuka_2_030ce30c
 
 # game/scripts/story/events/yasuka/sleeping_with_yasuka_2.rpy:34
 translate chinese_simplified sleeping_with_yasuka_2_417d9d8f:
@@ -154,7 +154,7 @@ translate chinese_simplified sleeping_with_yasuka_2_417d9d8f:
 translate chinese_simplified sleeping_with_yasuka_2_65d86c48:
 
     # player "Mam- Je oui, tout de suite!" id sleeping_with_yasuka_2_65d86c48
-    player "妈—我。。。好，这就来！" id sleeping_with_yasuka_2_65d86c48
+    player "妈—我……好，这就来！" id sleeping_with_yasuka_2_65d86c48
 
 # game/scripts/story/events/yasuka/sleeping_with_yasuka_2.rpy:36
 translate chinese_simplified sleeping_with_yasuka_2_5cf01dee:
@@ -172,13 +172,13 @@ translate chinese_simplified sleeping_with_yasuka_2_1f978e50:
 translate chinese_simplified sleeping_with_yasuka_2_a5acbba5:
 
     # yasuka "Et bien tu vois quand tu veux..." id sleeping_with_yasuka_2_a5acbba5
-    yasuka "嗯，你看，当你想。。。" id sleeping_with_yasuka_2_a5acbba5
+    yasuka "嗯，你看，当你想……" id sleeping_with_yasuka_2_a5acbba5
 
 # game/scripts/story/events/yasuka/sleeping_with_yasuka_2.rpy:42
 translate chinese_simplified sleeping_with_yasuka_2_8bb19557:
 
     # yasuka "mmmhh... Oui!" id sleeping_with_yasuka_2_8bb19557
-    yasuka "唔。。。。啊！太棒了！" id sleeping_with_yasuka_2_8bb19557
+    yasuka "唔……。啊！太棒了！" id sleeping_with_yasuka_2_8bb19557
 
 # game/scripts/story/events/yasuka/sleeping_with_yasuka_2.rpy:43
 translate chinese_simplified sleeping_with_yasuka_2_2c2b9cea:
@@ -208,7 +208,7 @@ translate chinese_simplified sleeping_with_yasuka_2_a4518ba4:
 translate chinese_simplified sleeping_with_yasuka_2_f0f9fcc8:
 
     # yasuka "mhhhh" id sleeping_with_yasuka_2_f0f9fcc8
-    yasuka "唔。。。" id sleeping_with_yasuka_2_f0f9fcc8
+    yasuka "唔……" id sleeping_with_yasuka_2_f0f9fcc8
 
 # game/scripts/story/events/yasuka/sleeping_with_yasuka_2.rpy:49
 translate chinese_simplified sleeping_with_yasuka_2_e4947321:
@@ -244,13 +244,13 @@ translate chinese_simplified sleeping_with_yasuka_2_6fca0a49:
 translate chinese_simplified sleeping_with_yasuka_2_c80cff1e:
 
     # yasuka "hannnn encore.... encore!" id sleeping_with_yasuka_2_c80cff1e
-    yasuka "嗯。。。我还要，我还要！" id sleeping_with_yasuka_2_c80cff1e
+    yasuka "嗯……我还要，我还要！" id sleeping_with_yasuka_2_c80cff1e
 
 # game/scripts/story/events/yasuka/sleeping_with_yasuka_2.rpy:56
 translate chinese_simplified sleeping_with_yasuka_2_eec52e93:
 
     # yasuka "mhhh je te sent vibrer en moi." id sleeping_with_yasuka_2_eec52e93
-    yasuka "嗯。。。我能感觉到你在我体内抽搐。" id sleeping_with_yasuka_2_eec52e93
+    yasuka "嗯……我能感觉到你在我体内抽搐。" id sleeping_with_yasuka_2_eec52e93
 
 # game/scripts/story/events/yasuka/sleeping_with_yasuka_2.rpy:57
 translate chinese_simplified sleeping_with_yasuka_2_d26dca79:
@@ -262,7 +262,7 @@ translate chinese_simplified sleeping_with_yasuka_2_d26dca79:
 translate chinese_simplified sleeping_with_yasuka_2_0be12655:
 
     # yasuka "Je... ça vient!" id sleeping_with_yasuka_2_0be12655
-    yasuka "我。。。我要射了！" id sleeping_with_yasuka_2_0be12655
+    yasuka "我……我要射了！" id sleeping_with_yasuka_2_0be12655
 
 # game/scripts/story/events/yasuka/sleeping_with_yasuka_2.rpy:60
 translate chinese_simplified sleeping_with_yasuka_2_78a5207a:
@@ -280,7 +280,7 @@ translate chinese_simplified sleeping_with_yasuka_2_61d11360:
 translate chinese_simplified sleeping_with_yasuka_2_0beda12d:
 
     # yasuka "Oh mon dieu!" id sleeping_with_yasuka_2_0beda12d
-    yasuka "噢。。。天哪！" id sleeping_with_yasuka_2_0beda12d
+    yasuka "噢……天哪！" id sleeping_with_yasuka_2_0beda12d
 
 # game/scripts/story/events/yasuka/sleeping_with_yasuka_2.rpy:73
 translate chinese_simplified sleeping_with_yasuka_2_0d57e626:
@@ -298,7 +298,7 @@ translate chinese_simplified sleeping_with_yasuka_2_e4dc69c7:
 translate chinese_simplified sleeping_with_yasuka_2_4e829ccf:
 
     # yasuka "C'est tellement bon..." id sleeping_with_yasuka_2_4e829ccf
-    yasuka "那感觉太棒了。。。" id sleeping_with_yasuka_2_4e829ccf
+    yasuka "那感觉太棒了……" id sleeping_with_yasuka_2_4e829ccf
 
 # game/scripts/story/events/yasuka/sleeping_with_yasuka_2.rpy:77
 translate chinese_simplified sleeping_with_yasuka_2_296ea0f8:
@@ -310,7 +310,7 @@ translate chinese_simplified sleeping_with_yasuka_2_296ea0f8:
 translate chinese_simplified sleeping_with_yasuka_2_cf060e12:
 
     # yasuka "mmmmh" id sleeping_with_yasuka_2_cf060e12
-    yasuka "嗯。。。。。。" id sleeping_with_yasuka_2_cf060e12
+    yasuka "嗯……" id sleeping_with_yasuka_2_cf060e12
 
 # game/scripts/story/events/yasuka/sleeping_with_yasuka_2.rpy:80
 translate chinese_simplified sleeping_with_yasuka_2_c9d99a4f:

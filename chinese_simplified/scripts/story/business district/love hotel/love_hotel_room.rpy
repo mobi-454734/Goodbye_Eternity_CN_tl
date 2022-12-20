@@ -10,7 +10,7 @@ translate chinese_simplified love_hotel_room_6a6bf17e:
 translate chinese_simplified love_hotel_room_2583d1c1:
 
     # yasuka pouting "Mais oui ne t'inquiete pas autant..." id love_hotel_room_2583d1c1
-    yasuka pouting "是的。。。别太担心。" id love_hotel_room_2583d1c1
+    yasuka pouting "是的……别太担心。" id love_hotel_room_2583d1c1
 
 # game/scripts/story/business district/love hotel/love_hotel_room.rpy:32
 translate chinese_simplified love_hotel_room_f5c3c4c5:
@@ -28,7 +28,7 @@ translate chinese_simplified love_hotel_room_d3ca1196:
 translate chinese_simplified love_hotel_room_2f305da6:
 
     # x "Peut etre que l'effet de cette drogue était surestimé..." id love_hotel_room_2f305da6
-    x "也许药效被夸大其词了。。。" id love_hotel_room_2f305da6
+    x "也许药效被夸大其词了……" id love_hotel_room_2f305da6
 
 # game/scripts/story/business district/love hotel/love_hotel_room.rpy:39
 translate chinese_simplified love_hotel_room_963481e4:
@@ -82,7 +82,7 @@ translate chinese_simplified love_hotel_room_e9052fe2:
 translate chinese_simplified love_hotel_room_0c663a1d:
 
     # player "Euh je... d'accord!" id love_hotel_room_0c663a1d
-    player "我，额。。。好吧！" id love_hotel_room_0c663a1d
+    player "我，额……好吧！" id love_hotel_room_0c663a1d
 
 translate chinese_simplified strings:
 

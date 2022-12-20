@@ -314,7 +314,7 @@ translate chinese_simplified coffeebar_interior_c6b40686:
 translate chinese_simplified coffeebar_interior_63dccf2a:
 
     # ubs arrogant "...Toi?" id coffeebar_interior_63dccf2a
-    ubs arrogant "。。。就你？" id coffeebar_interior_63dccf2a
+    ubs arrogant "……就你？" id coffeebar_interior_63dccf2a
 
 # game/scripts/story/business district/coffeebar/coffeebar_interior.rpy:143
 translate chinese_simplified coffeebar_interior_728cbd2a:
@@ -356,7 +356,7 @@ translate chinese_simplified coffeebar_interior_12e2ae94:
 translate chinese_simplified coffeebar_interior_9d8abc0f:
 
     # player upset "...Vous ne comptez pas m'aider?" id coffeebar_interior_9d8abc0f
-    player upset "。。。你不帮帮我？" id coffeebar_interior_9d8abc0f
+    player upset "……你不帮帮我？" id coffeebar_interior_9d8abc0f
 
 # game/scripts/story/business district/coffeebar/coffeebar_interior.rpy:150
 translate chinese_simplified coffeebar_interior_8fd8e5da:
@@ -404,7 +404,7 @@ translate chinese_simplified coffeebar_interior_662878fa:
 translate chinese_simplified coffeebar_interior_6537e934:
 
     # player "Attendez... J'aimerais avoir une copie de l'enregistrement s'il vous plait." id coffeebar_interior_6537e934
-    player "请等一下。。。我想要一份那录音的拷贝。" id coffeebar_interior_6537e934
+    player "请等一下……我想要一份那录音的拷贝。" id coffeebar_interior_6537e934
 
 # game/scripts/story/business district/coffeebar/coffeebar_interior.rpy:171
 translate chinese_simplified coffeebar_interior_009117d1:
@@ -494,7 +494,7 @@ translate chinese_simplified coffeebar_interior_85a516d1:
 translate chinese_simplified coffeebar_interior_dbe81c42:
 
     # ubs "Et puis j'ai des projets plus intéréssants..." id coffeebar_interior_dbe81c42
-    ubs "况且，我还有其他更有趣的项目。。。" id coffeebar_interior_dbe81c42
+    ubs "况且，我还有其他更有趣的项目……" id coffeebar_interior_dbe81c42
 
 # game/scripts/story/business district/coffeebar/coffeebar_interior.rpy:195
 translate chinese_simplified coffeebar_interior_632b7121:

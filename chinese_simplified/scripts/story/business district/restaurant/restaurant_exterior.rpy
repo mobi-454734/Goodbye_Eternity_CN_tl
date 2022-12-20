@@ -966,7 +966,7 @@ translate chinese_simplified restaurant_exterior_f6eda8f4:
 translate chinese_simplified restaurant_exterior_3915e569:
 
     # player "Plus vite j'aiderais [yasuka.n] a rembourser ses dettes." id restaurant_exterior_3915e569
-    player "我越早帮[yasuka.n]还清她的债务。。。" id restaurant_exterior_3915e569
+    player "我越早帮[yasuka.n]还清她的债务……" id restaurant_exterior_3915e569
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:426
 translate chinese_simplified restaurant_exterior_1d3c9ed7:
@@ -1068,7 +1068,7 @@ translate chinese_simplified restaurant_exterior_0f2f29fb:
 translate chinese_simplified restaurant_exterior_33b053ce:
 
     # sakuya happy "..." id restaurant_exterior_33b053ce
-    sakuya happy "。。。" id restaurant_exterior_33b053ce
+    sakuya happy "……" id restaurant_exterior_33b053ce
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:449
 translate chinese_simplified restaurant_exterior_7e2ec9a9:
@@ -1086,7 +1086,7 @@ translate chinese_simplified restaurant_exterior_f28cd4d6:
 translate chinese_simplified restaurant_exterior_72bbcda3:
 
     # player upset "Mais... Je vais pas te laisser avec ces..." id restaurant_exterior_72bbcda3
-    player upset "但是。。。我不能把这一切都撇给你。" id restaurant_exterior_72bbcda3
+    player upset "但是……我不能把这一切都撇给你。" id restaurant_exterior_72bbcda3
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:452
 translate chinese_simplified restaurant_exterior_d8b45f6e:
@@ -1104,7 +1104,7 @@ translate chinese_simplified restaurant_exterior_117eefff:
 translate chinese_simplified restaurant_exterior_bae558fc:
 
     # player "{size=-10}Très bien... Mais je ne serais pas loin.{/size}" id restaurant_exterior_bae558fc
-    player "{size=-10}好吧。。。但我不会走得太远。{/size}" id restaurant_exterior_bae558fc
+    player "{size=-10}好吧……但我不会走得太远。{/size}" id restaurant_exterior_bae558fc
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:456
 translate chinese_simplified restaurant_exterior_d5c70915:
@@ -1116,7 +1116,7 @@ translate chinese_simplified restaurant_exterior_d5c70915:
 translate chinese_simplified restaurant_exterior_4e602e52:
 
     # takeo "Regarde moi cette paire de loches..." id restaurant_exterior_4e602e52
-    takeo "看看那对奶子。。。" id restaurant_exterior_4e602e52
+    takeo "看看那对奶子……" id restaurant_exterior_4e602e52
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:458
 translate chinese_simplified restaurant_exterior_b6c5b85c:
@@ -1146,7 +1146,7 @@ translate chinese_simplified restaurant_exterior_9488f573:
 translate chinese_simplified restaurant_exterior_d820de51:
 
     # nobu "On ne va pas te faire de mal bien au contraire." id restaurant_exterior_d820de51
-    nobu "我们不会伤害你的。相反。。。" id restaurant_exterior_d820de51
+    nobu "我们不会伤害你的。相反……" id restaurant_exterior_d820de51
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:463
 translate chinese_simplified restaurant_exterior_d9b54a35:
@@ -1224,7 +1224,7 @@ translate chinese_simplified restaurant_exterior_3467cf9f:
 translate chinese_simplified restaurant_exterior_7a43449b:
 
     # sakuya melancholic "Tu... tu t'inquiétais pour moi?" id restaurant_exterior_7a43449b
-    sakuya melancholic "你。。。你在担心我？" id restaurant_exterior_7a43449b
+    sakuya melancholic "你……你在担心我？" id restaurant_exterior_7a43449b
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:484
 translate chinese_simplified restaurant_exterior_2ad13cfa:
@@ -1236,13 +1236,13 @@ translate chinese_simplified restaurant_exterior_2ad13cfa:
 translate chinese_simplified restaurant_exterior_0122bda4:
 
     # sakuya "Tu es vraiment..." id restaurant_exterior_0122bda4
-    sakuya "你真是个。。。" id restaurant_exterior_0122bda4
+    sakuya "你真是个……" id restaurant_exterior_0122bda4
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:486
 translate chinese_simplified restaurant_exterior_5feeb033:
 
     # sakuya happy "Je... {w}merci." id restaurant_exterior_5feeb033
-    sakuya happy "我。。。{w}谢谢你。" id restaurant_exterior_5feeb033
+    sakuya happy "我……{w}谢谢你。" id restaurant_exterior_5feeb033
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:487
 translate chinese_simplified restaurant_exterior_70c66934:
@@ -1254,7 +1254,7 @@ translate chinese_simplified restaurant_exterior_70c66934:
 translate chinese_simplified restaurant_exterior_564442e7:
 
     # sakuya "Hihi" id restaurant_exterior_564442e7
-    sakuya "嘿嘿。。。" id restaurant_exterior_564442e7
+    sakuya "嘿嘿……" id restaurant_exterior_564442e7
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:489
 translate chinese_simplified restaurant_exterior_0bc55e34:
@@ -1272,7 +1272,7 @@ translate chinese_simplified restaurant_exterior_32e8b081:
 translate chinese_simplified restaurant_exterior_f63986e0:
 
     # player happy "Si tu le dis..." id restaurant_exterior_f63986e0
-    player happy "如果你这么说的话。。。" id restaurant_exterior_f63986e0
+    player happy "如果你这么说的话……" id restaurant_exterior_f63986e0
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:502
 translate chinese_simplified restaurant_exterior_db88a80c:
@@ -1302,7 +1302,7 @@ translate chinese_simplified restaurant_exterior_aa0aa39f:
 translate chinese_simplified restaurant_exterior_651fd040:
 
     # player "...Je dois croire en lui!" id restaurant_exterior_651fd040
-    player "。。。我得相信他！" id restaurant_exterior_651fd040
+    player "……我得相信他！" id restaurant_exterior_651fd040
 
 translate chinese_simplified strings:
 

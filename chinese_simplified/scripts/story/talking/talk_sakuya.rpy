@@ -1075,12 +1075,12 @@ translate chinese_simplified strings:
     new "这一天真是太疯狂了，该睡觉了。"
 
     # game/scripts/story/talking/talk_sakuya.rpy:64
-    old "Je peux à présent me consacrer a mon entrainement avec {color=#32ff7e}{b}[macumba_name]{/b}{/color}"
-    new "我现在可以通过 {color=#32ff7e}{b}马库姆巴{/b}{/color} 全身心投入到我的训练中"
+    # old "Je peux à présent me consacrer a mon entrainement avec {color=#32ff7e}{b}[macumba_name]{/b}{/color}"
+    # new "我现在可以通过 {color=#32ff7e}{b}马库姆巴{/b}{/color} 全身心投入到我的训练中"
 
     # game/scripts/story/talking/talk_sakuya.rpy:65
-    old "Je dois faire de {color=#6c5ce7}{b}[sakuya_name]{/b}{/color} une véritable star du X..."
-    new "我必须让 {color=#6c5ce7}{b}[sakuya_name]{/b}{/color} 成为真正的色情明星..."
+    # old "Je dois faire de {color=#6c5ce7}{b}[sakuya_name]{/b}{/color} une véritable star du X..."
+    # new "我必须让 {color=#6c5ce7}{b}[sakuya_name]{/b}{/color} 成为真正的色情明星..."
 
     # game/scripts/story/talking/talk_sakuya.rpy:308
     old "Je n'y comprends plus rien cette fille est une énigme."
@@ -1092,9 +1092,9 @@ translate chinese_simplified strings:
 
     # game/scripts/story/talking/talk_sakuya.rpy:63
     old "Je peux à présent me consacrer a mon entrainement avec [macumba.n]"
-    new "我现在可以和[macumba.n]一起训练了"
+    new "我现在可以专心和[macumba.n]一起训练了"
 
     # game/scripts/story/talking/talk_sakuya.rpy:64
     old "Je dois faire de [sakuya.n] une véritable star du X..."
-    new "我要让[sakuya.n]成为一个真正的X星。。。"
+    new "我要让[sakuya.n]成为一个真正的AV女优……"
 

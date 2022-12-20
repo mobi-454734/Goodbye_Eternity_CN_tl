@@ -384,7 +384,7 @@ translate chinese_simplified restaurant_interior_809bcc0c:
 translate chinese_simplified restaurant_interior_5ef94b81:
 
     # player "C'est... [chef.n]..." id restaurant_interior_5ef94b81
-    player "[chef.n]。。。" id restaurant_interior_5ef94b81
+    player "[chef.n]……" id restaurant_interior_5ef94b81
 
 # game/scripts/story/business district/restaurant/restaurant_interior.rpy:145
 translate chinese_simplified restaurant_interior_5bdd5f35:
@@ -462,7 +462,7 @@ translate chinese_simplified restaurant_interior_0620a483:
 translate chinese_simplified restaurant_interior_516d90c8:
 
     # sakuya "Hihi, on trouve toujours plus fort que soit." id restaurant_interior_516d90c8
-    sakuya "嘿嘿。。。人外有人，天外有天。" id restaurant_interior_516d90c8
+    sakuya "嘿嘿……人外有人，天外有天。" id restaurant_interior_516d90c8
 
 # game/scripts/story/business district/restaurant/restaurant_interior.rpy:181
 translate chinese_simplified restaurant_interior_89cae9d2:

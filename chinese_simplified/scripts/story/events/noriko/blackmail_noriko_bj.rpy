@@ -214,11 +214,11 @@ translate chinese_simplified blackmail_noriko_bj_dc1cb828:
 translate chinese_simplified blackmail_noriko_bj_ec7911b2:
 
     # player "Tu peux sortir de ma chambre!" id blackmail_noriko_bj_ec7911b2
-    player "现在滚出我的房间！" id blackmail_noriko_bj_ec7911b2
+    player "现在你可以走了！" id blackmail_noriko_bj_ec7911b2
 
 # game/scripts/story/events/noriko/blackmail_noriko_bj.rpy:62
 translate chinese_simplified blackmail_noriko_bj_4d486858:
 
     # noriko furious "Connard!" id blackmail_noriko_bj_4d486858
-    noriko furious "人渣！" id blackmail_noriko_bj_4d486858
+    noriko furious "哼！" id blackmail_noriko_bj_4d486858
 

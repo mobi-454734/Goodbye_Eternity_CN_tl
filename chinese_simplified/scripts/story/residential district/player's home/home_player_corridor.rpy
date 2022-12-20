@@ -604,13 +604,13 @@ translate chinese_simplified home_player_corridor_4c7c0e64:
 translate chinese_simplified home_player_corridor_afb39f28:
 
     # noriko "J'espère que tu n'as pas l'intention de montrer l'enregistrement à qui que ce soit?" id home_player_corridor_afb39f28
-    noriko "我希望你不打算把录音给任何人看？" id home_player_corridor_afb39f28
+    noriko "我希望我们之间的事不要有别的人知道？" id home_player_corridor_afb39f28
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:338
 translate chinese_simplified home_player_corridor_8b2d3068:
 
     # player "Ca dépend que de toi." id home_player_corridor_8b2d3068
-    player "这取决于你。" id home_player_corridor_8b2d3068
+    player "这取决于你的态度了。" id home_player_corridor_8b2d3068
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:339
 translate chinese_simplified home_player_corridor_0cb9eefa:
@@ -1756,7 +1756,7 @@ translate chinese_simplified home_player_corridor_3d7b6407_1:
 translate chinese_simplified home_player_corridor_fcbdf7a3:
 
     # noriko shame "...Zut" id home_player_corridor_fcbdf7a3
-    noriko shame "。。。可恶。" id home_player_corridor_fcbdf7a3
+    noriko shame "……可恶。" id home_player_corridor_fcbdf7a3
 
 translate chinese_simplified strings:
 

@@ -10,7 +10,7 @@ translate chinese_simplified talk_thugs_3fe4ed5d:
 translate chinese_simplified talk_thugs_e59e79e9:
 
     # kenji angry "Hoy mec... T'es serieux là?" id talk_thugs_e59e79e9
-    kenji angry "老兄。。。你认真的吗？" id talk_thugs_e59e79e9
+    kenji angry "老兄……你认真的吗？" id talk_thugs_e59e79e9
 
 # game/scripts/story/talking/talk_thugs.rpy:18
 translate chinese_simplified talk_thugs_62ae2b09:
@@ -40,7 +40,7 @@ translate chinese_simplified talk_thugs_bdaff104:
 translate chinese_simplified talk_thugs_e93f9ff2:
 
     # nobu angry "...Allez vous faire enculez!" id talk_thugs_e93f9ff2
-    nobu angry "。。。你他妈去死！" id talk_thugs_e93f9ff2
+    nobu angry "……你他妈去死！" id talk_thugs_e93f9ff2
 
 # game/scripts/story/talking/talk_thugs.rpy:23
 translate chinese_simplified talk_thugs_6e1c27b4:
@@ -196,7 +196,7 @@ translate chinese_simplified talk_thugs_83406f69:
 translate chinese_simplified talk_thugs_03775ec8:
 
     # player "..." id talk_thugs_03775ec8
-    player "。。。" id talk_thugs_03775ec8
+    player "……" id talk_thugs_03775ec8
 
 # game/scripts/story/talking/talk_thugs.rpy:68
 translate chinese_simplified talk_thugs_13227b42:
@@ -232,13 +232,13 @@ translate chinese_simplified talk_thugs_21ee654b:
 translate chinese_simplified talk_thugs_ee80cafd:
 
     # takeo "Merde..." id talk_thugs_ee80cafd
-    takeo "妈的。。。" id talk_thugs_ee80cafd
+    takeo "妈的……" id talk_thugs_ee80cafd
 
 # game/scripts/story/talking/talk_thugs.rpy:80
 translate chinese_simplified talk_thugs_7882b415:
 
     # player sad "Pfff c'est toi!" id talk_thugs_7882b415
-    player sad "呼。。。是你啊！" id talk_thugs_7882b415
+    player sad "呼……是你啊！" id talk_thugs_7882b415
 
 # game/scripts/story/talking/talk_thugs.rpy:81
 translate chinese_simplified talk_thugs_11d68c14:
@@ -256,7 +256,7 @@ translate chinese_simplified talk_thugs_5784b3fa:
 translate chinese_simplified talk_thugs_e522306a:
 
     # player "Tu n'as pas idée..." id talk_thugs_e522306a
-    player "你不懂。。。" id talk_thugs_e522306a
+    player "你不懂……" id talk_thugs_e522306a
 
 # game/scripts/story/talking/talk_thugs.rpy:85
 translate chinese_simplified talk_thugs_2ce2cf9d:
@@ -268,7 +268,7 @@ translate chinese_simplified talk_thugs_2ce2cf9d:
 translate chinese_simplified talk_thugs_78aa65d8:
 
     # player sad "Mais je dois..." id talk_thugs_78aa65d8
-    player sad "但我得。。。" id talk_thugs_78aa65d8
+    player sad "但我得……" id talk_thugs_78aa65d8
 
 # game/scripts/story/talking/talk_thugs.rpy:87
 translate chinese_simplified talk_thugs_c438064c:
@@ -304,7 +304,7 @@ translate chinese_simplified talk_thugs_49055569:
 translate chinese_simplified talk_thugs_edf370ed:
 
     # kenji "Alors on s'occupe comme on peut..." id talk_thugs_edf370ed
-    kenji "所以我们尽我们所能。。。" id talk_thugs_edf370ed
+    kenji "所以我们尽我们所能……" id talk_thugs_edf370ed
 
 # game/scripts/story/talking/talk_thugs.rpy:105
 translate chinese_simplified talk_thugs_91c2f263:
@@ -352,7 +352,7 @@ translate chinese_simplified talk_thugs_24430da9:
 translate chinese_simplified talk_thugs_3c3e1069:
 
     # nobu "En plus on est même pas payé pour ça..." id talk_thugs_3c3e1069
-    nobu "况且，我们连工资都没有。。。" id talk_thugs_3c3e1069
+    nobu "况且，我们连工资都没有……" id talk_thugs_3c3e1069
 
 # game/scripts/story/talking/talk_thugs.rpy:113
 translate chinese_simplified talk_thugs_5c055ffc:
@@ -406,7 +406,7 @@ translate chinese_simplified talk_thugs_bc4e3189:
 translate chinese_simplified talk_thugs_c2cffe85:
 
     # player upset "..." id talk_thugs_c2cffe85
-    player upset "。。。" id talk_thugs_c2cffe85
+    player upset "……" id talk_thugs_c2cffe85
 
 # game/scripts/story/talking/talk_thugs.rpy:128
 translate chinese_simplified talk_thugs_7455e9fa:
@@ -430,13 +430,13 @@ translate chinese_simplified talk_thugs_7d50448a:
 translate chinese_simplified talk_thugs_ed6623a0:
 
     # player sad "..." id talk_thugs_ed6623a0
-    player sad "。。。" id talk_thugs_ed6623a0
+    player sad "……" id talk_thugs_ed6623a0
 
 # game/scripts/story/talking/talk_thugs.rpy:132
 translate chinese_simplified talk_thugs_93aea1a1:
 
     # kenji bad "Oui mais j'ai bien envie d'aller la voir cette petite brunette moi maintenant..." id talk_thugs_93aea1a1
-    kenji bad "啊，但我现在真的很想去看那个黑发美女。。。" id talk_thugs_93aea1a1
+    kenji bad "啊，但我现在真的很想去看那个黑发美女……" id talk_thugs_93aea1a1
 
 # game/scripts/story/talking/talk_thugs.rpy:133
 translate chinese_simplified talk_thugs_fdf512a1:
@@ -460,7 +460,7 @@ translate chinese_simplified talk_thugs_dea6ba58:
 translate chinese_simplified talk_thugs_42e872fb:
 
     # player furious "Si jamais vous touchez ne serait ce qu'un seul de ces cheveux..." id talk_thugs_42e872fb
-    player furious "如果你哪怕敢碰她一根头发。。。" id talk_thugs_42e872fb
+    player furious "如果你哪怕敢碰她一根头发……" id talk_thugs_42e872fb
 
 # game/scripts/story/talking/talk_thugs.rpy:137
 translate chinese_simplified talk_thugs_5e3cd2a5:
@@ -590,5 +590,5 @@ translate chinese_simplified strings:
 
     # game/scripts/story/talking/talk_thugs.rpy:125
     old "Vous... Vous êtes vraiment des..."
-    new "你们。。。你们就是一群。。。"
+    new "你们……你们就是一群……"
 

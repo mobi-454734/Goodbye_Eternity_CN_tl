@@ -186,7 +186,7 @@ translate chinese_simplified love_hotel_exterior_982abe80:
 translate chinese_simplified love_hotel_exterior_b37e98ac:
 
     # player surprised "Put-" id love_hotel_exterior_b37e98ac
-    player surprised "操。。。" id love_hotel_exterior_b37e98ac
+    player surprised "操……" id love_hotel_exterior_b37e98ac
 
 # game/scripts/story/business district/love hotel/love_hotel_exterior.rpy:84
 translate chinese_simplified love_hotel_exterior_a83d8eeb:
@@ -228,13 +228,13 @@ translate chinese_simplified love_hotel_exterior_d82c7b50:
 translate chinese_simplified love_hotel_exterior_07c0f38a:
 
     # player "Rendez-moi... cet argent!" id love_hotel_exterior_07c0f38a
-    player "把钱。。。还给我！" id love_hotel_exterior_07c0f38a
+    player "把钱……还给我！" id love_hotel_exterior_07c0f38a
 
 # game/scripts/story/business district/love hotel/love_hotel_exterior.rpy:101
 translate chinese_simplified love_hotel_exterior_55ebd0b0:
 
     # player "Vous n'avez pas le droit de..." id love_hotel_exterior_55ebd0b0
-    player "你们不能。。。" id love_hotel_exterior_55ebd0b0
+    player "你们不能……" id love_hotel_exterior_55ebd0b0
 
 # game/scripts/story/business district/love hotel/love_hotel_exterior.rpy:102
 translate chinese_simplified love_hotel_exterior_628e4f27:
@@ -252,7 +252,7 @@ translate chinese_simplified love_hotel_exterior_bb9c0617:
 translate chinese_simplified love_hotel_exterior_ed6623a0:
 
     # player sad "..." id love_hotel_exterior_ed6623a0
-    player sad "。。。" id love_hotel_exterior_ed6623a0
+    player sad "……" id love_hotel_exterior_ed6623a0
 
 # game/scripts/story/business district/love hotel/love_hotel_exterior.rpy:106
 translate chinese_simplified love_hotel_exterior_ce3a8fac:
@@ -354,7 +354,7 @@ translate chinese_simplified love_hotel_exterior_6d703bc6:
 translate chinese_simplified love_hotel_exterior_14e3e045:
 
     # ubs "Quand a lui... Je vais le... le... je vais le tuer!!!" id love_hotel_exterior_14e3e045
-    ubs "对于他。。。我要。。。我要杀了他！" id love_hotel_exterior_14e3e045
+    ubs "对于他……我要……我要杀了他！" id love_hotel_exterior_14e3e045
 
 # game/scripts/story/business district/love hotel/love_hotel_exterior.rpy:137
 translate chinese_simplified love_hotel_exterior_ac7728e7:
@@ -378,7 +378,7 @@ translate chinese_simplified love_hotel_exterior_98625ab4:
 translate chinese_simplified love_hotel_exterior_0bd801ec:
 
     # sakuya "Et que possedez un réel talent..." id love_hotel_exterior_0bd801ec
-    sakuya "您在那方面很有天赋。。。" id love_hotel_exterior_0bd801ec
+    sakuya "您在那方面很有天赋……" id love_hotel_exterior_0bd801ec
 
 # game/scripts/story/business district/love hotel/love_hotel_exterior.rpy:141
 translate chinese_simplified love_hotel_exterior_8d0ce918:

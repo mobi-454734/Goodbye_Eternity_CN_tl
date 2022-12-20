@@ -404,7 +404,7 @@ translate chinese_simplified dojo_exterior_7ef10cbb:
 translate chinese_simplified dojo_exterior_3070a588:
 
     # kenji "Ooooh, elle a bien grandit notre victime préféré." id dojo_exterior_3070a588
-    kenji "噢。。。我们最爱的受害者长大了啊。" id dojo_exterior_3070a588
+    kenji "噢……我们最爱的受害者长大了啊。" id dojo_exterior_3070a588
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:196
 translate chinese_simplified dojo_exterior_ebf30710:
@@ -428,7 +428,7 @@ translate chinese_simplified dojo_exterior_6eeb3e27:
 translate chinese_simplified dojo_exterior_93e30adc:
 
     # akira "Mais je vais te montrer que tout ça n'a servis a rien." id dojo_exterior_93e30adc
-    akira "但我会告诉你，这一切都是徒劳。。。" id dojo_exterior_93e30adc
+    akira "但我会告诉你，这一切都是徒劳……" id dojo_exterior_93e30adc
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:200
 translate chinese_simplified dojo_exterior_18a22283:
@@ -446,7 +446,7 @@ translate chinese_simplified dojo_exterior_b47a3411:
 translate chinese_simplified dojo_exterior_e8b68a52:
 
     # akira neutral "..." id dojo_exterior_e8b68a52
-    akira neutral "。。。" id dojo_exterior_e8b68a52
+    akira neutral "……" id dojo_exterior_e8b68a52
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:203
 translate chinese_simplified dojo_exterior_a6c2a972:
@@ -470,7 +470,7 @@ translate chinese_simplified dojo_exterior_e415bcd7:
 translate chinese_simplified dojo_exterior_4596023f:
 
     # nobu disgusted "euh... on avait dit qu'on le tabassait mais qu'on allait le tuer." id dojo_exterior_4596023f
-    nobu disgusted "额。。。我们说会揍他一顿，但不是杀了他。。。" id dojo_exterior_4596023f
+    nobu disgusted "额……我们说会揍他一顿，但不是杀了他……" id dojo_exterior_4596023f
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:207
 translate chinese_simplified dojo_exterior_a8acba43:
@@ -536,7 +536,7 @@ translate chinese_simplified dojo_exterior_bb6a42e4:
 translate chinese_simplified dojo_exterior_d63d6b65:
 
     # takeo "..." id dojo_exterior_d63d6b65
-    takeo "。。。" id dojo_exterior_d63d6b65
+    takeo "……" id dojo_exterior_d63d6b65
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:230
 translate chinese_simplified dojo_exterior_4e85f34e:
@@ -584,7 +584,7 @@ translate chinese_simplified dojo_exterior_1b30a65e:
 translate chinese_simplified dojo_exterior_e8b68a52_1:
 
     # akira neutral "..." id dojo_exterior_e8b68a52_1
-    akira neutral "。。。" id dojo_exterior_e8b68a52_1
+    akira neutral "……" id dojo_exterior_e8b68a52_1
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:246
 translate chinese_simplified dojo_exterior_5fefe4f3:
@@ -608,7 +608,7 @@ translate chinese_simplified dojo_exterior_6517777e:
 translate chinese_simplified dojo_exterior_fc2622b7:
 
     # akira angry "...Faites attention a ce que vous dites, votre boutique pourrait prendre feu, un accident est vité arrivé!" id dojo_exterior_fc2622b7
-    akira angry "。。。注意你的言辞。你的店可能会着火的。意外会比你想象中来得快！" id dojo_exterior_fc2622b7
+    akira angry "……注意你的言辞。你的店可能会着火的。意外会比你想象中来得快！" id dojo_exterior_fc2622b7
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:251
 translate chinese_simplified dojo_exterior_5b5bd7a1:
@@ -680,7 +680,7 @@ translate chinese_simplified dojo_exterior_5146ba0a:
 translate chinese_simplified dojo_exterior_9029b20b:
 
     # x "Merde j'ai beau savoir qu'il m'a aidé..." id dojo_exterior_9029b20b
-    x "该死，尽管他帮了我。。。" id dojo_exterior_9029b20b
+    x "该死，尽管他帮了我……" id dojo_exterior_9029b20b
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:271
 translate chinese_simplified dojo_exterior_e48197db:

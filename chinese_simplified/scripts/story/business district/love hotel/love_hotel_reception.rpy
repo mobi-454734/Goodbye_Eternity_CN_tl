@@ -22,7 +22,7 @@ translate chinese_simplified love_hotel_reception_86b2907f:
 translate chinese_simplified love_hotel_reception_31308ef8:
 
     # player sad "Je vais m'attirer pas mal de probleme en faisant ça mais..." id love_hotel_reception_31308ef8
-    player sad "我这样做会惹上很多麻烦，但是。。。" id love_hotel_reception_31308ef8
+    player sad "我这样做会惹上很多麻烦，但是……" id love_hotel_reception_31308ef8
 
 # game/scripts/story/business district/love hotel/love_hotel_reception.rpy:29
 translate chinese_simplified love_hotel_reception_619ad84b:
@@ -46,7 +46,7 @@ translate chinese_simplified love_hotel_reception_3d168bff:
 translate chinese_simplified love_hotel_reception_7b7abd0b:
 
     # centered "Pendant ce temps là, dans une des nombreuses chambre du Love Hotel..." id love_hotel_reception_7b7abd0b
-    centered "与此同时，在情侣酒店众多房间中的其中一间里。。。" id love_hotel_reception_7b7abd0b
+    centered "与此同时，在情侣酒店众多房间中的其中一间里……" id love_hotel_reception_7b7abd0b
 
 # game/scripts/story/business district/love hotel/love_hotel_reception.rpy:40
 translate chinese_simplified love_hotel_reception_06edcb46:
@@ -64,7 +64,7 @@ translate chinese_simplified love_hotel_reception_729757db:
 translate chinese_simplified love_hotel_reception_d2f596cc:
 
     # ubs "Depuis le premier jour ou je t'ai vu entrée dans cette boutique..." id love_hotel_reception_d2f596cc
-    ubs "从我第一天看到你走进那家店开始。。。" id love_hotel_reception_d2f596cc
+    ubs "从我第一天看到你走进那家店开始……" id love_hotel_reception_d2f596cc
 
 # game/scripts/story/business district/love hotel/love_hotel_reception.rpy:44
 translate chinese_simplified love_hotel_reception_cbc92a4b:
@@ -88,7 +88,7 @@ translate chinese_simplified love_hotel_reception_3dab8188:
 translate chinese_simplified love_hotel_reception_dd95111d:
 
     # ubs "Je pensais qu'au fil du temps à travailler ensemble à la boutique une connexion entre nous se serait creer mais..." id love_hotel_reception_dd95111d
-    ubs "我以为我们会日久生情，但。。。" id love_hotel_reception_dd95111d
+    ubs "我以为我们会日久生情，但……" id love_hotel_reception_dd95111d
 
 # game/scripts/story/business district/love hotel/love_hotel_reception.rpy:49
 translate chinese_simplified love_hotel_reception_44be87ed:
@@ -106,7 +106,7 @@ translate chinese_simplified love_hotel_reception_360c89b5:
 translate chinese_simplified love_hotel_reception_cc3e2083:
 
     # ubs "...{w}Mais je ne peux pas t'en vouloir." id love_hotel_reception_cc3e2083
-    ubs "。。。{w}但我也不能怪罪你。" id love_hotel_reception_cc3e2083
+    ubs "……{w}但我也不能怪罪你。" id love_hotel_reception_cc3e2083
 
 # game/scripts/story/business district/love hotel/love_hotel_reception.rpy:52
 translate chinese_simplified love_hotel_reception_1a4f4a0c:
@@ -148,7 +148,7 @@ translate chinese_simplified love_hotel_reception_0c129904:
 translate chinese_simplified love_hotel_reception_68167609:
 
     # ubs "Je me suis fais une sacrée réputation tu sais..." id love_hotel_reception_68167609
-    ubs "你知道，我名声很好。。。" id love_hotel_reception_68167609
+    ubs "你知道，我名声很好……" id love_hotel_reception_68167609
 
 # game/scripts/story/business district/love hotel/love_hotel_reception.rpy:60
 translate chinese_simplified love_hotel_reception_690c90c2:
@@ -178,7 +178,7 @@ translate chinese_simplified love_hotel_reception_89735177:
 translate chinese_simplified love_hotel_reception_ec6d5e7e:
 
     # ubs "...{w}L'etre humain!" id love_hotel_reception_ec6d5e7e
-    ubs "。。。{w}人类！" id love_hotel_reception_ec6d5e7e
+    ubs "……{w}人类！" id love_hotel_reception_ec6d5e7e
 
 # game/scripts/story/business district/love hotel/love_hotel_reception.rpy:66
 translate chinese_simplified love_hotel_reception_528a9e6d:
@@ -196,13 +196,13 @@ translate chinese_simplified love_hotel_reception_8b1099a2:
 translate chinese_simplified love_hotel_reception_43c07338:
 
     # ubs "C'est fou quand on y pense quand même..." id love_hotel_reception_43c07338
-    ubs "挺疯狂的，如果你仔细想想。。。" id love_hotel_reception_43c07338
+    ubs "挺疯狂的，如果你仔细想想……" id love_hotel_reception_43c07338
 
 # game/scripts/story/business district/love hotel/love_hotel_reception.rpy:70
 translate chinese_simplified love_hotel_reception_1c070ce1:
 
     # ubs "On peut s'entretuer, tromper les autres, détruire notre environnement" id love_hotel_reception_1c070ce1
-    ubs "我们可以互相残杀，欺骗他人，破坏我们的环境。。。" id love_hotel_reception_1c070ce1
+    ubs "我们可以互相残杀，欺骗他人，破坏我们的环境……" id love_hotel_reception_1c070ce1
 
 # game/scripts/story/business district/love hotel/love_hotel_reception.rpy:71
 translate chinese_simplified love_hotel_reception_14b82b76:
@@ -256,13 +256,13 @@ translate chinese_simplified love_hotel_reception_675963c8:
 translate chinese_simplified love_hotel_reception_39b7f5e5:
 
     # yasuka "mmhhh" id love_hotel_reception_39b7f5e5
-    yasuka "嗯。。。" id love_hotel_reception_39b7f5e5
+    yasuka "嗯……" id love_hotel_reception_39b7f5e5
 
 # game/scripts/story/business district/love hotel/love_hotel_reception.rpy:83
 translate chinese_simplified love_hotel_reception_630175a1:
 
     # ubs "Oh oh!" id love_hotel_reception_630175a1
-    ubs "噢。。！噢。。。！" id love_hotel_reception_630175a1
+    ubs "噢。。！噢……！" id love_hotel_reception_630175a1
 
 # game/scripts/story/business district/love hotel/love_hotel_reception.rpy:84
 translate chinese_simplified love_hotel_reception_30f9c143:
@@ -274,7 +274,7 @@ translate chinese_simplified love_hotel_reception_30f9c143:
 translate chinese_simplified love_hotel_reception_af95b83b:
 
     # ubs "Reveille toi doucement ma chere..." id love_hotel_reception_af95b83b
-    ubs "慢慢睁眼，亲爱的。。。" id love_hotel_reception_af95b83b
+    ubs "慢慢睁眼，亲爱的……" id love_hotel_reception_af95b83b
 
 # game/scripts/story/business district/love hotel/love_hotel_reception.rpy:86
 translate chinese_simplified love_hotel_reception_82a72916:
@@ -316,7 +316,7 @@ translate chinese_simplified love_hotel_reception_0026503c:
 translate chinese_simplified love_hotel_reception_c88979b0:
 
     # yasuka "mmmhh" id love_hotel_reception_c88979b0
-    yasuka "嗯。。。。" id love_hotel_reception_c88979b0
+    yasuka "嗯……。" id love_hotel_reception_c88979b0
 
 # game/scripts/story/business district/love hotel/love_hotel_reception.rpy:94
 translate chinese_simplified love_hotel_reception_608f6725:
@@ -346,7 +346,7 @@ translate chinese_simplified love_hotel_reception_8043d0b0:
 translate chinese_simplified love_hotel_reception_0ab160dd:
 
     # yasuka "Ou suis-je..?" id love_hotel_reception_0ab160dd
-    yasuka "我在哪。。。？" id love_hotel_reception_0ab160dd
+    yasuka "我在哪……？" id love_hotel_reception_0ab160dd
 
 # game/scripts/story/business district/love hotel/love_hotel_reception.rpy:101
 translate chinese_simplified love_hotel_reception_4938aa36:
@@ -406,7 +406,7 @@ translate chinese_simplified love_hotel_reception_a48a2f8f:
 translate chinese_simplified love_hotel_reception_f28a3d27:
 
     # ubs "Ugggh... Vous me le paierez!" id love_hotel_reception_f28a3d27
-    ubs "你会付出代价的。。。" id love_hotel_reception_f28a3d27
+    ubs "你会付出代价的……" id love_hotel_reception_f28a3d27
 
 # game/scripts/story/business district/love hotel/love_hotel_reception.rpy:122
 translate chinese_simplified love_hotel_reception_426705ac:
@@ -442,7 +442,7 @@ translate chinese_simplified love_hotel_reception_67283c1a:
 translate chinese_simplified love_hotel_reception_d9310299:
 
     # yasuka pouting "Non..." id love_hotel_reception_d9310299
-    yasuka pouting "不。。。" id love_hotel_reception_d9310299
+    yasuka pouting "不……" id love_hotel_reception_d9310299
 
 # game/scripts/story/business district/love hotel/love_hotel_reception.rpy:132
 translate chinese_simplified love_hotel_reception_57099805:
@@ -472,7 +472,7 @@ translate chinese_simplified love_hotel_reception_54d1b13a:
 translate chinese_simplified love_hotel_reception_087ff8b7:
 
     # yasuka "Mon cheri, j'ai entendu mais ce que je ressent au fond de moi..." id love_hotel_reception_087ff8b7
-    yasuka "我听见了，亲爱的。但打我心底里。。。" id love_hotel_reception_087ff8b7
+    yasuka "我听见了，亲爱的。但打我心底里……" id love_hotel_reception_087ff8b7
 
 # game/scripts/story/business district/love hotel/love_hotel_reception.rpy:137
 translate chinese_simplified love_hotel_reception_b4c36164:
@@ -490,7 +490,7 @@ translate chinese_simplified love_hotel_reception_d58a41bd:
 translate chinese_simplified love_hotel_reception_07a90e61:
 
     # yasuka "[player.n]... Tu es un devenu un homme, bon, genereux, pret a tout pour me defendre." id love_hotel_reception_07a90e61
-    yasuka "[player.n]。。。你已经是个善良，慷慨，愿意付出一切保护我的男人了。" id love_hotel_reception_07a90e61
+    yasuka "[player.n]……你已经是个善良，慷慨，愿意付出一切保护我的男人了。" id love_hotel_reception_07a90e61
 
 # game/scripts/story/business district/love hotel/love_hotel_reception.rpy:140
 translate chinese_simplified love_hotel_reception_14d496ff:
@@ -508,7 +508,7 @@ translate chinese_simplified love_hotel_reception_dc7f1bc7:
 translate chinese_simplified love_hotel_reception_43bcb898:
 
     # yasuka sad "Tu ne veux pas de moi?" id love_hotel_reception_43bcb898
-    yasuka sad "你。。。不想要我吗？" id love_hotel_reception_43bcb898
+    yasuka sad "你……不想要我吗？" id love_hotel_reception_43bcb898
 
 # game/scripts/story/business district/love hotel/love_hotel_reception.rpy:147
 translate chinese_simplified love_hotel_reception_a1a5481a:
@@ -532,7 +532,7 @@ translate chinese_simplified love_hotel_reception_d30d24c4:
 translate chinese_simplified love_hotel_reception_e12e539e:
 
     # player "Si c'est [player.n] que tu veux... Il est tout à toi à présent!" id love_hotel_reception_e12e539e
-    player "如果你想要[player.n]。。。他现在全身心都是你的！" id love_hotel_reception_e12e539e
+    player "如果你想要[player.n]……他现在全身心都是你的！" id love_hotel_reception_e12e539e
 
 # game/scripts/story/business district/love hotel/love_hotel_reception.rpy:156
 translate chinese_simplified love_hotel_reception_f6df30b3:
@@ -556,7 +556,7 @@ translate chinese_simplified love_hotel_reception_469ad42a:
 translate chinese_simplified love_hotel_reception_d7633528:
 
     # yasukac "mmmmh oui, c'est ça!" id love_hotel_reception_d7633528
-    yasukac "唔嗯。。。没错，就是这样！"id love_hotel_reception_d7633528
+    yasukac "唔嗯……没错，就是这样！"id love_hotel_reception_d7633528
 
 # game/scripts/story/business district/love hotel/love_hotel_reception.rpy:164
 translate chinese_simplified love_hotel_reception_7db6ef59:
@@ -574,7 +574,7 @@ translate chinese_simplified love_hotel_reception_2ab8b4cd:
 translate chinese_simplified love_hotel_reception_009af4b7:
 
     # yasukac "mmmhh non..." id love_hotel_reception_009af4b7
-    yasukac "嗯。。。没有。" id love_hotel_reception_009af4b7
+    yasukac "嗯……没有。" id love_hotel_reception_009af4b7
 
 # game/scripts/story/business district/love hotel/love_hotel_reception.rpy:167
 translate chinese_simplified love_hotel_reception_170fc1ae:
@@ -610,13 +610,13 @@ translate chinese_simplified love_hotel_reception_17f03b3a:
 translate chinese_simplified love_hotel_reception_ffa8294d:
 
     # yasukac "Plus fort!" id love_hotel_reception_ffa8294d
-    yasukac "再用力一点。。。！" id love_hotel_reception_ffa8294d
+    yasukac "再用力一点……！" id love_hotel_reception_ffa8294d
 
 # game/scripts/story/business district/love hotel/love_hotel_reception.rpy:175
 translate chinese_simplified love_hotel_reception_8d5fbbcb:
 
     # yasukac "Encore plus fort!" id love_hotel_reception_8d5fbbcb
-    yasukac "再快一点！快一点。。。！" id love_hotel_reception_8d5fbbcb
+    yasukac "再快一点！快一点……！" id love_hotel_reception_8d5fbbcb
 
 # game/scripts/story/business district/love hotel/love_hotel_reception.rpy:176
 translate chinese_simplified love_hotel_reception_c42b7ec7:
@@ -628,7 +628,7 @@ translate chinese_simplified love_hotel_reception_c42b7ec7:
 translate chinese_simplified love_hotel_reception_431eb3d7:
 
     # yasukac "Oh mon dieu..." id love_hotel_reception_431eb3d7
-    yasukac "噢。。天哪。。。" id love_hotel_reception_431eb3d7
+    yasukac "噢。。天哪……" id love_hotel_reception_431eb3d7
 
 # game/scripts/story/business district/love hotel/love_hotel_reception.rpy:180
 translate chinese_simplified love_hotel_reception_d333251e:
@@ -640,61 +640,61 @@ translate chinese_simplified love_hotel_reception_d333251e:
 translate chinese_simplified love_hotel_reception_30579c8b:
 
     # playerc "Oui... Mais laisse moi juste..." id love_hotel_reception_30579c8b
-    playerc "是啊。。。但稍微让我。。。" id love_hotel_reception_30579c8b
+    playerc "是啊……但稍微让我……" id love_hotel_reception_30579c8b
 
 # game/scripts/story/business district/love hotel/love_hotel_reception.rpy:182
 translate chinese_simplified love_hotel_reception_8e4560a8:
 
     # playerc "Reprendre...{w}mon souffle" id love_hotel_reception_8e4560a8
-    playerc "喘。。。{w}口气。。。" id love_hotel_reception_8e4560a8
+    playerc "喘……{w}口气……" id love_hotel_reception_8e4560a8
 
 # game/scripts/story/business district/love hotel/love_hotel_reception.rpy:183
 translate chinese_simplified love_hotel_reception_38db84cc:
 
     # yasukac "Han... Han... Je comprend." id love_hotel_reception_38db84cc
-    yasukac "哈。。。哈。。。我理解。。。" id love_hotel_reception_38db84cc
+    yasukac "哈……哈……我理解……" id love_hotel_reception_38db84cc
 
 # game/scripts/story/business district/love hotel/love_hotel_reception.rpy:184
 translate chinese_simplified love_hotel_reception_d56581a4:
 
     # yasukac "Mais... J'ai une irresistible envie..." id love_hotel_reception_d56581a4
-    yasukac "但。。。我有种无法抗拒的欲望。。。" id love_hotel_reception_d56581a4
+    yasukac "但……我有种无法抗拒的欲望……" id love_hotel_reception_d56581a4
 
 # game/scripts/story/business district/love hotel/love_hotel_reception.rpy:185
 translate chinese_simplified love_hotel_reception_88c39d86:
 
     # playerc "...Dis toujours" id love_hotel_reception_88c39d86
-    playerc "。。。是什么？" id love_hotel_reception_88c39d86
+    playerc "……是什么？" id love_hotel_reception_88c39d86
 
 # game/scripts/story/business district/love hotel/love_hotel_reception.rpy:186
 translate chinese_simplified love_hotel_reception_cf875faa:
 
     # yasukac "Sert de toi de ma bouche comme si c'était..." id love_hotel_reception_cf875faa
-    yasukac "请把我的嘴巴。。。当做小穴抽插吧。。。" id love_hotel_reception_cf875faa
+    yasukac "请把我的嘴巴……当做小穴抽插吧……" id love_hotel_reception_cf875faa
 
 # game/scripts/story/business district/love hotel/love_hotel_reception.rpy:187
 translate chinese_simplified love_hotel_reception_b14bf260:
 
     # playerc "..." id love_hotel_reception_b14bf260
-    playerc "。。。" id love_hotel_reception_b14bf260
+    playerc "……" id love_hotel_reception_b14bf260
 
 # game/scripts/story/business district/love hotel/love_hotel_reception.rpy:190
 translate chinese_simplified love_hotel_reception_59bb8bd9:
 
     # yasukac "mmhm mmhh mhhhh ouiii mmhh" id love_hotel_reception_59bb8bd9
-    yasukac "嗯。。。哈。。哈。。。" id love_hotel_reception_59bb8bd9
+    yasukac "嗯……哈。。哈……" id love_hotel_reception_59bb8bd9
 
 # game/scripts/story/business district/love hotel/love_hotel_reception.rpy:191
 translate chinese_simplified love_hotel_reception_ffa8294d_1:
 
     # yasukac "Plus fort!" id love_hotel_reception_ffa8294d_1
-    yasukac "全部射到我嘴里。。。！" id love_hotel_reception_ffa8294d_1
+    yasukac "全部射到我嘴里……！" id love_hotel_reception_ffa8294d_1
 
 # game/scripts/story/business district/love hotel/love_hotel_reception.rpy:192
 translate chinese_simplified love_hotel_reception_56ba779d:
 
     # yasukac "Donne moi tout, je veux tout avaler!" id love_hotel_reception_56ba779d
-    yasukac "我会一滴不剩地。。。吞下的！" id love_hotel_reception_56ba779d
+    yasukac "我会一滴不剩地……吞下的！" id love_hotel_reception_56ba779d
 
 # game/scripts/story/business district/love hotel/love_hotel_reception.rpy:203
 translate chinese_simplified love_hotel_reception_1f06ff4c:
@@ -706,5 +706,5 @@ translate chinese_simplified love_hotel_reception_1f06ff4c:
 translate chinese_simplified love_hotel_reception_344009ee:
 
     # centered "Pendant ce temps là..." id love_hotel_reception_344009ee
-    centered "与此同时。。。" id love_hotel_reception_344009ee
+    centered "与此同时……" id love_hotel_reception_344009ee
 

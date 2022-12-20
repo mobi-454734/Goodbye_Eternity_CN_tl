@@ -646,7 +646,7 @@ translate chinese_simplified kimochi_password_6b0a58ae:
 translate chinese_simplified kimochi_password_91f448f7:
 
     # player upset "Merde merde..." id kimochi_password_91f448f7
-    player upset "妈的。。。" id kimochi_password_91f448f7
+    player upset "妈的……" id kimochi_password_91f448f7
 
 # game/scripts/story/talking/talk_kimochi.rpy:172
 translate chinese_simplified kimochi_password_d624da84:
@@ -1190,7 +1190,7 @@ translate chinese_simplified kimochi_password_9d9053f5:
 translate chinese_simplified kimochi_password_cf4a4267:
 
     # player "et les trois autres abrutis..." id kimochi_password_cf4a4267
-    player "还有另外三个傻逼。。。" id kimochi_password_cf4a4267
+    player "还有另外三个傻逼……" id kimochi_password_cf4a4267
 
 # game/scripts/story/talking/talk_kimochi.rpy:340
 translate chinese_simplified kimochi_password_f1ee2cc2:
@@ -1214,7 +1214,7 @@ translate chinese_simplified kimochi_password_5df7f4e5:
 translate chinese_simplified kimochi_password_47ce3eb2:
 
     # kimochi "J'ai morflé ce jour là mais... Pas autant qu'eux." id kimochi_password_47ce3eb2
-    kimochi "那天我吃了苦头。。。但没他们那么惨。" id kimochi_password_47ce3eb2
+    kimochi "那天我吃了苦头……但没他们那么惨。" id kimochi_password_47ce3eb2
 
 # game/scripts/story/talking/talk_kimochi.rpy:344
 translate chinese_simplified kimochi_password_0dbc7881:
@@ -1268,13 +1268,13 @@ translate chinese_simplified kimochi_password_f202295c:
 translate chinese_simplified kimochi_password_ed6623a0:
 
     # player sad "..." id kimochi_password_ed6623a0
-    player sad "。。。" id kimochi_password_ed6623a0
+    player sad "……" id kimochi_password_ed6623a0
 
 # game/scripts/story/talking/talk_kimochi.rpy:353
 translate chinese_simplified kimochi_password_ab0a0cec:
 
     # kimochi doubt "Toi... {w}t'as la tête d'un chien qui vient de faire caca sur la moquette du salon et qui sait qui va se faire engueuler." id kimochi_password_ab0a0cec
-    kimochi doubt "你。。。{w}你看起来就像一条刚在地毯上拉完屎的狗，尽管它知道它马上就要倒霉了。" id kimochi_password_ab0a0cec
+    kimochi doubt "你……{w}你看起来就像一条刚在地毯上拉完屎的狗，尽管它知道它马上就要倒霉了。" id kimochi_password_ab0a0cec
 
 # game/scripts/story/talking/talk_kimochi.rpy:354
 translate chinese_simplified kimochi_password_d48cf6ec:
@@ -1286,7 +1286,7 @@ translate chinese_simplified kimochi_password_d48cf6ec:
 translate chinese_simplified kimochi_password_befced88:
 
     # player "mhhh il se pourrait que je l'ai empeché d'avoir une fille qu'il essayait d'avoir depuis longtemps..." id kimochi_password_befced88
-    player "嗯。。。我可能阻止了他搞到一个他一直想拿下的女生。" id kimochi_password_befced88
+    player "嗯……我可能阻止了他搞到一个他一直想拿下的女生。" id kimochi_password_befced88
 
 # game/scripts/story/talking/talk_kimochi.rpy:356
 translate chinese_simplified kimochi_password_91ffc9bc:
@@ -1298,7 +1298,7 @@ translate chinese_simplified kimochi_password_91ffc9bc:
 translate chinese_simplified kimochi_password_23134bbb:
 
     # player "Serieusement..." id kimochi_password_23134bbb
-    player "认真的吗。。。" id kimochi_password_23134bbb
+    player "认真的吗……" id kimochi_password_23134bbb
 
 # game/scripts/story/talking/talk_kimochi.rpy:358
 translate chinese_simplified kimochi_password_bf45d6a7:
@@ -1382,7 +1382,7 @@ translate chinese_simplified kimochi_password_9ebad2ce:
 translate chinese_simplified kimochi_password_2d40b635:
 
     # kimochi think "Désolé mais... la seule solution serait que tu trouve un moyen de pression encore plus fort encore." id kimochi_password_2d40b635
-    kimochi think "抱歉，但。。。唯一的办法就是找个更强的把柄。。" id kimochi_password_2d40b635
+    kimochi think "抱歉，但……唯一的办法就是找个更强的把柄。。" id kimochi_password_2d40b635
 
 # game/scripts/story/talking/talk_kimochi.rpy:372
 translate chinese_simplified kimochi_password_8327dd1f:
@@ -1412,7 +1412,7 @@ translate chinese_simplified kimochi_password_d35f6e5b:
 translate chinese_simplified kimochi_password_8eede8e5:
 
     # kimochi sad "Ahlala... Qu'elle naiveté quand même." id kimochi_password_8eede8e5
-    kimochi sad "啊哈。。。你真是太年轻了。" id kimochi_password_8eede8e5
+    kimochi sad "啊哈……你真是太年轻了。" id kimochi_password_8eede8e5
 
 # game/scripts/story/talking/talk_kimochi.rpy:379
 translate chinese_simplified kimochi_password_47b254dd:
@@ -1424,7 +1424,7 @@ translate chinese_simplified kimochi_password_47b254dd:
 translate chinese_simplified kimochi_password_2be73acf:
 
     # kimochi "[player.n]..." id kimochi_password_2be73acf
-    kimochi "[player.n]。。。" id kimochi_password_2be73acf
+    kimochi "[player.n]……" id kimochi_password_2be73acf
 
 # game/scripts/story/talking/talk_kimochi.rpy:394
 translate chinese_simplified kimochi_password_47e9b972:
@@ -1448,7 +1448,7 @@ translate chinese_simplified kimochi_password_78ade444:
 translate chinese_simplified kimochi_password_f495d4e2:
 
     # kimochi "Bref ...{w}Qu'est ce que je peux faire pour toi?" id kimochi_password_f495d4e2
-    kimochi "不论如何。。。{w}有什么我能帮上忙的？" id kimochi_password_f495d4e2
+    kimochi "不论如何……{w}有什么我能帮上忙的？" id kimochi_password_f495d4e2
 
 # game/scripts/story/talking/talk_kimochi.rpy:398
 translate chinese_simplified kimochi_password_10ffc083:
@@ -1496,7 +1496,7 @@ translate chinese_simplified kimochi_password_ccedf48e:
 translate chinese_simplified kimochi_password_742b56f0:
 
     # player upset "Il a été sonné sur le coup mais a présent..." id kimochi_password_742b56f0
-    player upset "他当场就昏过去了，但现在。。。" id kimochi_password_742b56f0
+    player upset "他当场就昏过去了，但现在……" id kimochi_password_742b56f0
 
 # game/scripts/story/talking/talk_kimochi.rpy:406
 translate chinese_simplified kimochi_password_0ecfda81:
@@ -1538,13 +1538,13 @@ translate chinese_simplified kimochi_password_dc3d8d90:
 translate chinese_simplified kimochi_password_636a1b17:
 
     # kimochi "Non... Il a seulement le dessus sur eux car il sait vraiment se battre." id kimochi_password_636a1b17
-    kimochi "不。。。他只是因为比较能打才能骑在他们头上。" id kimochi_password_636a1b17
+    kimochi "不……他只是因为比较能打才能骑在他们头上。" id kimochi_password_636a1b17
 
 # game/scripts/story/talking/talk_kimochi.rpy:413
 translate chinese_simplified kimochi_password_3888c97b:
 
     # player furious "Je sais... C'est enfoiré me bloque l'accès au dojo, impossible de m'y inscrire." id kimochi_password_3888c97b
-    player furious "我知道。。。那混蛋不让我进道场，现在我不可能进得去。" id kimochi_password_3888c97b
+    player furious "我知道……那混蛋不让我进道场，现在我不可能进得去。" id kimochi_password_3888c97b
 
 # game/scripts/story/talking/talk_kimochi.rpy:414
 translate chinese_simplified kimochi_password_05c5336d:
@@ -1604,13 +1604,13 @@ translate chinese_simplified kimochi_password_717e71dd:
 translate chinese_simplified kimochi_password_c2cffe85:
 
     # player upset "..." id kimochi_password_c2cffe85
-    player upset "。。。" id kimochi_password_c2cffe85
+    player upset "……" id kimochi_password_c2cffe85
 
 # game/scripts/story/talking/talk_kimochi.rpy:424
 translate chinese_simplified kimochi_password_9cdc33db:
 
     # kimochi "[player.n]... Ne fais pas cette tête, c'est une expression, personne n'est assez fou pour manger des toilettes." id kimochi_password_9cdc33db
-    kimochi "[player.n]。。。板着个脸干什么。就是个比喻，没人会发病到去厕所里吃饭的。" id kimochi_password_9cdc33db
+    kimochi "[player.n]……板着个脸干什么。就是个比喻，没人会发病到去厕所里吃饭的。" id kimochi_password_9cdc33db
 
 # game/scripts/story/talking/talk_kimochi.rpy:425
 translate chinese_simplified kimochi_password_bee10adb:
@@ -1634,7 +1634,7 @@ translate chinese_simplified kimochi_password_24e8a49b:
 translate chinese_simplified kimochi_password_516a04be:
 
     # player "Rien... Je passais dans le coin comme ça, je voulais voir comment tu allais." id kimochi_password_516a04be
-    player "没什么。。。我就碰巧路过，想看看你在干什么。" id kimochi_password_516a04be
+    player "没什么……我就碰巧路过，想看看你在干什么。" id kimochi_password_516a04be
 
 # game/scripts/story/talking/talk_kimochi.rpy:441
 translate chinese_simplified kimochi_password_dbc76850:
@@ -1658,19 +1658,19 @@ translate chinese_simplified kimochi_password_d95d3f72:
 translate chinese_simplified kimochi_password_85eec27b:
 
     # player "...Daccord." id kimochi_password_85eec27b
-    player "。。。行吧。" id kimochi_password_85eec27b
+    player "……行吧。" id kimochi_password_85eec27b
 
 # game/scripts/story/talking/talk_kimochi.rpy:445
 translate chinese_simplified kimochi_password_1c7fe166:
 
     # player "Est ce que dernierement tu aurais vu quelque chose de... suspect ou d'intriguant ces derniers jours?" id kimochi_password_1c7fe166
-    player "你最近几天。。。有没有注意到什么可疑的或者有趣的事？" id kimochi_password_1c7fe166
+    player "你最近几天……有没有注意到什么可疑的或者有趣的事？" id kimochi_password_1c7fe166
 
 # game/scripts/story/talking/talk_kimochi.rpy:446
 translate chinese_simplified kimochi_password_42570a08:
 
     # kimochi frustration "mhhh il va falloir que tu précise le fond de ta pensée." id kimochi_password_42570a08
-    kimochi frustration "Emmmm。。。你得说清楚你到底在想什么。" id kimochi_password_42570a08
+    kimochi frustration "Emmmm……你得说清楚你到底在想什么。" id kimochi_password_42570a08
 
 # game/scripts/story/talking/talk_kimochi.rpy:447
 translate chinese_simplified kimochi_password_5b7eb67b:
@@ -1694,7 +1694,7 @@ translate chinese_simplified kimochi_password_c328f61a:
 translate chinese_simplified kimochi_password_06912f2f:
 
     # player "Les thugs aussi mais je crois qu'ils se sont fait..." id kimochi_password_06912f2f
-    player "那群街溜子也是，但我觉得他们被。。。" id kimochi_password_06912f2f
+    player "那群街溜子也是，但我觉得他们被……" id kimochi_password_06912f2f
 
 # game/scripts/story/talking/talk_kimochi.rpy:451
 translate chinese_simplified kimochi_password_1380d348:
@@ -1802,7 +1802,7 @@ translate chinese_simplified kimochi_password_6efc2021:
 translate chinese_simplified kimochi_password_4e7fec6c:
 
     # player "Donc si je résume tout ça..." id kimochi_password_4e7fec6c
-    player "所以稍微总结一下。。。" id kimochi_password_4e7fec6c
+    player "所以稍微总结一下……" id kimochi_password_4e7fec6c
 
 # game/scripts/story/talking/talk_kimochi.rpy:469
 translate chinese_simplified kimochi_password_affa43e6:
@@ -1820,13 +1820,13 @@ translate chinese_simplified kimochi_password_9b320ce0:
 translate chinese_simplified kimochi_password_046c780b:
 
     # player surprised "Oh j'oubliais... et [ubs.n]." id kimochi_password_046c780b
-    player surprised "噢，我都快忘了。。。[ubs.n]呢？" id kimochi_password_046c780b
+    player surprised "噢，我都快忘了……[ubs.n]呢？" id kimochi_password_046c780b
 
 # game/scripts/story/talking/talk_kimochi.rpy:472
 translate chinese_simplified kimochi_password_97c98d3c:
 
     # kimochi happy "Haha... Lui il est en train de depenser toutes ses économies au Tenshi club." id kimochi_password_97c98d3c
-    kimochi happy "哈哈。。。他把他全部的储蓄都花在天师会所里了。" id kimochi_password_97c98d3c
+    kimochi happy "哈哈……他把他全部的储蓄都花在天师会所里了。" id kimochi_password_97c98d3c
 
 # game/scripts/story/talking/talk_kimochi.rpy:473
 translate chinese_simplified kimochi_password_fc4882d5:
@@ -1850,7 +1850,7 @@ translate chinese_simplified kimochi_password_c07ea1bb:
 translate chinese_simplified kimochi_password_f25b49db:
 
     # player "Je repasserai un de ces jours et..." id kimochi_password_f25b49db
-    player "我后面还会回来的，然后。。。" id kimochi_password_f25b49db
+    player "我后面还会回来的，然后……" id kimochi_password_f25b49db
 
 # game/scripts/story/talking/talk_kimochi.rpy:477
 translate chinese_simplified kimochi_password_6d2dcf4c:
@@ -1862,7 +1862,7 @@ translate chinese_simplified kimochi_password_6d2dcf4c:
 translate chinese_simplified kimochi_password_89efc79b:
 
     # player surprised "Euh... Et notre amitié?" id kimochi_password_89efc79b
-    player surprised "额。。。咱俩之间的友谊去哪了？" id kimochi_password_89efc79b
+    player surprised "额……咱俩之间的友谊去哪了？" id kimochi_password_89efc79b
 
 # game/scripts/story/talking/talk_kimochi.rpy:479
 translate chinese_simplified kimochi_password_677f3fab:
@@ -1874,7 +1874,7 @@ translate chinese_simplified kimochi_password_677f3fab:
 translate chinese_simplified kimochi_password_d4486940:
 
     # player sad "...Okay, que veux tu que je fasse?" id kimochi_password_d4486940
-    player sad "。。。好吧，你想让我干什么？" id kimochi_password_d4486940
+    player sad "……好吧，你想让我干什么？" id kimochi_password_d4486940
 
 # game/scripts/story/talking/talk_kimochi.rpy:481
 translate chinese_simplified kimochi_password_1b6b2e48:
@@ -1922,7 +1922,7 @@ translate chinese_simplified kimochi_password_9e273496:
 translate chinese_simplified kimochi_password_e12af49d:
 
     # kimochi think "Shhhht pas de questions, contente toi de lui donner c'est tout!" id kimochi_password_e12af49d
-    kimochi think "嘘。。。！别问。给他就完了。" id kimochi_password_e12af49d
+    kimochi think "嘘……！别问。给他就完了。" id kimochi_password_e12af49d
 
 # game/scripts/story/talking/talk_kimochi.rpy:489
 translate chinese_simplified kimochi_password_f912de53:

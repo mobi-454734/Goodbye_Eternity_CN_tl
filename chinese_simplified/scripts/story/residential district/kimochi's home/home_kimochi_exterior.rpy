@@ -362,7 +362,7 @@ translate chinese_simplified home_kimochi_exterior_df8d7c0a:
 translate chinese_simplified home_kimochi_exterior_03775ec8_1:
 
     # player "..." id home_kimochi_exterior_03775ec8_1
-    player "。。。" id home_kimochi_exterior_03775ec8_1
+    player "……" id home_kimochi_exterior_03775ec8_1
 
 # game/scripts/story/residential district/kimochi's home/home_kimochi_exterior.rpy:153
 translate chinese_simplified home_kimochi_exterior_a6ecb8b1:

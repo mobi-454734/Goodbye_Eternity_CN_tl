@@ -4,7 +4,7 @@
 translate chinese_simplified home_natsume_exterior_7eab8102:
 
     # player "Attend c'est le quartier abandonné..." id home_natsume_exterior_7eab8102
-    player "等等，这里是废弃城区。。。" id home_natsume_exterior_7eab8102
+    player "等等，这里是废弃城区……" id home_natsume_exterior_7eab8102
 
 # game/scripts/story/residential district/natsume's home/home_natsume_exterior.rpy:38
 translate chinese_simplified home_natsume_exterior_ba442f46:
@@ -28,7 +28,7 @@ translate chinese_simplified home_natsume_exterior_7c517bb8:
 translate chinese_simplified home_natsume_exterior_b5044fd2:
 
     # player sad "Je m'abstiendrais de poser des questions mais quand même..." id home_natsume_exterior_b5044fd2
-    player sad "好吧我不问，但还是。。。" id home_natsume_exterior_b5044fd2
+    player sad "好吧我不问，但还是……" id home_natsume_exterior_b5044fd2
 
 # game/scripts/story/residential district/natsume's home/home_natsume_exterior.rpy:42
 translate chinese_simplified home_natsume_exterior_b557bbfb:
@@ -76,7 +76,7 @@ translate chinese_simplified home_natsume_exterior_b8a1e465:
 translate chinese_simplified home_natsume_exterior_354149d3:
 
     # player "Attend... Tu veux que je porte... son costume?" id home_natsume_exterior_354149d3
-    player "等等，你想让我穿。。。他的西装？" id home_natsume_exterior_354149d3
+    player "等等，你想让我穿……他的西装？" id home_natsume_exterior_354149d3
 
 # game/scripts/story/residential district/natsume's home/home_natsume_exterior.rpy:61
 translate chinese_simplified home_natsume_exterior_d114cc35:
@@ -106,7 +106,7 @@ translate chinese_simplified home_natsume_exterior_a63b13a7:
 translate chinese_simplified home_natsume_exterior_70edd1c0:
 
     # player happy "...Merci [natsume.n]." id home_natsume_exterior_70edd1c0
-    player happy "谢谢你。。。[natsume.n]。" id home_natsume_exterior_70edd1c0
+    player happy "谢谢你……[natsume.n]。" id home_natsume_exterior_70edd1c0
 
 # game/scripts/story/residential district/natsume's home/home_natsume_exterior.rpy:66
 translate chinese_simplified home_natsume_exterior_dc07c0e1:
@@ -130,7 +130,7 @@ translate chinese_simplified home_natsume_exterior_608419eb:
 translate chinese_simplified home_natsume_exterior_413c4eb4:
 
     # natsume shame "...de rien." id home_natsume_exterior_413c4eb4
-    natsume shame "。。。不客气。" id home_natsume_exterior_413c4eb4
+    natsume shame "……不客气。" id home_natsume_exterior_413c4eb4
 
 translate chinese_simplified strings:
 

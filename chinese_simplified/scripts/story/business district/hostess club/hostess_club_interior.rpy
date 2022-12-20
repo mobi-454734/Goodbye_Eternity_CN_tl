@@ -46,7 +46,7 @@ translate chinese_simplified hostess_club_interior_d0464d1e:
 translate chinese_simplified hostess_club_interior_d013e49b:
 
     # player "...C'est vrai." id hostess_club_interior_d013e49b
-    player "好吧。。。" id hostess_club_interior_d013e49b
+    player "好吧……" id hostess_club_interior_d013e49b
 
 # game/scripts/story/business district/hostess club/hostess_club_interior.rpy:34
 translate chinese_simplified hostess_club_interior_44545f7a:
@@ -64,7 +64,7 @@ translate chinese_simplified hostess_club_interior_ffcb7302:
 translate chinese_simplified hostess_club_interior_2b779620:
 
     # player sad "Je... Je ne veux pas t'embeter avec ça, je dois apprendre a ne pas toujours compter sur toi a chaque fois que j'ai des ennuis." id hostess_club_interior_2b779620
-    player sad "我。。。我不想麻烦你。我得学着遇上麻烦的时候不老是依赖你。" id hostess_club_interior_2b779620
+    player sad "我……我不想麻烦你。我得学着遇上麻烦的时候不老是依赖你。" id hostess_club_interior_2b779620
 
 # game/scripts/story/business district/hostess club/hostess_club_interior.rpy:37
 translate chinese_simplified hostess_club_interior_b6d6c439:
@@ -88,13 +88,13 @@ translate chinese_simplified hostess_club_interior_d6fafa5a:
 translate chinese_simplified hostess_club_interior_b7629b45:
 
     # player happy "Tu es vraiment la meilleure personne que j'ai rencontré..." id hostess_club_interior_b7629b45
-    player happy "你绝对是我见过最棒的人。。。" id hostess_club_interior_b7629b45
+    player happy "你绝对是我见过最棒的人……" id hostess_club_interior_b7629b45
 
 # game/scripts/story/business district/hostess club/hostess_club_interior.rpy:41
 translate chinese_simplified hostess_club_interior_c1f275b0:
 
     # player "Il y a une personne... qui travaille ici auquel je tiens beaucoup!" id hostess_club_interior_c1f275b0
-    player "有个人。。。在这工作，我很在意她！" id hostess_club_interior_c1f275b0
+    player "有个人……在这工作，我很在意她！" id hostess_club_interior_c1f275b0
 
 # game/scripts/story/business district/hostess club/hostess_club_interior.rpy:42
 translate chinese_simplified hostess_club_interior_ca862fc3:
@@ -136,13 +136,13 @@ translate chinese_simplified hostess_club_interior_a4250fca:
 translate chinese_simplified hostess_club_interior_234d945b:
 
     # player "Il va vouloir s'approcher d'elle avec de mauvaises intentions..." id hostess_club_interior_234d945b
-    player "他会不怀好意地靠近她的。。。" id hostess_club_interior_234d945b
+    player "他会不怀好意地靠近她的……" id hostess_club_interior_234d945b
 
 # game/scripts/story/business district/hostess club/hostess_club_interior.rpy:49
 translate chinese_simplified hostess_club_interior_6527820f:
 
     # macumba "Je crois.... que j'ai déjà du avoir affaire a lui." id hostess_club_interior_6527820f
-    macumba "我认为。。。我已经搞定他了。" id hostess_club_interior_6527820f
+    macumba "我认为……我已经搞定他了。" id hostess_club_interior_6527820f
 
 # game/scripts/story/business district/hostess club/hostess_club_interior.rpy:50
 translate chinese_simplified hostess_club_interior_6b238c4f:
@@ -160,7 +160,7 @@ translate chinese_simplified hostess_club_interior_d0d51087:
 translate chinese_simplified hostess_club_interior_330f74fb:
 
     # player happy "Tu m'enleves un poid des épaules, tu n'imagine même pas..." id hostess_club_interior_330f74fb
-    player happy "你让我心中悬着的石头一下就落地了，你都无法想象你帮了我多少。。。" id hostess_club_interior_330f74fb
+    player happy "你让我心中悬着的石头一下就落地了，你都无法想象你帮了我多少……" id hostess_club_interior_330f74fb
 
 # game/scripts/story/business district/hostess club/hostess_club_interior.rpy:53
 translate chinese_simplified hostess_club_interior_0e7ca8fc:
@@ -184,7 +184,7 @@ translate chinese_simplified hostess_club_interior_a74ee73a:
 translate chinese_simplified hostess_club_interior_ade985dd:
 
     # player happy "Alors je me suis probablement inquiété pour rien." id hostess_club_interior_ade985dd
-    player happy "那我可能是在瞎操心。。。" id hostess_club_interior_ade985dd
+    player happy "那我可能是在瞎操心……" id hostess_club_interior_ade985dd
 
 # game/scripts/story/business district/hostess club/hostess_club_interior.rpy:57
 translate chinese_simplified hostess_club_interior_89f2437c:

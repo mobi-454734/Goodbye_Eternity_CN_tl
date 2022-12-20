@@ -47,7 +47,7 @@ translate chinese_simplified sexe_asami_l_40d64a8e:
 
     # centered "{color=#ea8685}{b}[asami_name]{/b}{/color} s'allonge l'aire ravie sur le dos et semble-vous attendre." id sexe_asami_l_40d64a8e
     centered "{color=#ea8685}{b}麻美{/b}{/color} 面带着妩媚笑容躺了下来，她双眼中满是渴望，仿佛把“干我”这两个大字写在脸上给你看一般。" id sexe_asami_l_40d64a8e
-他
+
 # game/scripts/story/events/asami/sleeping_with_asami.rpy:29
 translate chinese_simplified sexe_asami_l_4a6ae3d0:
 

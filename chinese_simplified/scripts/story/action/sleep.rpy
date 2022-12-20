@@ -50,7 +50,7 @@ translate chinese_simplified strings:
 
     # game/scripts/story/action/sleep.rpy:12
     old "Certaines quêtes doivent être accomplies avant la fin de journée."
-    new "有些任务必须在一天结束前完成。"
+    new "还有任务必须在今天结束前完成。"
 
     # game/scripts/story/action/sleep.rpy:14
     old "Dormir avec [asami.n]"

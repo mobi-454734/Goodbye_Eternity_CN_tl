@@ -4,25 +4,25 @@
 translate chinese_simplified hostess_club_exterior_b8325a1b:
 
     # player "Nous y voilà, ça va aller?" id hostess_club_exterior_b8325a1b
-    player "我们到了！你会没事的吧？" id hostess_club_exterior_b8325a1b
+    player "我们到了！你一个人没问题吗？" id hostess_club_exterior_b8325a1b
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:41
 translate chinese_simplified hostess_club_exterior_ca157859:
 
     # player "Tu veux que je rentre avec toi?" id hostess_club_exterior_ca157859
-    player "你想让我跟着吗？" id hostess_club_exterior_ca157859
+    player "要不要让我跟你一起去？" id hostess_club_exterior_ca157859
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:42
 translate chinese_simplified hostess_club_exterior_a0138c5d:
 
     # yasuka "C'est gentil mon cheri mais j'ai peur qu'habillé comme ça tu ne puisses même pas y mettre un pied." id hostess_club_exterior_a0138c5d
-    yasuka "你真好，亲爱的。但恐怕你穿成这样连大门都不让进。" id hostess_club_exterior_a0138c5d
+    yasuka "你真好，亲爱的。但你穿成这样恐怕连大门都不让进。" id hostess_club_exterior_a0138c5d
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:43
 translate chinese_simplified hostess_club_exterior_870369f0:
 
     # player "Oh..." id hostess_club_exterior_870369f0
-    player "哦……" id hostess_club_exterior_870369f0
+    player "哦..." id hostess_club_exterior_870369f0
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:44
 translate chinese_simplified hostess_club_exterior_c24f963e:
@@ -34,7 +34,7 @@ translate chinese_simplified hostess_club_exterior_c24f963e:
 translate chinese_simplified hostess_club_exterior_ad0389a4:
 
     # yasuka "Allez... J'y vais, on se revois demain matin!" id hostess_club_exterior_ad0389a4
-    yasuka "好吧……已经到点了。我们明天早晨见！" id hostess_club_exterior_ad0389a4
+    yasuka "好吧...到时间了。我们明早见！" id hostess_club_exterior_ad0389a4
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:46
 translate chinese_simplified hostess_club_exterior_4b036826:
@@ -46,7 +46,7 @@ translate chinese_simplified hostess_club_exterior_4b036826:
 translate chinese_simplified hostess_club_exterior_58a1cb64:
 
     # x "Je ne sais pas pourquoi j'ai un mauvais préssentiment." id hostess_club_exterior_58a1cb64
-    x "不知道为什么，但我有种不好的预感。" id hostess_club_exterior_58a1cb64
+    x "不知道为什么，我有种不好的预感。" id hostess_club_exterior_58a1cb64
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:53
 translate chinese_simplified hostess_club_exterior_8d6e6839:
@@ -58,31 +58,31 @@ translate chinese_simplified hostess_club_exterior_8d6e6839:
 translate chinese_simplified hostess_club_exterior_ef637f9f:
 
     # x "Qu'est ce qui pourrait arriver au pire?" id hostess_club_exterior_ef637f9f
-    x "最坏的情况会是怎样的呢？" id hostess_club_exterior_ef637f9f
+    x "最坏的情况会发生什么呢？" id hostess_club_exterior_ef637f9f
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:58
 translate chinese_simplified hostess_club_exterior_1bd2b5c4:
 
     # inconnus "Tiens tiens tiens... Mais qui voilà?" id hostess_club_exterior_1bd2b5c4
-    inconnus "瞧瞧，瞧瞧，瞧瞧……谁搁那儿呢？" id hostess_club_exterior_1bd2b5c4
+    inconnus "瞧瞧，瞧瞧，瞧瞧...谁搁那儿呢？" id hostess_club_exterior_1bd2b5c4
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:64
 translate chinese_simplified hostess_club_exterior_8e9163a2:
 
     # player "Put-" id hostess_club_exterior_8e9163a2
-    player "操……" id hostess_club_exterior_8e9163a2
+    player "操..." id hostess_club_exterior_8e9163a2
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:65
 translate chinese_simplified hostess_club_exterior_3e9a80a9:
 
     # takeo "Putain ouai, ça me rend dingue!" id hostess_club_exterior_3e9a80a9
-    takeo "太他妈是了，都快把我逼疯了！" id hostess_club_exterior_3e9a80a9
+    takeo "他奶奶的，我快被你整疯了！" id hostess_club_exterior_3e9a80a9
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:66
 translate chinese_simplified hostess_club_exterior_97dda00b:
 
     # takeo "Pourquoi depuis quelque temps ya toujours des femmes trop bonnes avec toi?" id hostess_club_exterior_97dda00b
-    takeo "你最近怎么老是和抽烟的辣妹呆在一块儿？" id hostess_club_exterior_97dda00b
+    takeo "你最近怎么老是和色情辣妹呆在一块儿？" id hostess_club_exterior_97dda00b
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:67
 translate chinese_simplified hostess_club_exterior_1942a388:
@@ -100,7 +100,7 @@ translate chinese_simplified hostess_club_exterior_1d6a7817:
 translate chinese_simplified hostess_club_exterior_9d8dcb6b:
 
     # nobu "Nous livrer à ton pote c'était osé." id hostess_club_exterior_9d8dcb6b
-    nobu "你还真敢把我们交给你那朋友。" id hostess_club_exterior_9d8dcb6b
+    nobu "你还真敢让你那朋友收拾我们。" id hostess_club_exterior_9d8dcb6b
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:72
 translate chinese_simplified hostess_club_exterior_b72ff94b:
@@ -118,7 +118,7 @@ translate chinese_simplified hostess_club_exterior_9c4a35e7:
 translate chinese_simplified hostess_club_exterior_c0521c2d:
 
     # takeo "Il me semble que ça fait trop longtemps qu'il s'est pas fait racketter." id hostess_club_exterior_c0521c2d
-    takeo "看起来他已经很久没被勒索了。" id hostess_club_exterior_c0521c2d
+    takeo "看起来他已经很久没交过保护费了。" id hostess_club_exterior_c0521c2d
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:75
 translate chinese_simplified hostess_club_exterior_54ae4eb5:
@@ -130,7 +130,7 @@ translate chinese_simplified hostess_club_exterior_54ae4eb5:
 translate chinese_simplified hostess_club_exterior_30e3df09:
 
     # kenji "Attend quoi?" id hostess_club_exterior_30e3df09
-    kenji "等会儿，啥？" id hostess_club_exterior_30e3df09
+    kenji "等会儿，你说啥？" id hostess_club_exterior_30e3df09
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:77
 translate chinese_simplified hostess_club_exterior_fe28853d:
@@ -154,13 +154,13 @@ translate chinese_simplified hostess_club_exterior_d6c7a327:
 translate chinese_simplified hostess_club_exterior_4e911add:
 
     # takeo "Elle bosse comme hotesse a présent?" id hostess_club_exterior_4e911add
-    takeo "她现在是个酒吧小姐了？" id hostess_club_exterior_4e911add
+    takeo "她现在去当酒吧小姐了？" id hostess_club_exterior_4e911add
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:81
 translate chinese_simplified hostess_club_exterior_9cdfd163:
 
     # nobu "Elle y est entrée." id hostess_club_exterior_9cdfd163
-    nobu "她才走进去。" id hostess_club_exterior_9cdfd163
+    nobu "她刚进去了。" id hostess_club_exterior_9cdfd163
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:82
 translate chinese_simplified hostess_club_exterior_68679586:
@@ -190,19 +190,19 @@ translate chinese_simplified hostess_club_exterior_53beb2ef:
 translate chinese_simplified hostess_club_exterior_edb89c2f:
 
     # akira "Cet espece de petite merde séchée à jouer avec des forces qu'elle aurait du éviter." id hostess_club_exterior_edb89c2f
-    akira "你个小王八犊子，你在掺乎本该不属于你的事。" id hostess_club_exterior_edb89c2f
+    akira "你个小王八犊子，故意来找本该躲得远远的茬儿是吧。" id hostess_club_exterior_edb89c2f
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:93
 translate chinese_simplified hostess_club_exterior_af5f7b44:
 
     # akira "Je vais te rendre ça au centuple!" id hostess_club_exterior_af5f7b44
-    akira "我得让你付出百倍的代价！" id hostess_club_exterior_af5f7b44
+    akira "我要让你付出百倍的代价！" id hostess_club_exterior_af5f7b44
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:94
 translate chinese_simplified hostess_club_exterior_cf0a24f8:
 
     # akira "Tu sais ce qui va se passer maintenant?" id hostess_club_exterior_cf0a24f8
-    akira "你知道接下来会怎样吗？" id hostess_club_exterior_cf0a24f8
+    akira "你知道接下来会发生什么吗？" id hostess_club_exterior_cf0a24f8
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:95
 translate chinese_simplified hostess_club_exterior_3aa07fa3:
@@ -214,7 +214,7 @@ translate chinese_simplified hostess_club_exterior_3aa07fa3:
 translate chinese_simplified hostess_club_exterior_95e6fd52:
 
     # akira "Et je vais commencer par elle!" id hostess_club_exterior_95e6fd52
-    akira "从她开始！" id hostess_club_exterior_95e6fd52
+    akira "就从她开始！" id hostess_club_exterior_95e6fd52
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:104
 translate chinese_simplified hostess_club_exterior_9d49b8be:
@@ -226,13 +226,13 @@ translate chinese_simplified hostess_club_exterior_9d49b8be:
 translate chinese_simplified hostess_club_exterior_78d617a2:
 
     # x "[akira.n] c'est un cran au dessus." id hostess_club_exterior_78d617a2
-    x "[akira.n]比他们还难搞。" id hostess_club_exterior_78d617a2
+    x "[akira.n]跟他们完全不是一个级别的麻烦。" id hostess_club_exterior_78d617a2
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:113
 translate chinese_simplified hostess_club_exterior_e31ccb95:
 
     # akira "Les 3 guignols, vous allez vous mettre devant le club et empecher cette baltringue d'entrer par tous les moyens." id hostess_club_exterior_e31ccb95
-    akira "你们几个小丑，给我待在门前，不管怎么样别让这个懦夫进去。" id hostess_club_exterior_e31ccb95
+    akira "你们几个小杂碎，给我守在门前，无论如何都别让这个懦夫进去。" id hostess_club_exterior_e31ccb95
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:114
 translate chinese_simplified hostess_club_exterior_98843619:
@@ -262,13 +262,13 @@ translate chinese_simplified hostess_club_exterior_a9d8b64d:
 translate chinese_simplified hostess_club_exterior_51fa638b:
 
     # nobu angry "Putain!" id hostess_club_exterior_51fa638b
-    nobu angry "操！！" id hostess_club_exterior_51fa638b
+    nobu angry "操！" id hostess_club_exterior_51fa638b
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:124
 translate chinese_simplified hostess_club_exterior_8bc4af6c:
 
     # akira "Je te garantit que tu vas regretter amerement le jour ou t'es venu au monde." id hostess_club_exterior_8bc4af6c
-    akira "我保证，你会后悔你的出生的。" id hostess_club_exterior_8bc4af6c
+    akira "我保证，你会后悔自己出生在这个世界。" id hostess_club_exterior_8bc4af6c
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:125
 translate chinese_simplified hostess_club_exterior_28172edd:
@@ -280,19 +280,19 @@ translate chinese_simplified hostess_club_exterior_28172edd:
 translate chinese_simplified hostess_club_exterior_966b6153:
 
     # akira "Ouvre une seule fois ta bouche et je t'éclate la machoire sur le trottoir." id hostess_club_exterior_966b6153
-    akira "你再张嘴我就把你下巴砸到人行道上。" id hostess_club_exterior_966b6153
+    akira "你再张嘴我就把你的下巴砸到人行道上。" id hostess_club_exterior_966b6153
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:127
 translate chinese_simplified hostess_club_exterior_ccd808f9:
 
     # akira "Tu seras encore la à ramasser tes dents demain matin crois moi!" id hostess_club_exterior_ccd808f9
-    akira "相信我，你到明天早晨还会在这找牙。" id hostess_club_exterior_ccd808f9
+    akira "相信我，你到明天早晨还会在这找牙！" id hostess_club_exterior_ccd808f9
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:128
 translate chinese_simplified hostess_club_exterior_5c55f850:
 
     # akira "Maintenant si tu permet... J'ai une milf qui m'attend!" id hostess_club_exterior_5c55f850
-    akira "现在如果你不介意的话，里面还有个少妇在等我！" id hostess_club_exterior_5c55f850
+    akira "好了，没别的事的话...里面还有个少妇在等我！" id hostess_club_exterior_5c55f850
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:134
 translate chinese_simplified hostess_club_exterior_6bfe45d0:
@@ -304,25 +304,25 @@ translate chinese_simplified hostess_club_exterior_6bfe45d0:
 translate chinese_simplified hostess_club_exterior_0d65c23f:
 
     # x "Mais quand est ce que je vais arreter d'être aussi pitoyable?" id hostess_club_exterior_0d65c23f
-    x "我什么时候才能不这么可悲？" id hostess_club_exterior_0d65c23f
+    x "我什么时候才能不这么窝囊？" id hostess_club_exterior_0d65c23f
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:136
 translate chinese_simplified hostess_club_exterior_cf74b449:
 
     # x "Je dois faire quelque chose." id hostess_club_exterior_cf74b449
-    x "我得做点什么……" id hostess_club_exterior_cf74b449
+    x "我得做点什么..." id hostess_club_exterior_cf74b449
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:137
 translate chinese_simplified hostess_club_exterior_972b80b7:
 
     # x "J'ai pas le choix je dois passer en force!" id hostess_club_exterior_972b80b7
-    x "我没得选，我必须挤进去！" id hostess_club_exterior_972b80b7
+    x "没得选了，我必须冲进去！" id hostess_club_exterior_972b80b7
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:141
 translate chinese_simplified hostess_club_exterior_5d8309a2:
 
     # player "Avec un peu de chance..." id hostess_club_exterior_5d8309a2
-    player "如果运气好的话……" id hostess_club_exterior_5d8309a2
+    player "赐我一些好运吧..." id hostess_club_exterior_5d8309a2
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:153
 translate chinese_simplified hostess_club_exterior_fcd1a300:
@@ -334,7 +334,7 @@ translate chinese_simplified hostess_club_exterior_fcd1a300:
 translate chinese_simplified hostess_club_exterior_5b661e99:
 
     # akira "C'est quoi ces prix de fou?" id hostess_club_exterior_5b661e99
-    akira "价格全都贵得离谱！" id hostess_club_exterior_5b661e99
+    akira "这价格也太他妈贵了！" id hostess_club_exterior_5b661e99
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:155
 translate chinese_simplified hostess_club_exterior_8b95703a:
@@ -346,13 +346,13 @@ translate chinese_simplified hostess_club_exterior_8b95703a:
 translate chinese_simplified hostess_club_exterior_7f055448:
 
     # akira arrogant "Merde alors il t'es arrivé quoi toi?!" id hostess_club_exterior_7f055448
-    akira arrogant "见鬼，你们这发生什么了！？" id hostess_club_exterior_7f055448
+    akira arrogant "见鬼，你们这又发生什么了！？" id hostess_club_exterior_7f055448
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:162
 translate chinese_simplified hostess_club_exterior_49d396a1:
 
     # kenji bad "Il s'est pris une branlé par l'autre déchet!" id hostess_club_exterior_49d396a1
-    kenji bad "他被另一个废物打了个落花流水。" id hostess_club_exterior_49d396a1
+    kenji bad "他被那个废物打爆了。" id hostess_club_exterior_49d396a1
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:163
 translate chinese_simplified hostess_club_exterior_6ec8faca:
@@ -370,7 +370,7 @@ translate chinese_simplified hostess_club_exterior_4a781f65:
 translate chinese_simplified hostess_club_exterior_a5d48168:
 
     # nobu angry "Il... Il m'a eu par surprise." id hostess_club_exterior_a5d48168
-    nobu angry "他……他偷袭我。" id hostess_club_exterior_a5d48168
+    nobu angry "他...他偷袭我。" id hostess_club_exterior_a5d48168
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:166
 translate chinese_simplified hostess_club_exterior_b8873561:
@@ -388,13 +388,13 @@ translate chinese_simplified hostess_club_exterior_b18023f0:
 translate chinese_simplified hostess_club_exterior_42a228c3:
 
     # kenji disgusted "Il a reussi a se tirer..." id hostess_club_exterior_42a228c3
-    kenji disgusted "他想办法溜走了……" id hostess_club_exterior_42a228c3
+    kenji disgusted "他趁机溜了..." id hostess_club_exterior_42a228c3
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:169
 translate chinese_simplified hostess_club_exterior_a6aa04ea:
 
     # akira "..." id hostess_club_exterior_a6aa04ea
-    akira "……" id hostess_club_exterior_a6aa04ea
+    akira "..." id hostess_club_exterior_a6aa04ea
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:170
 translate chinese_simplified hostess_club_exterior_7c726f97:
@@ -412,25 +412,25 @@ translate chinese_simplified hostess_club_exterior_01f34508:
 translate chinese_simplified hostess_club_exterior_d63d6b65:
 
     # takeo "..." id hostess_club_exterior_d63d6b65
-    takeo "……" id hostess_club_exterior_d63d6b65
+    takeo "..." id hostess_club_exterior_d63d6b65
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:173
 translate chinese_simplified hostess_club_exterior_261ec1f2:
 
     # akira "MAIS BOUGEZ VOUS LE CUL BORDEL!" id hostess_club_exterior_261ec1f2
-    akira "妈的，挪屁股！" id hostess_club_exterior_261ec1f2
+    akira "操你妈的愣着等死？赶紧给我去！" id hostess_club_exterior_261ec1f2
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:179
 translate chinese_simplified hostess_club_exterior_1a591418:
 
     # akira "Bon... Il me faut de la tunes!" id hostess_club_exterior_1a591418
-    akira "行吧……我需要钱。" id hostess_club_exterior_1a591418
+    akira "好吧...我还需要钱！" id hostess_club_exterior_1a591418
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:180
 translate chinese_simplified hostess_club_exterior_0b186180:
 
     # akira "Avec un million je devrais avoir un peu de marge." id hostess_club_exterior_0b186180
-    akira "一百万应该足够了。" id hostess_club_exterior_0b186180
+    akira "一百万应该就够了。" id hostess_club_exterior_0b186180
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:186
 translate chinese_simplified hostess_club_exterior_6007799d:
@@ -442,37 +442,37 @@ translate chinese_simplified hostess_club_exterior_6007799d:
 translate chinese_simplified hostess_club_exterior_7f688f6c:
 
     # natsume "Comme sur des roulettes!" id hostess_club_exterior_7f688f6c
-    natsume "和计划中的一样！" id hostess_club_exterior_7f688f6c
+    natsume "跟预料的一模一样！" id hostess_club_exterior_7f688f6c
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:188
 translate chinese_simplified hostess_club_exterior_6923a5eb:
 
     # player happy "Tu avais raison" id hostess_club_exterior_6923a5eb
-    player happy "你是对的。" id hostess_club_exterior_6923a5eb
+    player happy "你说得对。" id hostess_club_exterior_6923a5eb
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:189
 translate chinese_simplified hostess_club_exterior_347fcd47:
 
     # natsume smug "Donc fais moi plaisir, arrete de foncer tête baissé a chaque fois et utilise d'avantage ton cerveau!" id hostess_club_exterior_347fcd47
-    natsume smug "所以帮我个忙。不要每次都草率行事，多动动脑筋!" id hostess_club_exterior_347fcd47
+    natsume smug "所以答应我。不要每次都草率行事，多动动脑筋!" id hostess_club_exterior_347fcd47
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:190
 translate chinese_simplified hostess_club_exterior_b4141f4a:
 
     # player "Promis!" id hostess_club_exterior_b4141f4a
-    player "好我保证！" id hostess_club_exterior_b4141f4a
+    player "好，我保证！" id hostess_club_exterior_b4141f4a
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:191
 translate chinese_simplified hostess_club_exterior_1d01ced1:
 
     # natsume "Allez rentre vite avant qu'ils ne te tombent encore dessus." id hostess_club_exterior_1d01ced1
-    natsume "现在趁他们找到你之前赶紧进去。" id hostess_club_exterior_1d01ced1
+    natsume "现在抓紧机会，趁他们找到你之前赶紧进去。" id hostess_club_exterior_1d01ced1
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:192
 translate chinese_simplified hostess_club_exterior_317383c2:
 
     # player "Je te raccompagne?" id hostess_club_exterior_317383c2
-    player "你想让我送你回家吗？" id hostess_club_exterior_317383c2
+    player "要我先送你回家吗？" id hostess_club_exterior_317383c2
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:193
 translate chinese_simplified hostess_club_exterior_c0fa2f12:
@@ -484,13 +484,13 @@ translate chinese_simplified hostess_club_exterior_c0fa2f12:
 translate chinese_simplified hostess_club_exterior_076757db:
 
     # natsume "Tu rêves!" id hostess_club_exterior_076757db
-    natsume "你做梦！" id hostess_club_exterior_076757db
+    natsume "做什么白日梦呢你！" id hostess_club_exterior_076757db
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:195
 translate chinese_simplified hostess_club_exterior_df80bd23:
 
     # player sad "Boh... Comme tu voudras, j'insisterais pas avec toi." id hostess_club_exterior_df80bd23
-    player sad "噗，如你所愿。我不逼着你。" id hostess_club_exterior_df80bd23
+    player sad "呃...好吧，那我不强迫你。" id hostess_club_exterior_df80bd23
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:198
 translate chinese_simplified hostess_club_exterior_f1347489:
@@ -526,13 +526,13 @@ translate chinese_simplified hostess_club_exterior_cb699a29:
 translate chinese_simplified hostess_club_exterior_4f482865:
 
     # player "Je... Je voulais juste te prevenir." id hostess_club_exterior_4f482865
-    player "我……我得警告你。" id hostess_club_exterior_4f482865
+    player "我...我想提醒你。" id hostess_club_exterior_4f482865
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:226
 translate chinese_simplified hostess_club_exterior_4d3e8d6f:
 
     # player sad "J'ai eu des problemes avec un autre garçon dernierement et il s'est mis en tête de se chercher à se venger en passant par toi..." id hostess_club_exterior_4d3e8d6f
-    player sad "我最近和另一个男孩闹了点矛盾，他想通过你来报复……" id hostess_club_exterior_4d3e8d6f
+    player sad "我最近和另一个男孩闹了点矛盾，他想通过你来报复我……" id hostess_club_exterior_4d3e8d6f
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:227
 translate chinese_simplified hostess_club_exterior_fb8008b1:
@@ -550,13 +550,13 @@ translate chinese_simplified hostess_club_exterior_5d0e0124:
 translate chinese_simplified hostess_club_exterior_5c5d2bbc:
 
     # player "Je ne voulais pas que tu t'inquiete plus que ça... Tu as déja d'autres problemes a regler." id hostess_club_exterior_5c5d2bbc
-    player "我不想让你担心……你已经有其他问题要处理了。" id hostess_club_exterior_5c5d2bbc
+    player "我不想让你担心...你要操心的事已经够多了。" id hostess_club_exterior_5c5d2bbc
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:230
 translate chinese_simplified hostess_club_exterior_3f5d009d:
 
     # yasuka "Oh mon cheri... C'est ma faute, ce travail commence déja avoii un impact sur notre vie de famille." id hostess_club_exterior_3f5d009d
-    yasuka "噢亲爱的，这是我的错。这份工作已经开始影响我的家庭生活了。" id hostess_club_exterior_3f5d009d
+    yasuka "噢，亲爱的...都怪我。看来这份工作已经开始影响我们的家庭生活了。" id hostess_club_exterior_3f5d009d
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:231
 translate chinese_simplified hostess_club_exterior_c0a0e615:
@@ -568,13 +568,13 @@ translate chinese_simplified hostess_club_exterior_c0a0e615:
 translate chinese_simplified hostess_club_exterior_ccbbd3c9:
 
     # player "Fais juste attention a lui!" id hostess_club_exterior_ccbbd3c9
-    player "就注意一点他！" id hostess_club_exterior_ccbbd3c9
+    player "你就小心他一点！" id hostess_club_exterior_ccbbd3c9
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:233
 translate chinese_simplified hostess_club_exterior_890ecb19:
 
     # player upset "Il s'appelle [akira.n], il a environ mon age et il est terriblement arroguant." id hostess_club_exterior_890ecb19
-    player upset "他叫[akira.n]，跟我差不多大，十分的自大。" id hostess_club_exterior_890ecb19
+    player upset "他叫[akira.n]，跟我差不多大，性格特别傲慢。" id hostess_club_exterior_890ecb19
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:234
 translate chinese_simplified hostess_club_exterior_8b94d1d6:
@@ -586,55 +586,55 @@ translate chinese_simplified hostess_club_exterior_8b94d1d6:
 translate chinese_simplified hostess_club_exterior_c54a8328:
 
     # x "Merde il sort d'ou lui?!" id hostess_club_exterior_c54a8328
-    x "操了，他是打哪儿来的？" id hostess_club_exterior_c54a8328
+    x "卧槽，他是从哪儿冒出来的？" id hostess_club_exterior_c54a8328
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:247
 translate chinese_simplified hostess_club_exterior_64a22fa4:
 
     # ubs "Je ne peux t'assurer qu'aucune personne mal intentionnée ne s'approchera d'elle sans avoir affaire a moi." id hostess_club_exterior_64a22fa4
-    ubs "我可以向你保证，任何居心不良的人都不会没经过我的同意就接近她的。" id hostess_club_exterior_64a22fa4
+    ubs "我可以向你保证，只要过不了我这关，任何居心不良的人都碰不到她一根毫毛。" id hostess_club_exterior_64a22fa4
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:248
 translate chinese_simplified hostess_club_exterior_0133441a:
 
     # yasuka shocked "Oh je... Merci mais cec n'est pas la p-" id hostess_club_exterior_0133441a
-    yasuka shocked "噢，我……谢谢你，但你不需要—" id hostess_club_exterior_0133441a
+    yasuka shocked "噢，我...谢谢你，但你没必要—" id hostess_club_exterior_0133441a
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:249
 translate chinese_simplified hostess_club_exterior_b292568d:
 
     # ubs -bad "Je vous en pris j'insiste." id hostess_club_exterior_b292568d
-    ubs -bad "求您了，我坚持这样做。" id hostess_club_exterior_b292568d
+    ubs -bad "就当是我拜托你，相信我吧。" id hostess_club_exterior_b292568d
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:251
 translate chinese_simplified hostess_club_exterior_6931892c:
 
     # yasuka sad "{size=-10}Bon mon cheri, il faut vraiment que nous discutions sur ce qui se passer dernierement.{/size}" id hostess_club_exterior_6931892c
-    yasuka sad "{size=-10}亲爱的，我们真的需要谈谈最近发生的事。{/size}" id hostess_club_exterior_6931892c
+    yasuka sad "{size=-10}嘿亲爱的，我们真的需要聊聊最近发生的事。{/size}" id hostess_club_exterior_6931892c
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:252
 translate chinese_simplified hostess_club_exterior_22efad9a:
 
     # yasuka "{size=-10}Je vois bien dans tes yeux que tu sembles très inquiete pour moi mais ne t'inquiete pas.{/size}" id hostess_club_exterior_22efad9a
-    yasuka "{size=-10}从你眼睛里我看得出来你在担心我，但你不用担心。{/size}" id hostess_club_exterior_22efad9a
+    yasuka "{size=-10}从你的眼眸里我能读出来，你在担心我。但你不用担心。{/size}" id hostess_club_exterior_22efad9a
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:253
 translate chinese_simplified hostess_club_exterior_72ffa64b:
 
     # yasuka "{size=-10}Tout va bien se passer.{/size}" id hostess_club_exterior_72ffa64b
-    yasuka "{size=-10}一切都会没事的。{/size}" id hostess_club_exterior_72ffa64b
+    yasuka "{size=-10}一切都不会有事的。{/size}" id hostess_club_exterior_72ffa64b
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:254
 translate chinese_simplified hostess_club_exterior_700599e0:
 
     # player sad "{size=-10}Ne te mefie pas seulement d'[akira.n] mais de tous les hommes qui t'approchent.{/size}" id hostess_club_exterior_700599e0
-    player sad "{size=-10}注意[akira.n]，还有其他所有想靠近你的男人。.{/size}" id hostess_club_exterior_700599e0
+    player sad "{size=-10}小心[akira.n]，还有其他所有想靠近你的男人。.{/size}" id hostess_club_exterior_700599e0
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:255
 translate chinese_simplified hostess_club_exterior_d5b3c8d6:
 
     # player happy "{size=-10}Tu es magnifique et je suis certains qu'ils auront tous une idée derriere la tête en venant de voir.{/size}" id hostess_club_exterior_d5b3c8d6
-    player happy "{size=-10}你很美，我保证他们看见你的时候会对你想入非非的。{/size}" id hostess_club_exterior_d5b3c8d6
+    player happy "{size=-10}你很美，我敢肯定他们看见你的时候一定会对你想入非非的。{/size}" id hostess_club_exterior_d5b3c8d6
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:256
 translate chinese_simplified hostess_club_exterior_c4a2ad7b:
@@ -646,7 +646,7 @@ translate chinese_simplified hostess_club_exterior_c4a2ad7b:
 translate chinese_simplified hostess_club_exterior_dfa05a88:
 
     # player upset "{size=-10}Fais surtout attention a lui en particulier, je suis sur qu'il a une idée derriere la tête.{/size}" id hostess_club_exterior_dfa05a88
-    player upset "{size=-10}特别注意一下他，我敢肯定他心里打着别的算盘。{/size}" id hostess_club_exterior_dfa05a88
+    player upset "{size=-10}特别要小心他。我敢肯定他心里打着别的算盘。{/size}" id hostess_club_exterior_dfa05a88
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:258
 translate chinese_simplified hostess_club_exterior_64c766c1:
@@ -658,13 +658,13 @@ translate chinese_simplified hostess_club_exterior_64c766c1:
 translate chinese_simplified hostess_club_exterior_d5a92b85:
 
     # yasuka happy "Rassuré maintenant?" id hostess_club_exterior_d5a92b85
-    yasuka happy "这足以让你安心吗？" id hostess_club_exterior_d5a92b85
+    yasuka happy "这样可以让你安心了吗？" id hostess_club_exterior_d5a92b85
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:260
 translate chinese_simplified hostess_club_exterior_21ee345c:
 
     # player happy "Oui, fais attention a toi et bon courage!" id hostess_club_exterior_21ee345c
-    player happy "是的，足够了。小心点，祝你好运！" id hostess_club_exterior_21ee345c
+    player happy "嗯。小心点，祝你好运！" id hostess_club_exterior_21ee345c
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:261
 translate chinese_simplified hostess_club_exterior_8d7ea13e:
@@ -682,13 +682,13 @@ translate chinese_simplified hostess_club_exterior_db38d43e:
 translate chinese_simplified hostess_club_exterior_c2cffe85:
 
     # player upset "..." id hostess_club_exterior_c2cffe85
-    player upset "……" id hostess_club_exterior_c2cffe85
+    player upset "..." id hostess_club_exterior_c2cffe85
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:277
 translate chinese_simplified hostess_club_exterior_3dd642a8:
 
     # player "Putain mais c'est pas possible d'etre aussi faible." id hostess_club_exterior_3dd642a8
-    player "操，我怎么能这么弱的……" id hostess_club_exterior_3dd642a8
+    player "操，我太弱小了..." id hostess_club_exterior_3dd642a8
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:278
 translate chinese_simplified hostess_club_exterior_4bdf42eb:
@@ -706,7 +706,7 @@ translate chinese_simplified hostess_club_exterior_c95f5eb0:
 translate chinese_simplified hostess_club_exterior_1ee56291:
 
     # natsume "L'avertissement que tu leur as donné a la fin m'a donné la chair de poule." id hostess_club_exterior_1ee56291
-    natsume "你最后给他们的警告让我起了一身鸡皮疙瘩。" id hostess_club_exterior_1ee56291
+    natsume "最后你给他们的警告让我起了一身鸡皮疙瘩。" id hostess_club_exterior_1ee56291
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:283
 translate chinese_simplified hostess_club_exterior_b6bd42fb:
@@ -718,25 +718,25 @@ translate chinese_simplified hostess_club_exterior_b6bd42fb:
 translate chinese_simplified hostess_club_exterior_121eb696:
 
     # natsume "...Non!" id hostess_club_exterior_121eb696
-    natsume "……才不是！" id hostess_club_exterior_121eb696
+    natsume "...才不是！" id hostess_club_exterior_121eb696
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:285
 translate chinese_simplified hostess_club_exterior_90f2d8d6:
 
     # natsume smug "Il y a des combats qu'on ne peut pas gagner, a trois contre un tu esperais faire quoi exactement?" id hostess_club_exterior_90f2d8d6
-    natsume smug "有些架你是打不赢的。三打一，你在期待什么？" id hostess_club_exterior_90f2d8d6
+    natsume smug "有些架你是打不赢的。三打一，你在想什么呢？" id hostess_club_exterior_90f2d8d6
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:286
 translate chinese_simplified hostess_club_exterior_3f21df66:
 
     # player sad "J'en sais rien..." id hostess_club_exterior_3f21df66
-    player sad "我不知道……" id hostess_club_exterior_3f21df66
+    player sad "我不知道..." id hostess_club_exterior_3f21df66
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:287
 translate chinese_simplified hostess_club_exterior_8bf6f67a:
 
     # natsume pouting "Je t'observe parfois et je t'avoue que je ne comprend pas.." id hostess_club_exterior_8bf6f67a
-    natsume pouting "我有的时候看着，不得不承认我不太明白……" id hostess_club_exterior_8bf6f67a
+    natsume pouting "我观察你有一阵了，不得不承认我不太明白..." id hostess_club_exterior_8bf6f67a
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:288
 translate chinese_simplified hostess_club_exterior_dd997677:
@@ -748,7 +748,7 @@ translate chinese_simplified hostess_club_exterior_dd997677:
 translate chinese_simplified hostess_club_exterior_e3f70937:
 
     # natsume smug "Pourquoi tu fais autant d'effort si tu sais qu'au final ça terminera mal?" id hostess_club_exterior_e3f70937
-    natsume smug "你明知道不会有好结果，为什么还要花这么多力？" id hostess_club_exterior_e3f70937
+    natsume smug "你明知道没有好果子吃，为什么还要费这么多力？" id hostess_club_exterior_e3f70937
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:290
 translate chinese_simplified hostess_club_exterior_03cc1ebd:
@@ -760,49 +760,49 @@ translate chinese_simplified hostess_club_exterior_03cc1ebd:
 translate chinese_simplified hostess_club_exterior_2e8c3694:
 
     # player "De mon experience... La vie n'est pas une fatalité." id hostess_club_exterior_2e8c3694
-    player "我的经验告诉我，未来都是不确定的。" id hostess_club_exterior_2e8c3694
+    player "我的亲身经验告诉我，未来不是注定的。" id hostess_club_exterior_2e8c3694
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:292
 translate chinese_simplified hostess_club_exterior_84104707:
 
     # player "Si j'echoue aujourd'hui..." id hostess_club_exterior_84104707
-    player "如果我今天失败了……" id hostess_club_exterior_84104707
+    player "如果我今天失败了..." id hostess_club_exterior_84104707
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:293
 translate chinese_simplified hostess_club_exterior_8410ab74:
 
     # player "C'est simplement parce que je n'ai pas essayé assez fort hier!" id hostess_club_exterior_8410ab74
-    player "那肯定是因为我昨天不够努力！" id hostess_club_exterior_8410ab74
+    player "那只会是因为我昨天不够努力！" id hostess_club_exterior_8410ab74
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:294
 translate chinese_simplified hostess_club_exterior_78a453a6:
 
     # player "Et qu'il faudra faire mieux demain..." id hostess_club_exterior_78a453a6
-    player "这说明，我明天需要更努力……" id hostess_club_exterior_78a453a6
+    player "这意味着，我明天需要更加努力..." id hostess_club_exterior_78a453a6
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:295
 translate chinese_simplified hostess_club_exterior_12e79a17:
 
     # natsume neutral "...Tu comptes faire quoi a présent?" id hostess_club_exterior_12e79a17
-    natsume neutral "……所以，你现在要怎么办？" id hostess_club_exterior_12e79a17
+    natsume neutral "...所以，现在你要怎么办？" id hostess_club_exterior_12e79a17
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:296
 translate chinese_simplified hostess_club_exterior_6eec1a1a:
 
     # player "Est ce que j'ai le choix franchement ?" id hostess_club_exterior_6eec1a1a
-    player "我真的还有得选吗？" id hostess_club_exterior_6eec1a1a
+    player "难道我还有别的选择？" id hostess_club_exterior_6eec1a1a
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:297
 translate chinese_simplified hostess_club_exterior_af7c9274:
 
     # player "Continuer de me battre, il a des gens qui comptent sur moi." id hostess_club_exterior_af7c9274
-    player "我将继续战斗。还有人指望着我。" id hostess_club_exterior_af7c9274
+    player "我会继续抗争。还有人指望着我呢。" id hostess_club_exterior_af7c9274
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:298
 translate chinese_simplified hostess_club_exterior_7be20611:
 
     # player "Rennoncer ici ce serait un peu comme mourir une seconde fois." id hostess_club_exterior_7be20611
-    player "现在放弃跟我再死一次没有区别。" id hostess_club_exterior_7be20611
+    player "现在放弃还不如让我再死一次。" id hostess_club_exterior_7be20611
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:299
 translate chinese_simplified hostess_club_exterior_2cc2f2cd:
@@ -820,19 +820,19 @@ translate chinese_simplified hostess_club_exterior_37b6a6ac:
 translate chinese_simplified hostess_club_exterior_28a82013:
 
     # player "Et j'acheterais le costume dont j'ai besoins." id hostess_club_exterior_28a82013
-    player "任何我会买下我需要的西装。" id hostess_club_exterior_28a82013
+    player "然后买下我需要的西装。" id hostess_club_exterior_28a82013
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:302
 translate chinese_simplified hostess_club_exterior_830ec234:
 
     # natsume neutral "..." id hostess_club_exterior_830ec234
-    natsume neutral "……" id hostess_club_exterior_830ec234
+    natsume neutral "..." id hostess_club_exterior_830ec234
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:303
 translate chinese_simplified hostess_club_exterior_c9f6f358:
 
     # natsume happy "Suit moi, j'ai peut etre quelque chose pour toi!" id hostess_club_exterior_c9f6f358
-    natsume happy "跟着我，我可能有点东西要给你。" id hostess_club_exterior_c9f6f358
+    natsume happy "跟我来，我应该有点东西要给你！" id hostess_club_exterior_c9f6f358
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:304
 translate chinese_simplified hostess_club_exterior_a447ba15:
@@ -844,31 +844,31 @@ translate chinese_simplified hostess_club_exterior_a447ba15:
 translate chinese_simplified hostess_club_exterior_8f31b552:
 
     # natsume happy "Chez moi!" id hostess_club_exterior_8f31b552
-    natsume happy "我家！" id hostess_club_exterior_8f31b552
+    natsume happy "去我家！" id hostess_club_exterior_8f31b552
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:317
 translate chinese_simplified hostess_club_exterior_7d4c449e:
 
     # player "Je devrais pouvoir etre capable d'entrer sans probleme et garder un oeil sur [ubs.n] et [akira.n]." id hostess_club_exterior_7d4c449e
-    player "我应该能安全进入好留意一下[ubs.n]和[akira.n]。" id hostess_club_exterior_7d4c449e
+    player "我应该能安全地进去，监视一下[ubs.n]和[akira.n]。" id hostess_club_exterior_7d4c449e
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:318
 translate chinese_simplified hostess_club_exterior_d91219cb:
 
     # player "Il faut que je reste à l'ecart egalement, [yasuka.n] pourrait probablement se facher de me voir ici." id hostess_club_exterior_d91219cb
-    player "我得保持低调。[yasuka.n]看见了我的话可能会很生气。" id hostess_club_exterior_d91219cb
+    player "我得低调点。[yasuka.n]发现我在这的话可能会生气。" id hostess_club_exterior_d91219cb
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:330
 translate chinese_simplified hostess_club_exterior_24c256d8:
 
     # player "Bon..." id hostess_club_exterior_24c256d8
-    player "好的……" id hostess_club_exterior_24c256d8
+    player "好吧..." id hostess_club_exterior_24c256d8
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:331
 translate chinese_simplified hostess_club_exterior_9537daf0:
 
     # player "Finalement, elle sera plus en sécuritée au club surtout si [macumba.n] est là pour veiller sur elle." id hostess_club_exterior_9537daf0
-    player "说到底，她待在会所会更安全的，特别是如果有[macumba.n]在那照看她的话。" id hostess_club_exterior_9537daf0
+    player "说到底，她待在会所会更安全的，尤其是[macumba.n]在那照看她的时候。" id hostess_club_exterior_9537daf0
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:332
 translate chinese_simplified hostess_club_exterior_64be2f5e:
@@ -880,7 +880,7 @@ translate chinese_simplified hostess_club_exterior_64be2f5e:
 translate chinese_simplified hostess_club_exterior_ea424694:
 
     # player "Il ne me reste plus qu'a gerer les thugs à présent." id hostess_club_exterior_ea424694
-    player "我现在唯一要做的就是去对付那些街溜子。" id hostess_club_exterior_ea424694
+    player "现在我该做的就是去对付那些街溜子。" id hostess_club_exterior_ea424694
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:334
 translate chinese_simplified hostess_club_exterior_2e81d78e:
@@ -898,7 +898,7 @@ translate chinese_simplified hostess_club_exterior_8a556faa:
 translate chinese_simplified hostess_club_exterior_20194509:
 
     # akira "C'est qui ce connard!?" id hostess_club_exterior_20194509
-    akira "这傻逼是谁？" id hostess_club_exterior_20194509
+    akira "这傻逼是谁？！" id hostess_club_exterior_20194509
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:349
 translate chinese_simplified hostess_club_exterior_bfb66df6:
@@ -934,37 +934,37 @@ translate chinese_simplified hostess_club_exterior_82f6a575:
 translate chinese_simplified hostess_club_exterior_a83b5414:
 
     # macumba "Toucher aux hotesses est interdit!" id hostess_club_exterior_a83b5414
-    macumba "酒吧里严禁触摸女招待。" id hostess_club_exterior_a83b5414
+    macumba "酒吧里严禁触摸女招待！" id hostess_club_exterior_a83b5414
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:355
 translate chinese_simplified hostess_club_exterior_58f02991:
 
     # akira "MAIS BORDEL J'AI MEME PAS EU LE TEMPS AVANT QUE TU ME TOMBE DESSUS!" id hostess_club_exterior_58f02991
-    akira "他妈的，我还没来得及碰别人你就扑上来了!" id hostess_club_exterior_58f02991
+    akira "他妈的，我还谁都没摸到呢你就扑上来了!" id hostess_club_exterior_58f02991
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:356
 translate chinese_simplified hostess_club_exterior_9754911d:
 
     # macumba "C'est bien ce que je disais tu n'as pas la bonne attitude." id hostess_club_exterior_9754911d
-    macumba "就和我说的一样。你居心不良。" id hostess_club_exterior_9754911d
+    macumba "看，不打自招。你居心不良。" id hostess_club_exterior_9754911d
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:357
 translate chinese_simplified hostess_club_exterior_2f9f5267:
 
     # macumba "Rentre chez toi sans faire d'histoire et réfléchis à tes actes!" id hostess_club_exterior_2f9f5267
-    macumba "老老实实回家反思一下你的行为吧。" id hostess_club_exterior_2f9f5267
+    macumba "老老实实回家反思一下你的行为吧！" id hostess_club_exterior_2f9f5267
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:358
 translate chinese_simplified hostess_club_exterior_97df69f3:
 
     # akira "Pfff! Sinon quoi?" id hostess_club_exterior_97df69f3
-    akira "呼—！否则会怎样？" id hostess_club_exterior_97df69f3
+    akira "呸！我要是不呢？" id hostess_club_exterior_97df69f3
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:359
 translate chinese_simplified hostess_club_exterior_173c1e86:
 
     # macumba "Sinon quoi? Voyons voir, je n'ai pas de banc a portée de main mais..." id hostess_club_exterior_173c1e86
-    macumba "否则？我看看哈……我手边没有长椅，但是……" id hostess_club_exterior_173c1e86
+    macumba "你要是不？我看看哈...我手边没有长椅，但是..." id hostess_club_exterior_173c1e86
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:360
 translate chinese_simplified hostess_club_exterior_8c9f543e:
@@ -982,25 +982,25 @@ translate chinese_simplified hostess_club_exterior_6a780e3e:
 translate chinese_simplified hostess_club_exterior_4f577db3:
 
     # macumba happy "Je vais l'enfiler dans ton cul comme si c'était un suppositoire!" id hostess_club_exterior_4f577db3
-    macumba happy "要把它当栓剂一样塞进你屁眼里!" id hostess_club_exterior_4f577db3
+    macumba happy "我会把它像栓剂一样塞进你屁眼里!" id hostess_club_exterior_4f577db3
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:363
 translate chinese_simplified hostess_club_exterior_865339b3:
 
     # akira upset "..." id hostess_club_exterior_865339b3
-    akira upset "……" id hostess_club_exterior_865339b3
+    akira upset "..." id hostess_club_exterior_865339b3
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:364
 translate chinese_simplified hostess_club_exterior_91b7a876:
 
     # macumba "Bonne soirée Monsieur, au plaisir de vous revoir de meilleur humeur." id hostess_club_exterior_91b7a876
-    macumba "夜安，先生。希望尽快看到您恢复好心情。" id hostess_club_exterior_91b7a876
+    macumba "夜安，先生。希望下次看到您能有个好心情。" id hostess_club_exterior_91b7a876
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:367
 translate chinese_simplified hostess_club_exterior_c5eca451:
 
     # akira "Quel putain de monstre..." id hostess_club_exterior_c5eca451
-    akira "真他妈是个怪物……" id hostess_club_exterior_c5eca451
+    akira "真他妈是个怪物..." id hostess_club_exterior_c5eca451
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:368
 translate chinese_simplified hostess_club_exterior_b25d8884:
@@ -1012,19 +1012,19 @@ translate chinese_simplified hostess_club_exterior_b25d8884:
 translate chinese_simplified hostess_club_exterior_d63d6b65_1:
 
     # takeo "..." id hostess_club_exterior_d63d6b65_1
-    takeo "……" id hostess_club_exterior_d63d6b65_1
+    takeo "..." id hostess_club_exterior_d63d6b65_1
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:374
 translate chinese_simplified hostess_club_exterior_80fb5fb4:
 
     # akira upset "Putain c'est pas le bon moment, je suis pas d'humeur, qu'est ce que vous me voulez?" id hostess_club_exterior_80fb5fb4
-    akira upset "操，现在不是时候，我也没心情。你想干嘛？" id hostess_club_exterior_80fb5fb4
+    akira upset "操，你来得不是时候，老子正在气头上呢。又有什么屁事？" id hostess_club_exterior_80fb5fb4
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:375
 translate chinese_simplified hostess_club_exterior_edc57061:
 
     # takeo disgusted "[kenji.n] c'est fait littéralement défoncé dans une ruelle, on a rien pu faire..." id hostess_club_exterior_edc57061
-    takeo disgusted "[kenji.n]在小巷里被干烂了，我们什么也做不了……" id hostess_club_exterior_edc57061
+    takeo disgusted "[kenji.n]在小巷里被人干烂了，我们没法子了..." id hostess_club_exterior_edc57061
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:376
 translate chinese_simplified hostess_club_exterior_543555fe:
@@ -1042,31 +1042,31 @@ translate chinese_simplified hostess_club_exterior_40dda1a9:
 translate chinese_simplified hostess_club_exterior_2f294d1a:
 
     # nobu disgusted "C'est... Il a le crane rasé!" id hostess_club_exterior_2f294d1a
-    nobu disgusted "他……他就是那个光头！" id hostess_club_exterior_2f294d1a
+    nobu disgusted "他...他就是其中那个光头！" id hostess_club_exterior_2f294d1a
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:379
 translate chinese_simplified hostess_club_exterior_99f708b0:
 
     # akira "...Et alors qu'est ce que vous voulez que ça me foute, retournez y a deux!" id hostess_club_exterior_99f708b0
-    akira "……所以你们想让我干什么？回去不就完了！" id hostess_club_exterior_99f708b0
+    akira "...所以你们他妈想让我干啥？自己滚回去不就完了！" id hostess_club_exterior_99f708b0
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:380
 translate chinese_simplified hostess_club_exterior_3aa24e8d:
 
     # takeo "Ce type... est vraiment flippant, on a besoins d'un coup de main." id hostess_club_exterior_3aa24e8d
-    takeo "这家伙……令人毛骨悚然。我们需要援助。" id hostess_club_exterior_3aa24e8d
+    takeo "动手的那个家伙...非常恐怖。我们需要一点帮助。" id hostess_club_exterior_3aa24e8d
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:381
 translate chinese_simplified hostess_club_exterior_ba752a1a:
 
     # akira angry "Je m'en bat les couilles, demmerdez vous, j'ai aussi des problemes à gerer de mon coté." id hostess_club_exterior_ba752a1a
-    akira angry "我才不吊你们。你们自己解决！我自己还有别的事要办！" id hostess_club_exterior_ba752a1a
+    akira angry "我才不吊你们。你们自己解决！我自己还有麻烦事要处理呢。" id hostess_club_exterior_ba752a1a
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:382
 translate chinese_simplified hostess_club_exterior_e4ec7c03:
 
     # akira arrogant "...et je sais qui pourra m'aider." id hostess_club_exterior_e4ec7c03
-    akira arrogant "……而且我知道谁能帮到我。" id hostess_club_exterior_e4ec7c03
+    akira arrogant "...而且我知道谁能帮我一把。" id hostess_club_exterior_e4ec7c03
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:383
 translate chinese_simplified hostess_club_exterior_4d0a69bb:
@@ -1084,7 +1084,7 @@ translate chinese_simplified hostess_club_exterior_10ef8ead:
 translate chinese_simplified hostess_club_exterior_f27fb163:
 
     # takeo "On y retourne... On peut pas le laisser comme ça." id hostess_club_exterior_f27fb163
-    takeo "咱还是回去吧，我们不能就那样把他仍那儿。" id hostess_club_exterior_f27fb163
+    takeo "咱还是回去吧，我们不能就那样把他扔在那儿。" id hostess_club_exterior_f27fb163
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:390
 translate chinese_simplified hostess_club_exterior_fbd2515e:
@@ -1096,25 +1096,25 @@ translate chinese_simplified hostess_club_exterior_fbd2515e:
 translate chinese_simplified hostess_club_exterior_f1eed5a2:
 
     # nobu "Tu as vu le regard de ce type?" id hostess_club_exterior_f1eed5a2
-    nobu "你看到他的眼神了吗?" id hostess_club_exterior_f1eed5a2
+    nobu "你看到那个人的眼神了吗?" id hostess_club_exterior_f1eed5a2
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:392
 translate chinese_simplified hostess_club_exterior_1880c551:
 
     # takeo "Oui... J'avais l'impression d'avoir un couteau sous la gorge." id hostess_club_exterior_1880c551
-    takeo "看到了……就像有把刀架在我脖子上一样。" id hostess_club_exterior_1880c551
+    takeo "看到了...就像有把刀架在我脖子上一样。" id hostess_club_exterior_1880c551
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:393
 translate chinese_simplified hostess_club_exterior_953bbc25:
 
     # nobu "J'ai eu la même impression..." id hostess_club_exterior_953bbc25
-    nobu "我也这么觉得……" id hostess_club_exterior_953bbc25
+    nobu "我也这么觉得..." id hostess_club_exterior_953bbc25
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:394
 translate chinese_simplified hostess_club_exterior_f6f20321:
 
     # nobu angry "Putain mais c'est qui bordel?!" id hostess_club_exterior_f6f20321
-    nobu angry "那他妈的是谁！？" id hostess_club_exterior_f6f20321
+    nobu angry "那他妈的究竟是谁！？" id hostess_club_exterior_f6f20321
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:395
 translate chinese_simplified hostess_club_exterior_3fd9015e:
@@ -1126,25 +1126,25 @@ translate chinese_simplified hostess_club_exterior_3fd9015e:
 translate chinese_simplified hostess_club_exterior_f30356b0:
 
     # nobu "Je l'emmerde! Ce connard ne serait jamais revenu pour moi." id hostess_club_exterior_f30356b0
-    nobu "做掉他！那家伙再也不会回来找我了！" id hostess_club_exterior_f30356b0
+    nobu "去他妈的！那家伙已经没救了。" id hostess_club_exterior_f30356b0
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:397
 translate chinese_simplified hostess_club_exterior_6ea1856a:
 
     # nobu "Qu'il aille ce faire foutre, je rentre chez moi." id hostess_club_exterior_6ea1856a
-    nobu "玩蛋去吧。我回家了。" id hostess_club_exterior_6ea1856a
+    nobu "让他自生自灭吧。我要回家了。" id hostess_club_exterior_6ea1856a
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:399
 translate chinese_simplified hostess_club_exterior_867f9ad4:
 
     # takeo disgusted "Merde...! Si j'y vais seul je suis mort..." id hostess_club_exterior_867f9ad4
-    takeo disgusted "操……如果我落单了我就完蛋了……" id hostess_club_exterior_867f9ad4
+    takeo disgusted "操...！我一个人去的话会死的..." id hostess_club_exterior_867f9ad4
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:400
 translate chinese_simplified hostess_club_exterior_5666d029:
 
     # takeo "...{w}Repose en paix [kenji.n]." id hostess_club_exterior_5666d029
-    takeo "...{w}安息吧，[kenji.n]。我们想念你。" id hostess_club_exterior_5666d029
+    takeo "...{w}安息吧，[kenji.n]。" id hostess_club_exterior_5666d029
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:401
 translate chinese_simplified hostess_club_exterior_304a67bb:
@@ -1156,7 +1156,7 @@ translate chinese_simplified hostess_club_exterior_304a67bb:
 translate chinese_simplified hostess_club_exterior_6119a2bf:
 
     # player "Merde alors..." id hostess_club_exterior_6119a2bf
-    player "我凑，行吧……" id hostess_club_exterior_6119a2bf
+    player "我的妈耶，行吧..." id hostess_club_exterior_6119a2bf
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:406
 translate chinese_simplified hostess_club_exterior_87997036:
@@ -1168,19 +1168,19 @@ translate chinese_simplified hostess_club_exterior_87997036:
 translate chinese_simplified hostess_club_exterior_ac202e5b:
 
     # player "Oh putain je vais bien dormir ce soir!" id hostess_club_exterior_ac202e5b
-    player "噢我操，我今天晚上可算能睡个好觉了！" id hostess_club_exterior_ac202e5b
+    player "噢该死，我今天晚上可算能睡个好觉了！" id hostess_club_exterior_ac202e5b
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:408
 translate chinese_simplified hostess_club_exterior_eb613193:
 
     # player sad "Par contre... Je ne sais pas qui pourrait aider [akira.n] mais ça m'inquiete un peu." id hostess_club_exterior_eb613193
-    player sad "但是……我不知道谁能帮到[akira.n]，稍微有点担心。" id hostess_club_exterior_eb613193
+    player sad "但是...我不知道谁会帮[akira.n]，稍微有点担心。" id hostess_club_exterior_eb613193
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:419
 translate chinese_simplified hostess_club_exterior_ecf28e86:
 
     # kimochi "Tu ne croiras jamais ce que j'ai vu!" id hostess_club_exterior_ecf28e86
-    kimochi "你不会相信我看到了什么！" id hostess_club_exterior_ecf28e86
+    kimochi "哥们，你绝对不会相信我看到什么了！" id hostess_club_exterior_ecf28e86
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:420
 translate chinese_simplified hostess_club_exterior_e9d50bdb:
@@ -1192,13 +1192,13 @@ translate chinese_simplified hostess_club_exterior_e9d50bdb:
 translate chinese_simplified hostess_club_exterior_535e5af4:
 
     # kimochi happy "Moi je veux bien mais tu risques de le regretter amerement." id hostess_club_exterior_535e5af4
-    kimochi happy "我不管，但你会后悔的。" id hostess_club_exterior_535e5af4
+    kimochi happy "我是不介意，但你会后悔的。" id hostess_club_exterior_535e5af4
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:422
 translate chinese_simplified hostess_club_exterior_90583e93:
 
     # player sad "...Pourquoi ça?" id hostess_club_exterior_90583e93
-    player sad "……为什么这么说？" id hostess_club_exterior_90583e93
+    player sad "...为什么这么说？" id hostess_club_exterior_90583e93
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:423
 translate chinese_simplified hostess_club_exterior_c3d3ca74:
@@ -1210,25 +1210,25 @@ translate chinese_simplified hostess_club_exterior_c3d3ca74:
 translate chinese_simplified hostess_club_exterior_8bd0dbe1:
 
     # player surprised "Mais j-" id hostess_club_exterior_8bd0dbe1
-    player surprised "但是我……" id hostess_club_exterior_8bd0dbe1
+    player surprised "但是我..." id hostess_club_exterior_8bd0dbe1
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:441
 translate chinese_simplified hostess_club_exterior_42d71409:
 
     # kimochi "..." id hostess_club_exterior_42d71409
-    kimochi "……" id hostess_club_exterior_42d71409
+    kimochi "..." id hostess_club_exterior_42d71409
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:442
 translate chinese_simplified hostess_club_exterior_a3a66530:
 
     # player "Putain de merde, je savais que ce gros batard cachait bien son jeu." id hostess_club_exterior_a3a66530
-    player "我靠，我就知道那个胖子藏得很好。" id hostess_club_exterior_a3a66530
+    player "我靠，我就知道那个胖子没安好心。" id hostess_club_exterior_a3a66530
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:443
 translate chinese_simplified hostess_club_exterior_30da210f:
 
     # kimochi think "Mais la rouquine dans tout ça c'est qui?" id hostess_club_exterior_30da210f
-    kimochi think "那个红毛是谁？" id hostess_club_exterior_30da210f
+    kimochi think "所以那个红毛是谁？" id hostess_club_exterior_30da210f
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:444
 translate chinese_simplified hostess_club_exterior_4c0aa4e1_1:
@@ -1252,37 +1252,37 @@ translate chinese_simplified hostess_club_exterior_76917e08:
 translate chinese_simplified hostess_club_exterior_55ee8243:
 
     # kimochi horny "Oh?! Il s'est passé quoi exactement?" id hostess_club_exterior_55ee8243
-    kimochi horny "噢？到底发生了什么？" id hostess_club_exterior_55ee8243
+    kimochi horny "哦哦？！到底发生了什么？" id hostess_club_exterior_55ee8243
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:448
 translate chinese_simplified hostess_club_exterior_e9163ffb:
 
     # player "Elle ma..." id hostess_club_exterior_e9163ffb
-    player "她……" id hostess_club_exterior_e9163ffb
+    player "她..." id hostess_club_exterior_e9163ffb
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:449
 translate chinese_simplified hostess_club_exterior_88c20922:
 
     # player furious "Bordel [kimochi.n] ça te regarde pas!" id hostess_club_exterior_88c20922
-    player furious "他妈的[kimochi.n]，这跟你没关系！" id hostess_club_exterior_88c20922
+    player furious "该死，[kimochi.n]，这个你别管！" id hostess_club_exterior_88c20922
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:450
 translate chinese_simplified hostess_club_exterior_674b7b5d:
 
     # player upset "On doit absolument empecher ça!" id hostess_club_exterior_674b7b5d
-    player upset "我们不能袖手旁观！" id hostess_club_exterior_674b7b5d
+    player upset "但我们不能袖手旁观！" id hostess_club_exterior_674b7b5d
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:451
 translate chinese_simplified hostess_club_exterior_97464e31:
 
     # kimochi think "Moi je veux bien mais... C'est une drogue de synthese, non commercialisé sur le marché." id hostess_club_exterior_97464e31
-    kimochi think "我不介意，但是……这是合成药，市场上不卖的。" id hostess_club_exterior_97464e31
+    kimochi think "我不介意帮你忙，但是...这是合成药物，市场上买不到的。" id hostess_club_exterior_97464e31
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:452
 translate chinese_simplified hostess_club_exterior_9db2636c:
 
     # kimochi "Aucun antidote..." id hostess_club_exterior_9db2636c
-    kimochi "没有解药……" id hostess_club_exterior_9db2636c
+    kimochi "这东西没有解药..." id hostess_club_exterior_9db2636c
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:453
 translate chinese_simplified hostess_club_exterior_4277421e:
@@ -1294,19 +1294,19 @@ translate chinese_simplified hostess_club_exterior_4277421e:
 translate chinese_simplified hostess_club_exterior_ac858769:
 
     # player surprised "Mais oui putain, tu as raison, [macumba.n] m'a dit qu'elle etait rentrée en urgence." id hostess_club_exterior_ac858769
-    player surprised "干，你是对的！[macumba.n]告诉我她匆忙回家了。" id hostess_club_exterior_ac858769
+    player surprised "没错，操了，你说得对！[macumba.n]告诉我她匆忙回家了。" id hostess_club_exterior_ac858769
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:455
 translate chinese_simplified hostess_club_exterior_0dcfc9b3:
 
     # player upset "Il faut que je rentre tout de suite, je te tiens au courant!" id hostess_club_exterior_0dcfc9b3
-    player upset "我得马上回家，但我会告诉你最新情况!" id hostess_club_exterior_0dcfc9b3
+    player upset "我得马上回家，有什么新消息我会立刻联系你!" id hostess_club_exterior_0dcfc9b3
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:457
 translate chinese_simplified hostess_club_exterior_b747ba2d:
 
     # kimochi "J'aurais préféré quelques photos plutot..." id hostess_club_exterior_b747ba2d
-    kimochi "我更想要一些照片……" id hostess_club_exterior_b747ba2d
+    kimochi "我倒是更想要一些照片..." id hostess_club_exterior_b747ba2d
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:470
 translate chinese_simplified hostess_club_exterior_3695a523:
@@ -1318,7 +1318,7 @@ translate chinese_simplified hostess_club_exterior_3695a523:
 translate chinese_simplified hostess_club_exterior_de2f1126:
 
     # player upset "Je n'ai pas le choix, je dois passer en force sinon je perd [yasuka.n] à tout jamais." id hostess_club_exterior_de2f1126
-    player upset "我没得选。我必须跨过他们，否则我会永远失去[yasuka.n]！" id hostess_club_exterior_de2f1126
+    player upset "没办法了。我必须突破他们，否则我会永远失去[yasuka.n]！" id hostess_club_exterior_de2f1126
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:484
 translate chinese_simplified hostess_club_exterior_b05c6fc2:
@@ -1348,19 +1348,19 @@ translate chinese_simplified hostess_club_exterior_bde283bb:
 translate chinese_simplified hostess_club_exterior_44cebc7c:
 
     # akira happy "Ah on est dans le déni, c'est normal c'est dur a accepter." id hostess_club_exterior_44cebc7c
-    akira happy "啊，你在否认。一开始难以接受是正常的。" id hostess_club_exterior_44cebc7c
+    akira happy "啊，你就嘴硬吧。一开始难以接受是正常的。" id hostess_club_exterior_44cebc7c
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:489
 translate chinese_simplified hostess_club_exterior_6b8d87c9:
 
     # akira arrogant "Mais c'est mort je te dis!" id hostess_club_exterior_6b8d87c9
-    akira arrogant "但我跟你讲，全都完了。你完了。" id hostess_club_exterior_6b8d87c9
+    akira arrogant "但我告诉你，已经完了，全完了！" id hostess_club_exterior_6b8d87c9
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:490
 translate chinese_simplified hostess_club_exterior_3cc3ab46:
 
     # akira "Avec un peu de chance tu pourras assister au spectacle!" id hostess_club_exterior_3cc3ab46
-    akira "运气好的话，你还能看得到现场直播。" id hostess_club_exterior_3cc3ab46
+    akira "运气好的话，你至少还能看得到现场直播！" id hostess_club_exterior_3cc3ab46
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:491
 translate chinese_simplified hostess_club_exterior_6d9cc363:
@@ -1372,13 +1372,13 @@ translate chinese_simplified hostess_club_exterior_6d9cc363:
 translate chinese_simplified hostess_club_exterior_85e4a3e5:
 
     # akira "Ah les jeunes... Ils sont toujours pleins d'espoirs." id hostess_club_exterior_85e4a3e5
-    akira "现在的年轻人……总是心怀希望。" id hostess_club_exterior_85e4a3e5
+    akira "现在的年轻人...总是满脑子不切实际的希望和幻想。" id hostess_club_exterior_85e4a3e5
 
 # game/scripts/story/business district/hostess club/hostess_club_exterior.rpy:494
 translate chinese_simplified hostess_club_exterior_c267d2f7:
 
     # akira "J'en connais un qui va tomber de haut." id hostess_club_exterior_c267d2f7
-    akira "我知道有一个人会狠狠地摔在地上的。" id hostess_club_exterior_c267d2f7
+    akira "我知道...其中一人正在从云端坠入无尽的深渊。" id hostess_club_exterior_c267d2f7
 
 translate chinese_simplified strings:
 

@@ -64,13 +64,13 @@ translate chinese_simplified halteres_3c83d0f7:
 translate chinese_simplified halteres_5a838110:
 
     # x "Je ne sais pas si je dois être reconnaissant ou..." id halteres_5a838110
-    x "不知道是该感谢还是..." id halteres_5a838110
+    x "......我该说谢谢还是——" id halteres_5a838110
 
 # game/scripts/story/action/halteres.rpy:31
 translate chinese_simplified halteres_a53f6970:
 
     # centered "{i}Je savais que tu aurais besoin de ce type d'entrainement a un moment ou un autre.{/i}" id halteres_a53f6970
-    centered "{i}我知道你在某些时候会需要这种培训。{/i}" id halteres_a53f6970
+    centered "{i}我知道你总有一天会会需要这种培训。{/i}" id halteres_a53f6970
 
 # game/scripts/story/action/halteres.rpy:32
 translate chinese_simplified halteres_23b78f7a:
@@ -82,13 +82,13 @@ translate chinese_simplified halteres_23b78f7a:
 translate chinese_simplified halteres_fd1c9a2e:
 
     # centered "{i}La seule façon de progresser c'est de se dépasser constamment.{/i}" id halteres_fd1c9a2e
-    centered "{i}进步的唯一途径是不断超越自己。{/i}" id halteres_fd1c9a2e
+    centered "{i}进步的唯一途径是不断超越自己——{/i}" id halteres_fd1c9a2e
 
 # game/scripts/story/action/halteres.rpy:34
 translate chinese_simplified halteres_8b4685b7:
 
     # centered "{i}Mettre sa vie en jeu.{/i}" id halteres_8b4685b7
-    centered "{i}冒着生命危险。{/i}" id halteres_8b4685b7
+    centered "{i}——即便要冒着生命危险。{/i}" id halteres_8b4685b7
 
 # game/scripts/story/action/halteres.rpy:35
 translate chinese_simplified halteres_adb086e9:
@@ -202,7 +202,7 @@ translate chinese_simplified halteres_90f9dace:
 translate chinese_simplified halteres_e62355ab:
 
     # centered "{i}Si tu as quelques douleurs dans les bras et les pec c'est que tu as bien travaillé.{/i}" id halteres_e62355ab
-    centered "{i}如果你的手臂和胸肌有些疼痛，那说明你做的很好。{/i}" id halteres_e62355ab
+    centered "{i}如果你的手臂和胸肌感到有些疼痛，那说明你做的很好。{/i}" id halteres_e62355ab
 
 # game/scripts/story/action/halteres.rpy:59
 translate chinese_simplified halteres_64609877:
@@ -214,7 +214,7 @@ translate chinese_simplified halteres_64609877:
 translate chinese_simplified halteres_16a58356:
 
     # player sad "...Je suis mort, je ne sens même plus mes bras." id halteres_16a58356
-    player sad "...我要死了，​​我已经感受不到我的手臂了。" id halteres_16a58356
+    player sad "...要死了，​​我的手臂已经失去知觉了。" id halteres_16a58356
 
 # game/scripts/story/action/halteres.rpy:66
 translate chinese_simplified halteres_9c44c8a5:
@@ -286,7 +286,7 @@ translate chinese_simplified halteres_1c61cb77:
 translate chinese_simplified halteres_cea75a1e:
 
     # player "ughh c'est toujours aussi douloureux."
-    player "呃，还是地狱一样的经历。"
+    player "啊，一如既往的痛苦。"
 
 # game/scripts/story/action/halteres.rpy:101
 translate chinese_simplified halteres_8f962bac:
@@ -312,5 +312,5 @@ translate chinese_simplified strings:
 
     # game/scripts/story/action/halteres.rpy:81
     old "Je pense que je suis prêt a y retourner j'espère que tout se passera bien."
-    new "我想我已经准备好回去了，我希望一切正常。"
+    new "我想我已经准备好再去一次了，希望一切顺利。"
 

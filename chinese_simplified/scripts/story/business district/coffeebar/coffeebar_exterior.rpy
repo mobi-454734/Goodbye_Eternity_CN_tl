@@ -16,7 +16,7 @@ translate chinese_simplified coffeebar_exterior_66c269d1:
 translate chinese_simplified coffeebar_exterior_6cc9dafd:
 
     # player "Je crois bien n'être jamais venu ici auparavant." id coffeebar_exterior_6cc9dafd
-    player "我想我以前从没来过这里。" id coffeebar_exterior_6cc9dafd
+    player "我以前好像从没来过这里。" id coffeebar_exterior_6cc9dafd
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:42
 translate chinese_simplified coffeebar_exterior_0cf34c6e:
@@ -64,7 +64,7 @@ translate chinese_simplified coffeebar_exterior_caa122d1:
 translate chinese_simplified coffeebar_exterior_8e2d1a55:
 
     # ubs angry "FOUS-MOI LE CAMP!" id coffeebar_exterior_8e2d1a55
-    ubs angry "来这里讨饭啦？给我滚！" id coffeebar_exterior_8e2d1a55
+    ubs angry "来讨饭的是吧？给我滚！" id coffeebar_exterior_8e2d1a55
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:62
 translate chinese_simplified coffeebar_exterior_fdd9d734:
@@ -76,13 +76,13 @@ translate chinese_simplified coffeebar_exterior_fdd9d734:
 translate chinese_simplified coffeebar_exterior_9c63b3a6:
 
     # ubs "Arrête de rester planté là devant ma boutique." id coffeebar_exterior_9c63b3a6
-    ubs "别再站在我店前了。" id coffeebar_exterior_9c63b3a6
+    ubs "别再站在我店门口了。" id coffeebar_exterior_9c63b3a6
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:64
 translate chinese_simplified coffeebar_exterior_4ebbe5df:
 
     # ubs "Dégage, tu vas faire fuir les clients!" id coffeebar_exterior_4ebbe5df
-    ubs "滚开，你把我顾客都吓跑了！" id coffeebar_exterior_4ebbe5df
+    ubs "赶紧滚，你把我的客人都吓跑了！" id coffeebar_exterior_4ebbe5df
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:65
 translate chinese_simplified coffeebar_exterior_c7ddf840:
@@ -106,13 +106,13 @@ translate chinese_simplified coffeebar_exterior_bbf36726:
 translate chinese_simplified coffeebar_exterior_23514d28:
 
     # x "Mais quelle putain de bâtard!" id coffeebar_exterior_23514d28
-    x "真是个趋炎附势的臭傻逼！" id coffeebar_exterior_23514d28
+    x "真是个见风使舵的臭傻逼！" id coffeebar_exterior_23514d28
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:75
 translate chinese_simplified coffeebar_exterior_bedadfdb:
 
     # x "J'ai parlé avec lui 2 minutes et j'ai déjà envie de le tuer!" id coffeebar_exterior_bedadfdb
-    x "我只和他说了两分钟话，我已经想杀了他！" id coffeebar_exterior_bedadfdb
+    x "我才和他说了两分钟的话，就已经想砍死他了！" id coffeebar_exterior_bedadfdb
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:76
 translate chinese_simplified coffeebar_exterior_29c3f1e3:
@@ -130,25 +130,25 @@ translate chinese_simplified coffeebar_exterior_45797a47:
 translate chinese_simplified coffeebar_exterior_5d15ecaa:
 
     # player upset "Je dois comprendre pourquoi elle tient tant a restée travailler ici." id coffeebar_exterior_5d15ecaa
-    player upset "我必须搞明白为什么她能忍受的了这种工作。" id coffeebar_exterior_5d15ecaa
+    player upset "我得搞清楚为什么她在这种地方还能工作这么久。" id coffeebar_exterior_5d15ecaa
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:90
 translate chinese_simplified coffeebar_exterior_80f48e75:
 
     # player sad "J'espère que tout ira bien pour elle." id coffeebar_exterior_80f48e75
-    player sad "我希望她一切顺利。" id coffeebar_exterior_80f48e75
+    player sad "希望她一切顺利。" id coffeebar_exterior_80f48e75
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:105
 translate chinese_simplified coffeebar_exterior_632ac3e9:
 
     # player "C'est ici!" id coffeebar_exterior_632ac3e9
-    player "它在这里！" id coffeebar_exterior_632ac3e9
+    player "就在这里！" id coffeebar_exterior_632ac3e9
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:106
 translate chinese_simplified coffeebar_exterior_dff5d2da:
 
     # noriko "Plutôt sympa comme endroit si on exclu le gros porc assis sur chaise devant." id coffeebar_exterior_dff5d2da
-    noriko "如果无视掉门口坐着的那头猪，这块地方相当不错。" id coffeebar_exterior_dff5d2da
+    noriko "除了门口坐着的那头肥猪，这块地方相当不错。" id coffeebar_exterior_dff5d2da
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:107
 translate chinese_simplified coffeebar_exterior_09d8e41d:
@@ -184,7 +184,7 @@ translate chinese_simplified coffeebar_exterior_f9814168:
 translate chinese_simplified coffeebar_exterior_af1f6064:
 
     # ubs angry "Qu'est ce que tu veux petite salope?" id coffeebar_exterior_af1f6064
-    ubs angry "你想要什么小婊子？" id coffeebar_exterior_af1f6064
+    ubs angry "你想干嘛小婊子？" id coffeebar_exterior_af1f6064
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:114
 translate chinese_simplified coffeebar_exterior_560f9a2d:
@@ -196,13 +196,13 @@ translate chinese_simplified coffeebar_exterior_560f9a2d:
 translate chinese_simplified coffeebar_exterior_0d01fe0e:
 
     # ubs "Dégagez en vitesse." id coffeebar_exterior_0d01fe0e
-    ubs "给我滚出克。" id coffeebar_exterior_0d01fe0e
+    ubs "给我滚远点。" id coffeebar_exterior_0d01fe0e
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:116
 translate chinese_simplified coffeebar_exterior_272ec25a:
 
     # noriko furious "J'vais le tuer!" id coffeebar_exterior_272ec25a
-    noriko furious "我会杀他！" id coffeebar_exterior_272ec25a
+    noriko furious "我要弄死他！" id coffeebar_exterior_272ec25a
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:117
 translate chinese_simplified coffeebar_exterior_76433045:
@@ -214,19 +214,19 @@ translate chinese_simplified coffeebar_exterior_76433045:
 translate chinese_simplified coffeebar_exterior_529eaebf:
 
     # player "Nous sommes seulement passés voir..." id coffeebar_exterior_529eaebf
-    player "我们只是去看看..." id coffeebar_exterior_529eaebf
+    player "我们只是来看看..." id coffeebar_exterior_529eaebf
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:119
 translate chinese_simplified coffeebar_exterior_1651643c:
 
     # noriko "Ma mère! Elle travaille ici!" id coffeebar_exterior_1651643c
-    noriko "我妈在这里工作！" id coffeebar_exterior_1651643c
+    noriko "妈妈！她居然在这里工作！" id coffeebar_exterior_1651643c
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:120
 translate chinese_simplified coffeebar_exterior_204d9fe2:
 
     # ubs bad "Oh je vois tu dois être {color=#fd79a8}{b}纪子{/b}{/color},la fille de {color=#a29bfe}{b}[yasuka_name]{/b}{/color}." id coffeebar_exterior_204d9fe2
-    ubs bad "哦，我知道你一定是 {color=#fd79a8}{b}纪子{/b}{/color}，{color=#a29bfe}{b}安香{/b}{/color} 的女儿." id coffeebar_exterior_204d9fe2
+    ubs bad "哦，我知道了，你一定是 {color=#fd79a8}{b}纪子{/b}{/color}，{color=#a29bfe}{b}安香{/b}{/color} 的女儿." id coffeebar_exterior_204d9fe2
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:121
 translate chinese_simplified coffeebar_exterior_a7eeb5c1:
@@ -238,7 +238,7 @@ translate chinese_simplified coffeebar_exterior_a7eeb5c1:
 translate chinese_simplified coffeebar_exterior_10a3b67b:
 
     # ubs disdainful "Mais peu importe, {color=#a29bfe}{b}[yasuka_name]{/b}{/color} a terminé sa pause, il faudra revenir une autre fois." id coffeebar_exterior_10a3b67b
-    ubs disdainful "但无论如何，{color=#a29bfe}{b}安香{/b}{/color} 的休息时间已经结束了，所以你需要下次再来。" id coffeebar_exterior_10a3b67b
+    ubs disdainful "但无论如何，{color=#a29bfe}{b}安香{/b}{/color} 的休息时间已经结束了，下次再来吧。" id coffeebar_exterior_10a3b67b
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:123
 translate chinese_simplified coffeebar_exterior_94068052:
@@ -250,13 +250,13 @@ translate chinese_simplified coffeebar_exterior_94068052:
 translate chinese_simplified coffeebar_exterior_f82348b6:
 
     # player "Est-ce qu'on peut entrer et acheter quelque chose?" id coffeebar_exterior_f82348b6
-    player "我们可以进来买东西吗？" id coffeebar_exterior_f82348b6
+    player "我们能进去买点东西吗？" id coffeebar_exterior_f82348b6
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:125
 translate chinese_simplified coffeebar_exterior_675954d9:
 
     # ubs "Dis-moi ce que tu veux et je vais te le chercher..." id coffeebar_exterior_675954d9
-    ubs "告诉我你想要什么，我会给你..." id coffeebar_exterior_675954d9
+    ubs "告诉我你想买什么，我去给你拿..." id coffeebar_exterior_675954d9
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:126
 translate chinese_simplified coffeebar_exterior_03775ec8:
@@ -280,7 +280,7 @@ translate chinese_simplified coffeebar_exterior_f298d007:
 translate chinese_simplified coffeebar_exterior_4fad3cd5:
 
     # noriko "Je croyais que tu étais la personne la plus horripilante du monde." id coffeebar_exterior_4fad3cd5
-    noriko "我以为你是世界上最恶心的人。" id coffeebar_exterior_4fad3cd5
+    noriko "我本来以为你已经是世界上最恶心的人了。" id coffeebar_exterior_4fad3cd5
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:134
 translate chinese_simplified coffeebar_exterior_e2cb3a81:
@@ -292,7 +292,7 @@ translate chinese_simplified coffeebar_exterior_e2cb3a81:
 translate chinese_simplified coffeebar_exterior_3fbac9ed:
 
     # player sad "Merci... Je suppose." id coffeebar_exterior_3fbac9ed
-    player sad "谢...谢吧。" id coffeebar_exterior_3fbac9ed
+    player sad "我tm...谢谢你哈。" id coffeebar_exterior_3fbac9ed
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:136
 translate chinese_simplified coffeebar_exterior_bc7494f4:
@@ -304,37 +304,37 @@ translate chinese_simplified coffeebar_exterior_bc7494f4:
 translate chinese_simplified coffeebar_exterior_ff17a3e2:
 
     # player "Tant que cette espèce de... sera toujours là, nous ne passerons plus." id coffeebar_exterior_ff17a3e2
-    player "只要那人...还在，我们就没法过去。" id coffeebar_exterior_ff17a3e2
+    player "只要那人...还在，我们就没法进去。" id coffeebar_exterior_ff17a3e2
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:138
 translate chinese_simplified coffeebar_exterior_09694f81:
 
     # player upset "Il faudrait une diversion..." id coffeebar_exterior_09694f81
-    player upset "我们需要转移注意力..." id coffeebar_exterior_09694f81
+    player upset "我们得想办法转移他的注意力..." id coffeebar_exterior_09694f81
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:139
 translate chinese_simplified coffeebar_exterior_df45c8a8:
 
     # noriko neutral "Bon et bien jte laisse réfléchir à tout ça, moi je rentre!" id coffeebar_exterior_df45c8a8
-    noriko neutral "好吧，我让你考虑一下，我要回家了！" id coffeebar_exterior_df45c8a8
+    noriko neutral "好吧，你慢慢想办法，我要回家了！" id coffeebar_exterior_df45c8a8
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:142
 translate chinese_simplified coffeebar_exterior_47e12b3e:
 
     # player "Il me faut quelqu'un de malin." id coffeebar_exterior_47e12b3e
-    player "我需要一个聪明的人。" id coffeebar_exterior_47e12b3e
+    player "我得找个聪明人。" id coffeebar_exterior_47e12b3e
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:143
 translate chinese_simplified coffeebar_exterior_3fcb3426:
 
     # player "Où est ce que je pourrais trouver ça?" id coffeebar_exterior_3fcb3426
-    player "我在哪里可以找到那个？" id coffeebar_exterior_3fcb3426
+    player "该去哪找呢？" id coffeebar_exterior_3fcb3426
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:158
 translate chinese_simplified coffeebar_exterior_79fc129c:
 
     # kimochi "Bon laisse moi faire j'ai l'habitude de le gérer." id coffeebar_exterior_79fc129c
-    kimochi "好吧，交给我吧，我已经习惯了和它打交道。" id coffeebar_exterior_79fc129c
+    kimochi "好吧，交给我吧，这种事我轻车熟路。" id coffeebar_exterior_79fc129c
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:159
 translate chinese_simplified coffeebar_exterior_1077aafd:
@@ -352,13 +352,13 @@ translate chinese_simplified coffeebar_exterior_df254786:
 translate chinese_simplified coffeebar_exterior_c60cb0ae:
 
     # player "Je n'oublierai pas!" id coffeebar_exterior_c60cb0ae
-    player "我不会忘了！" id coffeebar_exterior_c60cb0ae
+    player "大恩大德没齿难忘！" id coffeebar_exterior_c60cb0ae
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:164
 translate chinese_simplified coffeebar_exterior_8b23f999:
 
     # kimochi "Allez, c'est le moment de briller!" id coffeebar_exterior_8b23f999
-    kimochi "来吧，是时候发光了！" id coffeebar_exterior_8b23f999
+    kimochi "来吧，是时候闪亮登场了！" id coffeebar_exterior_8b23f999
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:168
 translate chinese_simplified coffeebar_exterior_2bcf82ba:
@@ -370,13 +370,13 @@ translate chinese_simplified coffeebar_exterior_2bcf82ba:
 translate chinese_simplified coffeebar_exterior_cb8f5e81:
 
     # kimochi happy "Oh oh que puis-je pour mon meilleur client?" id coffeebar_exterior_cb8f5e81
-    kimochi happy "哦哦，我能为我最好的客户做些什么？" id coffeebar_exterior_cb8f5e81
+    kimochi happy "哦哦，我最好的客户，有什么需要我效劳吗？" id coffeebar_exterior_cb8f5e81
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:170
 translate chinese_simplified coffeebar_exterior_8781cb78:
 
     # ubs "hmm attend allons un peu plus loin pour discuter." id coffeebar_exterior_8781cb78
-    ubs "嗯等等让我们进一步讨论。" id coffeebar_exterior_8781cb78
+    ubs "嗯，我们再往前走一点谈吧。" id coffeebar_exterior_8781cb78
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:171
 translate chinese_simplified coffeebar_exterior_d971d2e2:
@@ -388,13 +388,13 @@ translate chinese_simplified coffeebar_exterior_d971d2e2:
 translate chinese_simplified coffeebar_exterior_6efb83ff:
 
     # kimochi "Des œuvres d'art je suis d’accord." id coffeebar_exterior_6efb83ff
-    kimochi "真正的艺术品。" id coffeebar_exterior_6efb83ff
+    kimochi "简直就是艺术品。" id coffeebar_exterior_6efb83ff
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:173
 translate chinese_simplified coffeebar_exterior_f41c0a51:
 
     # kimochi "Que te faut-il cette fois-ci?" id coffeebar_exterior_f41c0a51
-    kimochi "这次你需要什么？" id coffeebar_exterior_f41c0a51
+    kimochi "这次你想要什么样的？" id coffeebar_exterior_f41c0a51
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:174
 translate chinese_simplified coffeebar_exterior_ff0e0376:
@@ -424,49 +424,49 @@ translate chinese_simplified coffeebar_exterior_5e74ffee:
 translate chinese_simplified coffeebar_exterior_17aadf73:
 
     # kimochi think "Peut être... laisse-moi regarder." id coffeebar_exterior_17aadf73
-    kimochi think "大概吧...让我看看。" id coffeebar_exterior_17aadf73
+    kimochi think "大概有...待我看看。" id coffeebar_exterior_17aadf73
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:195
 translate chinese_simplified coffeebar_exterior_a7116d26:
 
     # player "{color=#55efc4}{b}[kimochi_name]{/b}{/color} est en train de faire diversion. Je devrais en profiter pour parler à {color=#a29bfe}{b}[yasuka_name]{/b}{/color} !" id coffeebar_exterior_a7116d26
-    player "{color=#55efc4}{b}爽{/b}{/color} 在转移注意力了。我应该借此机会和 {color=#a29bfe}{b}安香{/b}{/color} 谈谈！" id coffeebar_exterior_a7116d26
+    player "{color=#55efc4}{b}爽{/b}{/color} 调虎离山了。我得抓紧机会和 {color=#a29bfe}{b}安香{/b}{/color} 谈谈！" id coffeebar_exterior_a7116d26
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:209
 translate chinese_simplified coffeebar_exterior_21f5520e:
 
     # ubs bad "Alors comme ça... Vous avez des dettes..." id coffeebar_exterior_21f5520e
-    ubs bad "所以像这样...你有债务..." id coffeebar_exterior_21f5520e
+    ubs bad "所以...你负债累累..." id coffeebar_exterior_21f5520e
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:210
 translate chinese_simplified coffeebar_exterior_efd7799a:
 
     # ubs "Intéressant." id coffeebar_exterior_efd7799a
-    ubs "有趣的。" id coffeebar_exterior_efd7799a
+    ubs "有意思。" id coffeebar_exterior_efd7799a
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:211
 translate chinese_simplified coffeebar_exterior_0d935c9c:
 
     # player upset "Ça ne vous regarde pas!" id coffeebar_exterior_0d935c9c
-    player upset "这跟你没关系！" id coffeebar_exterior_0d935c9c
+    player upset "关你锤子事！" id coffeebar_exterior_0d935c9c
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:212
 translate chinese_simplified coffeebar_exterior_32c02c84:
 
     # ubs "Allons, allons, ne soit pas si désagréable." id coffeebar_exterior_32c02c84
-    ubs "来吧，来吧，不要那么讨厌。" id coffeebar_exterior_32c02c84
+    ubs "来嘛，来嘛，别那么反感。" id coffeebar_exterior_32c02c84
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:213
 translate chinese_simplified coffeebar_exterior_cc741bc2:
 
     # ubs "Tu sais que j'ai pas mal d'argent de côté..." id coffeebar_exterior_cc741bc2
-    ubs "你知道我还有很多钱..." id coffeebar_exterior_cc741bc2
+    ubs "你知道我有很多钱..." id coffeebar_exterior_cc741bc2
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:214
 translate chinese_simplified coffeebar_exterior_7faac2e6:
 
     # ubs "Je pourrais proposer mon aide pour vous aider à sortir de cette... malheureuse situation." id coffeebar_exterior_7faac2e6
-    ubs "我可以提供帮助，让你摆脱这种...不幸的境地。" id coffeebar_exterior_7faac2e6
+    ubs "我可以给你提供帮助，让你摆脱这种...不幸的境地。" id coffeebar_exterior_7faac2e6
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:215
 translate chinese_simplified coffeebar_exterior_bbe25598:
@@ -496,7 +496,7 @@ translate chinese_simplified coffeebar_exterior_ee40d2e0:
 translate chinese_simplified coffeebar_exterior_910b7f84:
 
     # ubs bad "{color=#a29bfe}{b}安香{/b}{/color} rembourses ses dettes et toi tu obtiens un nouveau beau-papa." id coffeebar_exterior_910b7f84
-    ubs bad "{color=#a29bfe}{b}安香{/b}{/color} 还清了她的债务，而你会得到一个继父。" id coffeebar_exterior_910b7f84
+    ubs bad "{color=#a29bfe}{b}安香{/b}{/color} 还清了她的债务，而你会拥有一个继父。" id coffeebar_exterior_910b7f84
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:226
 translate chinese_simplified coffeebar_exterior_17d89edc:
@@ -508,19 +508,19 @@ translate chinese_simplified coffeebar_exterior_17d89edc:
 translate chinese_simplified coffeebar_exterior_fb0ec684:
 
     # ubs neutral "De toute façon, tu n'as pas ton mot à dire dans cette histoire." id coffeebar_exterior_fb0ec684
-    ubs neutral "无论如何，你在这个故事中都没有发言权。" id coffeebar_exterior_fb0ec684
+    ubs neutral "无论如何，你在这件事上没有发言权。" id coffeebar_exterior_fb0ec684
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:228
 translate chinese_simplified coffeebar_exterior_d82bb78d:
 
     # ubs "Je suis certain d'arriver à la faire craquer..." id coffeebar_exterior_d82bb78d
-    ubs "我相信我可以破解她..." id coffeebar_exterior_d82bb78d
+    ubs "我敢保证，她会被我收入囊中..." id coffeebar_exterior_d82bb78d
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:229
 translate chinese_simplified coffeebar_exterior_f4a6a76a:
 
     # ubs bad "Sur ce, à bientôt{w} fiston." id coffeebar_exterior_f4a6a76a
-    ubs bad "有了这个，很快再见{w}儿zei。" id coffeebar_exterior_f4a6a76a
+    ubs bad "下次再聊这事吧，再见{w}我未来的儿子。" id coffeebar_exterior_f4a6a76a
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:235
 translate chinese_simplified coffeebar_exterior_d00ed906:
@@ -568,7 +568,7 @@ translate chinese_simplified coffeebar_exterior_ce381177:
 translate chinese_simplified coffeebar_exterior_1d2cd101:
 
     # akira "Qu'est-ce que tu viens faire dans ce quartier à une heure pareille?" id coffeebar_exterior_1d2cd101
-    akira "你在这样的时间在附近做什么？" id coffeebar_exterior_1d2cd101
+    akira "这个点了，你在这附近干嘛？" id coffeebar_exterior_1d2cd101
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:261
 translate chinese_simplified coffeebar_exterior_1b12701e:
@@ -586,19 +586,19 @@ translate chinese_simplified coffeebar_exterior_cb33c666:
 translate chinese_simplified coffeebar_exterior_29ed40e1:
 
     # akira "Toujours aussi causant a ce que je vois..." id coffeebar_exterior_29ed40e1
-    akira "还是像我看到的那样健谈..." id coffeebar_exterior_29ed40e1
+    akira "我懂，你还是像往常一样连个屁都放不出来..." id coffeebar_exterior_29ed40e1
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:268
 translate chinese_simplified coffeebar_exterior_9275f7dd:
 
     # akira "Ma foi, peu importe, j'ai trouvé un truc qui va faire parler pas mal de monde." id coffeebar_exterior_9275f7dd
-    akira "好吧，我刚看到一些。" id coffeebar_exterior_9275f7dd
+    akira "好吧，无所谓。不过我刚看到一些好事...人们会很愿意讨论的好事。" id coffeebar_exterior_9275f7dd
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:269
 translate chinese_simplified coffeebar_exterior_8ff18caf:
 
     # akira "J'ai croisé ta soi-disant mère en train de marcher avec un putain de gros porc." id coffeebar_exterior_8ff18caf
-    akira "我看到你所谓的妈妈带着一头肥猪走来走去。" id coffeebar_exterior_8ff18caf
+    akira "我看到你所谓的妈妈和一头肥猪在一起。" id coffeebar_exterior_8ff18caf
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:270
 translate chinese_simplified coffeebar_exterior_13aa479f:
@@ -610,37 +610,37 @@ translate chinese_simplified coffeebar_exterior_13aa479f:
 translate chinese_simplified coffeebar_exterior_473276e2:
 
     # akira "Ils se dirigeaient vers un love hôtel" id coffeebar_exterior_473276e2
-    akira "他们要去情趣旅馆" id coffeebar_exterior_473276e2
+    akira "他们朝着情趣旅馆去了。" id coffeebar_exterior_473276e2
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:272
 translate chinese_simplified coffeebar_exterior_87d03739:
 
     # akira happy "Je ne savais pas qu'elle se prostituait." id coffeebar_exterior_87d03739
-    akira happy "我怎么不知道她是妓女。" id coffeebar_exterior_87d03739
+    akira happy "我都不知道她在卖淫。" id coffeebar_exterior_87d03739
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:273
 translate chinese_simplified coffeebar_exterior_6893fbfe:
 
     # akira "Si j'avais su, j'aurais fait appel à ses services bien plus tôt!" id coffeebar_exterior_6893fbfe
-    akira "如果我知道，我会更早使用他的服务！" id coffeebar_exterior_6893fbfe
+    akira "早知道的话，我就早点找她下个单了！" id coffeebar_exterior_6893fbfe
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:274
 translate chinese_simplified coffeebar_exterior_ec421db8:
 
     # player furious "ESPÈCE DE..." id coffeebar_exterior_ec421db8
-    player furious "你个狗娘养的..." id coffeebar_exterior_ec421db8
+    player furious "你这个狗娘养的..." id coffeebar_exterior_ec421db8
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:275
 translate chinese_simplified coffeebar_exterior_43b14a71:
 
     # akira angry "Fais attention à ce que tu dis." id coffeebar_exterior_43b14a71
-    akira angry "小心你说的话。" id coffeebar_exterior_43b14a71
+    akira angry "说话小心点。" id coffeebar_exterior_43b14a71
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:276
 translate chinese_simplified coffeebar_exterior_25255762:
 
     # akira "Si je dois t'éclater la tête sur le trottoir je me gênerait pas." id coffeebar_exterior_25255762
-    akira "如果我必须在人行道上砸你的头，我不介意。" id coffeebar_exterior_25255762
+    akira "我不介意把你的狗头摁到地板上狠狠摩擦。" id coffeebar_exterior_25255762
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:277
 translate chinese_simplified coffeebar_exterior_f46181a8:
@@ -652,13 +652,13 @@ translate chinese_simplified coffeebar_exterior_f46181a8:
 translate chinese_simplified coffeebar_exterior_53bb8ec4:
 
     # x "Merde c'est quoi ce délire." id coffeebar_exterior_53bb8ec4
-    x "该死的，这是什么疯子。" id coffeebar_exterior_53bb8ec4
+    x "操，这他妈的什么情况。" id coffeebar_exterior_53bb8ec4
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:284
 translate chinese_simplified coffeebar_exterior_5e5d09fd:
 
     # x "Je refuse de croire un truc pareil." id coffeebar_exterior_5e5d09fd
-    x "我拒绝相信这样的事情。" id coffeebar_exterior_5e5d09fd
+    x "我不相信会这样。" id coffeebar_exterior_5e5d09fd
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:285
 translate chinese_simplified coffeebar_exterior_6fd549e4:
@@ -676,31 +676,31 @@ translate chinese_simplified coffeebar_exterior_4105bc1c:
 translate chinese_simplified coffeebar_exterior_97cd39a3:
 
     # player "J'espère que {color=#a29bfe}{b}安香{/b}{/color} ne subissait pas ça au quotidien." id coffeebar_exterior_97cd39a3
-    player "我希望 {color=#a29bfe}{b}安香{/b}{/color} 没有每天都遇到这种情况。" id coffeebar_exterior_97cd39a3
+    player "希望 {color=#a29bfe}{b}安香{/b}{/color} 没有每天都遭遇这种情况。" id coffeebar_exterior_97cd39a3
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:299
 translate chinese_simplified coffeebar_exterior_03bd8415:
 
     # player "Surtout pour un salaire pareil." id coffeebar_exterior_03bd8415
-    player "尤其是这样的薪水。" id coffeebar_exterior_03bd8415
+    player "尤其薪水还这么低。" id coffeebar_exterior_03bd8415
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:300
 translate chinese_simplified coffeebar_exterior_a873ad2e:
 
     # player "Je ferais mieux de rentrer." id coffeebar_exterior_a873ad2e
-    player "我最好回家。" id coffeebar_exterior_a873ad2e
+    player "回家好了。" id coffeebar_exterior_a873ad2e
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:312
 translate chinese_simplified coffeebar_exterior_d6459a06:
 
     # player "Tiens c'est bizarre, il n'est pas dehors pour une fois?" id coffeebar_exterior_d6459a06
-    player "嗯，很奇怪，他一次都没有在外面吗？" id coffeebar_exterior_d6459a06
+    player "咦，怪了，他头一次没在门口待着？" id coffeebar_exterior_d6459a06
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:313
 translate chinese_simplified coffeebar_exterior_3a072529:
 
     # player "Il est peut être à l'intérieur." id coffeebar_exterior_3a072529
-    player "他可能在里面。" id coffeebar_exterior_3a072529
+    player "他大概在里面吧。" id coffeebar_exterior_3a072529
 
 translate chinese_simplified strings:
 
@@ -718,7 +718,7 @@ translate chinese_simplified strings:
 
     # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:220
     old "Plutôt mourir"
-    new "宁可死"
+    new "我宁可死！"
 
     # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:220
     old "C'est à elle de décider de ça, pas à moi."
@@ -734,7 +734,7 @@ translate chinese_simplified strings:
 
     # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:293
     old "Rentrez raconter votre journée à {color=#a29bfe}{b}[yasuka_name]{/b}{/color}."
-    new "进来告诉{color=#a29bfe}{b}安香{/b}{/color}你的一天。"
+    new "回家并告诉{color=#a29bfe}{b}安香{/b}{/color}你今天的情况。"
 
     # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:308
     old "Aller voir dans la boutique."
@@ -758,19 +758,19 @@ translate chinese_simplified coffeebar_exterior_18bf55b2:
 translate chinese_simplified coffeebar_exterior_062c614c:
 
     # natsume pouting "Toujours à te prendre la tête avec les autres alors que tu ferais mieux de penser a toi." id coffeebar_exterior_062c614c
-    natsume pouting "在你应该关心自己的时候总是替别人着想……" id coffeebar_exterior_062c614c
+    natsume pouting "明明你最应该担心的是自己，却老是先想着别人..." id coffeebar_exterior_062c614c
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:328
 translate chinese_simplified coffeebar_exterior_dd17903c:
 
     # natsume happy "Tu n'as pas a t'inquieter de ça." id coffeebar_exterior_dd17903c
-    natsume happy "你不用担心那个。" id coffeebar_exterior_dd17903c
+    natsume happy "那边你不用操心。" id coffeebar_exterior_dd17903c
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:329
 translate chinese_simplified coffeebar_exterior_695f8d91:
 
     # natsume "Et puis je ne crois pas avoir demandé d'aide." id coffeebar_exterior_695f8d91
-    natsume "况且，我不记得我寻求过帮助。" id coffeebar_exterior_695f8d91
+    natsume "况且，我可没说我需要帮助。" id coffeebar_exterior_695f8d91
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:330
 translate chinese_simplified coffeebar_exterior_c74028b1:
@@ -782,7 +782,7 @@ translate chinese_simplified coffeebar_exterior_c74028b1:
 translate chinese_simplified coffeebar_exterior_474fe8ef:
 
     # player "Je crois que je pourrais pas y couper..." id coffeebar_exterior_474fe8ef
-    player "我想我没法脱身了……" id coffeebar_exterior_474fe8ef
+    player "不说你就不会放我走是吧..." id coffeebar_exterior_474fe8ef
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:332
 translate chinese_simplified coffeebar_exterior_667c48f8:
@@ -836,19 +836,19 @@ translate chinese_simplified coffeebar_exterior_b15beab2:
 translate chinese_simplified coffeebar_exterior_b1c7288f:
 
     # natsume pouting "Pourquoi tu t'inquiete pour cette petite bite?" id coffeebar_exterior_b1c7288f
-    natsume pouting "你怎么这么担心那个没屌男？" id coffeebar_exterior_b1c7288f
+    natsume pouting "你干嘛这么担心那个没屌男？" id coffeebar_exterior_b1c7288f
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:345
 translate chinese_simplified coffeebar_exterior_5d6c6e97:
 
     # natsume "Ce mec est juste un beau parleur." id coffeebar_exterior_5d6c6e97
-    natsume "那家伙就嘴上功夫好。" id coffeebar_exterior_5d6c6e97
+    natsume "那家伙也就嘴上功夫好。" id coffeebar_exterior_5d6c6e97
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:346
 translate chinese_simplified coffeebar_exterior_d65fec7a:
 
     # natsume happy "De plus je connais bien cet établissement... {w}J'y ai déja travaillée." id coffeebar_exterior_d65fec7a
-    natsume happy "况且，我对那地方还挺熟的……{w}我在那上过班。" id coffeebar_exterior_d65fec7a
+    natsume happy "况且，我对那地方还挺熟的。。。{w}我在那上过班。" id coffeebar_exterior_d65fec7a
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:347
 translate chinese_simplified coffeebar_exterior_13f7647f:
@@ -872,37 +872,37 @@ translate chinese_simplified coffeebar_exterior_929fb880:
 translate chinese_simplified coffeebar_exterior_6754707e:
 
     # natsume "Et encore il faut qu'elles soient consententes." id coffeebar_exterior_6754707e
-    natsume "但即便如此，也得征求对方同意才行。" id coffeebar_exterior_6754707e
+    natsume "即便真的有，也得征求对方同意才行。" id coffeebar_exterior_6754707e
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:351
 translate chinese_simplified coffeebar_exterior_03775ec8_1:
 
     # player "..." id coffeebar_exterior_03775ec8_1
-    player "……" id coffeebar_exterior_03775ec8_1
+    player "..." id coffeebar_exterior_03775ec8_1
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:352
 translate chinese_simplified coffeebar_exterior_5c96e2f9:
 
     # natsume angry "Et puis fait lui confiance un peu!" id coffeebar_exterior_5c96e2f9
-    natsume angry "拜托，稍微相信一点她吧！" id coffeebar_exterior_5c96e2f9
+    natsume angry "拜托，稍微信任她一点吧！" id coffeebar_exterior_5c96e2f9
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:353
 translate chinese_simplified coffeebar_exterior_646651a2:
 
     # natsume "Elle semble faire ça pour vous sortir des emmerdes pas pour s'amuser avec le premier gamin venu." id coffeebar_exterior_646651a2
-    natsume "她这么做是为了让你摆脱麻烦的，不是让你跟第一个出生的孩子一起玩的！" id coffeebar_exterior_646651a2
+    natsume "她这么做是想帮你摆脱困境，不是为了跟男人花天酒地！" id coffeebar_exterior_646651a2
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:354
 translate chinese_simplified coffeebar_exterior_ccbf63c0:
 
     # player neutral "T'es douée..." id coffeebar_exterior_ccbf63c0
-    player neutral "你真厉害……" id coffeebar_exterior_ccbf63c0
+    player neutral "你太会了..." id coffeebar_exterior_ccbf63c0
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:355
 translate chinese_simplified coffeebar_exterior_1c43d75b:
 
     # natsume smug "Précise, y'a un tas de domaine ou j'excele et certains sont confidentiels." id coffeebar_exterior_1c43d75b
-    natsume smug "哪里厉害？我有一堆擅长的事，不过有些得保密。" id coffeebar_exterior_1c43d75b
+    natsume smug "会什么？我会的东西可多了去了，不过有些是个人隐私。" id coffeebar_exterior_1c43d75b
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:356
 translate chinese_simplified coffeebar_exterior_0136f5be:
@@ -926,7 +926,7 @@ translate chinese_simplified coffeebar_exterior_883859e7:
 translate chinese_simplified coffeebar_exterior_3b2b21f9:
 
     # player surprised "Euh... C'est une proposition ou...?" id coffeebar_exterior_3b2b21f9
-    player surprised "额……这是在求欢吗还是……？" id coffeebar_exterior_3b2b21f9
+    player surprised "额...这是在求欢吗还是...？" id coffeebar_exterior_3b2b21f9
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:360
 translate chinese_simplified coffeebar_exterior_1ad1aa52:
@@ -938,13 +938,13 @@ translate chinese_simplified coffeebar_exterior_1ad1aa52:
 translate chinese_simplified coffeebar_exterior_d1834a96:
 
     # natsume smug "Je me doute que tu aimerais bien mais..." id coffeebar_exterior_d1834a96
-    natsume smug "我知道你挺想的，但是……" id coffeebar_exterior_d1834a96
+    natsume smug "我知道你挺想的，但是..." id coffeebar_exterior_d1834a96
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:364
 translate chinese_simplified coffeebar_exterior_0b704b5e:
 
     # natsume "C'était juste une blague." id coffeebar_exterior_0b704b5e
-    natsume "我逗你的。" id coffeebar_exterior_0b704b5e
+    natsume "我逗你玩的。" id coffeebar_exterior_0b704b5e
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:365
 translate chinese_simplified coffeebar_exterior_86a5c6d7:
@@ -956,7 +956,7 @@ translate chinese_simplified coffeebar_exterior_86a5c6d7:
 translate chinese_simplified coffeebar_exterior_727a6aa3:
 
     # natsume "Deux filles sexy rien que pour toi." id coffeebar_exterior_727a6aa3
-    natsume "两个性感的美少女，只为你一个人。" id coffeebar_exterior_727a6aa3
+    natsume "两位性感佳人为君入梦。" id coffeebar_exterior_727a6aa3
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:367
 translate chinese_simplified coffeebar_exterior_10b487bb:
@@ -968,25 +968,25 @@ translate chinese_simplified coffeebar_exterior_10b487bb:
 translate chinese_simplified coffeebar_exterior_53f02ddb:
 
     # natsume pouting "Mince moi qui croyais que t'allais tomber dans le panneau." id coffeebar_exterior_53f02ddb
-    natsume pouting "干，我还以为你会上当呢。" id coffeebar_exterior_53f02ddb
+    natsume pouting "该死，我还以为你会上钩呢。" id coffeebar_exterior_53f02ddb
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:370
 translate chinese_simplified coffeebar_exterior_47300511:
 
     # natsume smug "Mais dans d'autres circonstances... Je n'aurais pas dis non." id coffeebar_exterior_47300511
-    natsume smug "不过，在其他情况下……我不会拒绝的。" id coffeebar_exterior_47300511
+    natsume smug "不过，在其他情况下...我不会拒绝的。" id coffeebar_exterior_47300511
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:371
 translate chinese_simplified coffeebar_exterior_87f3025e:
 
     # natsume "Mais a présent tu es coincée, impossible pour toi de savoir si je suis sarcastique ou pas." id coffeebar_exterior_87f3025e
-    natsume "但现在你分不清是不是我在嘲讽你。" id coffeebar_exterior_87f3025e
+    natsume "但现在你脑子宕机了，分不清我是不是在嘲讽你。" id coffeebar_exterior_87f3025e
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:372
 translate chinese_simplified coffeebar_exterior_ed6623a0:
 
     # player sad "..." id coffeebar_exterior_ed6623a0
-    player sad "……" id coffeebar_exterior_ed6623a0
+    player sad "..." id coffeebar_exterior_ed6623a0
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:373
 translate chinese_simplified coffeebar_exterior_146f8a9c:
@@ -1010,7 +1010,7 @@ translate chinese_simplified coffeebar_exterior_c2273609:
 translate chinese_simplified coffeebar_exterior_57ea6d42:
 
     # natsume happy "Seul le temps le dira." id coffeebar_exterior_57ea6d42
-    natsume happy "时间会证明一切的。" id coffeebar_exterior_57ea6d42
+    natsume happy "时间会告诉你答案。" id coffeebar_exterior_57ea6d42
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:377
 translate chinese_simplified coffeebar_exterior_a4f2f05a:
@@ -1064,7 +1064,7 @@ translate chinese_simplified coffeebar_exterior_9ff56d5a:
 translate chinese_simplified coffeebar_exterior_5545f95c:
 
     # kenji neutral "De toute façon ça tombe bien je boirais bien un truc!" id coffeebar_exterior_5545f95c
-    kenji neutral "时间选的不错，我想喝一杯！" id coffeebar_exterior_5545f95c
+    kenji neutral "时机正好，我想喝点东西！" id coffeebar_exterior_5545f95c
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:401
 translate chinese_simplified coffeebar_exterior_6fcc4016:
@@ -1094,19 +1094,19 @@ translate chinese_simplified coffeebar_exterior_14989668:
 translate chinese_simplified coffeebar_exterior_cf7eb2cb:
 
     # kenji neutral "Non, [akira.n] nous attend depuis bien trop longtemps, on risque d'avoir encore plus d'emmerdes." id coffeebar_exterior_cf7eb2cb
-    kenji neutral "别，[akira.n]已经等得够久了。我们可能会惹上麻烦。" id coffeebar_exterior_cf7eb2cb
+    kenji neutral "别，[akira.n]已经等得够久了。我可不想再惹上更多麻烦。" id coffeebar_exterior_cf7eb2cb
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:425
 translate chinese_simplified coffeebar_exterior_732f8a10:
 
     # x "J'ai plus le choix a présent." id coffeebar_exterior_732f8a10
-    x "我没得选了。" id coffeebar_exterior_732f8a10
+    x "我现在没得选。" id coffeebar_exterior_732f8a10
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:426
 translate chinese_simplified coffeebar_exterior_845c8f58:
 
     # x "Je dois attendre la bonne occasion." id coffeebar_exterior_845c8f58
-    x "我要等待时机。" id coffeebar_exterior_845c8f58
+    x "我得等一个正确的机会。" id coffeebar_exterior_845c8f58
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:433
 translate chinese_simplified coffeebar_exterior_257c6d4d:
@@ -1124,19 +1124,19 @@ translate chinese_simplified coffeebar_exterior_e8a8eed1:
 translate chinese_simplified coffeebar_exterior_bdec40fa:
 
     # player "Bon... Ce type me laissera dans la merde quoi qu'il arrive." id coffeebar_exterior_bdec40fa
-    player "好吧……这家伙无论如何都会让我深陷困境的。" id coffeebar_exterior_bdec40fa
+    player "好吧...这些混球会让我遭大罪的。" id coffeebar_exterior_bdec40fa
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:448
 translate chinese_simplified coffeebar_exterior_5420d6bd:
 
     # player "Mais j'ai l'impression qu'il ne me dit pas tout." id coffeebar_exterior_5420d6bd
-    player "我有种预感，他肯定没把全部都告诉我。" id coffeebar_exterior_5420d6bd
+    player "我有种预感，他肯定没告诉我事情的全部。" id coffeebar_exterior_5420d6bd
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:451
 translate chinese_simplified coffeebar_exterior_601436bf:
 
     # akira "Tiens tiens qui voilà..." id coffeebar_exterior_601436bf
-    akira "瞧瞧，是谁在这儿呢……" id coffeebar_exterior_601436bf
+    akira "瞧瞧，是谁在这儿呢..." id coffeebar_exterior_601436bf
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:452
 translate chinese_simplified coffeebar_exterior_11aa6672:
@@ -1166,13 +1166,13 @@ translate chinese_simplified coffeebar_exterior_d31cc6ee:
 translate chinese_simplified coffeebar_exterior_8a4c9e66:
 
     # akira "Et puis... Je n'oublie pas qui tu sais." id coffeebar_exterior_8a4c9e66
-    akira "而且，我可没忘记那个人。你知道是谁。" id coffeebar_exterior_8a4c9e66
+    akira "还有，我可没忘记那个人——你知道是谁。" id coffeebar_exterior_8a4c9e66
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:457
 translate chinese_simplified coffeebar_exterior_7dab334d:
 
     # akira "Je la baiserais tu peux me croire!" id coffeebar_exterior_7dab334d
-    akira "我会上了她的。你最好相信我！" id coffeebar_exterior_7dab334d
+    akira "我会上了她的。相信我！" id coffeebar_exterior_7dab334d
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:462
 translate chinese_simplified coffeebar_exterior_a3c55d3d:
@@ -1184,7 +1184,7 @@ translate chinese_simplified coffeebar_exterior_a3c55d3d:
 translate chinese_simplified coffeebar_exterior_0307b665:
 
     # x "Je suis certain qu'il prepare un sale coup" id coffeebar_exterior_0307b665
-    x "我敢肯定他没做好事。" id coffeebar_exterior_0307b665
+    x "他肯定盘算着不少坏事。" id coffeebar_exterior_0307b665
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:464
 translate chinese_simplified coffeebar_exterior_9210d93f:
@@ -1200,8 +1200,8 @@ translate chinese_simplified strings:
 
     # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:99
     old "Peut être [macumba.n] pourra il m'aider?"
-    new "也许他能帮我？"
-
+    new "也许[macumba.n]能帮我？"
+ 
     # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:203
     old "Attendre le retour de [yasuka.n] à la maison."
     new "等待[yasuka.n]回家。"
@@ -1216,7 +1216,7 @@ translate chinese_simplified strings:
 
     # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:361
     old "Mais carrement!"
-    new "必须的！"
+    new "当然！"
 
     # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:361
     old "Arrete de te foutre de moi"
@@ -1224,5 +1224,5 @@ translate chinese_simplified strings:
 
     # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:441
     old "Retournez chez vous prévenir [yasuka.n] de faire tres attention a [akira.n]."
-    new "回家警告[yasuka.n]要小心[akira.n]。"
+    new "回家并警告[yasuka.n]要小心[akira.n]。"
 

@@ -52,19 +52,19 @@ translate chinese_simplified pc_noriko_17e596ff:
 translate chinese_simplified pc_noriko_27fe91d9:
 
     # player "Si tu t'étais contentée de me répondre dès le départ on en serait pas arrivé là !" id pc_noriko_27fe91d9
-    player "如果你刚刚就回答我，我就没必要亲自进来！" id pc_noriko_27fe91d9
+    player "如果你一开始就回答我，我就不会亲自进来了！" id pc_noriko_27fe91d9
 
 # game/scripts/story/action/pc_noriko.rpy:41
 translate chinese_simplified pc_noriko_2b82e184:
 
     # x "Il faut que je me sorte de là avant que ça ne dégénère..." id pc_noriko_2b82e184
-    x "我必须在她失控之前离开这里..." id pc_noriko_2b82e184
+    x "我必须在她暴走之前离开这里..." id pc_noriko_2b82e184
 
 # game/scripts/story/action/pc_noriko.rpy:42
 translate chinese_simplified pc_noriko_093f4a70:
 
     # x "Il me faut une idée et vite..." id pc_noriko_093f4a70
-    x "我需要一个办法脱身..." id pc_noriko_093f4a70
+    x "我得想个办法脱身..." id pc_noriko_093f4a70
 
 # game/scripts/story/action/pc_noriko.rpy:43
 translate chinese_simplified pc_noriko_4b35a18b:
@@ -88,7 +88,7 @@ translate chinese_simplified pc_noriko_52971ce2:
 translate chinese_simplified pc_noriko_6150a6d5:
 
     # playerc "Je ne sais pas pourquoi tu ne me prends pas au sérieux, mais ça va changer..." id pc_noriko_6150a6d5
-    playerc "我不知道为什么你从不认真对待我...但现在我们可以直面这个问题..." id pc_noriko_6150a6d5
+    playerc "我不知道为什么你在我面前从来不老实...但现在该改改了..." id pc_noriko_6150a6d5
 
 # game/scripts/story/action/pc_noriko.rpy:53
 translate chinese_simplified pc_noriko_102ef7ee:
@@ -106,7 +106,7 @@ translate chinese_simplified pc_noriko_dae531e8:
 translate chinese_simplified pc_noriko_666b9ce6:
 
     # playerc "Si tu aimes ce genre de chose, peut être qu'on peut trouver une sorte d'arrangement ?" id pc_noriko_666b9ce6
-    playerc "只是说说对你来说还不够...." id pc_noriko_666b9ce6
+    playerc "只是说说对你而言还不够...." id pc_noriko_666b9ce6
 
 # game/scripts/story/action/pc_noriko.rpy:56
 translate chinese_simplified pc_noriko_f2e8ce36:
@@ -190,7 +190,7 @@ translate chinese_simplified pc_noriko_03f06f03:
 translate chinese_simplified pc_noriko_cefb0a59:
 
     # noriko "C'est maman qui t'avais emprunté le baladeur, pas moi..." id pc_noriko_cefb0a59
-    noriko "借你随身听的是妈妈，不是我..." id pc_noriko_cefb0a59
+    noriko "是妈妈借了你的随身听，不是我..." id pc_noriko_cefb0a59
 
 # game/scripts/story/action/pc_noriko.rpy:82
 translate chinese_simplified pc_noriko_d19ce8a2:
@@ -340,13 +340,13 @@ translate chinese_simplified pc_noriko_78450098:
 translate chinese_simplified pc_noriko_bebcd775:
 
     # norikoc "Dorénavant tu m'obeiras au doigt et à l'oeil..." id pc_noriko_bebcd775
-    norikoc "从今往后，你要听我的命令，明白吗？如果我说了，你就得做..." id pc_noriko_bebcd775
+    norikoc "从今往后，你要听我的命令，明白吗？只要我说了，你就得做..." id pc_noriko_bebcd775
 
 # game/scripts/story/action/pc_noriko.rpy:137
 translate chinese_simplified pc_noriko_ce8f4e97:
 
     # playerc "Et si je refuse ?" id pc_noriko_ce8f4e97
-    playerc "如果我拒绝怎么办？" id pc_noriko_ce8f4e97
+    playerc "如果我拒绝呢？" id pc_noriko_ce8f4e97
 
 # game/scripts/story/action/pc_noriko.rpy:138
 translate chinese_simplified pc_noriko_b2f72d90:
@@ -376,13 +376,13 @@ translate chinese_simplified pc_noriko_b14bf260:
 translate chinese_simplified pc_noriko_b3183e43:
 
     # noriko furious "Parfait! Maintenant dégagé de ma chambre !" id pc_noriko_b3183e43
-    noriko furious "很好！现在滚出我的房间，蠢狗！我很忙" id pc_noriko_b3183e43
+    noriko furious "很好！现在滚出我的房间，蠢狗！我很忙！" id pc_noriko_b3183e43
 
 # game/scripts/story/action/pc_noriko.rpy:147
 translate chinese_simplified pc_noriko_e100ab91:
 
     # noriko "Maman te l'a emprunté, je ne touche pas à tes affaires, j'ai pas envie de choper le cancer!" id pc_noriko_e100ab91
-    noriko "是妈从你那里借走的，我不碰你的东西。我不想得癌症！" id pc_noriko_e100ab91
+    noriko "是妈从你那里借走的，我才不碰你的东西。我可不想染上你的脏病！" id pc_noriko_e100ab91
 
 # game/scripts/story/action/pc_noriko.rpy:154
 translate chinese_simplified pc_noriko_a21e86ee:
@@ -394,7 +394,7 @@ translate chinese_simplified pc_noriko_a21e86ee:
 translate chinese_simplified pc_noriko_f5f4e555:
 
     # x "Qu'est-ce..." id pc_noriko_f5f4e555
-    x "什么..." id pc_noriko_f5f4e555
+    x "怎么回事..." id pc_noriko_f5f4e555
 
 # game/scripts/story/action/pc_noriko.rpy:156
 translate chinese_simplified pc_noriko_29621d39:

@@ -64,7 +64,7 @@ translate chinese_simplified dojo_exterior_113a5263:
 translate chinese_simplified dojo_exterior_f74cdb95:
 
     # x "C'était et c'est toujours la pire ordure de toute mon adolescence..." id dojo_exterior_f74cdb95
-    x "它曾经、现在仍然是我见过的最糟糕的人渣..." id dojo_exterior_f74cdb95
+    x "他跟印象中一样，一直是我见过的最糟糕的人渣..." id dojo_exterior_f74cdb95
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:57
 translate chinese_simplified dojo_exterior_b3e9ba34:
@@ -76,19 +76,19 @@ translate chinese_simplified dojo_exterior_b3e9ba34:
 translate chinese_simplified dojo_exterior_a9552264:
 
     # x "Finalement c'est un peu une version masculine de {color=#fd79a8}{b}纪子{/b}{/color}" id dojo_exterior_a9552264
-    x "他就像是 {color=#fd79a8}{b}纪子{/b}{/color}，但是长了个屌" id dojo_exterior_a9552264
+    x "他跟 {color=#fd79a8}{b}纪子{/b}{/color}一个德性，只是多了根屌" id dojo_exterior_a9552264
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:59
 translate chinese_simplified dojo_exterior_dfdeb035:
 
     # x "Je n'avais aucune idée qu'il pratiquait un sport de combat lui aussi..." id dojo_exterior_dfdeb035
-    x "但我不知道他也在练习格斗..." id dojo_exterior_dfdeb035
+    x "但我不知道他也在练武..." id dojo_exterior_dfdeb035
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:60
 translate chinese_simplified dojo_exterior_3dca99e9:
 
     # x "Fait chié, c'était pas prévu du tout ça." id dojo_exterior_3dca99e9
-    x "该死，这根本都是计划外的状况。" id dojo_exterior_3dca99e9
+    x "该死，全是意外状况。" id dojo_exterior_3dca99e9
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:67
 translate chinese_simplified dojo_exterior_d75febc6:
@@ -100,19 +100,19 @@ translate chinese_simplified dojo_exterior_d75febc6:
 translate chinese_simplified dojo_exterior_1ddd0f53:
 
     # akira "Et bien alors, on s'est acheté des couilles ?" id dojo_exterior_1ddd0f53
-    akira "你妈妈给你买了新蛋啦？" id dojo_exterior_1ddd0f53
+    akira "你妈妈给你买了新蛋蛋啦？" id dojo_exterior_1ddd0f53
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:69
 translate chinese_simplified dojo_exterior_cc68c0ea:
 
     # akira "Visiblement c'était le plus petit modèle..." id dojo_exterior_cc68c0ea
-    akira "挑了什么尺寸给你啊？小？还是最小？..." id dojo_exterior_cc68c0ea
+    akira "挑了什么尺寸给你啊？小号？还是最小号？..." id dojo_exterior_cc68c0ea
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:71
 translate chinese_simplified dojo_exterior_92cfab26:
 
     # akira "Va te suicider et tu n'entendras plus parler de moi !" id dojo_exterior_92cfab26
-    akira "去自杀吧，你不会再听到我的消息了！" id dojo_exterior_92cfab26
+    akira "赶紧去自杀吧，别让我再听到你半点消息！" id dojo_exterior_92cfab26
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:72
 translate chinese_simplified dojo_exterior_03775ec8:
@@ -142,7 +142,7 @@ translate chinese_simplified dojo_exterior_03775ec8_1:
 translate chinese_simplified dojo_exterior_6aec3ddd:
 
     # akira arrogant "Mon pauvre, mais tu fais tellement peine... Tu aurais dû t'y mettre y'a des années pour pouvoir faire quelque chose aujourd'hui." id dojo_exterior_6aec3ddd
-    akira arrogant "可怜的孩子，你应该从几年前开始练起。" id dojo_exterior_6aec3ddd
+    akira arrogant "可怜的小子，你应该从几年前就开始练起。" id dojo_exterior_6aec3ddd
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:77
 translate chinese_simplified dojo_exterior_53f8c629:
@@ -154,13 +154,13 @@ translate chinese_simplified dojo_exterior_53f8c629:
 translate chinese_simplified dojo_exterior_d35c3e62:
 
     # akira "T'es juste un putain de cas désespéré !" id dojo_exterior_d35c3e62
-    akira "完全没有希望！" id dojo_exterior_d35c3e62
+    akira "你这蠢蛋已经没有希望了！" id dojo_exterior_d35c3e62
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:79
 translate chinese_simplified dojo_exterior_b073c95d:
 
     # akira angry "Maintenant, casse-toi ou je te jure que je te démonte !" id dojo_exterior_b073c95d
-    akira angry "现在给我滚开，否则我发誓我会杀了你！" id dojo_exterior_b073c95d
+    akira angry "现在给我滚，否则我发誓我会杀了你！" id dojo_exterior_b073c95d
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:83
 translate chinese_simplified dojo_exterior_45b08d41:
@@ -190,13 +190,13 @@ translate chinese_simplified dojo_exterior_99ab2e0d:
 translate chinese_simplified dojo_exterior_3b492d5b:
 
     # akira "Je vais te faire gagner du temps." id dojo_exterior_3b492d5b
-    akira "我会慢慢折磨你。" id dojo_exterior_3b492d5b
+    akira "再给你三秒钟。" id dojo_exterior_3b492d5b
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:90
 translate chinese_simplified dojo_exterior_43cb2245:
 
     # akira "Barre-toi jte dis !" id dojo_exterior_43cb2245
-    akira "保证让你痛不欲生！" id dojo_exterior_43cb2245
+    akira "马上给老子有多远滚多远！" id dojo_exterior_43cb2245
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:92
 translate chinese_simplified dojo_exterior_c8532248:
@@ -244,13 +244,13 @@ translate chinese_simplified dojo_exterior_a21e86ee:
 translate chinese_simplified dojo_exterior_da661e84:
 
     # x "Une belle grosse journée de merde!" id dojo_exterior_da661e84
-    x "糟糕的一天！" id dojo_exterior_da661e84
+    x "这一天也太糟了！" id dojo_exterior_da661e84
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:106
 translate chinese_simplified dojo_exterior_a4c6dea4:
 
     # x "Tant pis pour aujourd'hui, je réfléchirai à tout ça demain..." id dojo_exterior_a4c6dea4
-    x "今天太糟糕了，但事情总会好起来的......" id dojo_exterior_a4c6dea4
+    x "今天就到此为止，明天再说吧......" id dojo_exterior_a4c6dea4
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:126
 translate chinese_simplified dojo_exterior_73a3cff0:
@@ -262,19 +262,19 @@ translate chinese_simplified dojo_exterior_73a3cff0:
 translate chinese_simplified dojo_exterior_aee6a768:
 
     # x "En même temps qu'est-ce qu'elle viendrait faire au dojo." id dojo_exterior_aee6a768
-    x "也对，她来道场做什么？" id dojo_exterior_aee6a768
+    x "也对，她没事来道场干嘛？" id dojo_exterior_aee6a768
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:128
 translate chinese_simplified dojo_exterior_69a49149:
 
     # x "Cette histoire est quand même sacrement louche." id dojo_exterior_69a49149
-    x "这个故事还是很坑爹的。" id dojo_exterior_69a49149
+    x "这事情也太奇怪了。" id dojo_exterior_69a49149
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:129
 translate chinese_simplified dojo_exterior_9ec986cf:
 
     # x "Même si {color=#e17055}{b}水人{/b}{/color} est un peu surprotecteur avec sa sœur pourquoi chercherait-elle à ce point a fuir à la moindre occasion." id dojo_exterior_9ec986cf
-    x "就算{color=#e17055}{b}水人{/b}{/color}对自己的妹妹有点过分保护，她又何必一有机会就这么拼命逃跑。" id dojo_exterior_9ec986cf
+    x "就算{color=#e17055}{b}水人{/b}{/color}对自己的妹妹有点过分保护，她又何必一有机会就这么拼命逃跑？" id dojo_exterior_9ec986cf
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:130
 translate chinese_simplified dojo_exterior_56020f67:
@@ -304,37 +304,37 @@ translate chinese_simplified dojo_exterior_82627d98:
 translate chinese_simplified dojo_exterior_3a353e62:
 
     # player "Je finirais bien par tomber sur elle." id dojo_exterior_3a353e62
-    player "我最终会遇到她。" id dojo_exterior_3a353e62
+    player "我总会在哪遇到她的。" id dojo_exterior_3a353e62
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:143
 translate chinese_simplified dojo_exterior_893d3010:
 
     # player "Oh! Maintenant que j'y pense, je n'ai pas encore essayé le konbini!" id dojo_exterior_893d3010
-    player "哦！想想看，我还没试过便利店呢！" id dojo_exterior_893d3010
+    player "哦！话说回来，我还没去便利店看过呢！" id dojo_exterior_893d3010
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:144
 translate chinese_simplified dojo_exterior_dd1ea67d:
 
     # player happy "Je crois me souvenir qu'ils y vendent des glaces..." id dojo_exterior_dd1ea67d
-    player happy "我好像记得他们在那里卖冰淇淋..." id dojo_exterior_dd1ea67d
+    player happy "我好像记得那边有卖冰淇淋..." id dojo_exterior_dd1ea67d
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:145
 translate chinese_simplified dojo_exterior_2213e36d:
 
     # player "Elle sera forcement là-bas!" id dojo_exterior_2213e36d
-    player "她一定会在那里！" id dojo_exterior_2213e36d
+    player "她一定在那里！" id dojo_exterior_2213e36d
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:157
 translate chinese_simplified dojo_exterior_3eb73dbd:
 
     # playerc "Arrête toi qu'on discute!" id dojo_exterior_3eb73dbd
-    playerc "给我站住！" id dojo_exterior_3eb73dbd
+    playerc "嘿，我能跟你聊聊吗！" id dojo_exterior_3eb73dbd
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:160
 translate chinese_simplified dojo_exterior_bfdd1eac:
 
     # kimochi "Je suis hétéro désolé!" id dojo_exterior_bfdd1eac
-    kimochi "我身上没有急支糖浆！" id dojo_exterior_bfdd1eac
+    kimochi "对不起我不是男同！" id dojo_exterior_bfdd1eac
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:163
 translate chinese_simplified dojo_exterior_5f6f4b02:
@@ -346,7 +346,7 @@ translate chinese_simplified dojo_exterior_5f6f4b02:
 translate chinese_simplified dojo_exterior_4d60973b:
 
     # player "Il se dirige vers le {color=#ff0}{b}parc{/b}{/color} à présent." id dojo_exterior_4d60973b
-    player "他现在要去 {color=#ff0}{b}公园{/b}{/color}。" id dojo_exterior_4d60973b
+    player "他朝着 {color=#ff0}{b}公园{/b}{/color}跑了。" id dojo_exterior_4d60973b
 
 translate chinese_simplified strings:
 
@@ -374,19 +374,19 @@ translate chinese_simplified dojo_exterior_24f5eff2:
 translate chinese_simplified dojo_exterior_0f298bc3:
 
     # player furious "Mais putain lachez moi!" id dojo_exterior_0f298bc3
-    player furious "操，让我走！" id dojo_exterior_0f298bc3
+    player furious "操，让我过去！" id dojo_exterior_0f298bc3
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:175
 translate chinese_simplified dojo_exterior_58ec0130:
 
     # akira angry "Seulement quand tu seras mort!" id dojo_exterior_58ec0130
-    akira angry "那你得先去死。" id dojo_exterior_58ec0130
+    akira angry "那你得先死一遍。" id dojo_exterior_58ec0130
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:191
 translate chinese_simplified dojo_exterior_806d4cb0:
 
     # akira "Monsieur [player.n] nous daigne enfin de sa présence." id dojo_exterior_806d4cb0
-    akira "[player.n]先生终于屈尊光临，令我们倍感荣幸啊。" id dojo_exterior_806d4cb0
+    akira "[player.n]先生终于屈尊光临，真是令我们倍感荣幸啊。" id dojo_exterior_806d4cb0
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:192
 translate chinese_simplified dojo_exterior_33854b34:
@@ -404,7 +404,7 @@ translate chinese_simplified dojo_exterior_7ef10cbb:
 translate chinese_simplified dojo_exterior_3070a588:
 
     # kenji "Ooooh, elle a bien grandit notre victime préféré." id dojo_exterior_3070a588
-    kenji "噢……我们最爱的受害者长大了啊。" id dojo_exterior_3070a588
+    kenji "噢吼吼，我们最喜欢的受气包有出息了啊。" id dojo_exterior_3070a588
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:196
 translate chinese_simplified dojo_exterior_ebf30710:
@@ -422,31 +422,31 @@ translate chinese_simplified dojo_exterior_d32f578d:
 translate chinese_simplified dojo_exterior_6eeb3e27:
 
     # akira "Je ne sais pas ce qu'il s'est passé pour que tu changes autant en quelque temps." id dojo_exterior_6eeb3e27
-    akira "我不知道发生了什么能让你短时间内改变这么多。" id dojo_exterior_6eeb3e27
+    akira "我不知道发生了什么能让你短时间内变化这么大。" id dojo_exterior_6eeb3e27
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:199
 translate chinese_simplified dojo_exterior_93e30adc:
 
     # akira "Mais je vais te montrer que tout ça n'a servis a rien." id dojo_exterior_93e30adc
-    akira "但我会告诉你，这一切都是徒劳……" id dojo_exterior_93e30adc
+    akira "但我要告诉你，你什么都改变不了……" id dojo_exterior_93e30adc
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:200
 translate chinese_simplified dojo_exterior_18a22283:
 
     # akira "Sauf a aggraver ton cas!" id dojo_exterior_18a22283
-    akira "除了只会让你情况变得更糟！" id dojo_exterior_18a22283
+    akira "……只有你的处境会变得更糟！" id dojo_exterior_18a22283
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:201
 translate chinese_simplified dojo_exterior_b47a3411:
 
     # player "Si vous voulez vraiment m'arretez faudra me tuer!" id dojo_exterior_b47a3411
-    player "如果你真想阻止我，你得先杀了我！" id dojo_exterior_b47a3411
+    player "你要真想阻止我，就先杀了我吧！" id dojo_exterior_b47a3411
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:202
 translate chinese_simplified dojo_exterior_e8b68a52:
 
     # akira neutral "..." id dojo_exterior_e8b68a52
-    akira neutral "……" id dojo_exterior_e8b68a52
+    akira neutral "..." id dojo_exterior_e8b68a52
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:203
 translate chinese_simplified dojo_exterior_a6c2a972:
@@ -458,25 +458,25 @@ translate chinese_simplified dojo_exterior_a6c2a972:
 translate chinese_simplified dojo_exterior_f3694c1d:
 
     # takeo "{size=-10}Mais ouais, j'en ai des frissons.{/size}" id dojo_exterior_f3694c1d
-    takeo "{size=-10}是啊，让我不寒而栗。{/size}" id dojo_exterior_f3694c1d
+    takeo "{size=-10}是啊，快把我吓尿了。{/size}" id dojo_exterior_f3694c1d
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:205
 translate chinese_simplified dojo_exterior_e415bcd7:
 
     # akira arrogant "C'est déja ce que j'avais en tête!" id dojo_exterior_e415bcd7
-    akira arrogant "我的确就是这么想的！" id dojo_exterior_e415bcd7
+    akira arrogant "如你所言，我正想杀了你！" id dojo_exterior_e415bcd7
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:206
 translate chinese_simplified dojo_exterior_4596023f:
 
     # nobu disgusted "euh... on avait dit qu'on le tabassait mais qu'on allait le tuer." id dojo_exterior_4596023f
-    nobu disgusted "额……我们说会揍他一顿，但不是杀了他……" id dojo_exterior_4596023f
+    nobu disgusted "额...我们说会揍他一顿，但不是真要杀了他..." id dojo_exterior_4596023f
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:207
 translate chinese_simplified dojo_exterior_a8acba43:
 
     # kenji disgusted "Je suis pas très chaud non plus, on nous a vu courir avec lui partout dans la ville." id dojo_exterior_a8acba43
-    kenji disgusted "我也不想那么做。我们追了他一座城这事都被别人看到了。" id dojo_exterior_a8acba43
+    kenji disgusted "我也不想那么做。我们满城追他的事都被别人看到了。" id dojo_exterior_a8acba43
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:208
 translate chinese_simplified dojo_exterior_1050cd30:
@@ -506,25 +506,25 @@ translate chinese_simplified dojo_exterior_d28302ea:
 translate chinese_simplified dojo_exterior_ba0fbb3f:
 
     # x "Je ne pensais pas qu'il irait jusqu'ici." id dojo_exterior_ba0fbb3f
-    x "我没想到他想得这么远。" id dojo_exterior_ba0fbb3f
+    x "没想到他胆子这么肥。" id dojo_exterior_ba0fbb3f
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:219
 translate chinese_simplified dojo_exterior_f43de213:
 
     # x "Maintenant que j'y pense est ce que c'est lui s'est débarassé de [noriko.n] dans ma précédente vie?" id dojo_exterior_f43de213
-    x "现在想想，他不就是我上辈子杀死[noriko.n]的那个人吗？" id dojo_exterior_f43de213
+    x "现在想想，他不就是在我前世杀掉[noriko.n]的那个人吗？" id dojo_exterior_f43de213
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:220
 translate chinese_simplified dojo_exterior_86158feb:
 
     # x "Si je ne fais rien je vais subir le même sort." id dojo_exterior_86158feb
-    x "如果我什么都不做，我也会遭受同样的命运。" id dojo_exterior_86158feb
+    x "如果我不做点什么，我也会遭受同样的命运。" id dojo_exterior_86158feb
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:221
 translate chinese_simplified dojo_exterior_7253c3bc:
 
     # x "Il va me falloir un miracle pour me sortir de ce pétrin." id dojo_exterior_7253c3bc
-    x "我需要奇迹来帮我摆脱现在的困境。" id dojo_exterior_7253c3bc
+    x "只有发生奇迹才能帮我逃出这个修罗场了。" id dojo_exterior_7253c3bc
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:228
 translate chinese_simplified dojo_exterior_bb6a42e4:
@@ -536,19 +536,19 @@ translate chinese_simplified dojo_exterior_bb6a42e4:
 translate chinese_simplified dojo_exterior_d63d6b65:
 
     # takeo "..." id dojo_exterior_d63d6b65
-    takeo "……" id dojo_exterior_d63d6b65
+    takeo "..." id dojo_exterior_d63d6b65
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:230
 translate chinese_simplified dojo_exterior_4e85f34e:
 
     # kenji "Putain on va droit vers les emmerdes." id dojo_exterior_4e85f34e
-    kenji "妈的，我们会有麻烦的。" id dojo_exterior_4e85f34e
+    kenji "妈的，我们要惹上麻烦了。" id dojo_exterior_4e85f34e
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:231
 translate chinese_simplified dojo_exterior_ddb769c5:
 
     # akira angry "DEPECHEZ VOUS BORDEL!" id dojo_exterior_ddb769c5
-    akira angry "该死的玩意，快点！" id dojo_exterior_ddb769c5
+    akira angry "滚开！" id dojo_exterior_ddb769c5
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:232
 translate chinese_simplified dojo_exterior_35251e2c:
@@ -566,7 +566,7 @@ translate chinese_simplified dojo_exterior_b39d2e22:
 translate chinese_simplified dojo_exterior_975a6399:
 
     # akira "REVENEZ BANDE DE L-" id dojo_exterior_975a6399
-    akira "给我回来，你们这群—" id dojo_exterior_975a6399
+    akira "给我回来，你们这群——" id dojo_exterior_975a6399
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:243
 translate chinese_simplified dojo_exterior_6f1d2d0f:
@@ -584,7 +584,7 @@ translate chinese_simplified dojo_exterior_1b30a65e:
 translate chinese_simplified dojo_exterior_e8b68a52_1:
 
     # akira neutral "..." id dojo_exterior_e8b68a52_1
-    akira neutral "……" id dojo_exterior_e8b68a52_1
+    akira neutral "..." id dojo_exterior_e8b68a52_1
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:246
 translate chinese_simplified dojo_exterior_5fefe4f3:
@@ -608,13 +608,13 @@ translate chinese_simplified dojo_exterior_6517777e:
 translate chinese_simplified dojo_exterior_fc2622b7:
 
     # akira angry "...Faites attention a ce que vous dites, votre boutique pourrait prendre feu, un accident est vité arrivé!" id dojo_exterior_fc2622b7
-    akira angry "……注意你的言辞。你的店可能会着火的。意外会比你想象中来得快！" id dojo_exterior_fc2622b7
+    akira angry "...注意你的言辞。你的店铺可能会着火的，意外会比你想象中来得快！" id dojo_exterior_fc2622b7
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:251
 translate chinese_simplified dojo_exterior_5b5bd7a1:
 
     # ubs "Oups désolé j'avais oublié d'arreter l'enregistrement." id dojo_exterior_5b5bd7a1
-    ubs "噢抱歉。我忘记停止摄像了。" id dojo_exterior_5b5bd7a1
+    ubs "噢抱歉，我忘记停止摄像了。" id dojo_exterior_5b5bd7a1
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:252
 translate chinese_simplified dojo_exterior_e6b454b9:
@@ -632,7 +632,7 @@ translate chinese_simplified dojo_exterior_01172fe6:
 translate chinese_simplified dojo_exterior_aa36628e:
 
     # akira "Ca se terminera pas comme ça!" id dojo_exterior_aa36628e
-    akira "这还没完！" id dojo_exterior_aa36628e
+    akira "这事没完！" id dojo_exterior_aa36628e
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:255
 translate chinese_simplified dojo_exterior_ae074b7e:
@@ -644,13 +644,13 @@ translate chinese_simplified dojo_exterior_ae074b7e:
 translate chinese_simplified dojo_exterior_22c611b3:
 
     # ubs angry "Casse toi maintenant!" id dojo_exterior_22c611b3
-    ubs angry "现在，给我爬开！" id dojo_exterior_22c611b3
+    ubs angry "赶紧给爷爬！" id dojo_exterior_22c611b3
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:257
 translate chinese_simplified dojo_exterior_a412d196:
 
     # akira "Tch" id dojo_exterior_a412d196
-    akira "嘁。" id dojo_exterior_a412d196
+    akira "嘁！" id dojo_exterior_a412d196
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:262
 translate chinese_simplified dojo_exterior_2a72d32b:
@@ -662,25 +662,25 @@ translate chinese_simplified dojo_exterior_2a72d32b:
 translate chinese_simplified dojo_exterior_ef3f6652:
 
     # ubs "Ca me rapelle un peu ma jeunesse." id dojo_exterior_ef3f6652
-    ubs "让我想起了自己年轻的时候。" id dojo_exterior_ef3f6652
+    ubs "让我想起了我的青春岁月。" id dojo_exterior_ef3f6652
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:264
 translate chinese_simplified dojo_exterior_91d1922b:
 
     # player "Pourquoi?{w} Pourquoi vous avez changé d'avis?" id dojo_exterior_91d1922b
-    player "为什么？{w}为什么你改变想法了？" id dojo_exterior_91d1922b
+    player "为什么帮我？{w}你的态度怎么180°大转弯了？" id dojo_exterior_91d1922b
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:265
 translate chinese_simplified dojo_exterior_5146ba0a:
 
     # ubs arrogant "Quoi tu ne penses pas qu'un homme a le droit de regretter ses actes et de changer d'avis?" id dojo_exterior_5146ba0a
-    ubs arrogant "啥？你不认为一个成年男人有权利为他的行为感到后悔并改变心意吗？" id dojo_exterior_5146ba0a
+    ubs arrogant "嗯？你不认为一个成年男人有权利反思自己的行为并改变心意吗？" id dojo_exterior_5146ba0a
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:270
 translate chinese_simplified dojo_exterior_9029b20b:
 
     # x "Merde j'ai beau savoir qu'il m'a aidé..." id dojo_exterior_9029b20b
-    x "该死，尽管他帮了我……" id dojo_exterior_9029b20b
+    x "该死，尽管他帮了我..." id dojo_exterior_9029b20b
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:271
 translate chinese_simplified dojo_exterior_e48197db:
@@ -692,7 +692,7 @@ translate chinese_simplified dojo_exterior_e48197db:
 translate chinese_simplified dojo_exterior_7e56af26:
 
     # ubs "Allez petit ingrat, je te raccompagne chez toi!" id dojo_exterior_7e56af26
-    ubs "来吧你个白眼狼！我送你回家！" id dojo_exterior_7e56af26
+    ubs "来吧你这白眼狼，我送你回家！" id dojo_exterior_7e56af26
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:278
 translate chinese_simplified dojo_exterior_75f8a3db:

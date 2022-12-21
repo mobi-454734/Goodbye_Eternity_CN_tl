@@ -2212,37 +2212,37 @@ translate chinese_simplified home_player_room_d3744d5a:
 translate chinese_simplified home_player_room_0a7a0ec0:
 
     # asami "Qu'est-ce que voulait {color=#a29bfe}{b}[yasuka_name]{/b}{/color}?" id home_player_room_0a7a0ec0
-    asami "[yasuka.n] 想要什么？" id home_player_room_0a7a0ec0
+    asami "[yasuka.n] 跟你说什么了？" id home_player_room_0a7a0ec0
 
 # game/scripts/story/residential district/player's home/home_player_room.rpy:927
 translate chinese_simplified home_player_room_c7d6e5d4:
 
     # player "Elle m'a dit que [noriko.n] n'avait pas cessée de nous espionner la dernière fois que tu es venue." id home_player_room_c7d6e5d4
-    player "她告诉我，上次你来的时候，[noriko.n] 一直在监视我们。" id home_player_room_c7d6e5d4
+    player "她告诉我，上次你来的时候，[noriko.n] 一直在偷听我们。" id home_player_room_c7d6e5d4
 
 # game/scripts/story/residential district/player's home/home_player_room.rpy:928
 translate chinese_simplified home_player_room_4415cdf5:
 
     # player "Elle m'a demandé si on pouvait jouer avec elle..." id home_player_room_4415cdf5
-    player "她问我能不能和她一起玩..." id home_player_room_4415cdf5
+    player "她问我们能不能和她一起玩..." id home_player_room_4415cdf5
 
 # game/scripts/story/residential district/player's home/home_player_room.rpy:929
 translate chinese_simplified home_player_room_ca0fd05c:
 
     # asami happy "Dis-moi elle au courant que tu n'as plus 7 ans?" id home_player_room_ca0fd05c
-    asami happy "告诉我她知道你不再是 7 岁了吗？" id home_player_room_ca0fd05c
+    asami happy "她都多大了，还像小孩子一样？" id home_player_room_ca0fd05c
 
 # game/scripts/story/residential district/player's home/home_player_room.rpy:930
 translate chinese_simplified home_player_room_421ffa21:
 
     # player happy "Ouais ouais je sais..." id home_player_room_421ffa21
-    player happy "是啊是啊我知道..." id home_player_room_421ffa21
+    player happy "是啊我知道..." id home_player_room_421ffa21
 
 # game/scripts/story/residential district/player's home/home_player_room.rpy:931
 translate chinese_simplified home_player_room_8f17b46e:
 
     # player "Mais elle restera dehors, si elle veut venir avec nous elle n'a qu'a le demander elle-même." id home_player_room_8f17b46e
-    player "但她会留在外面，如果她想和我们一起去，她只需要自己提出要求。" id home_player_room_8f17b46e
+    player "如果她想和我们一起玩，她应该自己提出要求。" id home_player_room_8f17b46e
 
 # game/scripts/story/residential district/player's home/home_player_room.rpy:932
 translate chinese_simplified home_player_room_f2cee9c6:

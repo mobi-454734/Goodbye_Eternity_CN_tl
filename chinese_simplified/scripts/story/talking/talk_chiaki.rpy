@@ -16,13 +16,13 @@ translate chinese_simplified talk_chiaki_b71d2505:
 translate chinese_simplified talk_chiaki_3b1fbc71:
 
     # player "C'est rare de te voir seule dehors..." id talk_chiaki_3b1fbc71
-    player "很少见到你一个人在外面..." id talk_chiaki_3b1fbc71
+    player "很少见到你一个人在外面玩..." id talk_chiaki_3b1fbc71
 
 # game/scripts/story/talking/talk_chiaki.rpy:23
 translate chinese_simplified talk_chiaki_862eaf93:
 
-    # player "Tout va bien ? [minato.n] est avec toi ?" id talk_chiaki_862eaf93
-    player "一切都还好...吗？ [minato.n] 和你在一起吗？" id talk_chiaki_862eaf93
+    # player "Tout va bien ? {color=#e17055}{b}水人{/b}{/color} est avec toi ?" id talk_chiaki_862eaf93
+    player "一切都还好...吗？ {color=#e17055}{b}水人{/b}{/color} 和你在一起吗？" id talk_chiaki_862eaf93
 
 # game/scripts/story/talking/talk_chiaki.rpy:24
 translate chinese_simplified talk_chiaki_f92aacbb:
@@ -34,7 +34,7 @@ translate chinese_simplified talk_chiaki_f92aacbb:
 translate chinese_simplified talk_chiaki_27895173:
 
     # minato "{color=#ffcccc}{b}[chiaki_name]{/b}{/color} ! Je t'avais dit de ne pas t'éloigner de moi ?! " id talk_chiaki_27895173
-    minato "{color=#ffcccc}{b}千秋{/b}{/color}！我有告诉过你不要离开我吗？！" id talk_chiaki_27895173
+    minato "{color=#ffcccc}{b}千秋{/b}{/color}！我难道没跟你说过不要离开我旁边吗？！" id talk_chiaki_27895173
 
 # game/scripts/story/talking/talk_chiaki.rpy:29
 translate chinese_simplified talk_chiaki_bb1d5c2b:
@@ -70,7 +70,7 @@ translate chinese_simplified talk_chiaki_5e674933:
 translate chinese_simplified talk_chiaki_4f59b177:
 
     # player happy "Tu sais que tu ne pourras pas toujours la surveiller." id talk_chiaki_4f59b177
-    player happy "你知道你没法照顾她一辈子。" id talk_chiaki_4f59b177
+    player happy "你也知道吧，你没法照顾她一辈子。" id talk_chiaki_4f59b177
 
 # game/scripts/story/talking/talk_chiaki.rpy:38
 translate chinese_simplified talk_chiaki_1962963d:
@@ -135,14 +135,14 @@ translate chinese_simplified talk_chiaki_86ab38bb:
 # game/scripts/story/talking/talk_chiaki.rpy:56
 translate chinese_simplified talk_chiaki_b528d151:
 
-    # minato "Déjà, rien qu'à voir ta tête, je peux savoir que [noriko.n] tu as bien pris la tête ce matin !" id talk_chiaki_b528d151
-    minato "光看你的表情就知道 [noriko.n] 今天早上又给你找不痛快了吧！" id talk_chiaki_b528d151
+    # minato "Déjà, rien qu'à voir ta tête, je peux savoir que {color=#fd79a8}{b}纪子{/b}{/color} tu as bien pris la tête ce matin !" id talk_chiaki_b528d151
+    minato "光看你的表情就知道 {color=#fd79a8}{b}纪子{/b}{/color} 今天早上又给你找不痛快了吧！" id talk_chiaki_b528d151
 
 # game/scripts/story/talking/talk_chiaki.rpy:57
 translate chinese_simplified talk_chiaki_bf5063a2:
 
     # minato "Je ne comprends pas pourquoi tu ne l'envoies pas chier un bon coup." id talk_chiaki_bf5063a2
-    minato "我不明白你为什么不给她点颜色看看。" id talk_chiaki_bf5063a2
+    minato "我不明白你为什么不干脆给她点颜色看看。" id talk_chiaki_bf5063a2
 
 # game/scripts/story/talking/talk_chiaki.rpy:58
 translate chinese_simplified talk_chiaki_76ce43a3:
@@ -154,13 +154,13 @@ translate chinese_simplified talk_chiaki_76ce43a3:
 translate chinese_simplified talk_chiaki_ac1426f0:
 
     # player "Et puis si c'est pour la surprendre à glisser à nouveau du produit vaisselle dans ce que je bouffe, merci..." id talk_chiaki_ac1426f0
-    player "她上次还把洗洁精放到我的饭里了..." id talk_chiaki_ac1426f0
+    player "她上次还把洗洁精放到我的饭里了，真的恶心人..." id talk_chiaki_ac1426f0
 
 # game/scripts/story/talking/talk_chiaki.rpy:60
 translate chinese_simplified talk_chiaki_c796144a:
 
     # player neutral "Bon.. De quoi voulais-tu parler ? C'était nécessaire d'éloigner {color=#ffcccc}{b}[chiaki_name]{/b}{/color} ?" id talk_chiaki_c796144a
-    player neutral "言归正传..你想谈什么？能重要到要把 {color=#ffcccc}{b}千秋{/b}{/color} 给支走？" id talk_chiaki_c796144a
+    player neutral "言归正传..你想谈什么重要的事？还需要把 {color=#ffcccc}{b}千秋{/b}{/color} 给支走的吗？" id talk_chiaki_c796144a
 
 # game/scripts/story/talking/talk_chiaki.rpy:61
 translate chinese_simplified talk_chiaki_274794e5:
@@ -172,25 +172,25 @@ translate chinese_simplified talk_chiaki_274794e5:
 translate chinese_simplified talk_chiaki_07a40337:
 
     # player surprised "Oh ?" id talk_chiaki_07a40337
-    player surprised "哦 ？" id talk_chiaki_07a40337
+    player surprised "哦?" id talk_chiaki_07a40337
 
 # game/scripts/story/talking/talk_chiaki.rpy:63
 translate chinese_simplified talk_chiaki_b2b9ec7e:
 
     # player happy "Tu avais ma curiosité, mais maintenant tu as toute mon attention !" id talk_chiaki_b2b9ec7e
-    player happy "什么事你搞得这么神秘！" id talk_chiaki_b2b9ec7e
+    player happy "什么事啊到底是，搞得这么神秘！" id talk_chiaki_b2b9ec7e
 
 # game/scripts/story/talking/talk_chiaki.rpy:64
 translate chinese_simplified talk_chiaki_b539d88a:
 
     # minato "Je vais faire bref, car on m'attend ailleurs, mais c'est au sujet de la rentrée..." id talk_chiaki_b539d88a
-    minato "因为我还有别的事就不卖关子了，我要和你说的是关于学校的事......" id talk_chiaki_b539d88a
+    minato "因为我还有别的事要办，就不卖关子了，我要和你说的是关于学校的事......" id talk_chiaki_b539d88a
 
 # game/scripts/story/talking/talk_chiaki.rpy:65
 translate chinese_simplified talk_chiaki_fc178d1d:
 
     # minato "J'ai pu discuter avec les connards qui s'amusent à te pourrir la vie à la fac..." id talk_chiaki_fc178d1d
-    minato "我为了能够在大学里和你玩得开心，和那些成天找你麻烦的混蛋聊过了......" id talk_chiaki_fc178d1d
+    minato "为了能够在大学里和你一起玩时候顺心点，我去和那些成天找你麻烦的混球们聊过了......" id talk_chiaki_fc178d1d
 
 # game/scripts/story/talking/talk_chiaki.rpy:66
 translate chinese_simplified talk_chiaki_ab9462ca:
@@ -225,20 +225,20 @@ translate chinese_simplified talk_chiaki_fbb7d968:
 # game/scripts/story/talking/talk_chiaki.rpy:71
 translate chinese_simplified talk_chiaki_50276a38:
 
-    # player happy "...{w}Merci [minato.n], ça compte beaucoup ce que tu as fait pour moi..." id talk_chiaki_50276a38
-    player happy "...{w}谢谢你[minato.n]，你真的替我着想..." id talk_chiaki_50276a38
+    # player happy "...{w}Merci {color=#e17055}{b}水人{/b}{/color}, ça compte beaucoup ce que tu as fait pour moi..." id talk_chiaki_50276a38
+    player happy "...{w}谢谢你{color=#e17055}{b}水人{/b}{/color}，真的感谢你替我着想..." id talk_chiaki_50276a38
 
 # game/scripts/story/talking/talk_chiaki.rpy:72
 translate chinese_simplified talk_chiaki_e354d288:
 
     # minato "On en discutera plus longuement si tu veux, il n’y a pas mal de choses à dire." id talk_chiaki_e354d288
-    minato "如果你愿意，我还可以告诉你更多，这是一个地狱般的故事。" id talk_chiaki_e354d288
+    minato "如果你愿意，我还可以告诉你更多细节，这故事说出来绝对把你下巴都给惊掉。" id talk_chiaki_e354d288
 
 # game/scripts/story/talking/talk_chiaki.rpy:73
 translate chinese_simplified talk_chiaki_25d634d5:
 
     # player "Oui, j'imagine..." id talk_chiaki_25d634d5
-    player "是的，我可以想象..." id talk_chiaki_25d634d5
+    player "啊，大概可以想象出来..." id talk_chiaki_25d634d5
 
 # game/scripts/story/talking/talk_chiaki.rpy:74
 translate chinese_simplified talk_chiaki_fc2121d5:
@@ -250,7 +250,7 @@ translate chinese_simplified talk_chiaki_fc2121d5:
 translate chinese_simplified talk_chiaki_166c7009:
 
     # minato happy "À plus !" id talk_chiaki_166c7009
-    minato happy "拜了 ！" id talk_chiaki_166c7009
+    minato happy "拜了!" id talk_chiaki_166c7009
 
 # game/scripts/story/talking/talk_chiaki.rpy:76
 translate chinese_simplified talk_chiaki_03775ec8:
@@ -285,8 +285,8 @@ translate chinese_simplified talk_chiaki_8777289c:
 # game/scripts/story/talking/talk_chiaki.rpy:88
 translate chinese_simplified talk_chiaki_245415ef:
 
-    # x "Il faut absolument que je dise à [minato.n] de laisser tomber tout ça." id talk_chiaki_245415ef
-    x "我必须告诉 [minato.n] 放弃这一切。" id talk_chiaki_245415ef
+    # x "Il faut absolument que je dise à {color=#e17055}{b}水人{/b}{/color} de laisser tomber tout ça." id talk_chiaki_245415ef
+    x "我必须想办法说服 {color=#e17055}{b}水人{/b}{/color} 放弃去和那些家伙交涉！" id talk_chiaki_245415ef
 
 # game/scripts/story/talking/talk_chiaki.rpy:89
 translate chinese_simplified talk_chiaki_fcbf7961:
@@ -298,19 +298,19 @@ translate chinese_simplified talk_chiaki_fcbf7961:
 translate chinese_simplified talk_chiaki_be9b4517:
 
     # player surprised "Ah, fait chier il est déjà aussi tard !" id talk_chiaki_be9b4517
-    player surprised "啊，该死的已经这么晚了！" id talk_chiaki_be9b4517
+    player surprised "啊，妈的，已经这么晚了！" id talk_chiaki_be9b4517
 
 # game/scripts/story/talking/talk_chiaki.rpy:96
 translate chinese_simplified talk_chiaki_584aae08:
 
     # player upset "Trop tard pour aller courir, autant aller voir si ça recrute au {color=#efdf31}{b}restaurant{/b}{/color} du coin !" id talk_chiaki_584aae08
-    player upset "去跑步太晚了，不如去看看当地的{color=#efdf31}{b}餐馆{/b}{/color}有没有招人！" id talk_chiaki_584aae08
+    player upset "去跑步未免太晚了点，不如去看看城里的{color=#efdf31}{b}餐馆{/b}{/color}有没有在招募人吧！" id talk_chiaki_584aae08
 
 translate chinese_simplified strings:
 
     # game/scripts/story/talking/talk_chiaki.rpy:9
     old "Trop tard pour courir essayez plutôt le {color=#FFFF00}{b}restaurant{/b}{/color} un peu plus loin."
-    new "现在跑步已经太晚了。应该去城里的 {color=#FFFF00}{b}餐厅{/b}{/color} 试试。"
+    new "现在跑步已经太晚了。应该去城里的 {color=#FFFF00}{b}餐厅{/b}{/color} 看看。"
 
 # TODO: Translation updated at 2022-09-13 15:40
 
@@ -330,7 +330,7 @@ translate chinese_simplified talk_chiaki_dca24a36:
 translate chinese_simplified talk_chiaki_8aadd0b8:
 
     # player neutral "Bon.. De quoi voulais-tu me parler?" id talk_chiaki_8aadd0b8
-    player neutral "好吧..你想和我谈什么？" id talk_chiaki_8aadd0b8
+    player neutral "好吧...你想和我谈什么？" id talk_chiaki_8aadd0b8
 
 # game/scripts/story/talking/talk_chiaki.rpy:77
 translate chinese_simplified talk_chiaki_bf651bed:

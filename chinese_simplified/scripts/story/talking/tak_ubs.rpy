@@ -16,7 +16,7 @@ translate chinese_simplified talk_ubs_16ec413d:
 translate chinese_simplified talk_ubs_21bb631c:
 
     # player "Ma-" id talk_ubs_21bb631c
-    player "操" id talk_ubs_21bb631c
+    player "操-" id talk_ubs_21bb631c
 
 # game/scripts/story/talking/tak_ubs.rpy:17
 translate chinese_simplified talk_ubs_f5987766:
@@ -40,13 +40,13 @@ translate chinese_simplified talk_ubs_a8bd39f9:
 translate chinese_simplified talk_ubs_c7e603a2:
 
     # ubs "Tu sais, je serais un super beau-papa tu verras." id talk_ubs_c7e603a2
-    ubs "你知道，我会成为一个伟大的继父，你会看到的。" id talk_ubs_c7e603a2
+    ubs "我会成为一个值得称赞的继父，你会看到那一天的。" id talk_ubs_c7e603a2
 
 # game/scripts/story/talking/tak_ubs.rpy:33
 translate chinese_simplified talk_ubs_0f328635:
 
     # ubs "Enfin... Je vais surtout m'occuper d'elle si tu vois ce que je veux dire." id talk_ubs_0f328635
-    ubs "不管怎样...我会照顾她的，如果你明白我意思的话。" id talk_ubs_0f328635
+    ubs "不管怎么说...我会照顾好她的，如果你明白我意思的话。" id talk_ubs_0f328635
 
 # game/scripts/story/talking/tak_ubs.rpy:46
 translate chinese_simplified talk_ubs_fcc2f08b:
@@ -633,14 +633,14 @@ translate chinese_simplified talk_ubs_02c95d0c:
 # game/scripts/story/talking/tak_ubs.rpy:265
 translate chinese_simplified talk_ubs_9b9c0a60:
 
-    # x "Il faut que je demande a [noriko.n]." id talk_ubs_9b9c0a60
-    x "我得问问[noriko.n]。" id talk_ubs_9b9c0a60
+    # x "Il faut que je demande a {color=#fd79a8}{b}纪子{/b}{/color}." id talk_ubs_9b9c0a60
+    x "我得问问{color=#fd79a8}{b}纪子{/b}{/color}。" id talk_ubs_9b9c0a60
 
 # game/scripts/story/talking/tak_ubs.rpy:266
 translate chinese_simplified talk_ubs_f2d7763b:
 
     # x "Et il faut surtout que j'en profite pour régler cette histoire avec {color=#a29bfe}{b}[yasuka_name]{/b}{/color}." id talk_ubs_f2d7763b
-    x "最重要的是，我必须借此机会与 [yasuka.n] 解决这个问题。" id talk_ubs_f2d7763b
+    x "最重要的是，我必须借此机会与 {color=#a29bfe}{b}安香{/b}{/color} 解决这个问题。" id talk_ubs_f2d7763b
 
 # game/scripts/story/talking/tak_ubs.rpy:271
 translate chinese_simplified talk_ubs_5f1e7a60:
@@ -711,8 +711,8 @@ translate chinese_simplified talk_ubs_b1d977df:
 # game/scripts/story/talking/tak_ubs.rpy:284
 translate chinese_simplified talk_ubs_3e0a2cd2:
 
-    # player "Je ferais mieux d'aller au restaurant, je parlerais a [noriko.n] ce soir." id talk_ubs_3e0a2cd2
-    player "我最好去餐厅，今晚我会和 [noriko.n] 谈谈。" id talk_ubs_3e0a2cd2
+    # player "Je ferais mieux d'aller au restaurant, je parlerais a {color=#fd79a8}{b}纪子{/b}{/color} ce soir." id talk_ubs_3e0a2cd2
+    player "我最好去餐厅，今晚我会和 {color=#fd79a8}{b}纪子{/b}{/color} 谈谈。" id talk_ubs_3e0a2cd2
 
 # game/scripts/story/talking/tak_ubs.rpy:299
 translate chinese_simplified talk_ubs_ed9d1ef5:

@@ -1,3 +1,11 @@
 
 *.lnk
 *.rpyc
+chinese_simplified/scripts/story/talking/tak_ubs.rpyc
+chinese_simplified/scripts/story/talking/talk_asami.rpyc
+chinese_simplified/scripts/story/talking/talk_chef.rpyc
+chinese_simplified/scripts/story/talking/talk_chef_interior.rpyc
+chinese_simplified/scripts/story/talking/talk_chiaki.rpyc
+chinese_simplified/scripts/story/talking/talk_kimochi.rpyc
+chinese_simplified/scripts/story/talking/talk_macumba.rpyc
+*.rpyc

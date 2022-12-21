@@ -844,7 +844,7 @@ translate chinese_simplified kimochi_password_c836657d:
 translate chinese_simplified kimochi_password_110e3723:
 
     # macumba neutral "C'est écrit... '10Hours of soft loli moaning'" id kimochi_password_110e3723
-    macumba neutral "比如......“10 小时的软萝莉呻吟”" id kimochi_password_110e3723
+    macumba neutral "比如......《10小时的萝莉呻吟ASMR》" id kimochi_password_110e3723
 
 # game/scripts/story/talking/talk_kimochi.rpy:242
 translate chinese_simplified kimochi_password_afae8830:

@@ -447,8 +447,8 @@ translate chinese_simplified home_player_room_ddd07557:
 # game/scripts/story/residential district/player's home/home_player_room.rpy:281
 translate chinese_simplified home_player_room_e8b03ae9:
 
-    # player "À cette heure-ci? C'est {color=#e17055}{b}水人{/b}{/color}?" id home_player_room_e8b03ae9
-    player "这个时候？是 {color=#e17055}{b}水人{/b}{/color} 吗？" id home_player_room_e8b03ae9
+    # player "À cette heure-ci? C'est [minato.n]?" id home_player_room_e8b03ae9
+    player "这个时候？是 [minato.n] 吗？" id home_player_room_e8b03ae9
 
 # game/scripts/story/residential district/player's home/home_player_room.rpy:282
 translate chinese_simplified home_player_room_3ad7cebc:
@@ -597,8 +597,8 @@ translate chinese_simplified home_player_room_fb933882:
 # game/scripts/story/residential district/player's home/home_player_room.rpy:327
 translate chinese_simplified home_player_room_aec28531:
 
-    # x "{color=#ea8685}{b}[asami_name]{/b}{/color} veut se servir de moi pour rendre jaloux {color=#e17055}{b}水人{/b}{/color}." id home_player_room_aec28531
-    x "{color=#ea8685}{b}麻美{/b}{/color}想利用我让{color=#e17055}{b}水人{/b}{/color}嫉妒。" id home_player_room_aec28531
+    # x "{color=#ea8685}{b}[asami_name]{/b}{/color} veut se servir de moi pour rendre jaloux [minato.n]." id home_player_room_aec28531
+    x "{color=#ea8685}{b}麻美{/b}{/color}想利用我让[minato.n]嫉妒。" id home_player_room_aec28531
 
 # game/scripts/story/residential district/player's home/home_player_room.rpy:328
 translate chinese_simplified home_player_room_5b326824:
@@ -663,8 +663,8 @@ translate chinese_simplified home_player_room_92b37223:
 # game/scripts/story/residential district/player's home/home_player_room.rpy:339
 translate chinese_simplified home_player_room_e0b7465a:
 
-    # x "Je dois absolument apprendre a me défendre seul et ne plus compter sur {color=#e17055}{b}水人{/b}{/color} pour arrondir les angles." id home_player_room_e0b7465a
-    x "我必须学会保护自己，不再依赖 {color=#e17055}{b}水人{/b}{/color} 来解决问题。" id home_player_room_e0b7465a
+    # x "Je dois absolument apprendre a me défendre seul et ne plus compter sur [minato.n] pour arrondir les angles." id home_player_room_e0b7465a
+    x "我必须学会保护自己，不再依赖 [minato.n] 来解决问题。" id home_player_room_e0b7465a
 
 # game/scripts/story/residential district/player's home/home_player_room.rpy:340
 translate chinese_simplified home_player_room_3095a32f:
@@ -699,8 +699,8 @@ translate chinese_simplified home_player_room_2fed8b87:
 # game/scripts/story/residential district/player's home/home_player_room.rpy:389
 translate chinese_simplified home_player_room_e9c23be2:
 
-    # player "Je dois retourner voir {color=#e17055}{b}水人{/b}{/color}." id home_player_room_e9c23be2
-    player "我需要回到 {color=#e17055}{b}水人{/b}{/color}。" id home_player_room_e9c23be2
+    # player "Je dois retourner voir [minato.n]." id home_player_room_e9c23be2
+    player "我需要回到 [minato.n]。" id home_player_room_e9c23be2
 
 # game/scripts/story/residential district/player's home/home_player_room.rpy:390
 translate chinese_simplified home_player_room_4bfa90ac:
@@ -1455,7 +1455,7 @@ translate chinese_simplified home_player_room_ca653292:
 # game/scripts/story/residential district/player's home/home_player_room.rpy:709
 translate chinese_simplified home_player_room_442359e1:
 
-    # x "Ce bâtard de {color=#e17055}{b}水人{/b}{/color} n'était jamais venu jouer une seule fois dans ma chambre non plus." id home_player_room_442359e1
+    # x "Ce bâtard de [minato.n] n'était jamais venu jouer une seule fois dans ma chambre non plus." id home_player_room_442359e1
     x "那个叫做 [minato.n] 的混蛋一次也没有来过我的房间玩。" id home_player_room_442359e1
 
 # game/scripts/story/residential district/player's home/home_player_room.rpy:714
@@ -1617,8 +1617,8 @@ translate chinese_simplified home_player_room_223b5744:
 # game/scripts/story/residential district/player's home/home_player_room.rpy:756
 translate chinese_simplified home_player_room_912aae5c:
 
-    # asamic "J'en sais trop peu sur toi comme j'en savais peu au final sur {color=#e17055}{b}水人{/b}{/color}." id home_player_room_912aae5c
-    asamic "我对你知之甚少，就像我对 {color=#e17055}{b}水人{/b}{/color} 知之甚少。" id home_player_room_912aae5c
+    # asamic "J'en sais trop peu sur toi comme j'en savais peu au final sur [minato.n]." id home_player_room_912aae5c
+    asamic "我对你知之甚少，就像我对 [minato.n] 知之甚少。" id home_player_room_912aae5c
 
 # game/scripts/story/residential district/player's home/home_player_room.rpy:757
 translate chinese_simplified home_player_room_3fbb9290:
@@ -2187,7 +2187,7 @@ translate chinese_simplified home_player_room_e7655520:
 # game/scripts/story/residential district/player's home/home_player_room.rpy:908
 translate chinese_simplified home_player_room_04749801:
 
-    # player "Bon... {color=#e17055}{b}水人{/b}{/color} c'est comporté comme un connard." id home_player_room_04749801
+    # player "Bon... [minato.n] c'est comporté comme un connard." id home_player_room_04749801
     player "嗯... [minato.n] 表现得喜怒无常。" id home_player_room_04749801
 
 # game/scripts/story/residential district/player's home/home_player_room.rpy:909
@@ -2248,67 +2248,67 @@ translate chinese_simplified home_player_room_8f17b46e:
 translate chinese_simplified home_player_room_f2cee9c6:
 
     # asami "Allez maintenant que les choses ont été mises au clair." id home_player_room_f2cee9c6
-    asami "既然事情已经收拾好了，那就去吧。" id home_player_room_f2cee9c6
+    asami "既然我们都说清楚，就正式开始游戏吧。" id home_player_room_f2cee9c6
 
 # game/scripts/story/residential district/player's home/home_player_room.rpy:937
 translate chinese_simplified home_player_room_f8199168:
 
     # asami "Il est temps pour toi de connaitre l'amertume de la défaite." id home_player_room_f8199168
-    asami "是时候让你知道失败的苦涩了。" id home_player_room_f8199168
+    asami "是时候让你尝尝失败的滋味了。" id home_player_room_f8199168
 
 # game/scripts/story/residential district/player's home/home_player_room.rpy:938
 translate chinese_simplified home_player_room_e29b2b65:
 
     # player "Des promesses toujours des promesses..." id home_player_room_e29b2b65
-    player "承诺总是承诺..." id home_player_room_e29b2b65
+    player "好啊，拭目以待..." id home_player_room_e29b2b65
 
 # game/scripts/story/residential district/player's home/home_player_room.rpy:939
 translate chinese_simplified home_player_room_21eb3b76:
 
     # player "Les actes sont plus parlant." id home_player_room_21eb3b76
-    player "行动更响亮。" id home_player_room_21eb3b76
+    player "让我看看你的实力吧。" id home_player_room_21eb3b76
 
 # game/scripts/story/residential district/player's home/home_player_room.rpy:944
 translate chinese_simplified home_player_room_3174d435:
 
     # asami "Jouer sans enjeu n'a aucun intérêt." id home_player_room_3174d435
-    asami "无赌注玩没有兴趣。" id home_player_room_3174d435
+    asami "还是有点惩罚比较刺激啊。" id home_player_room_3174d435
 
 # game/scripts/story/residential district/player's home/home_player_room.rpy:945
 translate chinese_simplified home_player_room_86ceb08f:
 
     # player "Quoi, tu veux faire comme la dernière fois?" id home_player_room_86ceb08f
-    player "什么，你想像上次一样吗？" id home_player_room_86ceb08f
+    player "哦，你想像上次一样吗？" id home_player_room_86ceb08f
 
 # game/scripts/story/residential district/player's home/home_player_room.rpy:946
 translate chinese_simplified home_player_room_635646fb:
 
     # asami "Oh que oui." id home_player_room_635646fb
-    asami "哦耶。" id home_player_room_635646fb
+    asami "没错。" id home_player_room_635646fb
 
 # game/scripts/story/residential district/player's home/home_player_room.rpy:948
 translate chinese_simplified home_player_room_65c66ccc:
 
     # asami "Je n'ai toujours pas digéré ma défaite!" id home_player_room_65c66ccc
-    asami "我还没有消化我的失败！" id home_player_room_65c66ccc
+    asami "我会以牙还牙！" id home_player_room_65c66ccc
 
 # game/scripts/story/residential district/player's home/home_player_room.rpy:949
 translate chinese_simplified home_player_room_1121762f:
 
     # asami "Ma vengeance sera terrible." id home_player_room_1121762f
-    asami "玛复仇血清太可怕了。" id home_player_room_1121762f
+    asami "加倍奉还。" id home_player_room_1121762f
 
 # game/scripts/story/residential district/player's home/home_player_room.rpy:950
 translate chinese_simplified home_player_room_9535cd38:
 
     # player "Pour moi ça sonne comme quelqu'un qui va perdre lamentablement!" id home_player_room_9535cd38
-    player "对我来说，这听起来像是一个将要惨败的人！" id home_player_room_9535cd38
+    player "这听起来像是立了一个Flag！" id home_player_room_9535cd38
 
 # game/scripts/story/residential district/player's home/home_player_room.rpy:951
 translate chinese_simplified home_player_room_36083c09:
 
     # asami "C'est ce qu'on verra!" id home_player_room_36083c09
-    asami "这就是我们将要看到的！" id home_player_room_36083c09
+    asami "历史是由胜利者书写的！" id home_player_room_36083c09
 
 # game/scripts/story/residential district/player's home/home_player_room.rpy:953
 translate chinese_simplified home_player_room_f8756e44:
@@ -2548,43 +2548,43 @@ translate chinese_simplified home_player_room_b89c484b:
 translate chinese_simplified home_player_room_cc7ba014:
 
     # asamic "C'est quoi ce b-" id home_player_room_cc7ba014
-    asamic "什么b-" id home_player_room_cc7ba014
+    asamic "什么！" id home_player_room_cc7ba014
 
 # game/scripts/story/residential district/player's home/home_player_room.rpy:1016
 translate chinese_simplified home_player_room_ea8b59c5:
 
     # player "T'es juste née 30 ans trop tard pour pouvoir me battre." id home_player_room_ea8b59c5
-    player "你才出生 30 年，来不及打败我。" id home_player_room_ea8b59c5
+    player "打得不错。" id home_player_room_ea8b59c5
 
 # game/scripts/story/residential district/player's home/home_player_room.rpy:1017
 translate chinese_simplified home_player_room_1e74942c:
 
     # asamic "Mais comment c'est possible?!" id home_player_room_1e74942c
-    asamic "但这怎么可能？！" id home_player_room_1e74942c
+    asamic "怎么可能？！" id home_player_room_1e74942c
 
 # game/scripts/story/residential district/player's home/home_player_room.rpy:1018
 translate chinese_simplified home_player_room_20a79d0e:
 
     # player "Pourquoi ce serait si difficile de penser que je pourrais être meilleur que toi?" id home_player_room_20a79d0e
-    player "为什么很难想到我会比你更好？" id home_player_room_20a79d0e
+    player "这有什么好奇怪的？" id home_player_room_20a79d0e
 
 # game/scripts/story/residential district/player's home/home_player_room.rpy:1019
 translate chinese_simplified home_player_room_a66e11b1:
 
     # asamic "Je suis sûr que tu triches!" id home_player_room_a66e11b1
-    asamic "我确定你在作弊！" id home_player_room_a66e11b1
+    asamic "你开挂了吧！" id home_player_room_a66e11b1
 
 # game/scripts/story/residential district/player's home/home_player_room.rpy:1020
 translate chinese_simplified home_player_room_e8dbf920:
 
     # player "Tu es dans le dénie ma pauvre." id home_player_room_e8dbf920
-    player "你否认我的穷人。" id home_player_room_e8dbf920
+    player "打不过就是挂？" id home_player_room_e8dbf920
 
 # game/scripts/story/residential district/player's home/home_player_room.rpy:1021
 translate chinese_simplified home_player_room_dde46679:
 
     # asamic "ça va j'ai compris... Pose ta question!" id home_player_room_dde46679
-    asamic "没关系，我明白了...问你的问题！" id home_player_room_dde46679
+    asamic "行，愿赌服输...你问吧！" id home_player_room_dde46679
 
 # game/scripts/story/residential district/player's home/home_player_room.rpy:1024
 translate chinese_simplified home_player_room_bd7b3880:
@@ -2596,7 +2596,7 @@ translate chinese_simplified home_player_room_bd7b3880:
 translate chinese_simplified home_player_room_d148a933:
 
     # player "Ah? C'est quoi alors?" id home_player_room_d148a933
-    player "哦？之后怎么样了？" id home_player_room_d148a933
+    player "哦？那是什么？" id home_player_room_d148a933
 
 # game/scripts/story/residential district/player's home/home_player_room.rpy:1026
 translate chinese_simplified home_player_room_28bbb1ad:
@@ -2608,7 +2608,7 @@ translate chinese_simplified home_player_room_28bbb1ad:
 translate chinese_simplified home_player_room_bb7f1fc1:
 
     # player "Quoi c'est tout?!" id home_player_room_bb7f1fc1
-    player "那都是什么？！" id home_player_room_bb7f1fc1
+    player "原来是这样啊？！" id home_player_room_bb7f1fc1
 
 # game/scripts/story/residential district/player's home/home_player_room.rpy:1028
 translate chinese_simplified home_player_room_e7e95615:
@@ -2620,13 +2620,13 @@ translate chinese_simplified home_player_room_e7e95615:
 translate chinese_simplified home_player_room_ed9cf253:
 
     # asamic "Tu es vraiment un amateur!" id home_player_room_ed9cf253
-    asamic "你真的是业余爱好者！" id home_player_room_ed9cf253
+    asamic "……！" id home_player_room_ed9cf253
 
 # game/scripts/story/residential district/player's home/home_player_room.rpy:1030
 translate chinese_simplified home_player_room_b14bf260_1:
 
     # player "..." id home_player_room_b14bf260_1
-    player "..." id home_player_room_b14bf260_1
+    player "……" id home_player_room_b14bf260_1
 
 # game/scripts/story/residential district/player's home/home_player_room.rpy:1033
 translate chinese_simplified home_player_room_8596ba33:
@@ -2638,19 +2638,19 @@ translate chinese_simplified home_player_room_8596ba33:
 translate chinese_simplified home_player_room_1fcff14b:
 
     # asamic "Mais au final la réponse est facile!" id home_player_room_1fcff14b
-    asamic "但最终答案很简单！" id home_player_room_1fcff14b
+    asamic "我的回答很简单！" id home_player_room_1fcff14b
 
 # game/scripts/story/residential district/player's home/home_player_room.rpy:1035
 translate chinese_simplified home_player_room_143b3ce6:
 
     # player "Ah? Dans ce cas ça m'intéresse!" id home_player_room_143b3ce6
-    player "哦？在那种情况下，我很感兴趣！" id home_player_room_143b3ce6
+    player "哦？我很感兴趣！" id home_player_room_143b3ce6
 
 # game/scripts/story/residential district/player's home/home_player_room.rpy:1036
 translate chinese_simplified home_player_room_0014b80d:
 
     # asamic "Investir dans la crypto!" id home_player_room_0014b80d
-    asamic "投资加密货币！" id home_player_room_0014b80d
+    asamic "投资区块链！" id home_player_room_0014b80d
 
 # game/scripts/story/residential district/player's home/home_player_room.rpy:1037
 translate chinese_simplified home_player_room_19382569:
@@ -2662,13 +2662,13 @@ translate chinese_simplified home_player_room_19382569:
 translate chinese_simplified home_player_room_73801f79:
 
     # asamic "Réfléchis un peu... Le bitcoin ne valait rien il y a quelques années..." id home_player_room_73801f79
-    asamic "想一想...几年前比特币一文不值..." id home_player_room_73801f79
+    asamic "你想想看，几年前比特币一文不值，白送人都不要。" id home_player_room_73801f79
 
 # game/scripts/story/residential district/player's home/home_player_room.rpy:1039
 translate chinese_simplified home_player_room_3ca3ed6a:
 
     # asamic "Et regarde maintenant." id home_player_room_3ca3ed6a
-    asamic "现在看看。" id home_player_room_3ca3ed6a
+    asamic "现在你看，出现了多少市场。" id home_player_room_3ca3ed6a
 
 # game/scripts/story/residential district/player's home/home_player_room.rpy:1040
 translate chinese_simplified home_player_room_3fb46b7c:
@@ -2686,7 +2686,7 @@ translate chinese_simplified home_player_room_2b48ca6a:
 translate chinese_simplified home_player_room_a18f1347:
 
     # asamic "Ca depend... Si une fille a le droit d'avoir plusieurs mec, je suis pour!" id home_player_room_a18f1347
-    asamic "这取决于...如果一个女孩有权拥有几个男人，我赞成！" id home_player_room_a18f1347
+    asamic "这取决于...如果一个女人有权拥有几个男人，那我赞成！" id home_player_room_a18f1347
 
 # game/scripts/story/residential district/player's home/home_player_room.rpy:1045
 translate chinese_simplified home_player_room_b14bf260_2:
@@ -2698,7 +2698,7 @@ translate chinese_simplified home_player_room_b14bf260_2:
 translate chinese_simplified home_player_room_9f57a936:
 
     # asamic "Aaaah je comprends mieux! Monsieur {color=#42b3fa}{b}[player_name]{/b}{/color} veut son harem." id home_player_room_9f57a936
-    asamic "啊，我明白了！ {color=#42b3fa}{b}[player_name]{/b}{/color} 先生想要他的后宫。" id home_player_room_9f57a936
+    asamic "啊，我明白了！ [player.n] 先生想开后宫。" id home_player_room_9f57a936
 
 # game/scripts/story/residential district/player's home/home_player_room.rpy:1047
 translate chinese_simplified home_player_room_be179aae:
@@ -2740,7 +2740,7 @@ translate chinese_simplified home_player_room_0dedc86b:
 translate chinese_simplified home_player_room_ad1f560f:
 
     # centered "Ils finirent par passer tout l'après-midi à discuter..." id home_player_room_ad1f560f
-    centered "结果他们聊了一下午..." id home_player_room_ad1f560f
+    centered "他们愉快的交谈了一下午..." id home_player_room_ad1f560f
 
 # game/scripts/story/residential district/player's home/home_player_room.rpy:1062
 translate chinese_simplified home_player_room_71acc9a8:
@@ -2752,25 +2752,25 @@ translate chinese_simplified home_player_room_71acc9a8:
 translate chinese_simplified home_player_room_145a923a:
 
     # player "Malgré toutes tes défaites?" id home_player_room_145a923a
-    player "尽管你失败了？" id home_player_room_145a923a
+    player "尽管你战败了？" id home_player_room_145a923a
 
 # game/scripts/story/residential district/player's home/home_player_room.rpy:1064
 translate chinese_simplified home_player_room_b423f27a:
 
     # asami sulking "Tu me cherches visiblement..." id home_player_room_b423f27a
-    asami sulking "你明明是在找我..." id home_player_room_b423f27a
+    asami sulking "别哪壶不开提哪壶..." id home_player_room_b423f27a
 
 # game/scripts/story/residential district/player's home/home_player_room.rpy:1065
 translate chinese_simplified home_player_room_15648bf8:
 
     # player "Haha je plaisante." id home_player_room_15648bf8
-    player "哈哈开个玩笑。" id home_player_room_15648bf8
+    player "哈哈，开个玩笑。" id home_player_room_15648bf8
 
 # game/scripts/story/residential district/player's home/home_player_room.rpy:1066
 translate chinese_simplified home_player_room_bb523555:
 
     # asami "Dis... Tu vas vraiment aller voir l'autre cinglé?" id home_player_room_bb523555
-    asami "说...你真的要去见另一个怪人吗？" id home_player_room_bb523555
+    asami "所以...你真的要去见那个变态吗？" id home_player_room_bb523555
 
 # game/scripts/story/residential district/player's home/home_player_room.rpy:1067
 translate chinese_simplified home_player_room_86f06b1a:
@@ -2782,19 +2782,19 @@ translate chinese_simplified home_player_room_86f06b1a:
 translate chinese_simplified home_player_room_849b8a7e:
 
     # asami neutral "Je vois... Je pourrais revenir demain?" id home_player_room_849b8a7e
-    asami neutral "我明白了...我明天可以回来吗？" id home_player_room_849b8a7e
+    asami neutral "我明白了...我明天可以过来吗？" id home_player_room_849b8a7e
 
 # game/scripts/story/residential district/player's home/home_player_room.rpy:1069
 translate chinese_simplified home_player_room_9ada58ea:
 
     # player "Tu sais bien que tu es ici chez toi." id home_player_room_9ada58ea
-    player "你很清楚你在这里是自在的。" id home_player_room_9ada58ea
+    player "这里随时欢迎你。" id home_player_room_9ada58ea
 
 # game/scripts/story/residential district/player's home/home_player_room.rpy:1070
 translate chinese_simplified home_player_room_c01f11c4:
 
     # asami happy "...Merci {w} je vais y aller, j'ai un truc à faire en ville avant de rentrer chez moi." id home_player_room_c01f11c4
-    asami happy "...谢谢你 {w} 我会去的，我回家之前在城里有事要做。" id home_player_room_c01f11c4
+    asami happy "...谢谢你 {w} 我会来的，我回家之前在城里有事要做。" id home_player_room_c01f11c4
 
 # game/scripts/story/residential district/player's home/home_player_room.rpy:1071
 translate chinese_simplified home_player_room_35e4be4e:
@@ -2806,7 +2806,7 @@ translate chinese_simplified home_player_room_35e4be4e:
 translate chinese_simplified home_player_room_546b2288:
 
     # asami "Je suis une grande fille ne t'inquiète pas." id home_player_room_546b2288
-    asami "我是大姑娘，别着急。" id home_player_room_546b2288
+    asami "我是大姑娘，别操心。" id home_player_room_546b2288
 
 # game/scripts/story/residential district/player's home/home_player_room.rpy:1073
 translate chinese_simplified home_player_room_d87507bb:
@@ -2824,13 +2824,13 @@ translate chinese_simplified home_player_room_d8f91ba0:
 translate chinese_simplified home_player_room_c9ebf3f7:
 
     # asamic "{size=-10}Oh tiens salut [noriko.n] tu vas bien?{/size}" id home_player_room_c9ebf3f7
-    asamic "{size=-10}Oh tiens salut [noriko.n] tu vas bien?{/size}" id home_player_room_c9ebf3f7
+    asamic "{size=+10}哦，你好 [noriko.n] 你在这里干什么呀？{/size}" id home_player_room_c9ebf3f7
 
 # game/scripts/story/residential district/player's home/home_player_room.rpy:1078
 translate chinese_simplified home_player_room_e7957402:
 
     # asamic "{size=-10}Comment ça chut?{/size}" id home_player_room_e7957402
-    asamic "{size=-10}嘘，怎么样？{/size}" id home_player_room_e7957402
+    asamic "{size=-5}嘘，要我小点声？{/size}" id home_player_room_e7957402
 
 # game/scripts/story/residential district/player's home/home_player_room.rpy:1079
 translate chinese_simplified home_player_room_bfcb2c09:
@@ -2854,7 +2854,7 @@ translate chinese_simplified home_player_room_97bde7ab:
 translate chinese_simplified home_player_room_70f4554f:
 
     # asami "Héhé" id home_player_room_70f4554f
-    asami "诶诶" id home_player_room_70f4554f
+    asami "哈哈" id home_player_room_70f4554f
 
 # game/scripts/story/residential district/player's home/home_player_room.rpy:1096
 translate chinese_simplified home_player_room_e686d42a:
@@ -2890,13 +2890,13 @@ translate chinese_simplified home_player_room_cb173ff1:
 translate chinese_simplified home_player_room_a995f721:
 
     # asami sulking "mhhh alors on panique monsieur {color=#0984e3}{b}[player_name]{/b}{/color}?" id home_player_room_a995f721
-    asami sulking "嗯，在 panique monsieur {color=#0984e3}{b}[player_name]{/b}{/color}" id home_player_room_a995f721
+    asami sulking "嗯，害怕露馅吗 [player.n]。" id home_player_room_a995f721
 
 # game/scripts/story/residential district/player's home/home_player_room.rpy:1102
 translate chinese_simplified home_player_room_7bafc801:
 
     # asami "Auriez-vous quelque chose à vous reprocher?" id home_player_room_7bafc801
-    asami "你有什么可责备自己的吗？" id home_player_room_7bafc801
+    asami "会不会是你有什么不好意思的事？" id home_player_room_7bafc801
 
 # game/scripts/story/residential district/player's home/home_player_room.rpy:1103
 translate chinese_simplified home_player_room_cbf84f4f:
@@ -2908,7 +2908,7 @@ translate chinese_simplified home_player_room_cbf84f4f:
 translate chinese_simplified home_player_room_27a8cde6:
 
     # asami happy "Haha, aller t'en fais pas, on a juste discuté entre filles." id home_player_room_27a8cde6
-    asami happy "哈哈，别担心，我们只是在女孩之间聊天。" id home_player_room_27a8cde6
+    asami happy "哈哈，别担心，我们只是随便聊两句。" id home_player_room_27a8cde6
 
 # game/scripts/story/residential district/player's home/home_player_room.rpy:1105
 translate chinese_simplified home_player_room_83c5c856:
@@ -3357,8 +3357,8 @@ translate chinese_simplified home_player_room_02945bfd:
 # game/scripts/story/residential district/player's home/home_player_room.rpy:1253
 translate chinese_simplified home_player_room_09e81e2c:
 
-    # asami "{color=#e17055}{b}水人{/b}{/color}!" id home_player_room_09e81e2c
-    asami "{color=#e17055}{b}水人{/b}{/color}！" id home_player_room_09e81e2c
+    # asami "[minato.n]!" id home_player_room_09e81e2c
+    asami "[minato.n]！" id home_player_room_09e81e2c
 
 # game/scripts/story/residential district/player's home/home_player_room.rpy:1259
 translate chinese_simplified home_player_room_bd5aebf3:
@@ -5240,7 +5240,7 @@ translate chinese_simplified strings:
 
     # game/scripts/story/residential district/player's home/home_player_room.rpy:383
     old "Se rendre chez {color=#e17055}{b}[minato_name]{/b}{/color}."
-    new "请参阅 {color=#e17055}{b}水人{/b}{/color}。"
+    new "请参阅 [minato.n]。"
 
     # game/scripts/story/residential district/player's home/home_player_room.rpy:399
     old "J'ai hâte retrouver {color=#ea8685}{b}[asami_name]{/b}{/color} cet après-midi."
@@ -5276,19 +5276,19 @@ translate chinese_simplified strings:
 
     # game/scripts/story/residential district/player's home/home_player_room.rpy:903
     old "Retourner chez {color=#e17055}{b}[minato_name]{/b}{/color} pour mettre les choses au clair"
-    new "返回 {color=#e17055}{b}水人{/b}{/color} 以清除问题"
+    new "返回 [minato.n] 以清除问题"
 
     # game/scripts/story/residential district/player's home/home_player_room.rpy:918
     old "Aller voir {color=#55efc4}{b}[kimochi_name]{/b}{/color} à l'adresse indiquée"
-    new "前往指定地址查看 {color=#55efc4}{b}爽{/b}{/color}"
+    new "前往指定地址查看 [kimochi.n]"
 
     # game/scripts/story/residential district/player's home/home_player_room.rpy:958
     old "Perdre de justesse"
-    new "险些输"
+    new "惨败"
 
     # game/scripts/story/residential district/player's home/home_player_room.rpy:958
     old "Gagner avec un perfect"
-    new "以完美取胜"
+    new "完胜"
 
     # game/scripts/story/residential district/player's home/home_player_room.rpy:1022
     old "D'où vient cette cicatrice sur ton visage?"
@@ -5308,7 +5308,7 @@ translate chinese_simplified strings:
 
     # game/scripts/story/residential district/player's home/home_player_room.rpy:1300
     old "Aller voir {color=#55efc4}{b}[kimochi_name]{/b}{/color} pour établir un plan."
-    new "前往 {color=#55efc4}{b}爽{/b}{/color} 制定计划。"
+    new "前往 [kimochi.n] 制定计划。"
 
     # game/scripts/story/residential district/player's home/home_player_room.rpy:1494
     old "Attends, mais on vient à peine de commencer!"

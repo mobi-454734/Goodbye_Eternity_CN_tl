@@ -1468,7 +1468,7 @@ translate chinese_simplified home_player_livingroom_26bf1564:
 translate chinese_simplified home_player_livingroom_f6c68de8:
 
     # x "{color=#32ff7e}{b}[macumba_name]{/b}{/color},{color=#ea8685}{b}[asami_name]{/b}{/color} ou encore {color=#55efc4}{b}[kimochi_name]{/b}{/color}." id home_player_livingroom_f6c68de8
-    x "{color=#32ff7e}{b}马库姆巴{/b}{/color},{color=#ea8685}{b}麻美{/b}{/color} ou encore {color=#55efc4}{b}爽{/b}{/color}。" id home_player_livingroom_f6c68de8
+    x "{color=#32ff7e}{b}马库姆巴{/b}{/color},{color=#ea8685}{b}麻美{/b}{/color} ou encore [kimochi.n]。" id home_player_livingroom_f6c68de8
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:553
 translate chinese_simplified home_player_livingroom_839774e1:

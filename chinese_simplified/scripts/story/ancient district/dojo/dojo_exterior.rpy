@@ -273,8 +273,8 @@ translate chinese_simplified dojo_exterior_69a49149:
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:129
 translate chinese_simplified dojo_exterior_9ec986cf:
 
-    # x "Même si {color=#e17055}{b}水人{/b}{/color} est un peu surprotecteur avec sa sœur pourquoi chercherait-elle à ce point a fuir à la moindre occasion." id dojo_exterior_9ec986cf
-    x "就算{color=#e17055}{b}水人{/b}{/color}对自己的妹妹有点过分保护，她又何必一有机会就这么拼命逃跑？" id dojo_exterior_9ec986cf
+    # x "Même si [minato.n] est un peu surprotecteur avec sa sœur pourquoi chercherait-elle à ce point a fuir à la moindre occasion." id dojo_exterior_9ec986cf
+    x "就算[minato.n]对自己的妹妹有点过分保护，她又何必一有机会就这么拼命逃跑？" id dojo_exterior_9ec986cf
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:130
 translate chinese_simplified dojo_exterior_56020f67:

@@ -489,8 +489,8 @@ translate chinese_simplified park_d75e885d:
 # game/scripts/story/world/park.rpy:215
 translate chinese_simplified park_5750ccc6:
 
-    # asami "Alors est-ce que tu as pu en apprendre davantage sur la petite amie de {color=#e17055}{b}水人{/b}{/color}?" id park_5750ccc6
-    asami "{color=#e17055}{b}水人{/b}{/color} 的女朋友怎样？" id park_5750ccc6
+    # asami "Alors est-ce que tu as pu en apprendre davantage sur la petite amie de [minato.n]?" id park_5750ccc6
+    asami "[minato.n] 的女朋友怎样？" id park_5750ccc6
 
 # game/scripts/story/world/park.rpy:216
 translate chinese_simplified park_b1ddb607:
@@ -651,8 +651,8 @@ translate chinese_simplified park_2323d2ef:
 # game/scripts/story/world/park.rpy:253
 translate chinese_simplified park_a4ae8f57:
 
-    # player happy "C'est justement la petite amie de {color=#e17055}{b}水人{/b}{/color}." id park_a4ae8f57
-    player happy "她是 {color=#e17055}{b}水人{/b}{/color} 的女朋友。" id park_a4ae8f57
+    # player happy "C'est justement la petite amie de [minato.n]." id park_a4ae8f57
+    player happy "她是 [minato.n] 的女朋友。" id park_a4ae8f57
 
 # game/scripts/story/world/park.rpy:254
 translate chinese_simplified park_1c418674:
@@ -831,8 +831,8 @@ translate chinese_simplified park_a2cd8239:
 # game/scripts/story/world/park.rpy:285
 translate chinese_simplified park_7e00f50c:
 
-    # natsume "D'ailleurs a ce que j'ai compris elle veut faire ça pour rendre jaloux {color=#e17055}{b}水人{/b}{/color}?" id park_7e00f50c
-    natsume "另外，据我了解，她是为了让 {color=#e17055}{b}水人{/b}{/color} 吃醋？" id park_7e00f50c
+    # natsume "D'ailleurs a ce que j'ai compris elle veut faire ça pour rendre jaloux [minato.n]?" id park_7e00f50c
+    natsume "另外，据我了解，她是为了让 [minato.n] 吃醋？" id park_7e00f50c
 
 # game/scripts/story/world/park.rpy:286
 translate chinese_simplified park_f229246c:
@@ -909,8 +909,8 @@ translate chinese_simplified park_76409949:
 # game/scripts/story/world/park.rpy:304
 translate chinese_simplified park_172ede89:
 
-    # x "{color=#e17055}{b}水人{/b}{/color} c'est quand même trouvé une drôle de copine." id park_172ede89
-    x "无论如何，{color=#e17055}{b}水人{/b}{/color} 还是找到了一个有趣的女朋友。" id park_172ede89
+    # x "[minato.n] c'est quand même trouvé une drôle de copine." id park_172ede89
+    x "无论如何，[minato.n] 还是找到了一个有趣的女朋友。" id park_172ede89
 
 # game/scripts/story/world/park.rpy:322
 translate chinese_simplified park_34ab20fb:
@@ -1089,8 +1089,8 @@ translate chinese_simplified park_c4e88fa6:
 # game/scripts/story/world/park.rpy:389
 translate chinese_simplified park_5900c404:
 
-    # x "Une seconde, {color=#e17055}{b}水人{/b}{/color} n'avait pas dit qu'ils arrêteraient de me harceler?" id park_5900c404
-    x "等等，{color=#e17055}{b}水人{/b}{/color} 不是说他们不会再骚扰我了吗？" id park_5900c404
+    # x "Une seconde, [minato.n] n'avait pas dit qu'ils arrêteraient de me harceler?" id park_5900c404
+    x "等等，[minato.n] 不是说他们不会再骚扰我了吗？" id park_5900c404
 
 # game/scripts/story/world/park.rpy:390
 translate chinese_simplified park_3b174976:
@@ -1119,8 +1119,8 @@ translate chinese_simplified park_b0e0d3e2:
 # game/scripts/story/world/park.rpy:400
 translate chinese_simplified park_b38f5ed9:
 
-    # player sad "{color=#e17055}{b}水人{/b}{/color}! {color=#e17055}{b}水人{/b}{/color} ne vous a pas demander d'arrêter?" id park_b38f5ed9
-    player sad "{color=#e17055}{b}水人{/b}{/color}！ {color=#e17055}{b}水人{/b}{/color} 没有跟你们说别来找我麻烦吗？" id park_b38f5ed9
+    # player sad "[minato.n]! [minato.n] ne vous a pas demander d'arrêter?" id park_b38f5ed9
+    player sad "[minato.n]！ [minato.n] 没有跟你们说别来找我麻烦吗？" id park_b38f5ed9
 
 # game/scripts/story/world/park.rpy:401
 translate chinese_simplified park_075464ba:
@@ -1149,8 +1149,8 @@ translate chinese_simplified park_cb5e2eb4:
 # game/scripts/story/world/park.rpy:405
 translate chinese_simplified park_49264083:
 
-    # takeo "On devrait le laisser partir. {color=#e17055}{b}水人{/b}{/color} est bien trop dangereux." id park_49264083
-    takeo "我们应该让他走。 {color=#e17055}{b}水人{/b}{/color} 太危险了。" id park_49264083
+    # takeo "On devrait le laisser partir. [minato.n] est bien trop dangereux." id park_49264083
+    takeo "我们应该让他走。 [minato.n] 太危险了。" id park_49264083
 
 # game/scripts/story/world/park.rpy:406
 translate chinese_simplified park_648ef921:
@@ -1161,8 +1161,8 @@ translate chinese_simplified park_648ef921:
 # game/scripts/story/world/park.rpy:413
 translate chinese_simplified park_0aee50a5:
 
-    # x "Oh bordel merci {color=#e17055}{b}水人{/b}{/color}." id park_0aee50a5
-    x "哦，谢谢 {color=#e17055}{b}水人{/b}{/color}。" id park_0aee50a5
+    # x "Oh bordel merci [minato.n]." id park_0aee50a5
+    x "哦，谢谢 [minato.n]。" id park_0aee50a5
 
 # game/scripts/story/world/park.rpy:414
 translate chinese_simplified park_12bb1705:
@@ -1191,8 +1191,8 @@ translate chinese_simplified park_d6ed85a4:
 # game/scripts/story/world/park.rpy:424
 translate chinese_simplified park_dd83f643:
 
-    # takeo "On s'en bat les couilles de {color=#e17055}{b}水人{/b}{/color}!" id park_dd83f643
-    takeo "我们才不叼 {color=#e17055}{b}水人{/b}{/color}！" id park_dd83f643
+    # takeo "On s'en bat les couilles de [minato.n]!" id park_dd83f643
+    takeo "我们才不叼 [minato.n]！" id park_dd83f643
 
 # game/scripts/story/world/park.rpy:425
 translate chinese_simplified park_be92f76f:
@@ -1437,8 +1437,8 @@ translate chinese_simplified park_b15f6394:
 # game/scripts/story/world/park.rpy:505
 translate chinese_simplified park_545c4c68:
 
-    # x "{color=#e17055}{b}水人{/b}{/color} m'a menti au final, il n’a jamais dit a ces trois connards de me foutre la paix." id park_545c4c68
-    x "{color=#e17055}{b}水人{/b}{/color}最后骗了我，他从来没有让那三个混蛋不要管我。" id park_545c4c68
+    # x "[minato.n] m'a menti au final, il n’a jamais dit a ces trois connards de me foutre la paix." id park_545c4c68
+    x "[minato.n]最后骗了我，他从来没有让那三个混蛋不要管我。" id park_545c4c68
 
 # game/scripts/story/world/park.rpy:506
 translate chinese_simplified park_84bcaee3:
@@ -1479,8 +1479,8 @@ translate chinese_simplified park_56ee74d1:
 # game/scripts/story/world/park.rpy:526
 translate chinese_simplified park_f5d45fd7:
 
-    # player upset "Maintenant il va falloir que je touche deux mots a {color=#e17055}{b}水人{/b}{/color}." id park_f5d45fd7
-    player upset "现在我需要和 {color=#e17055}{b}水人{/b}{/color} 谈谈。" id park_f5d45fd7
+    # player upset "Maintenant il va falloir que je touche deux mots a [minato.n]." id park_f5d45fd7
+    player upset "现在我需要和 [minato.n] 谈谈。" id park_f5d45fd7
 
 # game/scripts/story/world/park.rpy:527
 translate chinese_simplified park_f843ab2f:
@@ -1521,8 +1521,8 @@ translate chinese_simplified park_5025894c:
 # game/scripts/story/world/park.rpy:544
 translate chinese_simplified park_60cb6f77:
 
-    # kimochi angry "Encore un chien de {color=#e17055}{b}水人{/b}{/color}!" id park_60cb6f77
-    kimochi angry "{color=#e17055}{b}水人{/b}{/color} 的另一条狗！" id park_60cb6f77
+    # kimochi angry "Encore un chien de [minato.n]!" id park_60cb6f77
+    kimochi angry "[minato.n] 的另一条狗！" id park_60cb6f77
 
 # game/scripts/story/world/park.rpy:547
 translate chinese_simplified park_789d420c:
@@ -2007,8 +2007,8 @@ translate chinese_simplified park_38f0d426:
 # game/scripts/story/world/park.rpy:716
 translate chinese_simplified park_b03036db:
 
-    # asami upset "{color=#e17055}{b}水人{/b}{/color} laisse le tranquille." id park_b03036db
-    asami upset "{color=#e17055}{b}水人{/b}{/color} 放轻松。" id park_b03036db
+    # asami upset "[minato.n] laisse le tranquille." id park_b03036db
+    asami upset "[minato.n] 放轻松。" id park_b03036db
 
 # game/scripts/story/world/park.rpy:717
 translate chinese_simplified park_26020a6d:
@@ -2055,8 +2055,8 @@ translate chinese_simplified park_ff9d0016:
 # game/scripts/story/world/park.rpy:737
 translate chinese_simplified park_048653d3:
 
-    # asami happy "Fais plutot attention a toi {color=#e17055}{b}水人{/b}{/color}, si tu ne fais pas assez attention tu risquerais de perdre {color=#d63031}{b}[natsume_name]{/b}{/color}." id park_048653d3
-    asami happy "小心自己{color=#e17055}{b}水人{/b}{/color}，如果你不够小心，你可能会失去{color=#d63031}{b}夏梦{/b }{/颜色}。" id park_048653d3
+    # asami happy "Fais plutot attention a toi [minato.n], si tu ne fais pas assez attention tu risquerais de perdre {color=#d63031}{b}[natsume_name]{/b}{/color}." id park_048653d3
+    asami happy "小心自己[minato.n]，如果你不够小心，你可能会失去{color=#d63031}{b}夏梦{/b }{/颜色}。" id park_048653d3
 
 # game/scripts/story/world/park.rpy:738
 translate chinese_simplified park_941f7c1f:
@@ -2361,8 +2361,8 @@ translate chinese_simplified park_c475c5cf:
 # game/scripts/story/world/park.rpy:881
 translate chinese_simplified park_c93fec3d:
 
-    # asami happy "Et puis... Voir {color=#e17055}{b}水人{/b}{/color} crever de jalousie c'était... vraiment satisfaisant." id park_c93fec3d
-    asami happy "然后...看到 {color=#e17055}{b}水人{/b}{/color} 嫉妒而死...真的很满足。" id park_c93fec3d
+    # asami happy "Et puis... Voir [minato.n] crever de jalousie c'était... vraiment satisfaisant." id park_c93fec3d
+    asami happy "然后...看到 [minato.n] 嫉妒而死...真的很满足。" id park_c93fec3d
 
 # game/scripts/story/world/park.rpy:882
 translate chinese_simplified park_273a6e41:
@@ -2886,11 +2886,11 @@ translate chinese_simplified strings:
 
     # game/scripts/story/world/park.rpy:518
     old "Allez confronter {color=#e17055}{b}[minato_name]{/b}{/color}"
-    new "去找 {color=#e17055}{b}水人{/b}{/color}"
+    new "去找 [minato.n]"
 
     # game/scripts/story/world/park.rpy:537
     old "Rejoindre les appartements avant {color=#55efc4}{b}[kimochi_name]{/b}{/color}"
-    new "在 {color=#55efc4}{b}爽{/b}{/color} 之前加入公寓"
+    new "在 [kimochi.n] 之前加入公寓"
 
     # game/scripts/story/world/park.rpy:571
     old "Retrouvez les filles au parc l'après-midi."

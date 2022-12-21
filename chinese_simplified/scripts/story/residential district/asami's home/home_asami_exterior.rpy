@@ -81,8 +81,8 @@ translate chinese_simplified home_asami_exterior_898513a1:
 # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:57
 translate chinese_simplified home_asami_exterior_708fb377:
 
-    # x "Et {color=#e17055}{b}水人{/b}{/color} étant un dangereux psychopathe je ne sais pas si c'est une bonne idée de le rendre jaloux." id home_asami_exterior_708fb377
-    x "{color=#e17055}{b}水人{/b}{/color} 是一个危险的精神病患者，我不知道让他嫉妒是不是个好主意。" id home_asami_exterior_708fb377
+    # x "Et [minato.n] étant un dangereux psychopathe je ne sais pas si c'est une bonne idée de le rendre jaloux." id home_asami_exterior_708fb377
+    x "[minato.n] 是一个危险的精神病患者，我不知道让他嫉妒是不是个好主意。" id home_asami_exterior_708fb377
 
 # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:61
 translate chinese_simplified home_asami_exterior_000166b3:
@@ -189,8 +189,8 @@ translate chinese_simplified home_asami_exterior_0307bdf9:
 # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:116
 translate chinese_simplified home_asami_exterior_d47a1d8e:
 
-    # player "Donc, explique-toi! Tu faisais quoi devant chez {color=#e17055}{b}水人{/b}{/color}?" id home_asami_exterior_d47a1d8e
-    player "解释一下你在 {color=#e17055}{b}水人{/b}{/color} 家前做什么？" id home_asami_exterior_d47a1d8e
+    # player "Donc, explique-toi! Tu faisais quoi devant chez [minato.n]?" id home_asami_exterior_d47a1d8e
+    player "解释一下你在 [minato.n] 家前做什么？" id home_asami_exterior_d47a1d8e
 
 # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:117
 translate chinese_simplified home_asami_exterior_350502d0:
@@ -243,8 +243,8 @@ translate chinese_simplified home_asami_exterior_bd9d3d7c:
 # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:125
 translate chinese_simplified home_asami_exterior_37deb9d3:
 
-    # kimochi sad "{color=#e17055}{b}水人{/b}{/color} est un putain de psychopathe et plus on le laissera seul avec sa petite sœur plus elle en souffrira." id home_asami_exterior_37deb9d3
-    kimochi sad "{color=#e17055}{b}水人{/b}{/color} 是个该死的神经病，我们越是让他和他的小妹妹单独相处，她就越受苦。" id home_asami_exterior_37deb9d3
+    # kimochi sad "[minato.n] est un putain de psychopathe et plus on le laissera seul avec sa petite sœur plus elle en souffrira." id home_asami_exterior_37deb9d3
+    kimochi sad "[minato.n] 是个该死的神经病，我们越是让他和他的小妹妹单独相处，她就越受苦。" id home_asami_exterior_37deb9d3
 
 # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:130
 translate chinese_simplified home_asami_exterior_4a5bb023:
@@ -411,8 +411,8 @@ translate chinese_simplified home_asami_exterior_c0ac1660:
 # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:180
 translate chinese_simplified home_asami_exterior_8cf1dff9:
 
-    # player neutral "C'est {color=#e17055}{b}水人{/b}{/color} la personne que tu désirais." id home_asami_exterior_8cf1dff9
-    player neutral "这是您想要的人{color=#e17055}{b}水人{/b}{/color}。" id home_asami_exterior_8cf1dff9
+    # player neutral "C'est [minato.n] la personne que tu désirais." id home_asami_exterior_8cf1dff9
+    player neutral "这是您想要的人[minato.n]。" id home_asami_exterior_8cf1dff9
 
 # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:181
 translate chinese_simplified home_asami_exterior_12d837a9:
@@ -513,8 +513,8 @@ translate chinese_simplified home_asami_exterior_90d9a485:
 # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:197
 translate chinese_simplified home_asami_exterior_7a80af65:
 
-    # player "Ce que tu as dit a {color=#e17055}{b}水人{/b}{/color}. À ce moment-là tu ne m'avais pas encore embrassé." id home_asami_exterior_7a80af65
-    player "你对 {color=#e17055}{b}水人{/b}{/color} 说的话。那时你还没有亲我。" id home_asami_exterior_7a80af65
+    # player "Ce que tu as dit a [minato.n]. À ce moment-là tu ne m'avais pas encore embrassé." id home_asami_exterior_7a80af65
+    player "你对 [minato.n] 说的话。那时你还没有亲我。" id home_asami_exterior_7a80af65
 
 # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:198
 translate chinese_simplified home_asami_exterior_52a5e926:
@@ -572,7 +572,7 @@ translate chinese_simplified strings:
 
     # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:68
     old "Aller sonner chez {color=#e17055}{b}[minato_name]{/b}{/color}"
-    new "去找 {color=#e17055}{b}水人{/b}{/color}"
+    new "去找 [minato.n]"
 
     # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:105
     old "Passez la journée avec {color=#ea8685}{b}[asami_name]{/b}{/color} dans votre chambre."

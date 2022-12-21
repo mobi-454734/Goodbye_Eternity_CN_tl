@@ -123,8 +123,8 @@ translate chinese_simplified home_kimochi_exterior_79e28736:
 # game/scripts/story/residential district/kimochi's home/home_kimochi_exterior.rpy:66
 translate chinese_simplified home_kimochi_exterior_9e4215ed:
 
-    # player "Dépêche-toi de prendre une décision {color=#e17055}{b}水人{/b}{/color} ne vas pas tarder et je pense qu'il ne sera pas aussi gentil que moi." id home_kimochi_exterior_9e4215ed
-    player "快点做决定吧{color=#e17055}{b}水人{/b}{/color}这不会花很长时间，我认为他不会像我一样好说话。" id home_kimochi_exterior_9e4215ed
+    # player "Dépêche-toi de prendre une décision [minato.n] ne vas pas tarder et je pense qu'il ne sera pas aussi gentil que moi." id home_kimochi_exterior_9e4215ed
+    player "快点做决定吧[minato.n]这不会花很长时间，我认为他不会像我一样好说话。" id home_kimochi_exterior_9e4215ed
 
 # game/scripts/story/residential district/kimochi's home/home_kimochi_exterior.rpy:67
 translate chinese_simplified home_kimochi_exterior_8fec7da5:
@@ -153,8 +153,8 @@ translate chinese_simplified home_kimochi_exterior_094b6b74:
 # game/scripts/story/residential district/kimochi's home/home_kimochi_exterior.rpy:71
 translate chinese_simplified home_kimochi_exterior_96cb08f6:
 
-    # kimochi angry "{color=#e17055}{b}水人{/b}{/color} n'est pas ce qu'il prétend être." id home_kimochi_exterior_96cb08f6
-    kimochi angry "{color=#e17055}{b}水人{/b}{/color} 隐藏了什么，他表里不一。" id home_kimochi_exterior_96cb08f6
+    # kimochi angry "[minato.n] n'est pas ce qu'il prétend être." id home_kimochi_exterior_96cb08f6
+    kimochi angry "[minato.n] 隐藏了什么，他表里不一。" id home_kimochi_exterior_96cb08f6
 
 # game/scripts/story/residential district/kimochi's home/home_kimochi_exterior.rpy:72
 translate chinese_simplified home_kimochi_exterior_03775ec8:
@@ -255,8 +255,8 @@ translate chinese_simplified home_kimochi_exterior_ea697831:
 # game/scripts/story/residential district/kimochi's home/home_kimochi_exterior.rpy:102
 translate chinese_simplified home_kimochi_exterior_c8698086:
 
-    # player "Quelque chose me gêne dans l'attitude de {color=#e17055}{b}水人{/b}{/color}, je ne le reconnais plus." id home_kimochi_exterior_c8698086
-    player "{color=#e17055}{b}水人{/b}{/color} 的态度让我很困扰，我已经认不出他了。" id home_kimochi_exterior_c8698086
+    # player "Quelque chose me gêne dans l'attitude de [minato.n], je ne le reconnais plus." id home_kimochi_exterior_c8698086
+    player "[minato.n] 的态度让我很困扰，我已经认不出他了。" id home_kimochi_exterior_c8698086
 
 # game/scripts/story/residential district/kimochi's home/home_kimochi_exterior.rpy:103
 translate chinese_simplified home_kimochi_exterior_00f2ab18:

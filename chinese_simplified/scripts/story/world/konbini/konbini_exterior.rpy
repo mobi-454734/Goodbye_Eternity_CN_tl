@@ -81,8 +81,8 @@ translate chinese_simplified konbini_exterior_5184afc6:
 # game/scripts/story/world/konbini/konbini_exterior.rpy:54
 translate chinese_simplified konbini_exterior_bc2387be:
 
-    # x "Je ne sais pas ce que cache {color=#e17055}{b}水人{/b}{/color} mais je n'aime pas ça." id konbini_exterior_bc2387be
-    x "我不知道 {color=#e17055}{b}水人{/b}{/color} 究竟隐瞒了什么，但我不喜欢它。" id konbini_exterior_bc2387be
+    # x "Je ne sais pas ce que cache [minato.n] mais je n'aime pas ça." id konbini_exterior_bc2387be
+    x "我不知道 [minato.n] 究竟隐瞒了什么，但我不喜欢它。" id konbini_exterior_bc2387be
 
 # game/scripts/story/world/konbini/konbini_exterior.rpy:59
 translate chinese_simplified konbini_exterior_bba623a1:
@@ -117,8 +117,8 @@ translate chinese_simplified konbini_exterior_4c6bf402:
 # game/scripts/story/world/konbini/konbini_exterior.rpy:67
 translate chinese_simplified konbini_exterior_de5336a5:
 
-    # player upset "Hey une seconde {color=#e17055}{b}水人{/b}{/color}! Je pense que tu lui fais vraiment peur." id konbini_exterior_de5336a5
-    player upset "嘿，等一下 {color=#e17055}{b}水人{/b}{/color}！你吓到她了！" id konbini_exterior_de5336a5
+    # player upset "Hey une seconde [minato.n]! Je pense que tu lui fais vraiment peur." id konbini_exterior_de5336a5
+    player upset "嘿，等一下 [minato.n]！你吓到她了！" id konbini_exterior_de5336a5
 
 # game/scripts/story/world/konbini/konbini_exterior.rpy:68
 translate chinese_simplified konbini_exterior_8e570e1d:
@@ -273,8 +273,8 @@ translate chinese_simplified konbini_exterior_03373df9:
 # game/scripts/story/world/konbini/konbini_exterior.rpy:98
 translate chinese_simplified konbini_exterior_45f2aea1:
 
-    # x "Il faudra vraiment que je me retrouve seul avec elle sans {color=#e17055}{b}水人{/b}{/color}." id konbini_exterior_45f2aea1
-    x "我需要在 {color=#e17055}{b}水人{/b}{/color} 外出的时候和她单独在一起。" id konbini_exterior_45f2aea1
+    # x "Il faudra vraiment que je me retrouve seul avec elle sans [minato.n]." id konbini_exterior_45f2aea1
+    x "我需要在 [minato.n] 外出的时候和她单独在一起。" id konbini_exterior_45f2aea1
 
 # game/scripts/story/world/konbini/konbini_exterior.rpy:104
 translate chinese_simplified konbini_exterior_9a6e7dee:
@@ -333,8 +333,8 @@ translate chinese_simplified konbini_exterior_03775ec8:
 # game/scripts/story/world/konbini/konbini_exterior.rpy:117
 translate chinese_simplified konbini_exterior_f0ab5c85:
 
-    # player "{color=#e17055}{b}水人{/b}{/color}!" id konbini_exterior_f0ab5c85
-    player "{color=#e17055}{b}水人{/b}{/color}！" id konbini_exterior_f0ab5c85
+    # player "[minato.n]!" id konbini_exterior_f0ab5c85
+    player "[minato.n]！" id konbini_exterior_f0ab5c85
 
 # game/scripts/story/world/konbini/konbini_exterior.rpy:119
 translate chinese_simplified konbini_exterior_a850d63b:
@@ -405,8 +405,8 @@ translate chinese_simplified konbini_exterior_5d986194:
 # game/scripts/story/world/konbini/konbini_exterior.rpy:137
 translate chinese_simplified konbini_exterior_527f552d:
 
-    # x "J'ai bien l'impression que {color=#e17055}{b}水人{/b}{/color} ne m'a pas dit toute la vérité." id konbini_exterior_527f552d
-    x "我感觉 {color=#e17055}{b}水人{/b}{/color} 没有告诉我全部真相。" id konbini_exterior_527f552d
+    # x "J'ai bien l'impression que [minato.n] ne m'a pas dit toute la vérité." id konbini_exterior_527f552d
+    x "我感觉 [minato.n] 没有告诉我全部真相。" id konbini_exterior_527f552d
 
 # game/scripts/story/world/konbini/konbini_exterior.rpy:138
 translate chinese_simplified konbini_exterior_4a5756cd:
@@ -471,8 +471,8 @@ translate chinese_simplified strings:
 # game/scripts/story/world/konbini/konbini_exterior.rpy:40
 translate chinese_simplified konbini_exterior_7008915d:
 
-    # player "{color=#e17055}{b}水人{/b}{/color} était très inquiet qu'il ne te soit arrivé quelque chose comme d'habitude tu me diras." id konbini_exterior_7008915d
-    player "{color=#e17055}{b}水人{/b}{/color} 很担心你像往常一样发生了什么事，你会告诉我的。" id konbini_exterior_7008915d
+    # player "[minato.n] était très inquiet qu'il ne te soit arrivé quelque chose comme d'habitude tu me diras." id konbini_exterior_7008915d
+    player "[minato.n] 很担心你像往常一样发生了什么事，你会告诉我的。" id konbini_exterior_7008915d
 
 # game/scripts/story/world/konbini/konbini_exterior.rpy:41
 translate chinese_simplified konbini_exterior_895c03e8:

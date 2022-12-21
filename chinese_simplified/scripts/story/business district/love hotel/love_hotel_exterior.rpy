@@ -16,7 +16,7 @@ translate chinese_simplified love_hotel_exterior_c6a80c2f:
 translate chinese_simplified love_hotel_exterior_2f0a0a01:
 
     # player surprised "Une seconde... {w}C'est... {w}{color=#55efc4}{b}[kimochi_name]{/b}{/color}" id love_hotel_exterior_2f0a0a01
-    player surprised "等一下... {w}那是不是... {w}{color=#55efc4}{b}爽{/b}{/color}吗？" id love_hotel_exterior_2f0a0a01
+    player surprised "等一下... {w}那是不是... {w}[kimochi.n]吗？" id love_hotel_exterior_2f0a0a01
 
 # game/scripts/story/business district/love hotel/love_hotel_exterior.rpy:41
 translate chinese_simplified love_hotel_exterior_50762b84:

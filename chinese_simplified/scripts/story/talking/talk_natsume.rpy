@@ -21,8 +21,8 @@ translate chinese_simplified talk_natsume_39a99cdf:
 # game/scripts/story/talking/talk_natsume.rpy:17
 translate chinese_simplified talk_natsume_eb33f652:
 
-    # player upset "Et puis je ne me vois pas fantasmer sur la copine de mon m- de {color=#e17055}{b}水人{/b}{/color}." id talk_natsume_eb33f652
-    player upset "而且我不认为自己幻想着我的兄……{color=#e17055}{b}水人{/b}{/color} 的女朋友。" id talk_natsume_eb33f652
+    # player upset "Et puis je ne me vois pas fantasmer sur la copine de mon m- de [minato.n]." id talk_natsume_eb33f652
+    player upset "而且我不认为自己幻想着我的兄……[minato.n] 的女朋友。" id talk_natsume_eb33f652
 
 # game/scripts/story/talking/talk_natsume.rpy:18
 translate chinese_simplified talk_natsume_28439819:
@@ -303,8 +303,8 @@ translate chinese_simplified talk_natsume_3965c347:
 # game/scripts/story/talking/talk_natsume.rpy:84
 translate chinese_simplified talk_natsume_a1ce7653:
 
-    # x "Il va falloir gérer {color=#e17055}{b}水人{/b}{/color} rapidement." id talk_natsume_a1ce7653
-    x "我需要尽快处理 {color=#e17055}{b}水人{/b}{/color}。" id talk_natsume_a1ce7653
+    # x "Il va falloir gérer [minato.n] rapidement." id talk_natsume_a1ce7653
+    x "我需要尽快处理 [minato.n]。" id talk_natsume_a1ce7653
 
 # game/scripts/story/talking/talk_natsume.rpy:85
 translate chinese_simplified talk_natsume_47359097:

@@ -15,8 +15,8 @@ translate chinese_simplified home_minato_exterior_9b2f0643:
 # game/scripts/story/talking/talk_minato.rpy:31
 translate chinese_simplified home_minato_exterior_2f5b2b16:
 
-    # player happy "Hey {color=#e17055}{b}水人{/b}{/color} comment ça va depuis l'autre jour, tu as un peu de temps pour discuter avec ton meilleur pote?" id home_minato_exterior_2f5b2b16
-    player happy "嘿 {color=#e17055}{b}水人{/b}{/color} 这几天过得怎么样，有时间和你最好的哥们聊聊吗？" id home_minato_exterior_2f5b2b16
+    # player happy "Hey [minato.n] comment ça va depuis l'autre jour, tu as un peu de temps pour discuter avec ton meilleur pote?" id home_minato_exterior_2f5b2b16
+    player happy "嘿 [minato.n] 这几天过得怎么样，有时间和你最好的哥们聊聊吗？" id home_minato_exterior_2f5b2b16
 
 # game/scripts/story/talking/talk_minato.rpy:32
 translate chinese_simplified home_minato_exterior_a4d41ed0:
@@ -369,8 +369,8 @@ translate chinese_simplified talk_minato_6c83ee0d:
 # game/scripts/story/talking/talk_minato.rpy:126
 translate chinese_simplified talk_minato_7bd56bbe:
 
-    # x "{color=#e17055}{b}水人{/b}{/color} n'est qu'un putain de psychopathe." id talk_minato_7bd56bbe
-    x "{color=#e17055}{b}水人{/b}{/color} 只是一个该死的精神病。" id talk_minato_7bd56bbe
+    # x "[minato.n] n'est qu'un putain de psychopathe." id talk_minato_7bd56bbe
+    x "[minato.n] 只是一个该死的精神病。" id talk_minato_7bd56bbe
 
 # game/scripts/story/talking/talk_minato.rpy:127
 translate chinese_simplified talk_minato_41e1bd9e:
@@ -507,8 +507,8 @@ translate chinese_simplified talk_minato_03775ec8:
 # game/scripts/story/talking/talk_minato.rpy:192
 translate chinese_simplified talk_minato_88fb0df9:
 
-    # player "Peut être qu'{color=#ea8685}{b}[asami_name]{/b}{/color} en saura davantage sur le comportement étrange de {color=#e17055}{b}水人{/b}{/color}" id talk_minato_88fb0df9
-    player "或许 {color=#ea8685}{b}麻美{/b}{/color} 会更了解 {color=#e17055}{b}水人{/b}{/color} 的奇怪举动" id talk_minato_88fb0df9
+    # player "Peut être qu'{color=#ea8685}{b}[asami_name]{/b}{/color} en saura davantage sur le comportement étrange de [minato.n]" id talk_minato_88fb0df9
+    player "或许 {color=#ea8685}{b}麻美{/b}{/color} 会更了解 [minato.n] 的奇怪举动" id talk_minato_88fb0df9
 
 # game/scripts/story/talking/talk_minato.rpy:193
 translate chinese_simplified talk_minato_cadc960c:
@@ -534,7 +534,7 @@ translate chinese_simplified strings:
 
     # game/scripts/story/talking/talk_minato.rpy:160
     # old "Elle en saura peut être plus sur le nouveau comportement de {color=#e17055}{b}[minato_name]{/b}{/color}"
-    # new "她可能更了解 {color=#e17055}{b}水人{/b}{/color} 的新行为"
+    # new "她可能更了解 [minato.n] 的新行为"
 
 # TODO: Translation updated at 2022-09-13 15:40
 

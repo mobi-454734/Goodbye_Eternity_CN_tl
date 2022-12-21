@@ -3,8 +3,8 @@
 # game/scripts/story/residential district/minato's home/home_minato_exterior.rpy:40
 translate chinese_simplified home_minato_exterior_b60f01b2:
 
-    # x "C'est quand même étrange aussi longtemps que je me souvienne, je n'ai jamais vu la petite amie de {color=#e17055}{b}水人{/b}{/color}" id home_minato_exterior_b60f01b2
-    x "我从未见过 {color=#e17055}{b}水人{/b}{/color} 的女朋友" id home_minato_exterior_b60f01b2
+    # x "C'est quand même étrange aussi longtemps que je me souvienne, je n'ai jamais vu la petite amie de [minato.n]" id home_minato_exterior_b60f01b2
+    x "我从未见过 [minato.n] 的女朋友" id home_minato_exterior_b60f01b2
 
 # game/scripts/story/residential district/minato's home/home_minato_exterior.rpy:41
 translate chinese_simplified home_minato_exterior_b48c1615:
@@ -39,8 +39,8 @@ translate chinese_simplified home_minato_exterior_64882998:
 # game/scripts/story/residential district/minato's home/home_minato_exterior.rpy:52
 translate chinese_simplified home_minato_exterior_b534e7e5:
 
-    # player happy "Oui je sais... Je suis venu voir {color=#e17055}{b}水人{/b}{/color}." id home_minato_exterior_b534e7e5
-    player happy "是的，我知道...我是来看 {color=#e17055}{b}水人{/b}{/color}。" id home_minato_exterior_b534e7e5
+    # player happy "Oui je sais... Je suis venu voir [minato.n]." id home_minato_exterior_b534e7e5
+    player happy "是的，我知道...我是来看 [minato.n]。" id home_minato_exterior_b534e7e5
 
 # game/scripts/story/residential district/minato's home/home_minato_exterior.rpy:53
 translate chinese_simplified home_minato_exterior_e3af0569:
@@ -81,8 +81,8 @@ translate chinese_simplified home_minato_exterior_602d825a:
 # game/scripts/story/residential district/minato's home/home_minato_exterior.rpy:59
 translate chinese_simplified home_minato_exterior_3875095d:
 
-    # player upset "Je bougerais pas d'ici avant d'avoir vu {color=#e17055}{b}水人{/b}{/color}." id home_minato_exterior_3875095d
-    player upset "在见到 {color=#e17055}{b}水人{/b}{/color} 之前，我不会离开这里。" id home_minato_exterior_3875095d
+    # player upset "Je bougerais pas d'ici avant d'avoir vu [minato.n]." id home_minato_exterior_3875095d
+    player upset "在见到 [minato.n] 之前，我不会离开这里。" id home_minato_exterior_3875095d
 
 # game/scripts/story/residential district/minato's home/home_minato_exterior.rpy:60
 translate chinese_simplified home_minato_exterior_d6b1edae:
@@ -255,8 +255,8 @@ translate chinese_simplified home_minato_exterior_120257c7:
 # game/scripts/story/residential district/minato's home/home_minato_exterior.rpy:96
 translate chinese_simplified home_minato_exterior_a014fc7b:
 
-    # player "Et c'est enfoiré de {color=#e17055}{b}水人{/b}{/color} qui ne dit rien..." id home_minato_exterior_a014fc7b
-    player "{color=#e17055}{b}水人{/b}{/color} 他妈的也什么都不说，故意看我难堪..." id home_minato_exterior_a014fc7b
+    # player "Et c'est enfoiré de [minato.n] qui ne dit rien..." id home_minato_exterior_a014fc7b
+    player "[minato.n] 他妈的也什么都不说，故意看我难堪..." id home_minato_exterior_a014fc7b
 
 # game/scripts/story/residential district/minato's home/home_minato_exterior.rpy:97
 translate chinese_simplified home_minato_exterior_04b4660d:
@@ -291,8 +291,8 @@ translate chinese_simplified home_minato_exterior_eb293e06:
 # game/scripts/story/residential district/minato's home/home_minato_exterior.rpy:116
 translate chinese_simplified home_minato_exterior_f61fd189:
 
-    # player upset "Merde {color=#e17055}{b}水人{/b}{/color} avait raison y'a bien un mec louche qui traine autour de sa maison." id home_minato_exterior_f61fd189
-    player upset "该死的 {color=#e17055}{b}水人{/b}{/color} 说得对，他家附近有个变态。" id home_minato_exterior_f61fd189
+    # player upset "Merde [minato.n] avait raison y'a bien un mec louche qui traine autour de sa maison." id home_minato_exterior_f61fd189
+    player upset "该死的 [minato.n] 说得对，他家附近有个变态。" id home_minato_exterior_f61fd189
 
 # game/scripts/story/residential district/minato's home/home_minato_exterior.rpy:117
 translate chinese_simplified home_minato_exterior_f9f9132c:
@@ -429,12 +429,12 @@ translate chinese_simplified home_minato_exterior_22a7770d:
 translate chinese_simplified strings:
 
     # game/scripts/story/residential district/minato's home/home_minato_exterior.rpy:31
-    old "Retrouver {color=#ea8685}{b}[asami_name]{/b}{/color} au {color=#efdf31}{b}parc{/b}{/color}."
-    new "与 {color=#ea8685}{b}麻美{/b}{/color} 在 {color=#efdf31}{b}公园{/b}{/color} 见面。"
+    # old "Retrouver {color=#ea8685}{b}[asami_name]{/b}{/color} au {color=#efdf31}{b}parc{/b}{/color}."
+    # new "与 {color=#ea8685}{b}麻美{/b}{/color} 在 {color=#efdf31}{b}公园{/b}{/color} 见面。"
 
-    # game/scripts/story/residential district/minato's home/home_minato_exterior.rpy:104
-    old "Rattraper l'individu louche avant {color=#e17055}{b}[minato_name]{/b}{/color}"
-    new "在 {color=#e17055}{b}水人{/b}{/color} 之前抓住可疑人员"
+    #game/scripts/story/residential district/minato's home/home_minato_exterior.rpy:104
+    #old "Rattraper l'individu louche avant {color=#e17055}{b}[minato_name]{/b}{/color}"
+    #new "在 [minato.n] 之前抓住可疑人员"
 
 # TODO: Translation updated at 2022-09-13 15:40
 
@@ -474,9 +474,9 @@ translate chinese_simplified strings:
 
     # game/scripts/story/residential district/minato's home/home_minato_exterior.rpy:31
     old "Retrouver [asami.n] au {color=#efdf31}{b}parc{/b}{/color}."
-    new "Retrouver [asami.n] au {color=#efdf31}{b}parc{/b}{/color}"
+    new "在{color=#efdf31}{b}公园{/b}{/color}找[asami.n]"
 
     # game/scripts/story/residential district/minato's home/home_minato_exterior.rpy:106
     old "Rattraper l'individu louche avant [minato.n]"
-    new "Rattraper l'individu louche avant [minato.n]"
+    new "在 [minato.n] 之前抓住那个可疑的家伙"
 

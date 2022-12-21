@@ -1072,7 +1072,7 @@ translate chinese_simplified menu_macumba_99da27f6:
 translate chinese_simplified menu_macumba_b4587d91:
 
     # player "...{color=#32ff7e}{b}[macumba_name]{/b}{/color} Je te présente {color=#55efc4}{b}[kimochi_name]{/b}{/color}, c'est grâce a lui que j'ai pu savoir qu'elle était en danger." id menu_macumba_b4587d91
-    player "...{color=#32ff7e}{b}马库姆巴{/b}{/color} 这是{color=#55efc4}{b}爽{/b}{/color}，多亏了他我能够知道她处于危险之中。" id menu_macumba_b4587d91
+    player "...{color=#32ff7e}{b}马库姆巴{/b}{/color} 这是[kimochi.n]，多亏了他我能够知道她处于危险之中。" id menu_macumba_b4587d91
 
 # game/scripts/story/talking/talk_macumba.rpy:413
 translate chinese_simplified menu_macumba_bcabef1d:
@@ -1132,7 +1132,7 @@ translate chinese_simplified menu_macumba_eb94a0ae:
 translate chinese_simplified menu_macumba_8cf0f16a:
 
     # player "Est-ce que tu peux t'occuper de l'entrainement de {color=#55efc4}{b}[kimochi_name]{/b}{/color}?" id menu_macumba_8cf0f16a
-    player "你能负责培训 {color=#55efc4}{b}爽{/b}{/color} 吗？" id menu_macumba_8cf0f16a
+    player "你能负责培训 [kimochi.n] 吗？" id menu_macumba_8cf0f16a
 
 # game/scripts/story/talking/talk_macumba.rpy:423
 translate chinese_simplified menu_macumba_7d529f53:
@@ -1156,7 +1156,7 @@ translate chinese_simplified menu_macumba_1cf6f306:
 translate chinese_simplified menu_macumba_d111c089:
 
     # player happy "{color=#55efc4}{b}[kimochi_name]{/b}{/color}... {color=#32ff7e}{b}[macumba_name]{/b}{/color} ne déconne jamais avec l'entrainement." id menu_macumba_d111c089
-    player happy "{color=#55efc4}{b}爽{/b}{/color}... {color=#32ff7e}{b}马库姆巴{/b}{/color} 永远不要乱训练。" id menu_macumba_d111c089
+    player happy "[kimochi.n]... {color=#32ff7e}{b}马库姆巴{/b}{/color} 永远不要乱训练。" id menu_macumba_d111c089
 
 # game/scripts/story/talking/talk_macumba.rpy:427
 translate chinese_simplified menu_macumba_35b40448:

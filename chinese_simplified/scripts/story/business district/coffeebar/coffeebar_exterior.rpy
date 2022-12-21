@@ -364,7 +364,7 @@ translate chinese_simplified coffeebar_exterior_8b23f999:
 translate chinese_simplified coffeebar_exterior_2bcf82ba:
 
     # ubs "{color=#55efc4}{b}[kimochi_name]{/b}{/color}! Tu tombes bien, je pensais justement à toi!" id coffeebar_exterior_2bcf82ba
-    ubs "{color=#55efc4}{b}爽{/b}{/color}！我才刚想到你你就来了！" id coffeebar_exterior_2bcf82ba
+    ubs "[kimochi.n]！我才刚想到你你就来了！" id coffeebar_exterior_2bcf82ba
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:169
 translate chinese_simplified coffeebar_exterior_cb8f5e81:
@@ -430,7 +430,7 @@ translate chinese_simplified coffeebar_exterior_17aadf73:
 translate chinese_simplified coffeebar_exterior_a7116d26:
 
     # player "{color=#55efc4}{b}[kimochi_name]{/b}{/color} est en train de faire diversion. Je devrais en profiter pour parler à {color=#a29bfe}{b}[yasuka_name]{/b}{/color} !" id coffeebar_exterior_a7116d26
-    player "{color=#55efc4}{b}爽{/b}{/color} 调虎离山了。我得抓紧机会和 [yasuka.n] 谈谈！" id coffeebar_exterior_a7116d26
+    player "[kimochi.n] 调虎离山了。我得抓紧机会和 [yasuka.n] 谈谈！" id coffeebar_exterior_a7116d26
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:209
 translate chinese_simplified coffeebar_exterior_21f5520e:

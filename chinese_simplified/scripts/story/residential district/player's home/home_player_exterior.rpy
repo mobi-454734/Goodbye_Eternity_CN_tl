@@ -483,8 +483,8 @@ translate chinese_simplified home_player_exterior_ae5dff8c:
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:235
 translate chinese_simplified home_player_exterior_945423f4:
 
-    # x "Je vais devoir en toucher un mot a {color=#e17055}{b}水人{/b}{/color}, c'est pas normal ce genre de truc..." id home_player_exterior_945423f4
-    x "我得对{color=#e17055}{b}水人{/b}{/color}说一句话，这种事不正常..." id home_player_exterior_945423f4
+    # x "Je vais devoir en toucher un mot a [minato.n], c'est pas normal ce genre de truc..." id home_player_exterior_945423f4
+    x "我得对[minato.n]说一句话，这种事不正常..." id home_player_exterior_945423f4
 
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:237
 translate chinese_simplified home_player_exterior_63526ee5:
@@ -783,8 +783,8 @@ translate chinese_simplified home_player_exterior_c221fdef:
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:340
 translate chinese_simplified home_player_exterior_1a2a2106:
 
-    # asami sulking "Et bien... Quel est le genre de fille que {color=#e17055}{b}水人{/b}{/color} aime?" id home_player_exterior_1a2a2106
-    asami sulking "嗯... {color=#e17055}{b}水人{/b}{/color} 喜欢什么样的女孩？" id home_player_exterior_1a2a2106
+    # asami sulking "Et bien... Quel est le genre de fille que [minato.n] aime?" id home_player_exterior_1a2a2106
+    asami sulking "嗯... [minato.n] 喜欢什么样的女孩？" id home_player_exterior_1a2a2106
 
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:341
 translate chinese_simplified home_player_exterior_453b9602:
@@ -819,8 +819,8 @@ translate chinese_simplified home_player_exterior_648c34c9:
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:346
 translate chinese_simplified home_player_exterior_0820fbd0:
 
-    # asami "Opération : Tu vas crever de jalousie {color=#e17055}{b}水人{/b}{/color}, lancé!" id home_player_exterior_0820fbd0
-    asami "{color=#e17055}{b}水人{/b}{/color} 你会嫉妒死的，走起！" id home_player_exterior_0820fbd0
+    # asami "Opération : Tu vas crever de jalousie [minato.n], lancé!" id home_player_exterior_0820fbd0
+    asami "[minato.n] 你会嫉妒死的，走起！" id home_player_exterior_0820fbd0
 #这里需要改进
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:354
 translate chinese_simplified home_player_exterior_cf34515d:
@@ -1377,8 +1377,8 @@ translate chinese_simplified home_player_exterior_ccfd7fc3:
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:532
 translate chinese_simplified home_player_exterior_f840e8bd:
 
-    # natsume "Et tu es le soi-disant meilleur ami de {color=#e17055}{b}水人{/b}{/color}."
-    natsume "你是 {color=#e17055}{b}水人{/b}{/color} 所谓的好朋友。"
+    # natsume "Et tu es le soi-disant meilleur ami de [minato.n]."
+    natsume "你是 [minato.n] 所谓的好朋友。"
 
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:533
 translate chinese_simplified home_player_exterior_04b1236e:
@@ -1425,8 +1425,8 @@ translate chinese_simplified home_player_exterior_914ffae3:
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:540
 translate chinese_simplified home_player_exterior_75f098a1:
 
-    # natsume "Mais oublie {color=#e17055}{b}水人{/b}{/color} et {color=#ffcccc}{b}[chiaki_name]{/b}{/color}."
-    natsume "Mais oublie {color=#e17055}{b}水人{/b}{/color} 和 {color=#ffcccc}{b}千秋{/b}{/color}。"
+    # natsume "Mais oublie [minato.n] et {color=#ffcccc}{b}[chiaki_name]{/b}{/color}."
+    natsume "Mais oublie [minato.n] 和 {color=#ffcccc}{b}千秋{/b}{/color}。"
 
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:541
 translate chinese_simplified home_player_exterior_74281dd7:
@@ -1527,8 +1527,8 @@ translate chinese_simplified home_player_exterior_683b5234:
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:570
 translate chinese_simplified home_player_exterior_be9a3938:
 
-    # player "Rester loin de tout ce qui peut être lié de près ou de loin a {color=#e17055}{b}水人{/b}{/color}?"
-    player "远离与 {color=#e17055}{b}水人{/b}{/color} 密切或远程相关的任何事物？"
+    # player "Rester loin de tout ce qui peut être lié de près ou de loin a [minato.n]?"
+    player "远离与 [minato.n] 密切或远程相关的任何事物？"
 
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:571
 translate chinese_simplified home_player_exterior_4f745847:
@@ -1539,8 +1539,8 @@ translate chinese_simplified home_player_exterior_4f745847:
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:572
 translate chinese_simplified home_player_exterior_7c9d9fdd:
 
-    # natsume "{color=#e17055}{b}水人{/b}{/color} a très mal digéré la petite provoque de ta nouvelle copine."
-    natsume "{color=#e17055}{b}水人{/b}{/color} 非常糟糕地消化了你新女友的小预告。"
+    # natsume "[minato.n] a très mal digéré la petite provoque de ta nouvelle copine."
+    natsume "[minato.n] 非常糟糕地消化了你新女友的小预告。"
 
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:573
 translate chinese_simplified home_player_exterior_50cc7106:
@@ -2114,7 +2114,7 @@ translate chinese_simplified strings:
 
     # game/scripts/story/residential district/player's home/home_player_exterior.rpy:214
     old "Il faut que j'en parle à {color=#e17055}{b}[minato_name]{/b}{/color} tout ça n'est pas normal."
-    new "我必须和 {color=#e17055}{b}水人{/b}{/color} 谈谈，这不正常。"
+    new "我必须和 [minato.n] 谈谈，这不正常。"
 
     # game/scripts/story/residential district/player's home/home_player_exterior.rpy:291
     old "Allons dormir, demain je commence mon job au restaurant."
@@ -2134,7 +2134,7 @@ translate chinese_simplified strings:
 
     # game/scripts/story/residential district/player's home/home_player_exterior.rpy:335
     old "Il faut que je trouve la petite amie de {color=#e17055}{b}[minato_name]{/b}{/color}."
-    new "我需要找到 {color=#e17055}{b}水人{/b}{/color} 的女朋友。"
+    new "我需要找到 [minato.n] 的女朋友。"
 
     # game/scripts/story/residential district/player's home/home_player_exterior.rpy:363
     old "ROUTE AMOUR"

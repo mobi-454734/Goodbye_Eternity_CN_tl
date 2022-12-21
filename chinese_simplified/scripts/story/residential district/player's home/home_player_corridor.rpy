@@ -988,19 +988,19 @@ translate chinese_simplified home_player_corridor_eedbba89:
 translate chinese_simplified home_player_corridor_7b6de4f1:
 
     # player "Bon je peux savoir pourquoi tu passes ton temps à écouter à ma porte?" id home_player_corridor_7b6de4f1
-    player "好吧，我能知道你为什么花时间在我家门口听吗？" id home_player_corridor_7b6de4f1
+    player "好吧，你能解释一下为什么要在我门口偷听吗？" id home_player_corridor_7b6de4f1
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:532
 translate chinese_simplified home_player_corridor_743afa02:
 
     # noriko "J'- je n’écoutais pas à ta porte!" id home_player_corridor_743afa02
-    noriko "我-我没在你家门口听！" id home_player_corridor_743afa02
+    noriko "我……我没偷听！" id home_player_corridor_743afa02
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:533
 translate chinese_simplified home_player_corridor_e733a60e:
 
     # player "Donc tu me dis que tu as passé ton après-midi dans le couloir pour...?" id home_player_corridor_e733a60e
-    player "所以你是在告诉我你下午在走廊里是为了...？" id home_player_corridor_e733a60e
+    player "那你是在干嘛？" id home_player_corridor_e733a60e
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:534
 translate chinese_simplified home_player_corridor_23deb4f6:
@@ -1012,37 +1012,37 @@ translate chinese_simplified home_player_corridor_23deb4f6:
 translate chinese_simplified home_player_corridor_ced872a9:
 
     # player upset "Sérieusement c'est quoi ton probleme?" id home_player_corridor_ced872a9
-    player upset "说真的，你的问题是什么？" id home_player_corridor_ced872a9
+    player upset "说真的，你到底怎么了？" id home_player_corridor_ced872a9
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:536
 translate chinese_simplified home_player_corridor_e1b36b7c:
 
     # player "J'essaye de te parler tu m'envoie chier, je t'ignore tu m'envoie chier aussi." id home_player_corridor_e1b36b7c
-    player "我试着和你说话，你惹我生气，我不理你，你也惹我生气。" id home_player_corridor_e1b36b7c
+    player "我跟你讲道理，你生气，我不理你呢，你也生气。" id home_player_corridor_e1b36b7c
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:537
 translate chinese_simplified home_player_corridor_8f217dd2:
 
     # player "Franchement je ne sais plus comment agir avec toi..." id home_player_corridor_8f217dd2
-    player "老实说，我已经不知道该怎么对付你了。" id home_player_corridor_8f217dd2
+    player "老实说，我已经不知道该怎么办了。" id home_player_corridor_8f217dd2
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:538
 translate chinese_simplified home_player_corridor_a48aba28:
 
     # noriko shame "T'as pas le droit..." id home_player_corridor_a48aba28
-    noriko shame "你没有权利..." id home_player_corridor_a48aba28
+    noriko shame "你不能..." id home_player_corridor_a48aba28
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:539
 translate chinese_simplified home_player_corridor_0458b6ed:
 
     # player "de quoi?" id home_player_corridor_0458b6ed
-    player "够吗？" id home_player_corridor_0458b6ed
+    player "我不能？" id home_player_corridor_0458b6ed
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:540
 translate chinese_simplified home_player_corridor_7b43a022:
 
     # noriko disgusted "Tu n'as pas le droit d'agir comme tu fais avec moi et du jour au lendemain totalement m'ignorer!" id home_player_corridor_7b43a022
-    noriko disgusted "你没有权利像对待我一样一夜之间完全不理我！" id home_player_corridor_7b43a022
+    noriko disgusted "你不能那天这样对我之后就装作什么都没发生过！" id home_player_corridor_7b43a022
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:548
 translate chinese_simplified home_player_corridor_269b7a36:
@@ -1054,19 +1054,19 @@ translate chinese_simplified home_player_corridor_269b7a36:
 translate chinese_simplified home_player_corridor_076ebe10:
 
     # x "Malgré que je la fasse chanter, elle en redemande?" id home_player_corridor_076ebe10
-    x "即使我让她唱歌，她还想要更多？" id home_player_corridor_076ebe10
+    x "即使我威胁她？" id home_player_corridor_076ebe10
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:552
 translate chinese_simplified home_player_corridor_e0287887:
 
     # x "Même si j'ai demandé à couper les ponts elle en redemande?" id home_player_corridor_e0287887
-    x "即使我要求断绝关系，她还要求更多？" id home_player_corridor_e0287887
+    x "即使我要求断绝关系？" id home_player_corridor_e0287887
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:554
 translate chinese_simplified home_player_corridor_c4f15d27:
 
     # x "Même si j'ai agi de manière agressive elle en redemande?" id home_player_corridor_c4f15d27
-    x "即使我表现得咄咄逼人，她还想要更多吗？" id home_player_corridor_c4f15d27
+    x "即使我表现得咄咄逼人？" id home_player_corridor_c4f15d27
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:556
 translate chinese_simplified home_player_corridor_43b51905:
@@ -1084,13 +1084,13 @@ translate chinese_simplified home_player_corridor_bcfdd470:
 translate chinese_simplified home_player_corridor_c58c0217:
 
     # x "L'avenir le dira bien assez tôt." id home_player_corridor_c58c0217
-    x "未来很快就会告诉我们。" id home_player_corridor_c58c0217
+    x "时间才能给我答案。" id home_player_corridor_c58c0217
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:564
 translate chinese_simplified home_player_corridor_89994af6:
 
     # player "Bref, allons voir {color=#55efc4}{b}[kimochi_name]{/b}{/color}." id home_player_corridor_89994af6
-    player "Bref, allons voir {color=#55efc4}{b}爽{/b}{/color}。" id home_player_corridor_89994af6
+    player "总之，让我去找 [kimochi.n]。" id home_player_corridor_89994af6
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:576
 translate chinese_simplified home_player_corridor_898b1990:
@@ -1552,7 +1552,7 @@ translate chinese_simplified strings:
 
     # game/scripts/story/residential district/player's home/home_player_corridor.rpy:393
     old "Allons chez {color=#e17055}{b}[minato_name]{/b}{/color} histoire d'en apprendre plus sur sa copine"
-    new "让我们去找 {color=#e17055}{b}水人{/b}{/color} 了解更多关于他女朋友的信息"
+    new "让我们去找 [minato.n] 了解更多关于他女朋友的信息"
 
     # game/scripts/story/residential district/player's home/home_player_corridor.rpy:396
     old "Je suis sûr qu'elle doit trainer au parc."
@@ -1564,7 +1564,7 @@ translate chinese_simplified strings:
 
     # game/scripts/story/residential district/player's home/home_player_corridor.rpy:524
     old "Rendez-vous a l'adresse indiquée par {color=#55efc4}{b}[kimochi_name]{/b}{/color}"
-    new "转到 {color=#55efc4}{b}爽{/b}{/color} 指示的地址"
+    new "转到 [kimochi.n] 指示的地址"
 
 # TODO: Translation updated at 2022-09-13 15:40
 

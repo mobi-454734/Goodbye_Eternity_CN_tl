@@ -448,7 +448,7 @@ translate chinese_simplified talk_minato_1db42ff9:
 translate chinese_simplified talk_minato_bcb86e50:
 
     # minatoc "{size=-10}Putain qu'est-ce qu'il fout là?!{/size}" id talk_minato_bcb86e50
-    minatoc "{size=-10}他到底在这做什么？！{/size}" id talk_minato_bcb86e50
+    minatoc "{size=-10}怎么又是他？！{/size}" id talk_minato_bcb86e50
 
 # game/scripts/story/talking/talk_minato.rpy:172
 translate chinese_simplified talk_minato_b02f4aa7:
@@ -460,25 +460,25 @@ translate chinese_simplified talk_minato_b02f4aa7:
 translate chinese_simplified talk_minato_74c8ce88:
 
     # minato "En fait si, j'attends du monde si tu pouvais t'en aller rapidement ça m'arrangerait." id talk_minato_74c8ce88
-    minato "其实我在等人，如果你能快点离开，我就好了。" id talk_minato_74c8ce88
+    minato "其实我在等我女朋友，如果你能快点离开，我就好了。" id talk_minato_74c8ce88
 
 # game/scripts/story/talking/talk_minato.rpy:174
 translate chinese_simplified talk_minato_4006a372:
 
     # player surprised "Quoi t'est sérieux?" id talk_minato_4006a372
-    player surprised "你是认真的什么？" id talk_minato_4006a372
+    player surprised "哦？真的吗？" id talk_minato_4006a372
 
 # game/scripts/story/talking/talk_minato.rpy:175
 translate chinese_simplified talk_minato_4a60a253:
 
     # player happy "C'est ta petite amie, ta honte qu'elle te voit avec moi c'est ça?" id talk_minato_4a60a253
-    player happy "她是你的女朋友，看到你和我在一起你会感到羞耻，对吧？" id talk_minato_4a60a253
+    player happy "你还不好意思让我看看你的女朋友？" id talk_minato_4a60a253
 
 # game/scripts/story/talking/talk_minato.rpy:176
 translate chinese_simplified talk_minato_dc476080:
 
     # minato angry "Putain {color=#0984e3}{b}[player_name]{/b}{/color} ferme ta gueule et casse toi!" id talk_minato_dc476080
-    minato angry "该死的{color=#0984e3}{b}[player_name]{/b}{/color}闭嘴，滚蛋！" id talk_minato_dc476080
+    minato angry "他妈的 [player.n] 闭嘴，滚蛋！" id talk_minato_dc476080
 
 # game/scripts/story/talking/talk_minato.rpy:181
 translate chinese_simplified talk_minato_3ea58927:
@@ -490,13 +490,13 @@ translate chinese_simplified talk_minato_3ea58927:
 translate chinese_simplified talk_minato_f3f3a065:
 
     # x "Je ne le reconnais plus du tout." id talk_minato_f3f3a065
-    x "我已经完全认不出他了。" id talk_minato_f3f3a065
+    x "怎么跟变了一个人似的。" id talk_minato_f3f3a065
 
 # game/scripts/story/talking/talk_minato.rpy:188
 translate chinese_simplified talk_minato_4b55a6c4:
 
     # minato "Allez dégage reste pas là!" id talk_minato_4b55a6c4
-    minato "来吧，出去，不要呆在那里！" id talk_minato_4b55a6c4
+    minato "走啊，出去，不要站在那里！" id talk_minato_4b55a6c4
 
 # game/scripts/story/talking/talk_minato.rpy:189
 translate chinese_simplified talk_minato_03775ec8:
@@ -508,33 +508,33 @@ translate chinese_simplified talk_minato_03775ec8:
 translate chinese_simplified talk_minato_88fb0df9:
 
     # player "Peut être qu'{color=#ea8685}{b}[asami_name]{/b}{/color} en saura davantage sur le comportement étrange de {color=#e17055}{b}水人{/b}{/color}" id talk_minato_88fb0df9
-    player "或许 {color=#ea8685}{b}麻美{/b}{/color} 会更了解 {color=#e17055}{b}水人{/b}{/color} 的奇怪行为" id talk_minato_88fb0df9
+    player "或许 {color=#ea8685}{b}麻美{/b}{/color} 会更了解 {color=#e17055}{b}水人{/b}{/color} 的奇怪举动" id talk_minato_88fb0df9
 
 # game/scripts/story/talking/talk_minato.rpy:193
 translate chinese_simplified talk_minato_cadc960c:
 
     # player "Bien que je n'ai pas trop envie de lui parler de son ancien crush..." id talk_minato_cadc960c
-    player "虽然我真的不想和他谈他的旧情人..." id talk_minato_cadc960c
+    player "虽然我真的不想在她面前提起这事..." id talk_minato_cadc960c
 
 # game/scripts/story/talking/talk_minato.rpy:194
 translate chinese_simplified talk_minato_a74c0302:
 
     # player upset "Merde pourquoi faut-il que je me prenne la tête avec ça?" id talk_minato_a74c0302
-    player upset "该死的，我为什么要打扰这个？" id talk_minato_a74c0302
+    player upset "真是的？我没事招惹他干嘛？" id talk_minato_a74c0302
 
 translate chinese_simplified strings:
 
     # game/scripts/story/talking/talk_minato.rpy:17
-    old "Je dois retrouver {color=#ffcccc}{b}[chiaki_name]{/b}{/color} le plus rapidement possible."
-    new "我需要尽快找到 {color=#ffcccc}{b}千秋{/b}{/color}。"
+    # old "Je dois retrouver {color=#ffcccc}{b}[chiaki_name]{/b}{/color} le plus rapidement possible."
+    # new "我需要尽快找到 {color=#ffcccc}{b}千秋{/b}{/color}。"
 
     # game/scripts/story/talking/talk_minato.rpy:68
     old "Rejoindre les filles au parc."
     new "加入公园的女孩。"
 
     # game/scripts/story/talking/talk_minato.rpy:160
-    old "Elle en saura peut être plus sur le nouveau comportement de {color=#e17055}{b}[minato_name]{/b}{/color}"
-    new "她可能更了解 {color=#e17055}{b}水人{/b}{/color} 的新行为"
+    # old "Elle en saura peut être plus sur le nouveau comportement de {color=#e17055}{b}[minato_name]{/b}{/color}"
+    # new "她可能更了解 {color=#e17055}{b}水人{/b}{/color} 的新行为"
 
 # TODO: Translation updated at 2022-09-13 15:40
 
@@ -562,9 +562,9 @@ translate chinese_simplified strings:
 
     # game/scripts/story/talking/talk_minato.rpy:17
     old "Je dois retrouver [chiaki.n] le plus rapidement possible."
-    new "我必须尽快找到恰基。"
+    new "我必须尽快找到[chiaki.n]。"
 
     # game/scripts/story/talking/talk_minato.rpy:161
     old "Elle en saura peut être plus sur le nouveau comportement de [minato.n]"
-    new "她可能会对[minato.n]的新行为有更多的了解。"
+    new "她可能会对[minato.n]的举动有更多的了解。"
 

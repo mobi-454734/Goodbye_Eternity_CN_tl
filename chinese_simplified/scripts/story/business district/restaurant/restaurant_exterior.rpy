@@ -838,7 +838,7 @@ translate chinese_simplified restaurant_exterior_8541bbf7:
 translate chinese_simplified restaurant_exterior_6a4cf7c8:
 
     # player sad "{color=#a29bfe}{b}[yasuka_name]{/b}{/color} reste toujours introuvable." id restaurant_exterior_6a4cf7c8
-    player sad "{color=#a29bfe}{b}安香{/b}{/color} 仍然找不到。" id restaurant_exterior_6a4cf7c8
+    player sad "[yasuka.n] 仍然找不到。" id restaurant_exterior_6a4cf7c8
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:345
 translate chinese_simplified restaurant_exterior_7b821704:
@@ -862,7 +862,7 @@ translate chinese_simplified restaurant_exterior_fd6a3ad4:
 translate chinese_simplified restaurant_exterior_aab36613:
 
     # player "Je ferais mieux d'aller prendre des nouvelles de {color=#a29bfe}{b}[yasuka_name]{/b}{/color}." id restaurant_exterior_aab36613
-    player "我最好去看看 {color=#a29bfe}{b}安香{/b}{/color}。" id restaurant_exterior_aab36613
+    player "我最好去看看 [yasuka.n]。" id restaurant_exterior_aab36613
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:361
 translate chinese_simplified restaurant_exterior_2e070ae7:
@@ -898,11 +898,11 @@ translate chinese_simplified strings:
 
     # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:353
     #old "Rentrer à la maison voir {color=#a29bfe}{b}[yasuka_name]{/b}{/color}."
-    #new "回家看看 {color=#a29bfe}{b}安香{/b}{/color}。"
+    #new "回家看看 [yasuka.n]。"
 
     # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:371
     #old "Rentrer à la maison retrouver {color=#a29bfe}{b}[yasuka_name]{/b}{/color}."
-    #new "回家寻找 {color=#a29bfe}{b}安香{/b}{/color}。"
+    #new "回家寻找 [yasuka.n]。"
 
     # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:379
     old "Retour à la maison."
@@ -910,11 +910,11 @@ translate chinese_simplified strings:
 
     # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:387
     #old "Demandez des explications à {color=#fd79a8}{b}[noriko_name]{/b}{/color}"
-    #new "向 {color=#fd79a8}{b}纪子{/b}{/color} 寻求解释"
+    #new "向 [noriko.n] 寻求解释"
 
     # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:395
     #old "Rentrez à la maison, {color=#a29bfe}{b}[yasuka_name]{/b}{/color} attend votre retour."
-    #new "回家吧，{color=#a29bfe}{b}安香{/b}{/color} 等着你回来。"
+    #new "回家吧，[yasuka.n] 等着你回来。"
 
 # TODO: Translation updated at 2022-09-13 15:40
 

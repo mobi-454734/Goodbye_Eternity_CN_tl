@@ -135,8 +135,8 @@ translate chinese_simplified talk_chiaki_86ab38bb:
 # game/scripts/story/talking/talk_chiaki.rpy:56
 translate chinese_simplified talk_chiaki_b528d151:
 
-    # minato "Déjà, rien qu'à voir ta tête, je peux savoir que {color=#fd79a8}{b}纪子{/b}{/color} tu as bien pris la tête ce matin !" id talk_chiaki_b528d151
-    minato "光看你的表情就知道 {color=#fd79a8}{b}纪子{/b}{/color} 今天早上又给你找不痛快了吧！" id talk_chiaki_b528d151
+    # minato "Déjà, rien qu'à voir ta tête, je peux savoir que [noriko.n] tu as bien pris la tête ce matin !" id talk_chiaki_b528d151
+    minato "光看你的表情就知道 [noriko.n] 今天早上又给你找不痛快了吧！" id talk_chiaki_b528d151
 
 # game/scripts/story/talking/talk_chiaki.rpy:57
 translate chinese_simplified talk_chiaki_bf5063a2:

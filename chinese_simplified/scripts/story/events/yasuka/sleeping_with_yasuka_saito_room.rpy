@@ -46,7 +46,7 @@ translate chinese_simplified sleeping_with_yasuka_saito_room_cd082b5a:
 translate chinese_simplified sleeping_with_yasuka_saito_room_140aced7:
 
     # x "...mais je suppose que c'est le prix à payer pour dormir en compagnie d'une femme aussi sexy que {color=#a29bfe}{b}[yasuka_name]{/b}{/color}." id sleeping_with_yasuka_saito_room_140aced7
-    x "...但我想这就是与 {color=#a29bfe}{b}安香{/b}{/color} 这样的美人一起睡觉的代价。" id sleeping_with_yasuka_saito_room_140aced7
+    x "...但我想这就是与 [yasuka.n] 这样的美人一起睡觉的代价。" id sleeping_with_yasuka_saito_room_140aced7
 
 # game/scripts/story/events/yasuka/sleeping_with_yasuka_saito_room.rpy:20
 translate chinese_simplified sleeping_with_yasuka_saito_room_00838fdb:
@@ -178,7 +178,7 @@ translate chinese_simplified sleeping_with_yasuka_saito_room_4e1cf904:
 translate chinese_simplified sleeping_with_yasuka_saito_room_863890e6:
 
     # x "{color=#a29bfe}{b}[yasuka_name]{/b}{/color}... Pourquoi tu me tortures comme ça?" id sleeping_with_yasuka_saito_room_863890e6
-    x "{color=#a29bfe}{b}安香{/b}{/color}...为什么我不也一起裸睡？" id sleeping_with_yasuka_saito_room_863890e6
+    x "[yasuka.n]...为什么我不也一起裸睡？" id sleeping_with_yasuka_saito_room_863890e6
 
 # game/scripts/story/events/yasuka/sleeping_with_yasuka_saito_room.rpy:92
 translate chinese_simplified sleeping_with_yasuka_saito_room_a44fda81:
@@ -208,7 +208,7 @@ translate chinese_simplified strings:
 
     # game/scripts/story/events/yasuka/sleeping_with_yasuka_saito_room.rpy:103
     old "Aller rejoindre {color=#a29bfe}{b}[yasuka_name]{/b}{/color} dans le salon."
-    new "去客厅找 {color=#a29bfe}{b}安香{/b}{/color}。"
+    new "去客厅找 [yasuka.n]。"
 
 # TODO: Translation updated at 2022-12-15 12:14
 

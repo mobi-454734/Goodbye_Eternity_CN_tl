@@ -13,8 +13,8 @@ translate chinese_simplified strings:
     new "睡觉"
 
     # game/scripts/story/action/sleep.rpy:5
-    old "Faire venir {color=#fd79a8}{b}纪子{/b}{/color} dans la chambre"
-    new "将 {color=#fd79a8}{b}纪子{/b}{/color} 带到房间"
+    old "Faire venir [noriko.n] dans la chambre"
+    new "将 [noriko.n] 带到房间"
 
     # game/scripts/story/action/sleep.rpy:5
     old "Faire une sieste"
@@ -38,7 +38,7 @@ translate chinese_simplified strings:
 
     # game/scripts/story/action/sleep.rpy:7
     old "Dormir avec {color=#a29bfe}{b}[yasuka_name]{/b}{/color}"
-    new "睡 {color=#a29bfe}{b}安香{/b}{/color}"
+    new "睡 [yasuka.n]"
 
 # TODO: Translation updated at 2022-12-15 12:14
 

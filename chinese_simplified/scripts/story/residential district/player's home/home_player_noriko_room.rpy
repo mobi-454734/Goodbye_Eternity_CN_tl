@@ -88,7 +88,7 @@ translate chinese_simplified home_player_noriko_room_db77f6fb:
 translate chinese_simplified home_player_noriko_room_0b5ed9e7:
 
     # player "{color=#a29bfe}{b}[yasuka_name]{/b}{/color} ne croira jamais un mensonge pareil !" id home_player_noriko_room_0b5ed9e7
-    player "{color=#a29bfe}{b}安香{/b}{/color} 绝对不会相信这样的谎言！" id home_player_noriko_room_0b5ed9e7
+    player "[yasuka.n] 绝对不会相信这样的谎言！" id home_player_noriko_room_0b5ed9e7
 
 # game/scripts/story/residential district/player's home/home_player_noriko_room.rpy:57
 translate chinese_simplified home_player_noriko_room_61aada6b:
@@ -184,7 +184,7 @@ translate chinese_simplified home_player_noriko_room_6a052d56:
 translate chinese_simplified home_player_noriko_room_5e15bd98:
 
     # player happy "Juste que... Je me demande ce que pensera {color=#a29bfe}{b}[yasuka_name]{/b}{/color} pensera de cet enregistrement..." id home_player_noriko_room_5e15bd98
-    player happy "就是...我想知道 {color=#a29bfe}{b}安香{/b}{/color} 会怎么看这段录音..." id home_player_noriko_room_5e15bd98
+    player happy "就是...我想知道 [yasuka.n] 会怎么看这段录音..." id home_player_noriko_room_5e15bd98
 
 # game/scripts/story/residential district/player's home/home_player_noriko_room.rpy:74
 translate chinese_simplified home_player_noriko_room_080e5f7e:
@@ -195,8 +195,8 @@ translate chinese_simplified home_player_noriko_room_080e5f7e:
 # game/scripts/story/residential district/player's home/home_player_noriko_room.rpy:75
 translate chinese_simplified home_player_noriko_room_391aad38:
 
-    # player "Tout enregistré oui, je t'avais prévenue {color=#fd79a8}{b}纪子{/b}{/color} que je montrerais quelle salope tu peux être..." id home_player_noriko_room_391aad38
-    player "是的，我把刚才所有的对话都录下来了。我警告过你如果你继续冒犯我我会发生什么 {color=#fd79a8}{b}纪子{/b}{/color}，我会揭露你的真面目..." id home_player_noriko_room_391aad38
+    # player "Tout enregistré oui, je t'avais prévenue [noriko.n] que je montrerais quelle salope tu peux être..." id home_player_noriko_room_391aad38
+    player "是的，我把刚才所有的对话都录下来了。我警告过你如果你继续冒犯我我会发生什么 [noriko.n]，我会揭露你的真面目..." id home_player_noriko_room_391aad38
 
 # game/scripts/story/residential district/player's home/home_player_noriko_room.rpy:76
 translate chinese_simplified home_player_noriko_room_e8a4876f:
@@ -231,8 +231,8 @@ translate chinese_simplified menu_rejet_noriko_final_4371f6a9:
 # game/scripts/story/residential district/player's home/home_player_noriko_room.rpy:89
 translate chinese_simplified menu_rejet_noriko_final_b81fcf6d:
 
-    # player neutral "Et bien voilà... Ce n’était pas si compliqué {color=#fd79a8}{b}纪子{/b}{/color}." id menu_rejet_noriko_final_b81fcf6d
-    player neutral "好了，你去吧......这并不是那么复杂 {color=#fd79a8}{b}纪子{/b}{/color}。" id menu_rejet_noriko_final_b81fcf6d
+    # player neutral "Et bien voilà... Ce n’était pas si compliqué [noriko.n]." id menu_rejet_noriko_final_b81fcf6d
+    player neutral "好了，你去吧......这并不是那么复杂 [noriko.n]。" id menu_rejet_noriko_final_b81fcf6d
 
 # game/scripts/story/residential district/player's home/home_player_noriko_room.rpy:90
 translate chinese_simplified menu_rejet_noriko_final_4c58bfe8:
@@ -279,8 +279,8 @@ translate chinese_simplified menu_rejet_noriko_final_6a640c96:
 # game/scripts/story/residential district/player's home/home_player_noriko_room.rpy:106
 translate chinese_simplified menu_rejet_noriko_final_4d72610e:
 
-    # player upset "Les rôles se sont inversés {color=#fd79a8}{b}纪子{/b}{/color}, tu ne pensais quand même pas que tu allais t'en tirer aussi facilement." id menu_rejet_noriko_final_4d72610e
-    player upset "我们的角色互换了 {color=#fd79a8}{b}纪子{/b}{/color}，你觉得我会这么轻易地放过你吗？" id menu_rejet_noriko_final_4d72610e
+    # player upset "Les rôles se sont inversés [noriko.n], tu ne pensais quand même pas que tu allais t'en tirer aussi facilement." id menu_rejet_noriko_final_4d72610e
+    player upset "我们的角色互换了 [noriko.n]，你觉得我会这么轻易地放过你吗？" id menu_rejet_noriko_final_4d72610e
 
 # game/scripts/story/residential district/player's home/home_player_noriko_room.rpy:107
 translate chinese_simplified menu_rejet_noriko_final_46159041:
@@ -298,7 +298,7 @@ translate chinese_simplified menu_rejet_noriko_final_dddbcc71:
 translate chinese_simplified menu_rejet_noriko_final_59ad3fd8:
 
     # player happy "J'ai juste à donner ceci a {color=#a29bfe}{b}[yasuka_name]{/b}{/color} pour faire de ta vie un enfer." id menu_rejet_noriko_final_59ad3fd8
-    player happy "我只需要把这个交给 {color=#a29bfe}{b}安香{/b}{/color} 就可以让你的生活陷入地狱。" id menu_rejet_noriko_final_59ad3fd8
+    player happy "我只需要把这个交给 [yasuka.n] 就可以让你的生活陷入地狱。" id menu_rejet_noriko_final_59ad3fd8
 
 # game/scripts/story/residential district/player's home/home_player_noriko_room.rpy:110
 translate chinese_simplified menu_rejet_noriko_final_9778a29a:
@@ -339,8 +339,8 @@ translate chinese_simplified menu_rejet_noriko_final_86fc5973:
 # game/scripts/story/residential district/player's home/home_player_noriko_room.rpy:120
 translate chinese_simplified menu_rejet_noriko_final_686a2fd7:
 
-    # playerc "Aaah ma chère {color=#fd79a8}{b}纪子{/b}{/color}... Je ne m'attendais pas à ça, mais..." id menu_rejet_noriko_final_686a2fd7
-    playerc "啊，亲爱的 {color=#fd79a8}{b}纪子{/b}{/color}...我没想到这个，但是..." id menu_rejet_noriko_final_686a2fd7
+    # playerc "Aaah ma chère [noriko.n]... Je ne m'attendais pas à ça, mais..." id menu_rejet_noriko_final_686a2fd7
+    playerc "啊，亲爱的 [noriko.n]...我没想到这个，但是..." id menu_rejet_noriko_final_686a2fd7
 
 # game/scripts/story/residential district/player's home/home_player_noriko_room.rpy:121
 translate chinese_simplified menu_rejet_noriko_final_7ab112f5:
@@ -369,8 +369,8 @@ translate chinese_simplified menu_rejet_noriko_final_7da22726:
 # game/scripts/story/residential district/player's home/home_player_noriko_room.rpy:129
 translate chinese_simplified menu_rejet_noriko_final_305ba402:
 
-    # playerc "Attention {color=#fd79a8}{b}纪子{/b}{/color}! Ne fais pas quelque chose que tu pourrais regretter." id menu_rejet_noriko_final_305ba402
-    playerc "说话小心点 {color=#fd79a8}{b}纪子{/b}{/color}！不要做你可能会后悔的事情。" id menu_rejet_noriko_final_305ba402
+    # playerc "Attention [noriko.n]! Ne fais pas quelque chose que tu pourrais regretter." id menu_rejet_noriko_final_305ba402
+    playerc "说话小心点 [noriko.n]！不要做你可能会后悔的事情。" id menu_rejet_noriko_final_305ba402
 
 # game/scripts/story/residential district/player's home/home_player_noriko_room.rpy:130
 translate chinese_simplified menu_rejet_noriko_final_c13b3356:
@@ -419,8 +419,8 @@ translate chinese_simplified strings:
     new "给我MP3播放器"
 
     # game/scripts/story/residential district/player's home/home_player_noriko_room.rpy:80
-    old "Jusqu'à quel point tu ne veux pas que ça se sache {color=#fd79a8}{b}纪子{/b}{/color} ?"
-    new "你有多不希望它为人所知 {color=#fd79a8}{b}纪子{/b}{/color}？"
+    old "Jusqu'à quel point tu ne veux pas que ça se sache [noriko.n] ?"
+    new "你有多不希望它为人所知 [noriko.n]？"
 
     # game/scripts/story/residential district/player's home/home_player_noriko_room.rpy:81
     old "ROUTE REJET"

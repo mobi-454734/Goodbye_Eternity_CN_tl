@@ -387,8 +387,8 @@ translate chinese_simplified talk_macumba_4472d899:
 # game/scripts/story/talking/talk_macumba.rpy:163
 translate chinese_simplified talk_macumba_3a64be12:
 
-    # player "Je crois que je préfère me faire insulter par {color=#fd79a8}{b}纪子{/b}{/color}" id talk_macumba_3a64be12
-    player "我想我更喜欢被 {color=#fd79a8}{b}纪子{/b}{/color} 侮辱" id talk_macumba_3a64be12
+    # player "Je crois que je préfère me faire insulter par [noriko.n]" id talk_macumba_3a64be12
+    player "我想我更喜欢被 [noriko.n] 侮辱" id talk_macumba_3a64be12
 
 # game/scripts/story/talking/talk_macumba.rpy:169
 translate chinese_simplified talk_macumba_1af9c743:
@@ -1510,7 +1510,7 @@ translate chinese_simplified strings:
 
     # game/scripts/story/talking/talk_macumba.rpy:464
     old "Progresser dans l'histoire d'{color=#ea8685}{b}[asami_name]{/b}{/color} pour continuer l'histoire de {color=#a29bfe}{b}[yasuka_name]{/b}{/color}"
-    new "通过 {color=#ea8685}{b}麻美{/b}{/color} 的故事情节以继续推进 {color=#a29bfe}{b}安香{/b}{/color}的故事。"
+    new "通过 {color=#ea8685}{b}麻美{/b}{/color} 的故事情节以继续推进 [yasuka.n]的故事。"
 
 # TODO: Translation updated at 2022-12-15 12:14
 

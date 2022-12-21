@@ -40,7 +40,7 @@ translate chinese_simplified coffeebar_exterior_977c6c67:
 translate chinese_simplified coffeebar_exterior_25297198:
 
     # x "C'est lui le patron de {color=#a29bfe}{b}[yasuka_name]{/b}{/color}?" id coffeebar_exterior_25297198
-    x "他好像是 {color=#a29bfe}{b}安香{/b}{/color} 的老板？" id coffeebar_exterior_25297198
+    x "他好像是 [yasuka.n] 的老板？" id coffeebar_exterior_25297198
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:52
 translate chinese_simplified coffeebar_exterior_bf5beb90:
@@ -118,7 +118,7 @@ translate chinese_simplified coffeebar_exterior_bedadfdb:
 translate chinese_simplified coffeebar_exterior_29c3f1e3:
 
     # x "Bon, je suis venu pour {color=#a29bfe}{b}[yasuka_name]{/b}{/color}, oublions ce gros connard." id coffeebar_exterior_29c3f1e3
-    x "好吧，我是为 {color=#a29bfe}{b}安香{/b}{/color} 而来的，让我们忘记那个大混蛋吧。" id coffeebar_exterior_29c3f1e3
+    x "好吧，我是为 [yasuka.n] 而来的，让我们忘记那个大混蛋吧。" id coffeebar_exterior_29c3f1e3
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:88
 translate chinese_simplified coffeebar_exterior_45797a47:
@@ -225,8 +225,8 @@ translate chinese_simplified coffeebar_exterior_1651643c:
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:120
 translate chinese_simplified coffeebar_exterior_204d9fe2:
 
-    # ubs bad "Oh je vois tu dois être {color=#fd79a8}{b}纪子{/b}{/color},la fille de {color=#a29bfe}{b}[yasuka_name]{/b}{/color}." id coffeebar_exterior_204d9fe2
-    ubs bad "哦，我知道了，你一定是 {color=#fd79a8}{b}纪子{/b}{/color}，{color=#a29bfe}{b}安香{/b}{/color} 的女儿." id coffeebar_exterior_204d9fe2
+    # ubs bad "Oh je vois tu dois être [noriko.n],la fille de {color=#a29bfe}{b}[yasuka_name]{/b}{/color}." id coffeebar_exterior_204d9fe2
+    ubs bad "哦，我知道了，你一定是 [noriko.n]，[yasuka.n] 的女儿." id coffeebar_exterior_204d9fe2
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:121
 translate chinese_simplified coffeebar_exterior_a7eeb5c1:
@@ -238,7 +238,7 @@ translate chinese_simplified coffeebar_exterior_a7eeb5c1:
 translate chinese_simplified coffeebar_exterior_10a3b67b:
 
     # ubs disdainful "Mais peu importe, {color=#a29bfe}{b}[yasuka_name]{/b}{/color} a terminé sa pause, il faudra revenir une autre fois." id coffeebar_exterior_10a3b67b
-    ubs disdainful "但无论如何，{color=#a29bfe}{b}安香{/b}{/color} 的休息时间已经结束了，下次再来吧。" id coffeebar_exterior_10a3b67b
+    ubs disdainful "但无论如何，[yasuka.n] 的休息时间已经结束了，下次再来吧。" id coffeebar_exterior_10a3b67b
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:123
 translate chinese_simplified coffeebar_exterior_94068052:
@@ -430,7 +430,7 @@ translate chinese_simplified coffeebar_exterior_17aadf73:
 translate chinese_simplified coffeebar_exterior_a7116d26:
 
     # player "{color=#55efc4}{b}[kimochi_name]{/b}{/color} est en train de faire diversion. Je devrais en profiter pour parler à {color=#a29bfe}{b}[yasuka_name]{/b}{/color} !" id coffeebar_exterior_a7116d26
-    player "{color=#55efc4}{b}爽{/b}{/color} 调虎离山了。我得抓紧机会和 {color=#a29bfe}{b}安香{/b}{/color} 谈谈！" id coffeebar_exterior_a7116d26
+    player "{color=#55efc4}{b}爽{/b}{/color} 调虎离山了。我得抓紧机会和 [yasuka.n] 谈谈！" id coffeebar_exterior_a7116d26
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:209
 translate chinese_simplified coffeebar_exterior_21f5520e:
@@ -495,8 +495,8 @@ translate chinese_simplified coffeebar_exterior_ee40d2e0:
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:219
 translate chinese_simplified coffeebar_exterior_910b7f84:
 
-    # ubs bad "{color=#a29bfe}{b}安香{/b}{/color} rembourses ses dettes et toi tu obtiens un nouveau beau-papa." id coffeebar_exterior_910b7f84
-    ubs bad "{color=#a29bfe}{b}安香{/b}{/color} 还清了她的债务，而你会拥有一个继父。" id coffeebar_exterior_910b7f84
+    # ubs bad "[yasuka.n] rembourses ses dettes et toi tu obtiens un nouveau beau-papa." id coffeebar_exterior_910b7f84
+    ubs bad "[yasuka.n] 还清了她的债务，而你会拥有一个继父。" id coffeebar_exterior_910b7f84
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:226
 translate chinese_simplified coffeebar_exterior_17d89edc:
@@ -675,8 +675,8 @@ translate chinese_simplified coffeebar_exterior_4105bc1c:
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:298
 translate chinese_simplified coffeebar_exterior_97cd39a3:
 
-    # player "J'espère que {color=#a29bfe}{b}安香{/b}{/color} ne subissait pas ça au quotidien." id coffeebar_exterior_97cd39a3
-    player "希望 {color=#a29bfe}{b}安香{/b}{/color} 没有每天都遭遇这种情况。" id coffeebar_exterior_97cd39a3
+    # player "J'espère que [yasuka.n] ne subissait pas ça au quotidien." id coffeebar_exterior_97cd39a3
+    player "希望 [yasuka.n] 没有每天都遭遇这种情况。" id coffeebar_exterior_97cd39a3
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:299
 translate chinese_simplified coffeebar_exterior_03bd8415:
@@ -706,7 +706,7 @@ translate chinese_simplified strings:
 
     # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:32
     old "Passer voir {color=#a29bfe}{b}[yasuka_name]{/b}{/color} à la boutique cet après-midi"
-    new "今天下午来店里看看{color=#a29bfe}{b}安香{/b}{/color}"
+    new "今天下午来店里看看[yasuka.n]"
 
     # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:99
     old "Peut être {color=#32ff7e}{b}[macumba_name]{/b}{/color} pourra il m'aider?"
@@ -714,7 +714,7 @@ translate chinese_simplified strings:
 
     # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:203
     old "Attendre le retour de {color=#a29bfe}{b}[yasuka_name]{/b}{/color} à la maison."
-    new "等待 {color=#a29bfe}{b}安香{/b}{/color} 回家。"
+    new "等待 [yasuka.n] 回家。"
 
     # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:220
     old "Plutôt mourir"
@@ -730,11 +730,11 @@ translate chinese_simplified strings:
 
     # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:246
     old "Retrouver {color=#a29bfe}{b}[yasuka_name]{/b}{/color} avant qu'il ne soit trop tard."
-    new "在为时已晚之前找到 {color=#a29bfe}{b}安香{/b}{/color}。"
+    new "在为时已晚之前找到 [yasuka.n]。"
 
     # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:293
     old "Rentrez raconter votre journée à {color=#a29bfe}{b}[yasuka_name]{/b}{/color}."
-    new "回家并告诉{color=#a29bfe}{b}安香{/b}{/color}你今天的情况。"
+    new "回家并告诉[yasuka.n]你今天的情况。"
 
     # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:308
     old "Aller voir dans la boutique."

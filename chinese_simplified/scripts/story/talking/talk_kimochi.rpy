@@ -777,8 +777,8 @@ translate chinese_simplified kimochi_password_0e00fbe5:
 # game/scripts/story/talking/talk_kimochi.rpy:207
 translate chinese_simplified kimochi_password_3a1f7172:
 
-    # x "Bon si je récapitule {color=#e17055}{b}水人{/b}{/color}, {color=#fd79a8}{b}纪子{/b}{/color}, {color=#fdcb6e}{b}[akira_name]{/b}{/color}, les thugs, un clan yakuza... " id kimochi_password_3a1f7172
-    x "Bon si je récapitule {color=#e17055}{b}水人{/b}{/color}, {color=#fd79a8}{b}纪子{/b}{/color}, {color=#fdcb6e}{b}[akira_name]{/b}{/color}, les thugs, un clan yakuza... " id kimochi_password_3a1f7172
+    # x "Bon si je récapitule {color=#e17055}{b}水人{/b}{/color}, [noriko.n], {color=#fdcb6e}{b}[akira_name]{/b}{/color}, les thugs, un clan yakuza... " id kimochi_password_3a1f7172
+    x "Bon si je récapitule {color=#e17055}{b}水人{/b}{/color}, [noriko.n], {color=#fdcb6e}{b}[akira_name]{/b}{/color}, les thugs, un clan yakuza... " id kimochi_password_3a1f7172
 
 # game/scripts/story/talking/talk_kimochi.rpy:208
 translate chinese_simplified kimochi_password_6db61bc0:

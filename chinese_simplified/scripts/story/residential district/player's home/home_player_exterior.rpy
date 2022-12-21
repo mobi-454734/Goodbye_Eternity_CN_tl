@@ -9,8 +9,8 @@ translate chinese_simplified home_player_exterior_58ce082b:
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:39
 translate chinese_simplified home_player_exterior_e0686807:
 
-    # player upset "Putain {color=#fd79a8}{b}纪子{/b}{/color} !" id home_player_exterior_e0686807
-    player upset "操，是 {color=#fd79a8}{b}纪子{/b}{/color}！" id home_player_exterior_e0686807
+    # player upset "Putain [noriko.n] !" id home_player_exterior_e0686807
+    player upset "操，是 [noriko.n]！" id home_player_exterior_e0686807
 
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:40
 translate chinese_simplified home_player_exterior_f9b65d0b:
@@ -34,7 +34,7 @@ translate chinese_simplified home_player_exterior_3cbe73c0:
 translate chinese_simplified home_player_exterior_79d38090:
 
     # player "DÉGAGE BORDEL !!!" id home_player_exterior_79d38090
-    player "走开，{color=#fd79a8}{b}纪子{/b}{/color}！" id home_player_exterior_79d38090
+    player "走开，[noriko.n]！" id home_player_exterior_79d38090
 
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:44
 translate chinese_simplified home_player_exterior_b8f28762:
@@ -51,8 +51,8 @@ translate chinese_simplified home_player_exterior_03775ec8:
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:53
 translate chinese_simplified home_player_exterior_40a58231:
 
-    # player "Je crois que tu n'as pas bien compris {color=#fd79a8}{b}纪子{/b}{/color}..." id home_player_exterior_40a58231
-    player "{color=#fd79a8}{b}纪子{/b}{/color} 我觉得你好像误会了什么..." id home_player_exterior_40a58231
+    # player "Je crois que tu n'as pas bien compris [noriko.n]..." id home_player_exterior_40a58231
+    player "[noriko.n] 我觉得你好像误会了什么..." id home_player_exterior_40a58231
 
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:54
 translate chinese_simplified home_player_exterior_6435a1f3:
@@ -75,8 +75,8 @@ translate chinese_simplified home_player_exterior_1828777b:
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:58
 translate chinese_simplified home_player_exterior_31e6421f:
 
-    # player "Est-ce que je me suis bien fait comprendre {color=#fd79a8}{b}纪子{/b}{/color} ?" id home_player_exterior_31e6421f
-    player "我说清楚了吗 {color=#fd79a8}{b}纪子{/b}{/color}？" id home_player_exterior_31e6421f
+    # player "Est-ce que je me suis bien fait comprendre [noriko.n] ?" id home_player_exterior_31e6421f
+    player "我说清楚了吗 [noriko.n]？" id home_player_exterior_31e6421f
 
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:59
 translate chinese_simplified home_player_exterior_29cd7803:
@@ -87,8 +87,8 @@ translate chinese_simplified home_player_exterior_29cd7803:
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:60
 translate chinese_simplified home_player_exterior_e246180e:
 
-    # player "Ne m'oblige pas à de venir violent {color=#fd79a8}{b}纪子{/b}{/color}." id home_player_exterior_e246180e
-    player "不要逼我动手 {color=#fd79a8}{b}纪子{/b}{/color}。" id home_player_exterior_e246180e
+    # player "Ne m'oblige pas à de venir violent [noriko.n]." id home_player_exterior_e246180e
+    player "不要逼我动手 [noriko.n]。" id home_player_exterior_e246180e
 
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:61
 translate chinese_simplified home_player_exterior_b2e38d4e:
@@ -147,8 +147,8 @@ translate chinese_simplified home_player_exterior_03775ec8_1:
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:86
 translate chinese_simplified home_player_exterior_e988f66f:
 
-    # player happy "{color=#fd79a8}{b}纪子{/b}{/color}... Il faut que tu comprennes que maintenant, tu auras beau t'exciter contre moi..." id home_player_exterior_e988f66f
-    player happy "{color=#fd79a8}{b}纪子{/b}{/color}...你要知道，无论你怎么骂我、打我、往我的饭里加抹布水..." id home_player_exterior_e988f66f
+    # player happy "[noriko.n]... Il faut que tu comprennes que maintenant, tu auras beau t'exciter contre moi..." id home_player_exterior_e988f66f
+    player happy "[noriko.n]...你要知道，无论你怎么骂我、打我、往我的饭里加抹布水..." id home_player_exterior_e988f66f
 
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:87
 translate chinese_simplified home_player_exterior_4169c5eb:
@@ -165,7 +165,7 @@ translate chinese_simplified home_player_exterior_a296c3f2:
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:89
 translate chinese_simplified home_player_exterior_5e62fbdc:
 
-    # player "Si tu veux jouer à ce petit jeu-là avec moi, tu as déjà perdu {color=#fd79a8}{b}纪子{/b}{/color}." id home_player_exterior_5e62fbdc
+    # player "Si tu veux jouer à ce petit jeu-là avec moi, tu as déjà perdu [noriko.n]." id home_player_exterior_5e62fbdc
     player "就算你做到这个份上，也不及我所经历痛苦的千分之一。" id home_player_exterior_5e62fbdc
 
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:90
@@ -177,8 +177,8 @@ translate chinese_simplified home_player_exterior_41624ec4:
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:91
 translate chinese_simplified home_player_exterior_6ffb49f4:
 
-    # player "{size=-4}Car tu peux être sûre que j'emploierai toute mon énergie à révéler aux yeux du monde quelle salope tu peux être {color=#fd79a8}{b}纪子{/b}{/color}. Et le jour où ça arrivera, je serai à la meilleure place pour voir ça.{/size}" id home_player_exterior_6ffb49f4
-    player "{size=-4}你要相信，我会用我所有的精力来向外人证明 {color=#fd79a8}{b}纪子{/b}{/color} 的真面目，然后我就在旁边看着你从你的伪装中崩溃。{/size}" id home_player_exterior_6ffb49f4
+    # player "{size=-4}Car tu peux être sûre que j'emploierai toute mon énergie à révéler aux yeux du monde quelle salope tu peux être [noriko.n]. Et le jour où ça arrivera, je serai à la meilleure place pour voir ça.{/size}" id home_player_exterior_6ffb49f4
+    player "{size=-4}你要相信，我会用我所有的精力来向外人证明 [noriko.n] 的真面目，然后我就在旁边看着你从你的伪装中崩溃。{/size}" id home_player_exterior_6ffb49f4
 
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:92
 translate chinese_simplified home_player_exterior_6a80deaa:
@@ -225,8 +225,8 @@ translate chinese_simplified home_player_exterior_ebd77484_1:
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:111
 translate chinese_simplified home_player_exterior_e988f66f_1:
 
-    # player happy "{color=#fd79a8}{b}纪子{/b}{/color}... Il faut que tu comprennes que maintenant, tu auras beau t'exciter contre moi..." id home_player_exterior_e988f66f_1
-    player happy "{color=#fd79a8}{b}纪子{/b}{/color}..." id home_player_exterior_e988f66f_1
+    # player happy "[noriko.n]... Il faut que tu comprennes que maintenant, tu auras beau t'exciter contre moi..." id home_player_exterior_e988f66f_1
+    player happy "[noriko.n]..." id home_player_exterior_e988f66f_1
 
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:112
 translate chinese_simplified home_player_exterior_4169c5eb_1:
@@ -255,8 +255,8 @@ translate chinese_simplified home_player_exterior_cd220740:
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:130
 translate chinese_simplified home_player_exterior_42145185:
 
-    # player sad "Écoute {color=#fd79a8}{b}纪子{/b}{/color}, je sais qu'on a eu de nombreux désaccords et que tu ne m'apprécies pas beaucoup." id home_player_exterior_42145185
-    player sad "听着 {color=#fd79a8}{b}纪子{/b}{/color}，我知道我们有很多分歧，而且你也不太喜欢我，但..." id home_player_exterior_42145185
+    # player sad "Écoute [noriko.n], je sais qu'on a eu de nombreux désaccords et que tu ne m'apprécies pas beaucoup." id home_player_exterior_42145185
+    player sad "听着 [noriko.n]，我知道我们有很多分歧，而且你也不太喜欢我，但..." id home_player_exterior_42145185
 
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:131
 translate chinese_simplified home_player_exterior_a296c3f2_1:
@@ -303,8 +303,8 @@ translate chinese_simplified home_player_exterior_151399b3:
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:143
 translate chinese_simplified home_player_exterior_652f65e3:
 
-    # x "Mais {color=#fd79a8}{b}纪子{/b}{/color} ne changera jamais, j'ai l'impression." id home_player_exterior_652f65e3
-    x "但我觉得 {color=#fd79a8}{b}纪子{/b}{/color} 永远不会改变。" id home_player_exterior_652f65e3
+    # x "Mais [noriko.n] ne changera jamais, j'ai l'impression." id home_player_exterior_652f65e3
+    x "但我觉得 [noriko.n] 永远不会改变。" id home_player_exterior_652f65e3
 
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:148
 translate chinese_simplified home_player_exterior_72021191:
@@ -1732,7 +1732,7 @@ translate chinese_simplified home_player_exterior_b58ff4cf:
 translate chinese_simplified home_player_exterior_2329890e:
 
     # x "J'ai promis a {color=#a29bfe}{b}[yasuka_name]{/b}{/color} que j'allais gérer ça." id home_player_exterior_2329890e
-    x "我答应 {color=#a29bfe}{b}安香{/b}{/color} 会处理这件事。" id home_player_exterior_2329890e
+    x "我答应 [yasuka.n] 会处理这件事。" id home_player_exterior_2329890e
 
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:631
 translate chinese_simplified home_player_exterior_ce10b3f3:
@@ -1900,7 +1900,7 @@ translate chinese_simplified home_player_exterior_faa2e8d2:
 translate chinese_simplified home_player_exterior_e92fb0f3:
 
     # player "À {color=#a29bfe}{b}[yasuka_name]{/b}{/color}? Non, je pense qu'elle est à bout, je vais la remplacer et essayer de trouver une solution." id home_player_exterior_e92fb0f3
-    player "{color=#a29bfe}{b}安香{/b}{/color}？不，我认为它已经磨损了，我会更换它并尝试找到解决方案。" id home_player_exterior_e92fb0f3
+    player "[yasuka.n]？不，我认为它已经磨损了，我会更换它并尝试找到解决方案。" id home_player_exterior_e92fb0f3
 
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:664
 translate chinese_simplified home_player_exterior_d3f59328:
@@ -2062,7 +2062,7 @@ translate chinese_simplified home_player_exterior_c2edb1f0:
 translate chinese_simplified home_player_exterior_6cdc5bb4:
 
     # player happy "Si c'est {color=#a29bfe}{b}[yasuka_name]{/b}{/color} qui gère la boutique, il n'y aura plus de problèmes à présent." id home_player_exterior_6cdc5bb4
-    player happy "如果 {color=#a29bfe}{b}安香{/b}{/color} 正在经营商店，现在不会有任何问题。" id home_player_exterior_6cdc5bb4
+    player happy "如果 [yasuka.n] 正在经营商店，现在不会有任何问题。" id home_player_exterior_6cdc5bb4
 
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:711
 translate chinese_simplified home_player_exterior_07bc5b39:
@@ -2158,11 +2158,11 @@ translate chinese_simplified strings:
 
     # game/scripts/story/residential district/player's home/home_player_exterior.rpy:590
     old "Remplacer {color=#a29bfe}{b}[yasuka_name]{/b}{/color} à la boutique."
-    new "代替 {color=#a29bfe}{b}安香{/b}{/color} 去咖啡店上班。"
+    new "代替 [yasuka.n] 去咖啡店上班。"
 
     # game/scripts/story/residential district/player's home/home_player_exterior.rpy:678
     old "Annoncer a {color=#a29bfe}{b}[yasuka_name]{/b}{/color} toutes les bonnes nouvelles."
-    new "告诉 {color=#a29bfe}{b}安香{/b}{/color} 所有好消息。"
+    new "告诉 [yasuka.n] 所有好消息。"
 
     # game/scripts/story/residential district/player's home/home_player_exterior.rpy:690
     old "Vous obtenez les documents mystérieux."

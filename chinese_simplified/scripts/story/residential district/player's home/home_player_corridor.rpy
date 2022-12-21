@@ -69,8 +69,8 @@ translate chinese_simplified home_player_corridor_89778dcc:
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:59
 translate chinese_simplified home_player_corridor_3ab3c167:
 
-    # x "Comment j'ai pu oublié {color=#fd79a8}{b}纪子{/b}{/color} et son agressivité légendaire..." id home_player_corridor_3ab3c167
-    x "我怎么会忘记 {color=#fd79a8}{b}纪子{/b}{/color} ？" id home_player_corridor_3ab3c167
+    # x "Comment j'ai pu oublié [noriko.n] et son agressivité légendaire..." id home_player_corridor_3ab3c167
+    x "我怎么会忘记 [noriko.n] ？" id home_player_corridor_3ab3c167
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:60
 translate chinese_simplified home_player_corridor_8ed9d900:
@@ -88,7 +88,7 @@ translate chinese_simplified home_player_corridor_0b052899:
 translate chinese_simplified home_player_corridor_e49418ab:
 
     # x "Si je me souviens bien, elle va quitter la maison en volant le peu d'argent qu'il restera à {color=#a29bfe}{b}[yasuka_name]{/b}{/color} pour s'enfuir avec une bande de racailles." id home_player_corridor_e49418ab
-    x "如果我没记错的话，未来她会偷走 {color=#a29bfe}{b}安香{/b}{/color} 所有的钱，然后跟着一帮人渣鬼混。" id home_player_corridor_e49418ab
+    x "如果我没记错的话，未来她会偷走 [yasuka.n] 所有的钱，然后跟着一帮人渣鬼混。" id home_player_corridor_e49418ab
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:63
 translate chinese_simplified home_player_corridor_7199d067:
@@ -100,7 +100,7 @@ translate chinese_simplified home_player_corridor_7199d067:
 translate chinese_simplified home_player_corridor_9cd593bd:
 
     # x "Ça va briser {color=#a29bfe}{b}[yasuka_name]{/b}{/color}. Elle ne pourra jamais remonter la pente après ça..." id home_player_corridor_9cd593bd
-    x "{color=#a29bfe}{b}安香{/b}{/color} 崩溃了，在那之后一蹶不振..." id home_player_corridor_9cd593bd
+    x "[yasuka.n] 崩溃了，在那之后一蹶不振..." id home_player_corridor_9cd593bd
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:70
 translate chinese_simplified home_player_corridor_897eca85:
@@ -219,8 +219,8 @@ translate chinese_simplified home_player_corridor_05e691eb:
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:128
 translate chinese_simplified home_player_corridor_1a03b0cb:
 
-    # player "Qu'est-ce que je t'ai dit {color=#fd79a8}{b}纪子{/b}{/color}..?" id home_player_corridor_1a03b0cb
-    player "我告诉你什么 {color=#fd79a8}{b}纪子{/b}{/color}..？" id home_player_corridor_1a03b0cb
+    # player "Qu'est-ce que je t'ai dit [noriko.n]..?" id home_player_corridor_1a03b0cb
+    player "我告诉你什么 [noriko.n]..？" id home_player_corridor_1a03b0cb
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:129
 translate chinese_simplified home_player_corridor_c2cc79f2:
@@ -279,8 +279,8 @@ translate chinese_simplified home_player_corridor_dd2f5fac:
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:149
 translate chinese_simplified home_player_corridor_a0df62e4:
 
-    # x "Rien qu'a voir la tête de {color=#fd79a8}{b}纪子{/b}{/color}..." id home_player_corridor_a0df62e4
-    x "噗， {color=#fd79a8}{b}纪子{/b}{/color} 刚才的表情..." id home_player_corridor_a0df62e4
+    # x "Rien qu'a voir la tête de [noriko.n]..." id home_player_corridor_a0df62e4
+    x "噗， [noriko.n] 刚才的表情..." id home_player_corridor_a0df62e4
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:151
 translate chinese_simplified home_player_corridor_3b81fd04:
@@ -310,19 +310,19 @@ translate chinese_simplified home_player_corridor_82150078:
 translate chinese_simplified home_player_corridor_2075f795:
 
     # x "Dans mon rêve, elle m'avait accusé de l'avoir violé et avait quitté la maison peu de temps après." id home_player_corridor_2075f795
-    x "在我的梦里，{color=#fd79a8}{b}纪子{/b}{/color} 离家出走前指认我强奸了她。" id home_player_corridor_2075f795
+    x "在我的梦里，[noriko.n] 离家出走前指认我强奸了她。" id home_player_corridor_2075f795
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:170
 translate chinese_simplified home_player_corridor_c9edb325:
 
     # x "{color=#a29bfe}{b}[yasuka_name]{/b}{/color} ne m'avait plus jamais adressée la parole, j'avais du quitter la maison par la suite." id home_player_corridor_c9edb325
-    x "在她遇难之后，{color=#a29bfe}{b}安香{/b}{/color} 再也没有和我说话，之后我不得不离开家。" id home_player_corridor_c9edb325
+    x "在她遇难之后，[yasuka.n] 再也没有和我说话，之后我不得不离开家。" id home_player_corridor_c9edb325
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:171
 translate chinese_simplified home_player_corridor_a3deec1e:
 
-    # x "{color=#fd79a8}{b}纪子{/b}{/color} cette fois-ci je ne me ferais pas avoir !" id home_player_corridor_a3deec1e
-    x "{color=#fd79a8}{b}纪子{/b}{/color}这次我不会上当的！" id home_player_corridor_a3deec1e
+    # x "[noriko.n] cette fois-ci je ne me ferais pas avoir !" id home_player_corridor_a3deec1e
+    x "[noriko.n]这次我不会上当的！" id home_player_corridor_a3deec1e
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:196
 translate chinese_simplified home_player_corridor_317a7e66:
@@ -333,8 +333,8 @@ translate chinese_simplified home_player_corridor_317a7e66:
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:197
 translate chinese_simplified home_player_corridor_c92622f5:
 
-    # x "Cette fois-ci {color=#fd79a8}{b}纪子{/b}{/color} est hors service !" id home_player_corridor_c92622f5
-    x "这次 {color=#fd79a8}{b}纪子{/b}{/color} 一切都结束了！" id home_player_corridor_c92622f5
+    # x "Cette fois-ci [noriko.n] est hors service !" id home_player_corridor_c92622f5
+    x "这次 [noriko.n] 一切都结束了！" id home_player_corridor_c92622f5
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:198
 translate chinese_simplified home_player_corridor_d756bd48:
@@ -369,8 +369,8 @@ translate chinese_simplified home_player_corridor_6c6c6c0d:
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:223
 translate chinese_simplified home_player_corridor_0bbf19c0:
 
-    # x "Je n'aurais jamais pensé que {color=#fd79a8}{b}纪子{/b}{/color} ferait un truc aussi audacieux." id home_player_corridor_0bbf19c0
-    x "我没想到 {color=#fd79a8}{b}纪子{/b}{/color} 会做出如此大胆的事情。" id home_player_corridor_0bbf19c0
+    # x "Je n'aurais jamais pensé que [noriko.n] ferait un truc aussi audacieux." id home_player_corridor_0bbf19c0
+    x "我没想到 [noriko.n] 会做出如此大胆的事情。" id home_player_corridor_0bbf19c0
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:224
 translate chinese_simplified home_player_corridor_37774e33:
@@ -477,8 +477,8 @@ translate chinese_simplified home_player_corridor_b214b8fe:
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:276
 translate chinese_simplified home_player_corridor_79e8986b:
 
-    # x "Sacrée {color=#fd79a8}{b}纪子{/b}{/color}..." id home_player_corridor_79e8986b
-    x "色色的 {color=#fd79a8}{b}纪子{/b}{/color}。" id home_player_corridor_79e8986b
+    # x "Sacrée [noriko.n]..." id home_player_corridor_79e8986b
+    x "色色的 [noriko.n]。" id home_player_corridor_79e8986b
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:284
 translate chinese_simplified home_player_corridor_a50ef803:
@@ -802,7 +802,7 @@ translate chinese_simplified home_player_corridor_6f1bef95:
 translate chinese_simplified home_player_corridor_6ef525f3:
 
     # player happy "Je ne peux pas te contredire là-dessus {color=#a29bfe}{b}[yasuka_name]{/b}{/color} est vraiment belle." id home_player_corridor_6ef525f3
-    player happy "这我没法反驳你，{color=#a29bfe}{b}安香{/b}{/color} 真的很漂亮。" id home_player_corridor_6ef525f3
+    player happy "这我没法反驳你，[yasuka.n] 真的很漂亮。" id home_player_corridor_6ef525f3
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:452
 translate chinese_simplified home_player_corridor_040d1d68:
@@ -837,8 +837,8 @@ translate chinese_simplified home_player_corridor_973efdac:
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:463
 translate chinese_simplified home_player_corridor_14be133d:
 
-    # x "Est-ce que je devrais laisser {color=#ea8685}{b}[asami_name]{/b}{/color} interagir avec {color=#fd79a8}{b}纪子{/b}{/color}?" id home_player_corridor_14be133d
-    x "我应该让 {color=#ea8685}{b}麻美{/b}{/color} 与 {color=#fd79a8}{b}纪子{/b}{/color} 见面吗？" id home_player_corridor_14be133d
+    # x "Est-ce que je devrais laisser {color=#ea8685}{b}[asami_name]{/b}{/color} interagir avec [noriko.n]?" id home_player_corridor_14be133d
+    x "我应该让 {color=#ea8685}{b}麻美{/b}{/color} 与 [noriko.n] 见面吗？" id home_player_corridor_14be133d
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:464
 translate chinese_simplified home_player_corridor_fd5b0df6:
@@ -940,13 +940,13 @@ translate chinese_simplified home_player_corridor_b788e577:
 translate chinese_simplified home_player_corridor_3d71a587:
 
     # noriko "Tss de la fille qui était là hier!" id home_player_corridor_3d71a587
-    noriko "昨天在场的妹子吐了！" id home_player_corridor_3d71a587
+    noriko "昨天那个泼妇！" id home_player_corridor_3d71a587
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:503
 translate chinese_simplified home_player_corridor_6cdea237:
 
     # player "En quoi ça te regarde?" id home_player_corridor_6cdea237
-    player "这与你有什么关系？" id home_player_corridor_6cdea237
+    player "这和你有什么关系？" id home_player_corridor_6cdea237
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:504
 translate chinese_simplified home_player_corridor_c2ed8c01:
@@ -958,31 +958,31 @@ translate chinese_simplified home_player_corridor_c2ed8c01:
 translate chinese_simplified home_player_corridor_bcd4e942:
 
     # player "Je te le dis si tu me dis pourquoi tu tiens tant à le savoir." id home_player_corridor_bcd4e942
-    player "如果你告诉我为什么你想知道这么多，我会告诉你。" id home_player_corridor_bcd4e942
+    player happy "你是想和她做朋友吗？" id home_player_corridor_bcd4e942
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:506
 translate chinese_simplified home_player_corridor_31b3eb64:
 
     # noriko furious "Je... VA TE FAIRE FOUTRE!" id home_player_corridor_31b3eb64
-    noriko furious "我...操你！" id home_player_corridor_31b3eb64
+    noriko furious "我...去你的！" id home_player_corridor_31b3eb64
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:512
 translate chinese_simplified home_player_corridor_4e9a0092:
 
     # x "Cette fille est vraiment une énigme" id home_player_corridor_4e9a0092
-    x "这个女孩真是个谜" id home_player_corridor_4e9a0092
+    x "这人真迷。" id home_player_corridor_4e9a0092
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:513
 translate chinese_simplified home_player_corridor_e0631166:
 
     # x "Je ne comprends rien à ses réactions..." id home_player_corridor_e0631166
-    x "我不明白他的反应..." id home_player_corridor_e0631166
+    x "真搞不懂她在想什么。" id home_player_corridor_e0631166
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:517
 translate chinese_simplified home_player_corridor_eedbba89:
 
     # player "Peu importe..." id home_player_corridor_eedbba89
-    player "不管..." id home_player_corridor_eedbba89
+    player "算了..." id home_player_corridor_eedbba89
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:531
 translate chinese_simplified home_player_corridor_7b6de4f1:
@@ -1227,14 +1227,14 @@ translate chinese_simplified home_player_corridor_4c25f6c6:
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:620
 translate chinese_simplified home_player_corridor_adcfa2f8:
 
-    # player upset "{color=#fd79a8}{b}纪子{/b}{/color} je ne sais pas pourquoi tu m'en veux autant, mais là..." id home_player_corridor_adcfa2f8
-    player upset "{color=#fd79a8}{b}纪子{/b}{/color} 我不知道你为什么这么生我的气，但是..." id home_player_corridor_adcfa2f8
+    # player upset "[noriko.n] je ne sais pas pourquoi tu m'en veux autant, mais là..." id home_player_corridor_adcfa2f8
+    player upset "[noriko.n] 我不知道你为什么这么生我的气，但是..." id home_player_corridor_adcfa2f8
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:621
 translate chinese_simplified home_player_corridor_e9acf82c:
 
     # player "Il ne s'agit pas de moi, il s'agit de {color=#a29bfe}{b}[yasuka_name]{/b}{/color}." id home_player_corridor_e9acf82c
-    player "又不是我遇到麻烦，而是 {color=#a29bfe}{b}安香{/b}{/color} 遇到麻烦了。" id home_player_corridor_e9acf82c
+    player "又不是我遇到麻烦，而是 [yasuka.n] 遇到麻烦了。" id home_player_corridor_e9acf82c
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:622
 translate chinese_simplified home_player_corridor_135c61cb:
@@ -1324,19 +1324,19 @@ translate chinese_simplified home_player_corridor_992d067e:
 translate chinese_simplified home_player_corridor_0d7bfc80:
 
     # player "Je retournerais soutenir {color=#a29bfe}{b}[yasuka_name]{/b}{/color} demain." id home_player_corridor_0d7bfc80
-    player "我明天会回来支持 {color=#a29bfe}{b}安香{/b}{/color}。" id home_player_corridor_0d7bfc80
+    player "我明天会回来支持 [yasuka.n]。" id home_player_corridor_0d7bfc80
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:659
 translate chinese_simplified home_player_corridor_293b2c4f:
 
     # player "Pas de temps à perdre ! Je dois trouver ce qui arrive à {color=#a29bfe}{b}[yasuka_name]{/b}{/color} !" id home_player_corridor_293b2c4f
-    player "没有时间浪费 ！我需要找出 {color=#a29bfe}{b}安香{/b}{/color} 发生了什么！" id home_player_corridor_293b2c4f
+    player "没有时间浪费 ！我需要找出 [yasuka.n] 发生了什么！" id home_player_corridor_293b2c4f
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:671
 translate chinese_simplified home_player_corridor_2fe8ad28:
 
     # player "{color=#a29bfe}{b}[yasuka_name]{/b}{/color} m'a appelé dans sa chambre. Je devrais la rejoindre." id home_player_corridor_2fe8ad28
-    player "{color=#a29bfe}{b}安香{/b}{/color} 把我叫到她的房间。我应该加入她。" id home_player_corridor_2fe8ad28
+    player "[yasuka.n] 把我叫到她的房间。我应该加入她。" id home_player_corridor_2fe8ad28
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:684
 translate chinese_simplified home_player_corridor_5a183b7b:
@@ -1378,7 +1378,7 @@ translate chinese_simplified home_player_corridor_981d9b9c:
 translate chinese_simplified home_player_corridor_7cce16ad:
 
     # player "Je ne sais pas s'il faisait subir le même traitement a {color=#a29bfe}{b}[yasuka_name]{/b}{/color}." id home_player_corridor_7cce16ad
-    player "我不知道他是否给了{color=#a29bfe}{b}安香{/b}{/color}同样的待遇。" id home_player_corridor_7cce16ad
+    player "我不知道他是否给了[yasuka.n]同样的待遇。" id home_player_corridor_7cce16ad
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:699
 translate chinese_simplified home_player_corridor_3c7c43b4:
@@ -1468,7 +1468,7 @@ translate chinese_simplified home_player_corridor_40f0691a:
 translate chinese_simplified home_player_corridor_554c43d4:
 
     # player "Je devrais aller voir {color=#a29bfe}{b}[yasuka_name]{/b}{/color} dans sa chambre." id home_player_corridor_554c43d4
-    player "我应该去他的房间看看{color=#a29bfe}{b}安香{/b}{/color}。" id home_player_corridor_554c43d4
+    player "我应该去他的房间看看[yasuka.n]。" id home_player_corridor_554c43d4
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:739
 translate chinese_simplified home_player_corridor_9a37c39d:
@@ -1503,12 +1503,12 @@ translate chinese_simplified home_player_corridor_80de7195:
 translate chinese_simplified strings:
 
     # game/scripts/story/residential district/player's home/home_player_corridor.rpy:33
-    old "Evitez cette peste de {color=#fd79a8}{b}纪子{/b}{/color} à tout prix!"
-    new "不惜一切代价避免{color=#fd79a8}{b}纪子{/b}{/color}的悲剧！"
+    old "Evitez cette peste de [noriko.n] à tout prix!"
+    new "不惜一切代价避免[noriko.n]的悲剧！"
 
     # game/scripts/story/residential district/player's home/home_player_corridor.rpy:93
-    old "Continuer d'ignorer {color=#fd79a8}{b}纪子{/b}{/color}!"
-    new "继续忽略 {color=#fd79a8}{b}纪子{/b}{/color}！"
+    old "Continuer d'ignorer [noriko.n]!"
+    new "继续忽略 [noriko.n]！"
 
     # game/scripts/story/residential district/player's home/home_player_corridor.rpy:113
     old "L'ignorer"
@@ -1527,8 +1527,8 @@ translate chinese_simplified strings:
     new "回到 {color=#32ff7e}{b}马库姆巴{/b}{/color} 并给他你的旧随身听！"
 
     # game/scripts/story/residential district/player's home/home_player_corridor.rpy:188
-    old "{color=#fd79a8}{b}纪子{/b}{/color} à enfin eu ce qu'elle méritait, je suis libre à présent!"
-    new "{color=#fd79a8}{b}纪子{/b}{/color}终于得到了她应得的，我现在自由了！"
+    old "[noriko.n] à enfin eu ce qu'elle méritait, je suis libre à présent!"
+    new "[noriko.n]终于得到了她应得的，我现在自由了！"
 
     # game/scripts/story/residential district/player's home/home_player_corridor.rpy:214
     old "Je la tiens, il est enfin temps de se venger de toutes les crasses qu'elle m’a fait subir."

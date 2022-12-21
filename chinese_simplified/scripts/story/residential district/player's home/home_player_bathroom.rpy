@@ -226,7 +226,7 @@ translate chinese_simplified home_player_bathroom_4e46793f:
 translate chinese_simplified home_player_bathroom_a898e9b8:
 
     # centered "{color=#0984e3}{b}[player_name]{/b}{/color} et {color=#a29bfe}{b}[yasuka_name]{/b}{/color} passèrent un long moment a discuter de tout et de rien." id home_player_bathroom_a898e9b8
-    centered "{color=#0984e3}{b}[player_name]{/b}{/color} 和 {color=#a29bfe}{b}安香{/b}{/color} 花了很长时间讨论一切和你重新欢迎。" id home_player_bathroom_a898e9b8
+    centered "{color=#0984e3}{b}[player_name]{/b}{/color} 和 [yasuka.n] 花了很长时间讨论一切和你重新欢迎。" id home_player_bathroom_a898e9b8
 
 # game/scripts/story/residential district/player's home/home_player_bathroom.rpy:108
 translate chinese_simplified home_player_bathroom_4b7ae6a4:
@@ -291,8 +291,8 @@ translate chinese_simplified home_player_bathroom_ab7f11c3:
 # game/scripts/story/residential district/player's home/home_player_bathroom.rpy:127
 translate chinese_simplified home_player_bathroom_abf16d3b:
 
-    # yasukac "Bon je vais sortir, l'eau du bain commence a être froide et {color=#fd79a8}{b}纪子{/b}{/color} va surement se demander ce que je suis en train de faire." id home_player_bathroom_abf16d3b
-    yasukac "好吧，我要出去了，洗澡水开始变冷了，{color=#fd79a8}{b}纪子{/b}{/color} 可能会想知道我在做什么。" id home_player_bathroom_abf16d3b
+    # yasukac "Bon je vais sortir, l'eau du bain commence a être froide et [noriko.n] va surement se demander ce que je suis en train de faire." id home_player_bathroom_abf16d3b
+    yasukac "好吧，我要出去了，洗澡水开始变冷了，[noriko.n] 可能会想知道我在做什么。" id home_player_bathroom_abf16d3b
 
 # game/scripts/story/residential district/player's home/home_player_bathroom.rpy:140
 translate chinese_simplified home_player_bathroom_5f48eaba:
@@ -315,8 +315,8 @@ translate chinese_simplified home_player_bathroom_8b558934:
 translate chinese_simplified strings:
 
     # game/scripts/story/residential district/player's home/home_player_bathroom.rpy:33
-    old "Il faut absolument que je demande a {color=#fd79a8}{b}纪子{/b}{/color}."
-    new "我绝对要问{color=#fd79a8}{b}纪子{/b}{/color}。"
+    old "Il faut absolument que je demande a [noriko.n]."
+    new "我绝对要问[noriko.n]。"
 
     # game/scripts/story/residential district/player's home/home_player_bathroom.rpy:117
     old "Non, je suis sûr de ce que je ressens pour toi"

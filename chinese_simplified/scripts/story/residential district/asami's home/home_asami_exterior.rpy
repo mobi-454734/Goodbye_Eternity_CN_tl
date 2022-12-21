@@ -100,55 +100,55 @@ translate chinese_simplified home_asami_exterior_22f01a40:
 translate chinese_simplified home_asami_exterior_c426a6e5:
 
     # player happy "De rien ça me permet de voir discrètement où tu habites." id home_asami_exterior_c426a6e5
-    player happy "不客气，它可以让我谨慎地看到你住在哪里。" id home_asami_exterior_c426a6e5
+    player happy "不客气，我顺便知道了你住在哪。" id home_asami_exterior_c426a6e5
 
 # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:79
 translate chinese_simplified home_asami_exterior_c172ef11:
 
     # asami "Pourquoi, tu comptais faire une petite visite nocturne?" id home_asami_exterior_c172ef11
-    asami "为什么，你打算做一个小夜访？" id home_asami_exterior_c172ef11
+    asami "怎么了？你想来搞夜袭？" id home_asami_exterior_c172ef11
 
 # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:80
 translate chinese_simplified home_asami_exterior_eb16f3ab:
 
     # asami "Je dois laisser ma fenêtre ouverte pour toi?" id home_asami_exterior_eb16f3ab
-    asami "我应该为你敞开窗户吗？" id home_asami_exterior_eb16f3ab
+    asami "我要不要给你留扇窗啊？" id home_asami_exterior_eb16f3ab
 
 # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:81
 translate chinese_simplified home_asami_exterior_96217192:
 
     # asami happy "Ne te trompe pas de chambre, tu tomberais peut-être sur celle de mon père." id home_asami_exterior_96217192
-    asami happy "不要找错房间，你可能会找到我父亲的房间。" id home_asami_exterior_96217192
+    asami happy "别上错床，摸到我爸那边可就危险了。" id home_asami_exterior_96217192
 
 # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:82
 translate chinese_simplified home_asami_exterior_b76966f8:
 
     # player sad "Sans façon merci!" id home_asami_exterior_b76966f8
-    player sad "没办法谢谢！" id home_asami_exterior_b76966f8
+    player sad "谢谢，我 {w}{size=+10}{color=#ff0000}{b}绝{/b}{/color}{/size}{w} {size=+10}{color=#ff0000}{b}对{/b}{/color}{/size}{w} 不会来的！" id home_asami_exterior_b76966f8
 
 # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:83
 translate chinese_simplified home_asami_exterior_ef6fc0e4:
 
     # asami "Viens me chercher demain après-midi, tu auras juste à sonner!" id home_asami_exterior_ef6fc0e4
-    asami "明天下午来接我，你只需要打电话！" id home_asami_exterior_ef6fc0e4
+    asami "明天下午来这里接我，按门铃我就出发！" id home_asami_exterior_ef6fc0e4
 
 # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:84
 translate chinese_simplified home_asami_exterior_63c50b9a:
 
     # player "Oui, mais si je n’ai pas envie?" id home_asami_exterior_63c50b9a
-    player "是的，但如果我不想呢？" id home_asami_exterior_63c50b9a
+    player "啊，我突然想起我明天下午有事。" id home_asami_exterior_63c50b9a
 
 # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:85
 translate chinese_simplified home_asami_exterior_ca2aa287:
 
     # asami sad "Quoi, mais je croyais qu-" id home_asami_exterior_ca2aa287
-    asami sad "什么，但我认为——" id home_asami_exterior_ca2aa287
+    asami sad "什么——" id home_asami_exterior_ca2aa287
 
 # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:86
 translate chinese_simplified home_asami_exterior_e65a354b:
 
     # player happy "Je te faisais marcher, il fallait bien que je me venge un peu!" id home_asami_exterior_e65a354b
-    player happy "我是在逗你，我得为自己报仇！" id home_asami_exterior_e65a354b
+    player happy "噗噗，{w}你上当啦，我明天会来的！" id home_asami_exterior_e65a354b
 
 # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:87
 translate chinese_simplified home_asami_exterior_99fe595b:
@@ -160,7 +160,7 @@ translate chinese_simplified home_asami_exterior_99fe595b:
 translate chinese_simplified home_asami_exterior_1a0a20c1:
 
     # player "Aucun humour ces jeunes de nos jours!" id home_asami_exterior_1a0a20c1
-    player "这些天来，这些年轻人没有幽默感！" id home_asami_exterior_1a0a20c1
+    player "现在的年轻人可真没有幽默感啊！" id home_asami_exterior_1a0a20c1
 
 # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:94
 translate chinese_simplified home_asami_exterior_50e1a840:
@@ -172,7 +172,7 @@ translate chinese_simplified home_asami_exterior_50e1a840:
 translate chinese_simplified home_asami_exterior_8e7b7994:
 
     # x "Ce sera l'occasion de prendre des nouvelles de {color=#ffcccc}{b}[chiaki_name]{/b}{/color}" id home_asami_exterior_8e7b7994
-    x "这将是一个聆听 {color=#ffcccc}{b}千秋{/b}{/color} 的机会" id home_asami_exterior_8e7b7994
+    x "这将是一个接触 {color=#ffcccc}{b}千秋{/b}{/color} 的机会" id home_asami_exterior_8e7b7994
 
 # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:114
 translate chinese_simplified home_asami_exterior_92d4f638:
@@ -190,25 +190,25 @@ translate chinese_simplified home_asami_exterior_0307bdf9:
 translate chinese_simplified home_asami_exterior_d47a1d8e:
 
     # player "Donc, explique-toi! Tu faisais quoi devant chez {color=#e17055}{b}水人{/b}{/color}?" id home_asami_exterior_d47a1d8e
-    player "所以解释一下！你在 {color=#e17055}{b}水人{/b}{/color} 家前做什么？" id home_asami_exterior_d47a1d8e
+    player "解释一下你在 {color=#e17055}{b}水人{/b}{/color} 家前做什么？" id home_asami_exterior_d47a1d8e
 
 # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:117
 translate chinese_simplified home_asami_exterior_350502d0:
 
     # kimochi doubt "...Je ne sais pas si je peux t'en parler." id home_asami_exterior_350502d0
-    kimochi doubt "...我不知道我能不能告诉你。" id home_asami_exterior_350502d0
+    kimochi doubt "...说出来你可能不信。" id home_asami_exterior_350502d0
 
 # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:118
 translate chinese_simplified home_asami_exterior_52fd02c2:
 
     # player neutral "Je t'assure que j'ai l'esprit ouvert je peux tout entendre." id home_asami_exterior_52fd02c2
-    player neutral "我向你保证，我有一个开放的心态，我可以听到一切。" id home_asami_exterior_52fd02c2
+    player neutral "多离谱的事我都遇到过了，你说吧。" id home_asami_exterior_52fd02c2
 
 # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:119
 translate chinese_simplified home_asami_exterior_2034e60b:
 
     # player "J'espère juste qu'il y a une bonne raison sinon je devrais probablement le signaler." id home_asami_exterior_2034e60b
-    player "我只是希望有一个很好的理由，否则我可能会报警。" id home_asami_exterior_2034e60b
+    player "我会从你的发言判断是不是该把你交给警察。" id home_asami_exterior_2034e60b
 
 # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:120
 translate chinese_simplified home_asami_exterior_0465da08:
@@ -226,13 +226,13 @@ translate chinese_simplified home_asami_exterior_109e6ea2:
 translate chinese_simplified home_asami_exterior_f914131b:
 
     # kimochi "J'essaye de rassembler des preuves, mais pour le m-" id home_asami_exterior_f914131b
-    kimochi "我正试图收集证据，但为了 m-" id home_asami_exterior_f914131b
+    kimochi "我只是想收集证据……" id home_asami_exterior_f914131b
 
 # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:123
 translate chinese_simplified home_asami_exterior_5f7646b6:
 
     # player surprised "Une minute une minute...{w} Je sais bien qu'il peut parfois être colérique et qu'il peut s'emporter un peu." id home_asami_exterior_5f7646b6
-    player surprised "一分钟一分钟...{w}我知道他有时会生气，他会有点得意忘形。" id home_asami_exterior_5f7646b6
+    player surprised "嗯...{w}我知道他有时会情绪失控。" id home_asami_exterior_5f7646b6
 
 # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:124
 translate chinese_simplified home_asami_exterior_bd9d3d7c:
@@ -244,7 +244,7 @@ translate chinese_simplified home_asami_exterior_bd9d3d7c:
 translate chinese_simplified home_asami_exterior_37deb9d3:
 
     # kimochi sad "{color=#e17055}{b}水人{/b}{/color} est un putain de psychopathe et plus on le laissera seul avec sa petite sœur plus elle en souffrira." id home_asami_exterior_37deb9d3
-    kimochi sad "{color=#e17055}{b}水人{/b}{/color} 是个该死的精神病患者，我们越是让他和他的小妹妹单独相处，她就越受苦。" id home_asami_exterior_37deb9d3
+    kimochi sad "{color=#e17055}{b}水人{/b}{/color} 是个该死的神经病，我们越是让他和他的小妹妹单独相处，她就越受苦。" id home_asami_exterior_37deb9d3
 
 # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:130
 translate chinese_simplified home_asami_exterior_4a5bb023:
@@ -268,31 +268,31 @@ translate chinese_simplified home_asami_exterior_3b45e5b6:
 translate chinese_simplified home_asami_exterior_08108474:
 
     # player "Oui oui, j'ai juste du mal à y croire..." id home_asami_exterior_08108474
-    player "是的，是的，我只是很难相信它......" id home_asami_exterior_08108474
+    player "在听，我只是有点难以置信......" id home_asami_exterior_08108474
 
 # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:139
 translate chinese_simplified home_asami_exterior_889fa555:
 
     # asami "Du mal à croire quoi?" id home_asami_exterior_889fa555
-    asami "很难相信什么？" id home_asami_exterior_889fa555
+    asami "你们在聊什么？" id home_asami_exterior_889fa555
 
 # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:140
 translate chinese_simplified home_asami_exterior_74d95b5e:
 
     # kimochi angry "Femme silence, ceci est une conversation entre deux mâles alpha!" id home_asami_exterior_74d95b5e
-    kimochi angry "沉默的女人，这是两个阿尔法男性之间的对话！" id home_asami_exterior_74d95b5e
+    kimochi angry "闭嘴臭娘们！这是男人之间的对话。" id home_asami_exterior_74d95b5e
 
 # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:141
 translate chinese_simplified home_asami_exterior_739a953a:
 
     # asami angry "Comment ça \"Femme\"?! {color=#0984e3}{b}[player_name]{/b}{/color} retiens moi ou je lui arrache les couilles!" id home_asami_exterior_739a953a
-    asami angry "那个“女人”怎么样？！ {color=#0984e3}{b}[player_name]{/b}{/color} 让我退后，否则我会把他的蛋蛋撕掉！" id home_asami_exterior_739a953a
+    asami angry "你说谁臭娘们啊？！ [player.n] 别拦着我，我要撕了他的嘴！" id home_asami_exterior_739a953a
 
 # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:142
 translate chinese_simplified home_asami_exterior_51989db8:
 
     # asami "C'est qui ce nain de jardin qui se prend pour un gros macho?" id home_asami_exterior_51989db8
-    asami "这个自认为是大男子主义的花园侏儒是谁？" id home_asami_exterior_51989db8
+    asami "这个屌癌是谁？" id home_asami_exterior_51989db8
 
 # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:143
 translate chinese_simplified home_asami_exterior_70883af6:
@@ -304,19 +304,19 @@ translate chinese_simplified home_asami_exterior_70883af6:
 translate chinese_simplified home_asami_exterior_f2b9b5e9:
 
     # kimochi happy "Pardon, j'en oublierais presque les bonnes manières." id home_asami_exterior_f2b9b5e9
-    kimochi happy "对不起，我差点忘了礼貌。" id home_asami_exterior_f2b9b5e9
+    kimochi happy "对不起，我忘了自我介绍。" id home_asami_exterior_f2b9b5e9
 
 # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:146
 translate chinese_simplified home_asami_exterior_697791ce:
 
     # kimochi "Mon nom est {color=#55efc4}{b}[kimochi_name] Warui{/b}{/color}." id home_asami_exterior_697791ce
-    kimochi "我的名字是 {color=#55efc4}{b}爽 Warui{/b}{/color}。" id home_asami_exterior_697791ce
+    kimochi "我的名字是 {color=#55efc4}{b}伊拓达弁{/b}{/color}。" id home_asami_exterior_697791ce
 
 # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:147
 translate chinese_simplified home_asami_exterior_3ea7f0e7:
 
     # player surprised "Mais..." id home_asami_exterior_3ea7f0e7
-    player surprised "最多..." id home_asami_exterior_3ea7f0e7
+    player surprised "啊这..." id home_asami_exterior_3ea7f0e7
 
 # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:148
 translate chinese_simplified home_asami_exterior_7124c56b:
@@ -328,73 +328,73 @@ translate chinese_simplified home_asami_exterior_7124c56b:
 translate chinese_simplified home_asami_exterior_e4e2454d:
 
     # kimochi "Mon nom est {color=#55efc4}{b}[kimochi_name]{/b}{/color}." id home_asami_exterior_e4e2454d
-    kimochi "我的名字是 {color=#55efc4}{b}爽{/b}{/color}。" id home_asami_exterior_e4e2454d
+    kimochi "你们可以叫我 {color=#55efc4}{b}达弁{/b}{/color}。" id home_asami_exterior_e4e2454d
 
 # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:151
 translate chinese_simplified home_asami_exterior_05cdee33:
 
     # asami "C'est d'un banal..." id home_asami_exterior_05cdee33
-    asami "这是一个平庸的..." id home_asami_exterior_05cdee33
+    asami "你是说...大便？" id home_asami_exterior_05cdee33
 
 # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:152
 translate chinese_simplified home_asami_exterior_4a43b41d:
 
     # kimochi angry "...Femme, reste à ta place!" id home_asami_exterior_4a43b41d
-    kimochi angry "...女人，留在你的地方！" id home_asami_exterior_4a43b41d
+    kimochi angry "...女人别插嘴！" id home_asami_exterior_4a43b41d
 
 # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:153
 translate chinese_simplified home_asami_exterior_fb341b80:
 
     # asami sulking "J'vais le tuer!" id home_asami_exterior_fb341b80
-    asami sulking "我会杀他！" id home_asami_exterior_fb341b80
+    asami sulking "什么傻屌！" id home_asami_exterior_fb341b80
 
 # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:154
 translate chinese_simplified home_asami_exterior_0b920d96:
 
     # kimochi neutral "{color=#0984e3}{b}[player_name]{/b}{/color}! Rejoins-moi à cette adresse cette nuit, je t'en dirais davantage." id home_asami_exterior_0b920d96
-    kimochi neutral "{color=#0984e3}{b}[player_name]{/b}{/color}！今晚和我一起到这个地址，我会告诉你更多。" id home_asami_exterior_0b920d96
+    kimochi neutral "[player.n]！这是我的秘密基地，我会把我的情报分享给你。" id home_asami_exterior_0b920d96
 
 # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:155
 translate chinese_simplified home_asami_exterior_044664ca:
 
     # asami "Et en plus il m'ignore!!" id home_asami_exterior_044664ca
-    asami "而且他不理我！！" id home_asami_exterior_044664ca
+    asami "他无视我！！" id home_asami_exterior_044664ca
 
 # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:158
 translate chinese_simplified home_asami_exterior_2d7ea149:
 
     # asami "Dis quelque chose toi!" id home_asami_exterior_2d7ea149
-    asami "说点你的！" id home_asami_exterior_2d7ea149
+    asami "[player.n]你倒是说点什么啊！" id home_asami_exterior_2d7ea149
 
 # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:159
 translate chinese_simplified home_asami_exterior_58a56376:
 
     # player neutral "Euh... Je me suis entrainé cette nuit, je vais t'éclater a Soulcalibur?" id home_asami_exterior_58a56376
-    player neutral "呃...我昨晚训练了，我会在Soulcalibur玩得开心吗？" id home_asami_exterior_58a56376
+    player neutral "呃...我昨晚加练了，我这回给你放点水？" id home_asami_exterior_58a56376
 
 # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:160
 translate chinese_simplified home_asami_exterior_08151c69:
 
     # asami neutral "Ah!{w} C'est ce qu'on va voir!" id home_asami_exterior_08151c69
-    asami neutral "啊！{w} 这就是我们将看到的！" id home_asami_exterior_08151c69
+    asami neutral "啊！赤裸裸的挑衅{w} 但是我迎战了！" id home_asami_exterior_08151c69
 
 # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:161
 translate chinese_simplified home_asami_exterior_b15eb359:
 
     # asami sulking "C'est idiot ma énervée comme jamais! Non, mais pour qui il se prend?" id home_asami_exterior_b15eb359
-    asami sulking "真是愚蠢，我一如既往地生气！不，但他认为自己是谁？" id home_asami_exterior_b15eb359
+    asami sulking "刚刚那人真是让人火大！他以为自己是谁啊？真是目中无人！" id home_asami_exterior_b15eb359
 
 # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:162
 translate chinese_simplified home_asami_exterior_93dc6f92:
 
     # asami "J'ai besoin de me défouler!" id home_asami_exterior_93dc6f92
-    asami "我需要发泄一下！" id home_asami_exterior_93dc6f92
+    asami "[player.n]，我需要发泄一下！" id home_asami_exterior_93dc6f92
 
 # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:163
 translate chinese_simplified home_asami_exterior_8ba1be86:
 
     # asami "Prépare-toi pour la raclée de ta vie!" id home_asami_exterior_8ba1be86
-    asami "准备好迎接人生的跳​​动吧！" id home_asami_exterior_8ba1be86
+    asami "准备好迎接[asami.n]的怒火吧！" id home_asami_exterior_8ba1be86
 
 # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:178
 translate chinese_simplified home_asami_exterior_e301e1b6:

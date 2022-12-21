@@ -15,12 +15,12 @@ translate chinese_simplified corridor_lock_112a3331:
 # game/scripts/story/residential district/player's home/block/corridor_lock.rpy:13
 translate chinese_simplified corridor_lock_c9bf00f5:
 
-    # player "Je dois demander à {color=#fd79a8}{b}纪子{/b}{/color}." id corridor_lock_c9bf00f5
-    player "我得问问{color=#fd79a8}{b}纪子{/b}{/color}。" id corridor_lock_c9bf00f5
+    # player "Je dois demander à [noriko.n]." id corridor_lock_c9bf00f5
+    player "我得问问[noriko.n]。" id corridor_lock_c9bf00f5
 
 # game/scripts/story/residential district/player's home/block/corridor_lock.rpy:14
 translate chinese_simplified corridor_lock_17830108:
 
     # player "Je ne veux pas inquiéter {color=#a29bfe}{b}[yasuka_name]{/b}{/color}." id corridor_lock_17830108
-    player "我可不想担心{color=#a29bfe}{b}安香{/b}{/color}。" id corridor_lock_17830108
+    player "我可不想担心[yasuka.n]。" id corridor_lock_17830108
 

@@ -166,7 +166,7 @@ translate chinese_simplified strings:
 
     # game/scripts/story/business district/love hotel/love_hotel_exterior.rpy:32
     old "Retrouver {color=#a29bfe}{b}[yasuka_name]{/b}{/color} avant que {color=#6B2B06}{b}[ubs_name]{/b}{/color} ne réussisse son coup."
-    new "在 {color=#6B2B06}{b}牛魔王{/b}{/color} 得逞之前找到 {color=#a29bfe}{b}安香{/b}{/color} 。"
+    new "在 {color=#6B2B06}{b}牛魔王{/b}{/color} 得逞之前找到 [yasuka.n] 。"
 
 # TODO: Translation updated at 2022-12-15 12:14
 

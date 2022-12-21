@@ -621,8 +621,8 @@ translate chinese_simplified talk_asami_ffdc46e6:
 # game/scripts/story/talking/talk_asami.rpy:211
 translate chinese_simplified talk_asami_6c7efc8b:
 
-    # x "J'ai fait chanter {color=#fd79a8}{b}纪子{/b}{/color} et voilà que c'est mon tour." id talk_asami_6c7efc8b
-    x "我勒索了 {color=#fd79a8}{b}纪子{/b}{/color} ，现在轮到我被勒索了。" id talk_asami_6c7efc8b
+    # x "J'ai fait chanter [noriko.n] et voilà que c'est mon tour." id talk_asami_6c7efc8b
+    x "我勒索了 [noriko.n] ，现在轮到我被勒索了。" id talk_asami_6c7efc8b
 
 # game/scripts/story/talking/talk_asami.rpy:213
 translate chinese_simplified talk_asami_6cf2d5c3:
@@ -1725,8 +1725,8 @@ translate chinese_simplified asami_choice_d8efda58:
 # game/scripts/story/talking/talk_asami.rpy:545
 translate chinese_simplified asami_choice_5b0b0ac3:
 
-    # x "{color=#ea8685}{b}[asami_name]{/b}{/color} est beaucoup plus douce que {color=#fd79a8}{b}纪子{/b}{/color}." id asami_choice_5b0b0ac3
-    x "{color=#ea8685}{b}麻美{/b}{/color} 比 {color=#fd79a8}{b}纪子{/b}{/color} 要温柔的多。" id asami_choice_5b0b0ac3
+    # x "{color=#ea8685}{b}[asami_name]{/b}{/color} est beaucoup plus douce que [noriko.n]." id asami_choice_5b0b0ac3
+    x "{color=#ea8685}{b}麻美{/b}{/color} 比 [noriko.n] 要温柔的多。" id asami_choice_5b0b0ac3
 
 # game/scripts/story/talking/talk_asami.rpy:546
 translate chinese_simplified asami_choice_9962d76a:

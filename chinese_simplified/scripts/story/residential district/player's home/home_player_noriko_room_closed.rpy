@@ -33,8 +33,8 @@ translate chinese_simplified home_player_noriko_room_closed_9650078c:
 # game/scripts/story/residential district/player's home/home_player_noriko_room_closed.rpy:32
 translate chinese_simplified home_player_noriko_room_closed_5308c43e:
 
-    # player "{color=#fd79a8}{b}纪子{/b}{/color}... Ahem... Je peux te parler un instant ?" id home_player_noriko_room_closed_5308c43e
-    player "{color=#fd79a8}{b}纪子{/b}{/color}...咳咳...我可以和你谈谈吗？" id home_player_noriko_room_closed_5308c43e
+    # player "[noriko.n]... Ahem... Je peux te parler un instant ?" id home_player_noriko_room_closed_5308c43e
+    player "[noriko.n]...咳咳...我可以和你谈谈吗？" id home_player_noriko_room_closed_5308c43e
 
 # game/scripts/story/residential district/player's home/home_player_noriko_room_closed.rpy:38
 translate chinese_simplified home_player_noriko_room_closed_29cd7803:
@@ -93,8 +93,8 @@ translate chinese_simplified home_player_noriko_room_closed_d6ed5375:
 # game/scripts/story/residential district/player's home/home_player_noriko_room_closed.rpy:67
 translate chinese_simplified home_player_noriko_room_closed_9cdc86e1:
 
-    # x "Non si je rentre ici {color=#fd79a8}{b}纪子{/b}{/color} va encore claquer un scandale." id home_player_noriko_room_closed_9cdc86e1
-    x "不行，如果我进去的话 {color=#fd79a8}{b}纪子{/b}{/color} 一定会杀了我的。" id home_player_noriko_room_closed_9cdc86e1
+    # x "Non si je rentre ici [noriko.n] va encore claquer un scandale." id home_player_noriko_room_closed_9cdc86e1
+    x "不行，如果我进去的话 [noriko.n] 一定会杀了我的。" id home_player_noriko_room_closed_9cdc86e1
 
 # game/scripts/story/residential district/player's home/home_player_noriko_room_closed.rpy:68
 translate chinese_simplified home_player_noriko_room_closed_127b90d2:

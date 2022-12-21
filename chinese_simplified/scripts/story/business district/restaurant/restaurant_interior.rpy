@@ -274,7 +274,7 @@ translate chinese_simplified restaurant_interior_0e0cb893:
 translate chinese_simplified restaurant_interior_001dce40:
 
     # x "Si la paye est meilleure ça me permettra d'aider davantage {color=#a29bfe}{b}[yasuka_name]{/b}{/color}." id restaurant_interior_001dce40
-    x "如果薪水更好，我可以帮助 {color=#a29bfe}{b}安香{/b}{/color} 更多。" id restaurant_interior_001dce40
+    x "如果薪水更好，我可以帮助 [yasuka.n] 更多。" id restaurant_interior_001dce40
 
 # game/scripts/story/business district/restaurant/restaurant_interior.rpy:103
 translate chinese_simplified restaurant_interior_6ffb138b:
@@ -346,7 +346,7 @@ translate chinese_simplified strings:
 
     # game/scripts/story/business district/restaurant/restaurant_interior.rpy:73
     old "Je ferais mieux de rentrer voir {color=#a29bfe}{b}[yasuka_name]{/b}{/color}, je ne peux rien faire de plus."
-    new "我最好回去看看 {color=#a29bfe}{b}安香{/b}{/color}，我没什么可以再做的了。"
+    new "我最好回去看看 [yasuka.n]，我没什么可以再做的了。"
 
 # TODO: Translation updated at 2022-12-15 12:14
 

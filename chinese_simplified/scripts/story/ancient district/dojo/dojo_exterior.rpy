@@ -75,8 +75,8 @@ translate chinese_simplified dojo_exterior_b3e9ba34:
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:58
 translate chinese_simplified dojo_exterior_a9552264:
 
-    # x "Finalement c'est un peu une version masculine de {color=#fd79a8}{b}纪子{/b}{/color}" id dojo_exterior_a9552264
-    x "他跟 {color=#fd79a8}{b}纪子{/b}{/color}一个德性，只是多了根屌" id dojo_exterior_a9552264
+    # x "Finalement c'est un peu une version masculine de [noriko.n]" id dojo_exterior_a9552264
+    x "他跟 [noriko.n]一个德性，只是多了根屌" id dojo_exterior_a9552264
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:59
 translate chinese_simplified dojo_exterior_dfdeb035:

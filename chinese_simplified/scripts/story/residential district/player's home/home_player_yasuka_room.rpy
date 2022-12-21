@@ -105,8 +105,8 @@ translate chinese_simplified talk_yasuka_deb52b8b:
 # game/scripts/story/residential district/player's home/home_player_yasuka_room.rpy:60
 translate chinese_simplified talk_yasuka_a3b4ecab:
 
-    # yasukac "Est-ce que {color=#fd79a8}{b}纪子{/b}{/color} est toujours aussi dure avec toi?" id talk_yasuka_a3b4ecab
-    yasukac "{color=#fd79a8}{b}纪子{/b}{/color} 总是对你这么苛刻吗？" id talk_yasuka_a3b4ecab
+    # yasukac "Est-ce que [noriko.n] est toujours aussi dure avec toi?" id talk_yasuka_a3b4ecab
+    yasukac "[noriko.n] 总是对你这么苛刻吗？" id talk_yasuka_a3b4ecab
 
 # game/scripts/story/residential district/player's home/home_player_yasuka_room.rpy:62
 translate chinese_simplified talk_yasuka_6e89e86b:
@@ -159,8 +159,8 @@ translate chinese_simplified talk_yasuka_642d9acc:
 # game/scripts/story/residential district/player's home/home_player_yasuka_room.rpy:74
 translate chinese_simplified talk_yasuka_fe37300d:
 
-    # yasukac "{color=#fd79a8}{b}纪子{/b}{/color}... à toujours eu des rapports compliqués avec les hommes." id talk_yasuka_fe37300d
-    yasukac "{color=#fd79a8}{b}纪子{/b}{/color}...一直与男人有着复杂的关系。" id talk_yasuka_fe37300d
+    # yasukac "[noriko.n]... à toujours eu des rapports compliqués avec les hommes." id talk_yasuka_fe37300d
+    yasukac "[noriko.n]...一直与男人有着复杂的关系。" id talk_yasuka_fe37300d
 
 # game/scripts/story/residential district/player's home/home_player_yasuka_room.rpy:75
 translate chinese_simplified talk_yasuka_e65d0dea:
@@ -267,8 +267,8 @@ translate chinese_simplified talk_yasuka_928cd497:
 # game/scripts/story/residential district/player's home/home_player_yasuka_room.rpy:99
 translate chinese_simplified talk_yasuka_2950f4ca:
 
-    # yasukac "Mais aide {color=#fd79a8}{b}纪子{/b}{/color}, j'aimerais la voir heureuse de nouveau." id talk_yasuka_2950f4ca
-    yasukac "但是帮助{color=#fd79a8}{b}纪子{/b}{/color}，我希望看到她再次快乐。" id talk_yasuka_2950f4ca
+    # yasukac "Mais aide [noriko.n], j'aimerais la voir heureuse de nouveau." id talk_yasuka_2950f4ca
+    yasukac "但是帮助[noriko.n]，我希望看到她再次快乐。" id talk_yasuka_2950f4ca
 
 # game/scripts/story/residential district/player's home/home_player_yasuka_room.rpy:103
 translate chinese_simplified talk_yasuka_79a790cc:
@@ -490,13 +490,13 @@ translate chinese_simplified home_player_yasuka_room_32248e78:
 translate chinese_simplified home_player_yasuka_room_69c0919d:
 
     # yasuka "Je ne suis plus la {color=#a29bfe}{b}[yasuka_name]{/b}{/color} qui t'a élevée." id home_player_yasuka_room_69c0919d
-    yasuka "我不再是抚养你长大的{color=#a29bfe}{b}安香{/b}{/color}。" id home_player_yasuka_room_69c0919d
+    yasuka "我不再是抚养你长大的[yasuka.n]。" id home_player_yasuka_room_69c0919d
 
 # game/scripts/story/residential district/player's home/home_player_yasuka_room.rpy:173
 translate chinese_simplified home_player_yasuka_room_46383e76:
 
     # yasuka "Je suis {color=#a29bfe}{b}[yasuka_name]{/b}{/color} la femme que tu as comblée et as qui tu va faire l'amour." id home_player_yasuka_room_46383e76
-    yasuka "我是{color=#a29bfe}{b}安香{/b}{/color}，是你满足的女人，也是你要做爱的女人。" id home_player_yasuka_room_46383e76
+    yasuka "我是[yasuka.n]，是你满足的女人，也是你要做爱的女人。" id home_player_yasuka_room_46383e76
 
 # game/scripts/story/residential district/player's home/home_player_yasuka_room.rpy:174
 translate chinese_simplified home_player_yasuka_room_535ff888:
@@ -1155,8 +1155,8 @@ translate chinese_simplified home_player_yasuka_room_1df4c593:
 # game/scripts/story/residential district/player's home/home_player_yasuka_room.rpy:408
 translate chinese_simplified home_player_yasuka_room_af9a0385:
 
-    # yasuka "{color=#fd79a8}{b}纪子{/b}{/color} ne restera pas éternellement dans cette maison." id home_player_yasuka_room_af9a0385
-    yasuka "{color=#fd79a8}{b}纪子{/b}{/color} 不会永远待在这所房子里。" id home_player_yasuka_room_af9a0385
+    # yasuka "[noriko.n] ne restera pas éternellement dans cette maison." id home_player_yasuka_room_af9a0385
+    yasuka "[noriko.n] 不会永远待在这所房子里。" id home_player_yasuka_room_af9a0385
 
 # game/scripts/story/residential district/player's home/home_player_yasuka_room.rpy:409
 translate chinese_simplified home_player_yasuka_room_a14bde6d:

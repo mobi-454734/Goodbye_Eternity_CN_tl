@@ -192,7 +192,7 @@ translate chinese_simplified strings:
 
     # game/scripts/story/business district/coffeebar/coffeebar_interior.rpy:72
     old "Retrouver {color=#a29bfe}{b}[yasuka_name]{/b}{/color} dans le salon en fin de journée."
-    new "晚上去客厅见{color=#a29bfe}{b}安香{/b}{/color}。"
+    new "晚上去客厅见[yasuka.n]。"
 
 # TODO: Translation updated at 2022-12-15 12:14
 

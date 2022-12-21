@@ -250,7 +250,7 @@ translate chinese_simplified home_player_hallway_1b4e3b84:
 translate chinese_simplified home_player_hallway_aa2eb4a0:
 
     # player "On est tous dans la merde, toi, moi, {color=#a29bfe}{b}[yasuka_name]{/b}{/color}..." id home_player_hallway_aa2eb4a0
-    player "我们是一条绳上的蚂蚱，你 我 {color=#a29bfe}{b}安香{/b}{/color}..." id home_player_hallway_aa2eb4a0
+    player "我们是一条绳上的蚂蚱，你 我 [yasuka.n]..." id home_player_hallway_aa2eb4a0
 
 # game/scripts/story/residential district/player's home/home_player_hallway.rpy:107
 translate chinese_simplified home_player_hallway_6b3c93cb:
@@ -309,8 +309,8 @@ translate chinese_simplified home_player_hallway_0cbbbb0c:
 # game/scripts/story/residential district/player's home/home_player_hallway.rpy:141
 translate chinese_simplified home_player_hallway_521579e2:
 
-    # yasuka "{size=-10}Je ne veux pas que {color=#fd79a8}{b}纪子{/b}{/color} nous vois entrer tous les deux en même temps.{/size}" id home_player_hallway_521579e2
-    yasuka "{size=-10}我不想让 {color=#fd79a8}{b}纪子{/b}{/color} 看到我们俩同时进入。{/size}" id home_player_hallway_521579e2
+    # yasuka "{size=-10}Je ne veux pas que [noriko.n] nous vois entrer tous les deux en même temps.{/size}" id home_player_hallway_521579e2
+    yasuka "{size=-10}我不想让 [noriko.n] 看到我们俩同时进入。{/size}" id home_player_hallway_521579e2
 
 # game/scripts/story/residential district/player's home/home_player_hallway.rpy:142
 translate chinese_simplified home_player_hallway_f7de69db:
@@ -448,15 +448,15 @@ translate chinese_simplified strings:
 
     # game/scripts/story/residential district/player's home/home_player_hallway.rpy:36
     old "Vous avez provoqué {color=#fd79a8}{b}[noriko_name]{/b}{/color} au lieu de l'éviter, restez sur vos gardes!"
-    new "你激怒了{color=#fd79a8}{b}纪子{/b}{/color}，而不是躲避它，要小心！"
+    new "你激怒了[noriko.n]，而不是躲避它，要小心！"
 
     # game/scripts/story/residential district/player's home/home_player_hallway.rpy:87
     old "Dans tes rêves {color=#fd79a8}{b}[noriko_name]{/b}{/color}!"
-    new "躲避 {color=#fd79a8}{b}纪子{/b}{/color}！"
+    new "躲避 [noriko.n]！"
 
     # game/scripts/story/residential district/player's home/home_player_hallway.rpy:87
     old "Va te faire foutre {color=#fd79a8}{b}[noriko_name]{/b}{/color}!"
-    new "激怒 {color=#fd79a8}{b}纪子{/b}{/color}！"
+    new "激怒 [noriko.n]！"
 
     # game/scripts/story/residential district/player's home/home_player_hallway.rpy:88
     old "ROUTE FEMDOM/MALEDOM"
@@ -464,11 +464,11 @@ translate chinese_simplified strings:
 
     # game/scripts/story/residential district/player's home/home_player_hallway.rpy:131
     old "Rejoindre discrètement {color=#a29bfe}{b}[yasuka_name]{/b}{/color} dans la salle de bain."
-    new "在浴室里潜入 {color=#a29bfe}{b}安香{/b}{/color}。"
+    new "在浴室里潜入 [yasuka.n]。"
 
     # game/scripts/story/residential district/player's home/home_player_hallway.rpy:150
     old "Je suis sur que {color=#a29bfe}{b}[yasuka_name]{/b}{/color} doit m'attendre."
-    new "我确定 {color=#a29bfe}{b}安香{/b}{/color} 应该在等我。"
+    new "我确定 [yasuka.n] 应该在等我。"
 
 # TODO: Translation updated at 2022-12-15 12:14
 

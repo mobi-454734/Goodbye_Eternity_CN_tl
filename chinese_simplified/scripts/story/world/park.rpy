@@ -1347,8 +1347,8 @@ translate chinese_simplified park_a88ebee3:
 # game/scripts/story/world/park.rpy:465
 translate chinese_simplified park_de3ad907:
 
-    # kenji bad "Ah oui comment elle s'appelle déjà... {w}{color=#fd79a8}{b}纪子{/b}{/color} je crois." id park_de3ad907
-    kenji bad "哦，她的名字叫 {w}{color=#fd79a8}{b}纪子{/b}{/color} 来着。" id park_de3ad907
+    # kenji bad "Ah oui comment elle s'appelle déjà... {w}[noriko.n] je crois." id park_de3ad907
+    kenji bad "哦，她的名字叫 {w}[noriko.n] 来着。" id park_de3ad907
 
 # game/scripts/story/world/park.rpy:466
 translate chinese_simplified park_680c0677:
@@ -1396,7 +1396,7 @@ translate chinese_simplified park_31307ec2:
 translate chinese_simplified park_99bd9348:
 
     # nobu bad "Oh oui exact, attend son nom va me revenir...{w}{color=#a29bfe}{b}[yasuka_name]{/b}{/color}!" id park_99bd9348
-    nobu bad "哦，是的，你是对的！等等，我记得她的名字……{w}{color=#a29bfe}{b}安香{/b}{/color}！" id park_99bd9348
+    nobu bad "哦，是的，你是对的！等等，我记得她的名字……{w}[yasuka.n]！" id park_99bd9348
 
 # game/scripts/story/world/park.rpy:487
 translate chinese_simplified park_0e472ffe:
@@ -2614,7 +2614,7 @@ translate chinese_simplified park_0103e7c0:
 translate chinese_simplified park_f56768b8:
 
     # player "Il y aura {color=#a29bfe}{b}[yasuka_name]{/b}{/color} qui est un peu comme ma mère adoptive et..." id park_f56768b8
-    player "和我住一块的有两位，一位是 {color=#a29bfe}{b}安香{/b}{/color}，有点像我的养母，另一位..." id park_f56768b8
+    player "和我住一块的有两位，一位是 [yasuka.n]，有点像我的养母，另一位..." id park_f56768b8
 
 # game/scripts/story/world/park.rpy:955
 translate chinese_simplified park_0e7b6348:
@@ -2637,8 +2637,8 @@ translate chinese_simplified park_116ec0bb:
 # game/scripts/story/world/park.rpy:958
 translate chinese_simplified park_659a1d45:
 
-    # player "C'est juste {color=#fd79a8}{b}纪子{/b}{/color} sa fille." id park_659a1d45
-    player "是她女儿，叫 {color=#fd79a8}{b}纪子{/b}{/color}。" id park_659a1d45
+    # player "C'est juste [noriko.n] sa fille." id park_659a1d45
+    player "是她女儿，叫 [noriko.n]。" id park_659a1d45
 
 # game/scripts/story/world/park.rpy:959
 translate chinese_simplified park_79f55502:

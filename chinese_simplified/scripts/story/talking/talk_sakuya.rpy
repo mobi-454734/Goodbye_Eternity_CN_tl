@@ -129,8 +129,8 @@ translate chinese_simplified talk_sakuya_05b57182:
 # game/scripts/story/talking/talk_sakuya.rpy:35
 translate chinese_simplified talk_sakuya_c17ff748:
 
-    # sakuya "Hihi... Tu parles d'honnêteté mon chéri, mais... {color=#fd79a8}{b}纪子{/b}{/color}, {color=#ea8685}{b}[asami_name]{/b}{/color} et enfin maintenant {color=#a29bfe}{b}[yasuka_name]{/b}{/color}." id talk_sakuya_c17ff748
-    sakuya "嘿嘿...谈论诚实，亲爱的，但是... {color=#fd79a8}{b}纪子{/b}{/color}, {color=#ea8685}{b}麻美{/b }{/color}，最后是 {color=#a29bfe}{b}安香{/b}{/color}。" id talk_sakuya_c17ff748
+    # sakuya "Hihi... Tu parles d'honnêteté mon chéri, mais... [noriko.n], {color=#ea8685}{b}[asami_name]{/b}{/color} et enfin maintenant {color=#a29bfe}{b}[yasuka_name]{/b}{/color}." id talk_sakuya_c17ff748
+    sakuya "嘿嘿...谈论诚实，亲爱的，但是... [noriko.n], {color=#ea8685}{b}麻美{/b }{/color}，最后是 [yasuka.n]。" id talk_sakuya_c17ff748
 
 # game/scripts/story/talking/talk_sakuya.rpy:36
 translate chinese_simplified talk_sakuya_03775ec8_1:
@@ -646,7 +646,7 @@ translate chinese_simplified talk_sakuya_13d9671c:
 translate chinese_simplified talk_sakuya_29fefe8b:
 
     # player "Bonjour {color=#6c5ce7}{b}[sakuya_name]{/b}{/color}." id talk_sakuya_29fefe8b
-    player "卓悦 {color=#6c5ce7}{b}[sakuya_name]{/b}{/color}。" id talk_sakuya_29fefe8b
+    player "你好 {color=#6c5ce7}{b}[sakuya_name]{/b}{/color}。" id talk_sakuya_29fefe8b
 
 # game/scripts/story/talking/talk_sakuya.rpy:193
 translate chinese_simplified talk_sakuya_b42243be:
@@ -952,7 +952,7 @@ translate chinese_simplified talk_sakuya_2e9b3497:
 translate chinese_simplified talk_sakuya_caa7de9f:
 
     # sakuya "Bonjour {color=#0984e3}{b}[player_name]{/b}{/color}." id talk_sakuya_caa7de9f
-    sakuya "卓悦 {color=#0984e3}{b}[player_name]{/b}{/color}。" id talk_sakuya_caa7de9f
+    sakuya "你好 {color=#0984e3}{b}[player_name]{/b}{/color}。" id talk_sakuya_caa7de9f
 
 # game/scripts/story/talking/talk_sakuya.rpy:298
 translate chinese_simplified talk_sakuya_e170beed:
@@ -1066,7 +1066,7 @@ translate chinese_simplified talk_sakuya_3cfacb91:
 translate chinese_simplified talk_sakuya_d3e0fccc:
 
     # x "Peu importe... Le plus important c'est que j'ai un travail et que je vais pouvoir aider {color=#a29bfe}{b}[yasuka_name]{/b}{/color} a rembourser les dettes de la maison." id talk_sakuya_d3e0fccc
-    x "无所谓了...最重要的是我找到了一份工作，我能帮 {color=#a29bfe}{b}安香{/b}{/color} 还清债务，保住房子。" id talk_sakuya_d3e0fccc
+    x "无所谓了...最重要的是我找到了一份工作，我能帮 [yasuka.n] 还清债务，保住房子。" id talk_sakuya_d3e0fccc
 
 translate chinese_simplified strings:
 

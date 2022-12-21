@@ -33,8 +33,8 @@ translate chinese_simplified talk_noriko_31c360db:
 # game/scripts/story/talking/talk_noriko.rpy:22
 translate chinese_simplified talk_noriko_cca26670:
 
-    # player "Je vais finir par penser que c'est ce que tu souhaites vraiment {color=#fd79a8}{b}纪子{/b}{/color}." id talk_noriko_cca26670
-    player "这就是你想要的吗？ {color=#fd79a8}{b}纪子{/b}{/color}。" id talk_noriko_cca26670
+    # player "Je vais finir par penser que c'est ce que tu souhaites vraiment [noriko.n]." id talk_noriko_cca26670
+    player "这就是你想要的吗？ [noriko.n]。" id talk_noriko_cca26670
 
 # game/scripts/story/talking/talk_noriko.rpy:23
 translate chinese_simplified talk_noriko_063c8601:
@@ -51,8 +51,8 @@ translate chinese_simplified talk_noriko_a4836727:
 # game/scripts/story/talking/talk_noriko.rpy:30
 translate chinese_simplified talk_noriko_e6197d4f:
 
-    # x "{color=#fd79a8}{b}纪子{/b}{/color} je ne sais pas ce qui te passe par la tête en ce moment." id talk_noriko_e6197d4f
-    x "{color=#fd79a8}{b}纪子{/b}{/color} 我不知道你现在在想什么。" id talk_noriko_e6197d4f
+    # x "[noriko.n] je ne sais pas ce qui te passe par la tête en ce moment." id talk_noriko_e6197d4f
+    x "[noriko.n] 我不知道你现在在想什么。" id talk_noriko_e6197d4f
 
 # game/scripts/story/talking/talk_noriko.rpy:31
 translate chinese_simplified talk_noriko_f30e5df6:
@@ -207,8 +207,8 @@ translate chinese_simplified talk_noriko_e8800765:
 # game/scripts/story/talking/talk_noriko.rpy:88
 translate chinese_simplified talk_noriko_0891c7d4:
 
-    # x "Ah merde {color=#fd79a8}{b}纪子{/b}{/color}." id talk_noriko_0891c7d4
-    x "啊操，又是 {color=#fd79a8}{b}纪子{/b}{/color}。" id talk_noriko_0891c7d4
+    # x "Ah merde [noriko.n]." id talk_noriko_0891c7d4
+    x "啊操，又是 [noriko.n]。" id talk_noriko_0891c7d4
 
 # game/scripts/story/talking/talk_noriko.rpy:89
 translate chinese_simplified talk_noriko_85a4f684:
@@ -219,8 +219,8 @@ translate chinese_simplified talk_noriko_85a4f684:
 # game/scripts/story/talking/talk_noriko.rpy:90
 translate chinese_simplified talk_noriko_b10ca948:
 
-    # player sad "S'il te plait {color=#fd79a8}{b}纪子{/b}{/color}, je suis occupé en ce moment et..." id talk_noriko_b10ca948
-    player sad "{color=#fd79a8}{b}纪子{/b}{/color}，我现在很忙..." id talk_noriko_b10ca948
+    # player sad "S'il te plait [noriko.n], je suis occupé en ce moment et..." id talk_noriko_b10ca948
+    player sad "[noriko.n]，我现在很忙..." id talk_noriko_b10ca948
 
 # game/scripts/story/talking/talk_noriko.rpy:91
 translate chinese_simplified talk_noriko_e6d49726:
@@ -375,8 +375,8 @@ translate chinese_simplified talk_noriko_6bb38b08:
 # game/scripts/story/talking/talk_noriko.rpy:132
 translate chinese_simplified talk_noriko_5f67f0ea:
 
-    # player furious "Je peux savoir ce que tu fais dans ma chambre {color=#fd79a8}{b}纪子{/b}{/color}?" id talk_noriko_5f67f0ea
-    player furious "你可以解释一下你在我房间里做什么吗 {color=#fd79a8}{b}纪子{/b}{/color}？" id talk_noriko_5f67f0ea
+    # player furious "Je peux savoir ce que tu fais dans ma chambre [noriko.n]?" id talk_noriko_5f67f0ea
+    player furious "你可以解释一下你在我房间里做什么吗 [noriko.n]？" id talk_noriko_5f67f0ea
 
 # game/scripts/story/talking/talk_noriko.rpy:133
 translate chinese_simplified talk_noriko_0cd7fbf8:
@@ -519,8 +519,8 @@ translate chinese_simplified talk_noriko_97fb76e2:
 # game/scripts/story/talking/talk_noriko.rpy:170
 translate chinese_simplified talk_noriko_7406790b:
 
-    # player surprised "Pardon {color=#fd79a8}{b}纪子{/b}{/color}, mais je n’ai pas très bien entendu." id talk_noriko_7406790b
-    player surprised "抱歉 {color=#fd79a8}{b}纪子{/b}{/color}，我好像没听清你在说什么。" id talk_noriko_7406790b
+    # player surprised "Pardon [noriko.n], mais je n’ai pas très bien entendu." id talk_noriko_7406790b
+    player surprised "抱歉 [noriko.n]，我好像没听清你在说什么。" id talk_noriko_7406790b
 
 # game/scripts/story/talking/talk_noriko.rpy:171
 translate chinese_simplified talk_noriko_56aebb9c:
@@ -573,8 +573,8 @@ translate chinese_simplified talk_noriko_31bfd4b1:
 # game/scripts/story/talking/talk_noriko.rpy:186
 translate chinese_simplified talk_noriko_2ecdf241:
 
-    # playerc "{color=#fd79a8}{b}纪子{/b}{/color}, moins d'agressivité et plus de langue s'il te plait." id talk_noriko_2ecdf241
-    playerc "{color=#fd79a8}{b}纪子{/b}{/color}，请少一些攻击性，多一些口活。" id talk_noriko_2ecdf241
+    # playerc "[noriko.n], moins d'agressivité et plus de langue s'il te plait." id talk_noriko_2ecdf241
+    playerc "[noriko.n]，请少一些攻击性，多一些口活。" id talk_noriko_2ecdf241
 
 # game/scripts/story/talking/talk_noriko.rpy:187
 translate chinese_simplified talk_noriko_a64eff09:
@@ -693,8 +693,8 @@ translate chinese_simplified talk_noriko_cce64115:
 # game/scripts/story/talking/talk_noriko.rpy:243
 translate chinese_simplified talk_noriko_4925fe57:
 
-    # playerc "Je... Je crois que ça vient {color=#fd79a8}{b}纪子{/b}{/color}." id talk_noriko_4925fe57
-    playerc "我...想我快好了 {color=#fd79a8}{b}纪子{/b}{/color}。" id talk_noriko_4925fe57
+    # playerc "Je... Je crois que ça vient [noriko.n]." id talk_noriko_4925fe57
+    playerc "我...想我快好了 [noriko.n]。" id talk_noriko_4925fe57
 
 # game/scripts/story/talking/talk_noriko.rpy:246
 translate chinese_simplified talk_noriko_c2edaa54:
@@ -802,7 +802,7 @@ translate chinese_simplified talk_noriko_0994ca9b:
 translate chinese_simplified talk_noriko_5d6b26e1:
 
     # player happy "Alors je pense que je vais aller voir {color=#a29bfe}{b}[yasuka_name]{/b}{/color} tout de suite?" id talk_noriko_5d6b26e1
-    player happy "那我现在应该去和 {color=#a29bfe}{b}安香{/b}{/color} 谈谈吗？" id talk_noriko_5d6b26e1
+    player happy "那我现在应该去和 [yasuka.n] 谈谈吗？" id talk_noriko_5d6b26e1
 
 # game/scripts/story/talking/talk_noriko.rpy:276
 translate chinese_simplified talk_noriko_35c13fbc:
@@ -867,8 +867,8 @@ translate chinese_simplified talk_noriko_d0f1124f:
 # game/scripts/story/talking/talk_noriko.rpy:302
 translate chinese_simplified talk_noriko_00b62d92:
 
-    # player surprised "{color=#fd79a8}{b}纪子{/b}{/color}!" id talk_noriko_00b62d92
-    player surprised "{color=#fd79a8}{b}纪子{/b}{/color}！" id talk_noriko_00b62d92
+    # player surprised "[noriko.n]!" id talk_noriko_00b62d92
+    player surprised "[noriko.n]！" id talk_noriko_00b62d92
 
 # game/scripts/story/talking/talk_noriko.rpy:303
 translate chinese_simplified talk_noriko_ab94ab29:
@@ -909,8 +909,8 @@ translate chinese_simplified talk_noriko_ad9c1117:
 # game/scripts/story/talking/talk_noriko.rpy:309
 translate chinese_simplified talk_noriko_9b1c4351:
 
-    # player "{color=#fd79a8}{b}纪子{/b}{/color} juste... répond moi, de quelle couleur sont mes yeux?" id talk_noriko_9b1c4351
-    player "{color=#fd79a8}{b}纪子{/b}{/color} 只是...回答我，我的眼睛是什么颜色的？" id talk_noriko_9b1c4351
+    # player "[noriko.n] juste... répond moi, de quelle couleur sont mes yeux?" id talk_noriko_9b1c4351
+    player "[noriko.n] 只是...回答我，我的眼睛是什么颜色的？" id talk_noriko_9b1c4351
 
 # game/scripts/story/talking/talk_noriko.rpy:310
 translate chinese_simplified talk_noriko_898b1990_2:
@@ -951,8 +951,8 @@ translate chinese_simplified talk_noriko_d385f1f5:
 # game/scripts/story/talking/talk_noriko.rpy:323
 translate chinese_simplified talk_noriko_9f34edda:
 
-    # player happy "Merci {color=#fd79a8}{b}纪子{/b}{/color}!" id talk_noriko_9f34edda
-    player happy "谢谢{color=#fd79a8}{b}纪子{/b}{/color}！" id talk_noriko_9f34edda
+    # player happy "Merci [noriko.n]!" id talk_noriko_9f34edda
+    player happy "谢谢[noriko.n]！" id talk_noriko_9f34edda
 
 # game/scripts/story/talking/talk_noriko.rpy:324
 translate chinese_simplified talk_noriko_200e1f01:
@@ -1005,8 +1005,8 @@ translate chinese_simplified talk_noriko_86926d74:
 # game/scripts/story/talking/talk_noriko.rpy:335
 translate chinese_simplified talk_noriko_9f34edda_1:
 
-    # player happy "Merci {color=#fd79a8}{b}纪子{/b}{/color}!" id talk_noriko_9f34edda_1
-    player happy "谢谢{color=#fd79a8}{b}纪子{/b}{/color}！" id talk_noriko_9f34edda_1
+    # player happy "Merci [noriko.n]!" id talk_noriko_9f34edda_1
+    player happy "谢谢[noriko.n]！" id talk_noriko_9f34edda_1
 
 # game/scripts/story/talking/talk_noriko.rpy:338
 translate chinese_simplified talk_noriko_50516910:

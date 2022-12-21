@@ -75,8 +75,8 @@ translate chinese_simplified pc_noriko_4b35a18b:
 # game/scripts/story/action/pc_noriko.rpy:50
 translate chinese_simplified pc_noriko_e0cc54b7:
 
-    # playerc "Je ne sais plus quoi faire avec toi {color=#fd79a8}{b}纪子{/b}{/color}!" id pc_noriko_e0cc54b7
-    playerc "我已经不知道该怎么处置你了 {color=#fd79a8}{b}纪子{/b}{/color}！" id pc_noriko_e0cc54b7
+    # playerc "Je ne sais plus quoi faire avec toi [noriko.n]!" id pc_noriko_e0cc54b7
+    playerc "我已经不知道该怎么处置你了 [noriko.n]！" id pc_noriko_e0cc54b7
 
 # game/scripts/story/action/pc_noriko.rpy:51
 translate chinese_simplified pc_noriko_52971ce2:
@@ -154,7 +154,7 @@ translate chinese_simplified pc_noriko_f16779f7:
 translate chinese_simplified pc_noriko_f8001b90:
 
     # playerc "Est-ce que je me suis bien fait comprendre cette fois-ci ?" id pc_noriko_f8001b90
-    playerc "{color=#fd79a8}{b}纪子{/b}{/color}，我说清楚了吗？" id pc_noriko_f8001b90
+    playerc "[noriko.n]，我说清楚了吗？" id pc_noriko_f8001b90
 
 # game/scripts/story/action/pc_noriko.rpy:70
 translate chinese_simplified pc_noriko_9fc616da:
@@ -183,8 +183,8 @@ translate chinese_simplified pc_noriko_9fc616da_1:
 # game/scripts/story/action/pc_noriko.rpy:80
 translate chinese_simplified pc_noriko_03f06f03:
 
-    # player neutral "Ou est le baladeur {color=#fd79a8}{b}纪子{/b}{/color}!?" id pc_noriko_03f06f03
-    player neutral "我的随身听哪去了 {color=#fd79a8}{b}纪子{/b}{/color}？" id pc_noriko_03f06f03
+    # player neutral "Ou est le baladeur [noriko.n]!?" id pc_noriko_03f06f03
+    player neutral "我的随身听哪去了 [noriko.n]？" id pc_noriko_03f06f03
 
 # game/scripts/story/action/pc_noriko.rpy:81
 translate chinese_simplified pc_noriko_cefb0a59:
@@ -213,8 +213,8 @@ translate chinese_simplified pc_noriko_901d3cde:
 # game/scripts/story/action/pc_noriko.rpy:91
 translate chinese_simplified pc_noriko_0a80aabf:
 
-    # x "Ma relation avec ma chère {color=#fd79a8}{b}纪子{/b}{/color} devrait évoluer d'une bien étrange façon... " id pc_noriko_0a80aabf
-    x "我和我亲爱的 {color=#fd79a8}{b}纪子{/b}{/color} 的关系开始往奇怪的方向发展了......" id pc_noriko_0a80aabf
+    # x "Ma relation avec ma chère [noriko.n] devrait évoluer d'une bien étrange façon... " id pc_noriko_0a80aabf
+    x "我和我亲爱的 [noriko.n] 的关系开始往奇怪的方向发展了......" id pc_noriko_0a80aabf
 
 # game/scripts/story/action/pc_noriko.rpy:92
 translate chinese_simplified pc_noriko_a4dc08cc:
@@ -442,7 +442,7 @@ translate chinese_simplified pc_noriko_8a9a83e4:
 translate chinese_simplified pc_noriko_3bf75143:
 
     # player "Allons voir {color=#a29bfe}{b}[yasuka_name]{/b}{/color} pour ce foutu baladeur CD!" id pc_noriko_3bf75143
-    player "让我们找 {color=#a29bfe}{b}安香{/b}{/color} 要回那个该死的随身听！" id pc_noriko_3bf75143
+    player "让我们找 [yasuka.n] 要回那个该死的随身听！" id pc_noriko_3bf75143
 
 translate chinese_simplified strings:
 

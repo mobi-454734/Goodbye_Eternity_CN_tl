@@ -310,7 +310,7 @@ translate chinese_simplified konbini_exterior_4b5d2be5:
 translate chinese_simplified konbini_exterior_ecc23143:
 
     # player happy "J'irais me balader avec elle et je suis sur que {color=#a29bfe}{b}[yasuka_name]{/b}{/color} adorerait s'occuper d'elle." id konbini_exterior_ecc23143
-    player happy "我会陪她一起散步，而且相信 {color=#a29bfe}{b}安香{/b}{/color} 会很乐意照顾她。" id konbini_exterior_ecc23143
+    player happy "我会陪她一起散步，而且相信 [yasuka.n] 会很乐意照顾她。" id konbini_exterior_ecc23143
 
 # game/scripts/story/world/konbini/konbini_exterior.rpy:111
 translate chinese_simplified konbini_exterior_22cb0aca:

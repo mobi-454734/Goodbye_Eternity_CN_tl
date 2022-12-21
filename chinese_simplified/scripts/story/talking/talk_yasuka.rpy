@@ -21,8 +21,8 @@ translate chinese_simplified talk_yasuka_339d426f:
 # game/scripts/story/talking/talk_yasuka.rpy:30
 translate chinese_simplified talk_yasuka_4888a177:
 
-    # yasuka "De te voir t'amuser avec {color=#fd79a8}{b}纪子{/b}{/color}, cela faisait si longtemps..." id talk_yasuka_4888a177
-    yasuka "看到你和 {color=#fd79a8}{b}纪子{/b}{/color} 玩得那么开心，真是好久不见..." id talk_yasuka_4888a177
+    # yasuka "De te voir t'amuser avec [noriko.n], cela faisait si longtemps..." id talk_yasuka_4888a177
+    yasuka "看到你和 [noriko.n] 玩得那么开心，真是好久不见..." id talk_yasuka_4888a177
 
 # game/scripts/story/talking/talk_yasuka.rpy:31
 translate chinese_simplified talk_yasuka_6b83a044:
@@ -76,7 +76,7 @@ translate chinese_simplified talk_yasuka_f719469e:
 translate chinese_simplified talk_yasuka_a1d9cd5d:
 
     # player happy "Peu importe, merci {color=#a29bfe}{b}[yasuka_name]{/b}{/color}..." id talk_yasuka_a1d9cd5d
-    player happy "没什么，谢谢 {color=#a29bfe}{b}安香{/b}{/color}..." id talk_yasuka_a1d9cd5d
+    player happy "没什么，谢谢 [yasuka.n]..." id talk_yasuka_a1d9cd5d
 
 # game/scripts/story/talking/talk_yasuka.rpy:40
 translate chinese_simplified talk_yasuka_3d385be9:
@@ -99,8 +99,8 @@ translate chinese_simplified talk_yasuka_a05c0847:
 # game/scripts/story/talking/talk_yasuka.rpy:56
 translate chinese_simplified talk_yasuka_d84393ed:
 
-    # yasuka "Hmmm je crois que {color=#fd79a8}{b}纪子{/b}{/color} le cherchait tout à l'heure, elle a du te l'emprunter..." id talk_yasuka_d84393ed
-    yasuka "嗯，我想 {color=#fd79a8}{b}纪子{/b}{/color} 之前在找它。她一定是从你房间借走的..." id talk_yasuka_d84393ed
+    # yasuka "Hmmm je crois que [noriko.n] le cherchait tout à l'heure, elle a du te l'emprunter..." id talk_yasuka_d84393ed
+    yasuka "嗯，我想 [noriko.n] 之前在找它。她一定是从你房间借走的..." id talk_yasuka_d84393ed
 
 # game/scripts/story/talking/talk_yasuka.rpy:57
 translate chinese_simplified talk_yasuka_2b27740b:
@@ -112,7 +112,7 @@ translate chinese_simplified talk_yasuka_2b27740b:
 translate chinese_simplified talk_yasuka_325643a2:
 
     # player "Merci {color=#a29bfe}{b}[yasuka_name]{/b}{/color}!" id talk_yasuka_325643a2
-    player "谢谢{color=#a29bfe}{b}安香{/b}{/color}！" id talk_yasuka_325643a2
+    player "谢谢[yasuka.n]！" id talk_yasuka_325643a2
 
 # game/scripts/story/talking/talk_yasuka.rpy:64
 translate chinese_simplified talk_yasuka_7dcf4564:
@@ -202,7 +202,7 @@ translate chinese_simplified talk_yasuka_6ad539b9:
 translate chinese_simplified talk_yasuka_ef1ad18b:
 
     # x "C'est donc cette espèce d'ordure qui pourris la vie de {color=#a29bfe}{b}[yasuka_name]{/b}{/color}." id talk_yasuka_ef1ad18b
-    x "所以，就是这种垃圾毁掉了了 {color=#a29bfe}{b}安香{/b}{/color} 的生活。" id talk_yasuka_ef1ad18b
+    x "所以，就是这种垃圾毁掉了了 [yasuka.n] 的生活。" id talk_yasuka_ef1ad18b
 
 # game/scripts/story/talking/talk_yasuka.rpy:101
 translate chinese_simplified talk_yasuka_b87099fe:
@@ -226,7 +226,7 @@ translate chinese_simplified talk_yasuka_e489ff3e:
 translate chinese_simplified talk_yasuka_97ed4780:
 
     # ubsc "{color=#a29bfe}{b}[yasuka_name!u]{/b}{/color}!" id talk_yasuka_97ed4780
-    ubsc "{color=#a29bfe}{b}安香{/b}{/color}！" id talk_yasuka_97ed4780
+    ubsc "[yasuka.n]！" id talk_yasuka_97ed4780
 
 # game/scripts/story/talking/talk_yasuka.rpy:111
 translate chinese_simplified talk_yasuka_f7d46344:
@@ -513,8 +513,8 @@ translate chinese_simplified talk_yasuka_120e8a66:
 # game/scripts/story/talking/talk_yasuka.rpy:188
 translate chinese_simplified talk_yasuka_e9e491a3:
 
-    # yasukac "Je voulais que tu puisses grandir avec {color=#fd79a8}{b}纪子{/b}{/color} normalement." id talk_yasuka_e9e491a3
-    yasukac "我希望你能够正常地与 {color=#fd79a8}{b}纪子{/b}{/color} 一起成长。" id talk_yasuka_e9e491a3
+    # yasukac "Je voulais que tu puisses grandir avec [noriko.n] normalement." id talk_yasuka_e9e491a3
+    yasukac "我希望你能够正常地与 [noriko.n] 一起成长。" id talk_yasuka_e9e491a3
 
 # game/scripts/story/talking/talk_yasuka.rpy:189
 translate chinese_simplified talk_yasuka_bcbcc830:
@@ -550,7 +550,7 @@ translate chinese_simplified talk_yasuka_0a7e69d0:
 translate chinese_simplified talk_yasuka_4c17d2d2:
 
     # ubsc "{color=#a29bfe}{b}[yasuka_name]{/b}{/color} je ne vous paye pas pour faire la causette aux clients! Vous vous croyez dans un bar à hotesses?" id talk_yasuka_4c17d2d2
-    ubsc "{color=#a29bfe}{b}安香{/b}{/color} 我不会付钱让你和客户聊天！你以为你在陪酒吗？" id talk_yasuka_4c17d2d2
+    ubsc "[yasuka.n] 我不会付钱让你和客户聊天！你以为你在陪酒吗？" id talk_yasuka_4c17d2d2
 
 # game/scripts/story/talking/talk_yasuka.rpy:208
 translate chinese_simplified talk_yasuka_72c2ae27:
@@ -616,7 +616,7 @@ translate chinese_simplified talk_yasuka_185adc22:
 translate chinese_simplified talk_yasuka_8368a022:
 
     # ubs "Dites-moi {color=#a29bfe}{b}[yasuka_name]{/b}{/color}..." id talk_yasuka_8368a022
-    ubs "告诉我 {color=#a29bfe}{b}安香{/b}{/color}..." id talk_yasuka_8368a022
+    ubs "告诉我 [yasuka.n]..." id talk_yasuka_8368a022
 
 # game/scripts/story/talking/talk_yasuka.rpy:238
 translate chinese_simplified talk_yasuka_9d2bd2e7:
@@ -694,7 +694,7 @@ translate chinese_simplified talk_yasuka_add43a5d:
 translate chinese_simplified talk_yasuka_5280be8e:
 
     # "Attendre une prochaine mise a jour pour plus d'intéraction avec {color=#a29bfe}{b}[yasuka_name]{/b}{/color}" id talk_yasuka_5280be8e
-    "等待下次更新以与 {color=#a29bfe}{b}安香{/b}{/color} 进行更多互动" id talk_yasuka_5280be8e
+    "等待下次更新以与 [yasuka.n] 进行更多互动" id talk_yasuka_5280be8e
 
 # game/scripts/story/talking/talk_yasuka.rpy:274
 translate chinese_simplified talk_yasuka_b8d7d070_4:
@@ -754,13 +754,13 @@ translate chinese_simplified talk_yasuka_535f178b:
 translate chinese_simplified talk_yasuka_4c57d503:
 
     # centered "{color=#a29bfe}{b}[yasuka_name]{/b}{/color} et {color=#0984e3}{b}[player_name]{/b}{/color} s'embrassèrent si longtemps qu'ils ne virent pas le temps passer." id talk_yasuka_4c57d503
-    centered "{color=#a29bfe}{b}安香{/b}{/color} 和 {color=#0984e3}{b}[player_name]{/b}{/color} 吻得太久，以至于他们无法没看到时间过去。" id talk_yasuka_4c57d503
+    centered "[yasuka.n] 和 {color=#0984e3}{b}[player_name]{/b}{/color} 吻得太久，以至于他们无法没看到时间过去。" id talk_yasuka_4c57d503
 
 # game/scripts/story/talking/talk_yasuka.rpy:287
 translate chinese_simplified talk_yasuka_d90def55:
 
     # centered "Au bout d'un long moment {color=#a29bfe}{b}[yasuka_name]{/b}{/color} repoussa tendrement {color=#0984e3}{b}[player_name]{/b}{/color}." id talk_yasuka_d90def55
-    centered "过了很久 {color=#a29bfe}{b}安香{/b}{/color} 温柔地推开 {color=#0984e3}{b}[player_name]{/b}{/color}。" id talk_yasuka_d90def55
+    centered "过了很久 [yasuka.n] 温柔地推开 {color=#0984e3}{b}[player_name]{/b}{/color}。" id talk_yasuka_d90def55
 
 # game/scripts/story/talking/talk_yasuka.rpy:291
 translate chinese_simplified talk_yasuka_1a2d4fe8:
@@ -838,13 +838,13 @@ translate chinese_simplified talk_yasuka_6b55cc5a:
 translate chinese_simplified talk_yasuka_f67258ad:
 
     # playerc "Bonne nuit {color=#a29bfe}{b}[yasuka_name]{/b}{/color}!" id talk_yasuka_f67258ad
-    playerc "晚安{color=#a29bfe}{b}安香{/b}{/color}！" id talk_yasuka_f67258ad
+    playerc "晚安[yasuka.n]！" id talk_yasuka_f67258ad
 
 # game/scripts/story/talking/talk_yasuka.rpy:326
 translate chinese_simplified talk_yasuka_ad0f190c:
 
-    # yasukac "Je suis désolé pour {color=#fd79a8}{b}纪子{/b}{/color}." id talk_yasuka_ad0f190c
-    yasukac "对于{color=#fd79a8}{b}纪子{/b}{/color}，我很抱歉。" id talk_yasuka_ad0f190c
+    # yasukac "Je suis désolé pour [noriko.n]." id talk_yasuka_ad0f190c
+    yasukac "对于[noriko.n]，我很抱歉。" id talk_yasuka_ad0f190c
 
 # game/scripts/story/talking/talk_yasuka.rpy:327
 translate chinese_simplified talk_yasuka_be3d4a87:
@@ -1012,7 +1012,7 @@ translate chinese_simplified talk_yasuka_a044b610:
 translate chinese_simplified talk_yasuka_582602ee:
 
     # x "Je suis bien en train d'embrasser {color=#a29bfe}{b}[yasuka_name]{/b}{/color}?" id talk_yasuka_582602ee
-    x "我在吻 {color=#a29bfe}{b}安香{/b}{/color} 吗？" id talk_yasuka_582602ee
+    x "我在吻 [yasuka.n] 吗？" id talk_yasuka_582602ee
 
 # game/scripts/story/talking/talk_yasuka.rpy:373
 translate chinese_simplified talk_yasuka_31669b6b:
@@ -1030,7 +1030,7 @@ translate chinese_simplified talk_yasuka_503adf63:
 translate chinese_simplified talk_yasuka_12586825:
 
     # centered "{color=#a29bfe}{b}[yasuka_name]{/b}{/color} et {color=#0984e3}{b}[player_name]{/b}{/color} s'embrassèrent un long moment." id talk_yasuka_12586825
-    centered "{color=#a29bfe}{b}安香{/b}{/color} 和 {color=#0984e3}{b}[player_name]{/b}{/color} 吻了很长时间。" id talk_yasuka_12586825
+    centered "[yasuka.n] 和 {color=#0984e3}{b}[player_name]{/b}{/color} 吻了很长时间。" id talk_yasuka_12586825
 
 # game/scripts/story/talking/talk_yasuka.rpy:378
 translate chinese_simplified talk_yasuka_0ae3a538:
@@ -1059,8 +1059,8 @@ translate chinese_simplified talk_yasuka_2345346c:
 # game/scripts/story/talking/talk_yasuka.rpy:386
 translate chinese_simplified talk_yasuka_2b779caf:
 
-    # yasukac "Que vas dire {color=#fd79a8}{b}纪子{/b}{/color}?" id talk_yasuka_2b779caf
-    yasukac "{color=#fd79a8}{b}纪子{/b}{/color}会怎么说？" id talk_yasuka_2b779caf
+    # yasukac "Que vas dire [noriko.n]?" id talk_yasuka_2b779caf
+    yasukac "[noriko.n]会怎么说？" id talk_yasuka_2b779caf
 
 # game/scripts/story/talking/talk_yasuka.rpy:387
 translate chinese_simplified talk_yasuka_3a924122:
@@ -1143,8 +1143,8 @@ translate chinese_simplified talk_yasuka_1c45c4a6:
 # game/scripts/story/talking/talk_yasuka.rpy:425
 translate chinese_simplified talk_yasuka_23a7dba8:
 
-    # playerc "Tu m'avais donné pour mission de rendre heureuse {color=#fd79a8}{b}纪子{/b}{/color}." id talk_yasuka_23a7dba8
-    playerc "你给了我让{color=#fd79a8}{b}纪子{/b}{/color}开心的使命。" id talk_yasuka_23a7dba8
+    # playerc "Tu m'avais donné pour mission de rendre heureuse [noriko.n]." id talk_yasuka_23a7dba8
+    playerc "你给了我让[noriko.n]开心的使命。" id talk_yasuka_23a7dba8
 
 # game/scripts/story/talking/talk_yasuka.rpy:426
 translate chinese_simplified talk_yasuka_634ea843:
@@ -1239,8 +1239,8 @@ translate chinese_simplified talk_yasuka_f638c76b:
 # game/scripts/story/talking/talk_yasuka.rpy:449
 translate chinese_simplified talk_yasuka_f51ebcc4:
 
-    # yasukac "N'en parle pas a {color=#fd79a8}{b}纪子{/b}{/color}!" id talk_yasuka_f51ebcc4
-    yasukac "保证不要告诉 {color=#fd79a8}{b}纪子{/b}{/color}！" id talk_yasuka_f51ebcc4
+    # yasukac "N'en parle pas a [noriko.n]!" id talk_yasuka_f51ebcc4
+    yasukac "保证不要告诉 [noriko.n]！" id talk_yasuka_f51ebcc4
 
 # game/scripts/story/talking/talk_yasuka.rpy:450
 translate chinese_simplified talk_yasuka_0f954d6b:
@@ -1389,8 +1389,8 @@ translate chinese_simplified talk_yasuka_20dea96b:
 # game/scripts/story/talking/talk_yasuka.rpy:487
 translate chinese_simplified talk_yasuka_72a1f0cf:
 
-    # yasukac "Et n'a jamais voulu reconnaitre {color=#fd79a8}{b}纪子{/b}{/color}." id talk_yasuka_72a1f0cf
-    yasukac "而且从来不想认出 {color=#fd79a8}{b}纪子{/b}{/color}。" id talk_yasuka_72a1f0cf
+    # yasukac "Et n'a jamais voulu reconnaitre [noriko.n]." id talk_yasuka_72a1f0cf
+    yasukac "而且从来不想认出 [noriko.n]。" id talk_yasuka_72a1f0cf
 
 # game/scripts/story/talking/talk_yasuka.rpy:488
 translate chinese_simplified talk_yasuka_bf2664c1:
@@ -1420,7 +1420,7 @@ translate chinese_simplified talk_yasuka_7f8bc214:
 translate chinese_simplified talk_yasuka_1b8639a4:
 
     # playerc "{color=#a29bfe}{b}[yasuka_name]{/b}{/color}... Je suis tellement désolée..." id talk_yasuka_1b8639a4
-    playerc "{color=#a29bfe}{b}安香{/b}{/color}...我很抱歉..." id talk_yasuka_1b8639a4
+    playerc "[yasuka.n]...我很抱歉..." id talk_yasuka_1b8639a4
 
 # game/scripts/story/talking/talk_yasuka.rpy:494
 translate chinese_simplified talk_yasuka_e5a2045b:
@@ -1437,8 +1437,8 @@ translate chinese_simplified talk_yasuka_2c68c293:
 # game/scripts/story/talking/talk_yasuka.rpy:497
 translate chinese_simplified talk_yasuka_f821a857:
 
-    # playerc "Il n'y a pas que {color=#fd79a8}{b}纪子{/b}{/color} qui a le droit d'être heureuse." id talk_yasuka_f821a857
-    playerc "不仅仅是{color=#fd79a8}{b}纪子{/b}{/color}有权获得快乐。" id talk_yasuka_f821a857
+    # playerc "Il n'y a pas que [noriko.n] qui a le droit d'être heureuse." id talk_yasuka_f821a857
+    playerc "不仅仅是[noriko.n]有权获得快乐。" id talk_yasuka_f821a857
 
 # game/scripts/story/talking/talk_yasuka.rpy:498
 translate chinese_simplified talk_yasuka_507761a5:
@@ -1570,7 +1570,7 @@ translate chinese_simplified talk_yasuka_32b2f05a:
 translate chinese_simplified talk_yasuka_7f0c3a21:
 
     # playerc "Bonne nuit {color=#a29bfe}{b}[yasuka_name]{/b}{/color}" id talk_yasuka_7f0c3a21
-    playerc "Bonne nuit {color=#a29bfe}{b}安香{/b}{/color}" id talk_yasuka_7f0c3a21
+    playerc "Bonne nuit [yasuka.n]" id talk_yasuka_7f0c3a21
 
 # game/scripts/story/talking/talk_yasuka.rpy:562
 translate chinese_simplified talk_yasuka_addcc383:
@@ -1711,16 +1711,16 @@ translate chinese_simplified strings:
     new "拿起随身听，找 {color=32ff7e}{b}马库姆巴{b}{/color}。"
 
     # game/scripts/story/talking/talk_yasuka.rpy:50
-    old "Aller récupérer votre baladeur CD dans la chambre de {color=#fd79a8}{b}纪子{/b}{/color}!"
-    new "去 {color=#fd79a8}{b}纪子{/b}{/color} 的房间拿你的随身听吧！"
+    old "Aller récupérer votre baladeur CD dans la chambre de [noriko.n]!"
+    new "去 [noriko.n] 的房间拿你的随身听吧！"
 
     # game/scripts/story/talking/talk_yasuka.rpy:79
     old "Attendre le retour {color=#a29bfe}{b}[yasuka_name]{/b}{/color} à la maison."
-    new "等待 {color=#a29bfe}{b}安香{/b}{/color} 回家。"
+    new "等待 [yasuka.n] 回家。"
 
     # game/scripts/story/talking/talk_yasuka.rpy:124
     old "Vous avez donné 300¥ à {color=#a29bfe}{b}[yasuka_name]{/b}{/color}"
-    new "你给了 300 日元给 {color=#a29bfe}{b}安香{/b}{/color}"
+    new "你给了 300 日元给 [yasuka.n]"
 
     # game/scripts/story/talking/talk_yasuka.rpy:210
     old "Ça ne vous regarde absolument pas!"
@@ -1736,7 +1736,7 @@ translate chinese_simplified strings:
 
     # game/scripts/story/talking/talk_yasuka.rpy:267
     old "Il est grand temps d'aller dormir et de laisser {color=#a29bfe}{b}[yasuka_name]{/b}{/color} réfléchir tranquillement."
-    new "现在该睡觉了，让 {color=#a29bfe}{b}安香{/b}{/color} 好好想想。"
+    new "现在该睡觉了，让 [yasuka.n] 好好想想。"
 
     # game/scripts/story/talking/talk_yasuka.rpy:480
     old "Il n'a pas assumé..."
@@ -1748,7 +1748,7 @@ translate chinese_simplified strings:
 
     # game/scripts/story/talking/talk_yasuka.rpy:556
     old "Raccompagner {color=#a29bfe}{b}[yasuka_name]{/b}{/color} en sécurité à la maison."
-    new "送 {color=#a29bfe}{b}安香{/b}{/color} 安全回家。"
+    new "送 [yasuka.n] 安全回家。"
 
 # TODO: Translation updated at 2022-09-13 15:40
 
@@ -1936,7 +1936,7 @@ translate chinese_simplified talk_yasuka_2a515d02:
 translate chinese_simplified talk_yasuka_c547b09e:
 
     # centered "{color=#a29bfe}{b}[yasuka_name]{/b}{/color} et {color=#0984e3}{b}[player_name]{/b}{/color} passerent tous les deux un long moment à discuter." id talk_yasuka_c547b09e
-    centered "{color=#a29bfe}{b}安香{/b}{/color} 和 {color=#0984e3}{b}[player_name]{/b}{/color} 都聊了很久。" id talk_yasuka_c547b09e
+    centered "[yasuka.n] 和 {color=#0984e3}{b}[player_name]{/b}{/color} 都聊了很久。" id talk_yasuka_c547b09e
 
 # game/scripts/story/talking/talk_yasuka.rpy:335
 translate chinese_simplified talk_yasuka_f5f8ebfe:
@@ -2036,7 +2036,7 @@ translate chinese_simplified strings:
 
     # game/scripts/story/talking/talk_yasuka.rpy:44
     old "Continuer dans la chambre de {color=#a29bfe}{b}[yasuka_name]{/b}{/color}"
-    new "继续前往 {color=#a29bfe}{b}安香{/b}{/color} 的房间"
+    new "继续前往 [yasuka.n] 的房间"
 
     # game/scripts/story/talking/talk_yasuka.rpy:44
     old "Arreter là pour aujourd'hui"

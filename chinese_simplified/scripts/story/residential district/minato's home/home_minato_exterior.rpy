@@ -406,19 +406,19 @@ translate chinese_simplified home_minato_exterior_73906ac7:
 translate chinese_simplified home_minato_exterior_22cce722:
 
     # kimochi "Ça va pas la tête de s'approcher d'un mec par-derrière de cette façon?!" id home_minato_exterior_22cce722
-    kimochi "怎么会这样从背后接近一个人？！" id home_minato_exterior_22cce722
+    kimochi "你，你什么时候过来的？！" id home_minato_exterior_22cce722
 
 # game/scripts/story/residential district/minato's home/home_minato_exterior.rpy:153
 translate chinese_simplified home_minato_exterior_d5d02932:
 
     # player upset "Je ne sais pas ce que tu faisais, mais je connais la personne qui habite là et tu n'as rien à faire ici!" id home_minato_exterior_d5d02932
-    player upset "我不知道你在做什么，但我认识住在那里的人，你不属于这里！" id home_minato_exterior_d5d02932
+    player upset "虽然不清楚你在干什么，但这里好像不是你家吧！" id home_minato_exterior_d5d02932
 
 # game/scripts/story/residential district/minato's home/home_minato_exterior.rpy:154
 translate chinese_simplified home_minato_exterior_91f8527a:
 
     # kimochi sad "Bon je peux tout expliquer, mais peut-on juste en discuter ailleurs s'il te plait?" id home_minato_exterior_91f8527a
-    kimochi sad "好吧，我可以解释一切，但我们可以在其他地方讨论吗？" id home_minato_exterior_91f8527a
+    kimochi sad "等一下，我可以解释的，但我们能换个地方吗？" id home_minato_exterior_91f8527a
 
 # game/scripts/story/residential district/minato's home/home_minato_exterior.rpy:155
 translate chinese_simplified home_minato_exterior_22a7770d:

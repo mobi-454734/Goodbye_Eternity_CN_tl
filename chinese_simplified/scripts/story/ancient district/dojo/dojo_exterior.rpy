@@ -57,8 +57,8 @@ translate chinese_simplified dojo_exterior_c9b0020c:
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:55
 translate chinese_simplified dojo_exterior_113a5263:
 
-    # x "Putain...{color=#fdcb6e}{b}[akira_name]{/b}{/color}... Je l'avais oublié celui-là..." id dojo_exterior_113a5263
-    x "该死...{color=#fdcb6e}{b}明{/b}{/color}...我差点把他给忘了..." id dojo_exterior_113a5263
+    # x "Putain...[akira.n]... Je l'avais oublié celui-là..." id dojo_exterior_113a5263
+    x "该死...[akira.n]...我差点把他给忘了..." id dojo_exterior_113a5263
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:56
 translate chinese_simplified dojo_exterior_f74cdb95:
@@ -256,7 +256,7 @@ translate chinese_simplified dojo_exterior_a4c6dea4:
 translate chinese_simplified dojo_exterior_73a3cff0:
 
     # x "{color=#ffcccc}{b}[chiaki_name]{/b}{/color} n'est pas là." id dojo_exterior_73a3cff0
-    x "{color=#ffcccc}{b}千秋{/b}{/color} 不在这里。" id dojo_exterior_73a3cff0
+    x "[chiaki.n] 不在这里。" id dojo_exterior_73a3cff0
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:127
 translate chinese_simplified dojo_exterior_aee6a768:

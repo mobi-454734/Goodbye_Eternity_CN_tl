@@ -21,8 +21,8 @@ translate chinese_simplified talk_chiaki_3b1fbc71:
 # game/scripts/story/talking/talk_chiaki.rpy:23
 translate chinese_simplified talk_chiaki_862eaf93:
 
-    # player "Tout va bien ? {color=#e17055}{b}水人{/b}{/color} est avec toi ?" id talk_chiaki_862eaf93
-    player "一切都还好...吗？ {color=#e17055}{b}水人{/b}{/color} 和你在一起吗？" id talk_chiaki_862eaf93
+    # player "Tout va bien ? [minato.n] est avec toi ?" id talk_chiaki_862eaf93
+    player "一切都还好...吗？ [minato.n] 和你在一起吗？" id talk_chiaki_862eaf93
 
 # game/scripts/story/talking/talk_chiaki.rpy:24
 translate chinese_simplified talk_chiaki_f92aacbb:
@@ -34,7 +34,7 @@ translate chinese_simplified talk_chiaki_f92aacbb:
 translate chinese_simplified talk_chiaki_27895173:
 
     # minato "{color=#ffcccc}{b}[chiaki_name]{/b}{/color} ! Je t'avais dit de ne pas t'éloigner de moi ?! " id talk_chiaki_27895173
-    minato "{color=#ffcccc}{b}千秋{/b}{/color}！我难道没跟你说过不要离开我旁边吗？！" id talk_chiaki_27895173
+    minato "[chiaki.n]！我难道没跟你说过不要离开我旁边吗？！" id talk_chiaki_27895173
 
 # game/scripts/story/talking/talk_chiaki.rpy:29
 translate chinese_simplified talk_chiaki_bb1d5c2b:
@@ -118,7 +118,7 @@ translate chinese_simplified talk_chiaki_4b3d29ff:
 translate chinese_simplified talk_chiaki_c0d58c59:
 
     # minato neutral "{color=#ffcccc}{b}[chiaki_name]{/b}{/color}, va m'attendre un peu plus loin s'il te plait, je dois discuter de problèmes de grands..." id talk_chiaki_c0d58c59
-    minato neutral "{color=#ffcccc}{b}千秋{/b}{/color}，可以请你到前面等我一会儿吗？我和 {color=#0984e3}{b}[player_name]{/b}{/color} 有点事情要谈..." id talk_chiaki_c0d58c59
+    minato neutral "[chiaki.n]，可以请你到前面等我一会儿吗？我和 [player.n] 有点事情要谈..." id talk_chiaki_c0d58c59
 
 # game/scripts/story/talking/talk_chiaki.rpy:49
 translate chinese_simplified talk_chiaki_b0b6e396:
@@ -135,8 +135,8 @@ translate chinese_simplified talk_chiaki_86ab38bb:
 # game/scripts/story/talking/talk_chiaki.rpy:56
 translate chinese_simplified talk_chiaki_b528d151:
 
-    # minato "Déjà, rien qu'à voir ta tête, je peux savoir que {color=#fd79a8}{b}纪子{/b}{/color} tu as bien pris la tête ce matin !" id talk_chiaki_b528d151
-    minato "光看你的表情就知道 {color=#fd79a8}{b}纪子{/b}{/color} 今天早上又给你找不痛快了吧！" id talk_chiaki_b528d151
+    # minato "Déjà, rien qu'à voir ta tête, je peux savoir que [noriko.n] tu as bien pris la tête ce matin !" id talk_chiaki_b528d151
+    minato "光看你的表情就知道 [noriko.n] 今天早上又给你找不痛快了吧！" id talk_chiaki_b528d151
 
 # game/scripts/story/talking/talk_chiaki.rpy:57
 translate chinese_simplified talk_chiaki_bf5063a2:
@@ -160,7 +160,7 @@ translate chinese_simplified talk_chiaki_ac1426f0:
 translate chinese_simplified talk_chiaki_c796144a:
 
     # player neutral "Bon.. De quoi voulais-tu parler ? C'était nécessaire d'éloigner {color=#ffcccc}{b}[chiaki_name]{/b}{/color} ?" id talk_chiaki_c796144a
-    player neutral "言归正传..你想谈什么重要的事？还需要把 {color=#ffcccc}{b}千秋{/b}{/color} 给支走的吗？" id talk_chiaki_c796144a
+    player neutral "言归正传..你想谈什么重要的事？还需要把 [chiaki.n] 给支走的吗？" id talk_chiaki_c796144a
 
 # game/scripts/story/talking/talk_chiaki.rpy:61
 translate chinese_simplified talk_chiaki_274794e5:
@@ -225,8 +225,8 @@ translate chinese_simplified talk_chiaki_fbb7d968:
 # game/scripts/story/talking/talk_chiaki.rpy:71
 translate chinese_simplified talk_chiaki_50276a38:
 
-    # player happy "...{w}Merci {color=#e17055}{b}水人{/b}{/color}, ça compte beaucoup ce que tu as fait pour moi..." id talk_chiaki_50276a38
-    player happy "...{w}谢谢你{color=#e17055}{b}水人{/b}{/color}，真的感谢你替我着想..." id talk_chiaki_50276a38
+    # player happy "...{w}Merci [minato.n], ça compte beaucoup ce que tu as fait pour moi..." id talk_chiaki_50276a38
+    player happy "...{w}谢谢你[minato.n]，真的感谢你替我着想..." id talk_chiaki_50276a38
 
 # game/scripts/story/talking/talk_chiaki.rpy:72
 translate chinese_simplified talk_chiaki_e354d288:
@@ -285,8 +285,8 @@ translate chinese_simplified talk_chiaki_8777289c:
 # game/scripts/story/talking/talk_chiaki.rpy:88
 translate chinese_simplified talk_chiaki_245415ef:
 
-    # x "Il faut absolument que je dise à {color=#e17055}{b}水人{/b}{/color} de laisser tomber tout ça." id talk_chiaki_245415ef
-    x "我必须想办法说服 {color=#e17055}{b}水人{/b}{/color} 放弃去和那些家伙交涉！" id talk_chiaki_245415ef
+    # x "Il faut absolument que je dise à [minato.n] de laisser tomber tout ça." id talk_chiaki_245415ef
+    x "我必须想办法说服 [minato.n] 放弃去和那些家伙交涉！" id talk_chiaki_245415ef
 
 # game/scripts/story/talking/talk_chiaki.rpy:89
 translate chinese_simplified talk_chiaki_fcbf7961:

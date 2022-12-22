@@ -16,15 +16,15 @@ translate chinese_simplified strings:
 
     # game/scripts/fondations/cheat.rpy:47
     old "Qu'elle tenue [yasuka_name] doit elle porter?"
-    new "安香应该穿什么？"
+    new "[yasuka_name]应该穿什么？"
 
     # game/scripts/fondations/cheat.rpy:58
     old "Défaut"
     new "默认"
 
     # game/scripts/fondations/cheat.rpy:79
-    old "Qu'elle tenue 纪子 doit elle porter?"
-    new "纪子应该穿什么？"
+    old "Qu'elle tenue [noriko_name] doit elle porter?"
+    new "[noriko_name]应该穿什么？"
 
     # game/scripts/fondations/cheat.rpy:82
     old "Pyjamas"
@@ -32,11 +32,11 @@ translate chinese_simplified strings:
 
     # game/scripts/fondations/cheat.rpy:106
     old "Qu'elle tenue [chiaki_name] doit elle porter?"
-    new "千秋 应该穿什么？"
+    new "[chiaki_name]应该穿什么？"
 
     # game/scripts/fondations/cheat.rpy:131
     old "Qu'elle tenue [asami_name] doit elle porter?"
-    new "麻美 应该穿什么？"
+    new "[asami_name]应该穿什么？"
 
     # game/scripts/fondations/cheat.rpy:134
     old "Avec manteau"
@@ -52,7 +52,7 @@ translate chinese_simplified strings:
 
     # game/scripts/fondations/cheat.rpy:168
     old "Qu'elle tenue [sakuya_name] doit elle porter?"
-    new "咲夜 应该穿什么？"
+    new "[sakuya_name] 应该穿什么？"
 
     # game/scripts/fondations/cheat.rpy:171
     old "Kimono"
@@ -60,7 +60,7 @@ translate chinese_simplified strings:
 
     # game/scripts/fondations/cheat.rpy:194
     old "Qu'elle tenue [natsume_name] doit elle porter?"
-    new "夏梦 应该穿什么？"
+    new "[natsume_name] 应该穿什么？"
 
     # game/scripts/fondations/cheat.rpy:83
     #old "Pyjama"

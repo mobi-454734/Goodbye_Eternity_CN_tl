@@ -4,7 +4,7 @@
 translate chinese_simplified home_asami_exterior_8f47e2c4:
 
     # asami "Alors? Qu'est-ce que tu penses de la nouvelle {color=#ea8685}{b}[asami_name]{/b}{/color}?" id home_asami_exterior_8f47e2c4
-    asami "所以？你怎么看待新的 {color=#ea8685}{b}麻美{/b}{/color}？" id home_asami_exterior_8f47e2c4
+    asami "所以？你怎么看待新的 [asami.n]？" id home_asami_exterior_8f47e2c4
 
 # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:40
 translate chinese_simplified home_asami_exterior_e385705d:
@@ -69,8 +69,8 @@ translate chinese_simplified home_asami_exterior_c6489ca1:
 # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:50
 translate chinese_simplified home_asami_exterior_1204ae8b:
 
-    # asami happy "Allons au parc {color=#0984e3}{b}[player_name]{/b}{/color}! {color=#d63031}{b}[natsume_name]{/b}{/color} doit nous attendre, elle n'a pas vu le résultat final de la transformation." id home_asami_exterior_1204ae8b
-    asami happy "我们去公园{color=#0984e3}{b}[player_name]{/b}{/color}！ {color=#d63031}{b}夏梦{/b}{/color}得等我们，她还没有看到我这身呢。" id home_asami_exterior_1204ae8b
+    # asami happy "Allons au parc [player.n]! {color=#d63031}{b}[natsume_name]{/b}{/color} doit nous attendre, elle n'a pas vu le résultat final de la transformation." id home_asami_exterior_1204ae8b
+    asami happy "我们去公园[player.n]！ {color=#d63031}{b}夏梦{/b}{/color}得等我们，她还没有看到我这身呢。" id home_asami_exterior_1204ae8b
 
 # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:56
 translate chinese_simplified home_asami_exterior_898513a1:
@@ -172,7 +172,7 @@ translate chinese_simplified home_asami_exterior_50e1a840:
 translate chinese_simplified home_asami_exterior_8e7b7994:
 
     # x "Ce sera l'occasion de prendre des nouvelles de {color=#ffcccc}{b}[chiaki_name]{/b}{/color}" id home_asami_exterior_8e7b7994
-    x "这将是一个接触 {color=#ffcccc}{b}千秋{/b}{/color} 的机会" id home_asami_exterior_8e7b7994
+    x "这将是一个接触 [chiaki.n] 的机会" id home_asami_exterior_8e7b7994
 
 # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:114
 translate chinese_simplified home_asami_exterior_92d4f638:
@@ -285,7 +285,7 @@ translate chinese_simplified home_asami_exterior_74d95b5e:
 # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:141
 translate chinese_simplified home_asami_exterior_739a953a:
 
-    # asami angry "Comment ça \"Femme\"?! {color=#0984e3}{b}[player_name]{/b}{/color} retiens moi ou je lui arrache les couilles!" id home_asami_exterior_739a953a
+    # asami angry "Comment ça \"Femme\"?! [player.n] retiens moi ou je lui arrache les couilles!" id home_asami_exterior_739a953a
     asami angry "你说谁臭娘们啊？！ [player.n] 别拦着我，我要撕了他的嘴！" id home_asami_exterior_739a953a
 
 # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:142
@@ -351,7 +351,7 @@ translate chinese_simplified home_asami_exterior_fb341b80:
 # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:154
 translate chinese_simplified home_asami_exterior_0b920d96:
 
-    # kimochi neutral "{color=#0984e3}{b}[player_name]{/b}{/color}! Rejoins-moi à cette adresse cette nuit, je t'en dirais davantage." id home_asami_exterior_0b920d96
+    # kimochi neutral "[player.n]! Rejoins-moi à cette adresse cette nuit, je t'en dirais davantage." id home_asami_exterior_0b920d96
     kimochi neutral "[player.n]！这是我的秘密基地，我会把我的情报分享给你。" id home_asami_exterior_0b920d96
 
 # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:155
@@ -399,8 +399,8 @@ translate chinese_simplified home_asami_exterior_8ba1be86:
 # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:178
 translate chinese_simplified home_asami_exterior_e301e1b6:
 
-    # asami sad "{color=#0984e3}{b}[player_name]{/b}{/color}... Tu ne regrettes pas d'être avec moi?" id home_asami_exterior_e301e1b6
-    asami sad "{color=#0984e3}{b}[player_name]{/b}{/color}...你不后悔和我在一起吗？" id home_asami_exterior_e301e1b6
+    # asami sad "[player.n]... Tu ne regrettes pas d'être avec moi?" id home_asami_exterior_e301e1b6
+    asami sad "[player.n]...你不后悔和我在一起吗？" id home_asami_exterior_e301e1b6
 
 # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:179
 translate chinese_simplified home_asami_exterior_c0ac1660:
@@ -575,12 +575,12 @@ translate chinese_simplified strings:
     new "去找 [minato.n]"
 
     # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:105
-    old "Passez la journée avec {color=#ea8685}{b}[asami_name]{/b}{/color} dans votre chambre."
-    new "在您的房间与 {color=#ea8685}{b}麻美{/b}{/color} 一起度过一天。"
+    #old "Passez la journée avec {color=#ea8685}{b}[asami_name]{/b}{/color} dans votre chambre."
+    #new "在您的房间与 [asami.n] 一起度过一天。"
 
     # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:172
-    old "Attendre la surprise d'{color=#ea8685}{b}[asami_name]{/b}{/color} demain soir."
-    new "期待明天晚上 {color=#ea8685}{b}麻美{/b}{/color} 的惊喜。"
+    #old "Attendre la surprise d'{color=#ea8685}{b}[asami_name]{/b}{/color} demain soir."
+    #new "期待明天晚上 [asami.n] 的惊喜。"
 
 # TODO: Translation updated at 2022-12-15 12:14
 
@@ -606,5 +606,5 @@ translate chinese_simplified strings:
 
     # game/scripts/story/residential district/asami's home/home_asami_exterior.rpy:172
     old "Attendre la surprise d'[asami.n] demain soir."
-    new "等到明晚的惊喜。"
+    new "期待明天晚上[asami.n]的惊喜。"
 

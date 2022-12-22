@@ -358,7 +358,7 @@ translate chinese_simplified home_player_corridor_af6010dc:
 translate chinese_simplified home_player_corridor_f5542d4e:
 
     # player "J'espère que {color=#32ff7e}{b}[macumba_name]{/b}{/color} ne m'a pas attendu toute la journée..." id home_player_corridor_f5542d4e
-    player "我希望 {color=#32ff7e}{b}马库姆巴{/b}{/color} 没有等我一整天..." id home_player_corridor_f5542d4e
+    player "我希望 [macumba.n] 没有等我一整天..." id home_player_corridor_f5542d4e
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:222
 translate chinese_simplified home_player_corridor_6c6c6c0d:
@@ -400,7 +400,7 @@ translate chinese_simplified home_player_corridor_af6010dc_1:
 translate chinese_simplified home_player_corridor_f5542d4e_1:
 
     # player "J'espère que {color=#32ff7e}{b}[macumba_name]{/b}{/color} ne m'a pas attendu toute la journée..." id home_player_corridor_f5542d4e_1
-    player "我希望 {color=#32ff7e}{b}马库姆巴{/b}{/color} 没有等我一整天..." id home_player_corridor_f5542d4e_1
+    player "我希望 [macumba.n] 没有等我一整天..." id home_player_corridor_f5542d4e_1
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:247
 translate chinese_simplified home_player_corridor_ce44d7ee:
@@ -838,7 +838,7 @@ translate chinese_simplified home_player_corridor_973efdac:
 translate chinese_simplified home_player_corridor_14be133d:
 
     # x "Est-ce que je devrais laisser {color=#ea8685}{b}[asami_name]{/b}{/color} interagir avec [noriko.n]?" id home_player_corridor_14be133d
-    x "我应该让 {color=#ea8685}{b}麻美{/b}{/color} 与 [noriko.n] 见面吗？" id home_player_corridor_14be133d
+    x "我应该让 [asami.n] 与 [noriko.n] 见面吗？" id home_player_corridor_14be133d
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:464
 translate chinese_simplified home_player_corridor_fd5b0df6:
@@ -861,8 +861,8 @@ translate chinese_simplified home_player_corridor_9c34fdb7:
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:474
 translate chinese_simplified home_player_corridor_a8870111:
 
-    # asami happy "Bonjour! Je suis la petite amie de {color=#0984e3}{b}[player_name]{/b}{/color}." id home_player_corridor_a8870111
-    asami happy "早上好！我是 {color=#0984e3}{b}[player_name]{/b}{/color} 的女朋友。" id home_player_corridor_a8870111
+    # asami happy "Bonjour! Je suis la petite amie de [player.n]." id home_player_corridor_a8870111
+    asami happy "早上好！我是 [player.n] 的女朋友。" id home_player_corridor_a8870111
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:475
 translate chinese_simplified home_player_corridor_aef18ea2:

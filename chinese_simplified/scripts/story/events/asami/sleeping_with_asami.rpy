@@ -4,7 +4,7 @@
 translate chinese_simplified sleeping_with_asami_47207c6d:
 
     # centered "Vous faites entrer {color=#ea8685}{b}[asami_name]{/b}{/color} dans votre chambre." id sleeping_with_asami_47207c6d
-    centered "你把 {color=#ea8685}{b}麻美{/b}{/color} 带进了你的房间。" id sleeping_with_asami_47207c6d
+    centered "你把 [asami.n] 带进了你的房间。" id sleeping_with_asami_47207c6d
 
 # game/scripts/story/events/asami/sleeping_with_asami.rpy:16
 translate chinese_simplified sleeping_with_asami_c417b31f:
@@ -46,7 +46,7 @@ translate chinese_simplified sleeping_with_asami_ece80b5a:
 translate chinese_simplified sexe_asami_l_40d64a8e:
 
     # centered "{color=#ea8685}{b}[asami_name]{/b}{/color} s'allonge l'aire ravie sur le dos et semble-vous attendre." id sexe_asami_l_40d64a8e
-    centered "{color=#ea8685}{b}麻美{/b}{/color} 面带着妩媚笑容躺了下来，她双眼中满是渴望，仿佛把“干我”这两个大字写在脸上给你看一般。" id sexe_asami_l_40d64a8e
+    centered "[asami.n] 面带着妩媚笑容躺了下来，她双眼中满是渴望，仿佛把“干我”这两个大字写在脸上给你看一般。" id sexe_asami_l_40d64a8e
 
 # game/scripts/story/events/asami/sleeping_with_asami.rpy:29
 translate chinese_simplified sexe_asami_l_4a6ae3d0:
@@ -190,7 +190,7 @@ translate chinese_simplified sexe_asami_l_8345ef06:
 translate chinese_simplified sexe_asami_l_64a06227:
 
     # centered "{color=#ea8685}{b}[asami_name]{/b}{/color} se positionne sur vous avec un petit sourire en coin" id sexe_asami_l_64a06227
-    centered "{color=#ea8685}{b}麻美{/b}{/color} 对着你邪魅一笑，伸开她那双还流淌着淫水的腿骑到了你的身上。此时此刻她就像个欲求不满的性瘾患者一样，用痴迷的目光打量着你下面坚挺的肉棒。" id sexe_asami_l_64a06227
+    centered "[asami.n] 对着你邪魅一笑，伸开她那双还流淌着淫水的腿骑到了你的身上。此时此刻她就像个欲求不满的性瘾患者一样，用痴迷的目光打量着你下面坚挺的肉棒。" id sexe_asami_l_64a06227
 
 # game/scripts/story/events/asami/sleeping_with_asami.rpy:103
 translate chinese_simplified sexe_asami_l_e66cbe9f:
@@ -328,7 +328,7 @@ translate chinese_simplified sexe_asami_l_76b78381:
 translate chinese_simplified sexe_asami_l_799b75ab:
 
     # centered "{color=#ea8685}{b}[asami_name]{/b}{/color} s'endort épuisée contre vous le sourire aux lèvres." id sexe_asami_l_799b75ab
-    centered "{color=#ea8685}{b}麻美{/b}{/color} 直接倒在你身上闭上眼睛，睡颜上挂着靡靡的笑。" id sexe_asami_l_799b75ab
+    centered "[asami.n] 直接倒在你身上闭上眼睛，睡颜上挂着靡靡的笑。" id sexe_asami_l_799b75ab
 
 # game/scripts/story/events/asami/sleeping_with_asami.rpy:175
 translate chinese_simplified sexe_asami_l_961fa25f:

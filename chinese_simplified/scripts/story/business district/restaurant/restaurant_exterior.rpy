@@ -81,8 +81,8 @@ translate chinese_simplified restaurant_exterior_753b7a2e:
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:69
 translate chinese_simplified restaurant_exterior_2517edc1:
 
-    # akirac "...et pourquoi pas {color=#6c5ce7}{b}[sakuya_name]{/b}{/color}." id restaurant_exterior_2517edc1
-    akirac "...来嘛 {color=#6c5ce7}{b}咲夜{/b}{/color}。" id restaurant_exterior_2517edc1
+    # akirac "...et pourquoi pas [sakuya.n]." id restaurant_exterior_2517edc1
+    akirac "...来嘛 [sakuya.n]。" id restaurant_exterior_2517edc1
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:70
 translate chinese_simplified restaurant_exterior_2074f98b:
@@ -195,8 +195,8 @@ translate chinese_simplified restaurant_exterior_dac976c1:
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:92
 translate chinese_simplified restaurant_exterior_8f68ff84:
 
-    # akirac "...Putain {color=#0984e3}{b}[player_name]{/b}{/color} tu vas rester combien de temps à mater?" id restaurant_exterior_8f68ff84
-    akirac "...他妈的 {color=#0984e3}{b}[player_name]{/b}{/color} 你还要看多久？" id restaurant_exterior_8f68ff84
+    # akirac "...Putain [player.n] tu vas rester combien de temps à mater?" id restaurant_exterior_8f68ff84
+    akirac "...他妈的 [player.n] 你还要看多久？" id restaurant_exterior_8f68ff84
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:93
 translate chinese_simplified restaurant_exterior_5c8eea65:
@@ -231,8 +231,8 @@ translate chinese_simplified restaurant_exterior_d243728f:
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:115
 translate chinese_simplified restaurant_exterior_c48d66f6:
 
-    # x "Je me suis assez fait écrasé par {color=#fdcb6e}{b}明{/b}{/color} dans ma vie d'avant!" id restaurant_exterior_c48d66f6
-    x "我曾经被 {color=#fdcb6e}{b}明{/b}{/color} 欺负得够呛！" id restaurant_exterior_c48d66f6
+    # x "Je me suis assez fait écrasé par [akira.n] dans ma vie d'avant!" id restaurant_exterior_c48d66f6
+    x "我曾经被 [akira.n] 欺负得够呛！" id restaurant_exterior_c48d66f6
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:116
 translate chinese_simplified restaurant_exterior_01183ae4:
@@ -291,8 +291,8 @@ translate chinese_simplified restaurant_exterior_a6aa04ea:
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:132
 translate chinese_simplified restaurant_exterior_7cfc3e89:
 
-    # akira angry "On se retrouvera {color=#0984e3}{b}[player_name]{/b}{/color} et je te garantis que tu le regretteras." id restaurant_exterior_7cfc3e89
-    akira angry "我们会再次见面的 {color=#0984e3}{b}[player_name]{/b}{/color}，下次见面就是你的死期。" id restaurant_exterior_7cfc3e89
+    # akira angry "On se retrouvera [player.n] et je te garantis que tu le regretteras." id restaurant_exterior_7cfc3e89
+    akira angry "我们会再次见面的 [player.n]，下次见面就是你的死期。" id restaurant_exterior_7cfc3e89
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:135
 translate chinese_simplified restaurant_exterior_dbef479b:
@@ -333,8 +333,8 @@ translate chinese_simplified restaurant_exterior_b4f16729:
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:146
 translate chinese_simplified restaurant_exterior_a9b99e8c:
 
-    # player "Désolé si j'ai interrompu quelque chose d'important avec {color=#fdcb6e}{b}明{/b}{/color}..." id restaurant_exterior_a9b99e8c
-    player "抱歉，刚才我好像打断了你和 {color=#fdcb6e}{b}明{/b}{/color} 之间一些重要的谈话..." id restaurant_exterior_a9b99e8c
+    # player "Désolé si j'ai interrompu quelque chose d'important avec [akira.n]..." id restaurant_exterior_a9b99e8c
+    player "抱歉，刚才我好像打断了你和 [akira.n] 之间一些重要的谈话..." id restaurant_exterior_a9b99e8c
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:147
 translate chinese_simplified restaurant_exterior_e39e9cb8:
@@ -351,8 +351,8 @@ translate chinese_simplified restaurant_exterior_beeed2ce:
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:149
 translate chinese_simplified restaurant_exterior_59c8cad7:
 
-    # sakuya -melancholic "{color=#fdcb6e}{b}明{/b}{/color} est toujours insistant, j'ai de plus en plus de mal à trouver une raison de lui dire non." id restaurant_exterior_59c8cad7
-    sakuya -melancholic "{color=#fdcb6e}{b}明{/b}{/color} 太缠人了，最近越来越难找到拒绝的理由..." id restaurant_exterior_59c8cad7
+    # sakuya -melancholic "[akira.n] est toujours insistant, j'ai de plus en plus de mal à trouver une raison de lui dire non." id restaurant_exterior_59c8cad7
+    sakuya -melancholic "[akira.n] 太缠人了，最近越来越难找到拒绝的理由..." id restaurant_exterior_59c8cad7
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:150
 translate chinese_simplified restaurant_exterior_c9cada5b:
@@ -375,14 +375,14 @@ translate chinese_simplified restaurant_exterior_961d3e80:
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:155
 translate chinese_simplified restaurant_exterior_816a0278:
 
-    # player upset "...Putain d'{color=#fdcb6e}{b}明{/b}{/color}!" id restaurant_exterior_816a0278
-    player upset "...该死的 {color=#fdcb6e}{b}明{/b}{/color}！" id restaurant_exterior_816a0278
+    # player upset "...Putain d'[akira.n]!" id restaurant_exterior_816a0278
+    player upset "...该死的 [akira.n]！" id restaurant_exterior_816a0278
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:159
 translate chinese_simplified restaurant_exterior_e5f87dd5:
 
-    # x "Une seconde... Il me semble que {color=#6c5ce7}{b}[sakuya_name]{/b}{/color} était sa petite amie aussi loin que je me souvienne..." id restaurant_exterior_e5f87dd5
-    x "等等...才想起来， {color=#6c5ce7}{b}[sakuya_name]{/b}{/color} 在我记忆中是他的女朋友来着..." id restaurant_exterior_e5f87dd5
+    # x "Une seconde... Il me semble que [sakuya.n] était sa petite amie aussi loin que je me souvienne..." id restaurant_exterior_e5f87dd5
+    x "等等...才想起来， [sakuya.n] 在我记忆中是他的女朋友来着..." id restaurant_exterior_e5f87dd5
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:160
 translate chinese_simplified restaurant_exterior_af57bd08:
@@ -394,7 +394,7 @@ translate chinese_simplified restaurant_exterior_af57bd08:
 translate chinese_simplified restaurant_exterior_c98c0d0a:
 
     # x "Je crois qu'elle avait d'ailleurs fini par réaliser des films pour adultes." id restaurant_exterior_c98c0d0a
-    x "{color=#fdcb6e}{b}明{/b}{/color}让她下海当了AV女优。" id restaurant_exterior_c98c0d0a
+    x "[akira.n]让她下海当了AV女优。" id restaurant_exterior_c98c0d0a
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:162
 translate chinese_simplified restaurant_exterior_8a5cdb72:
@@ -477,8 +477,8 @@ translate chinese_simplified restaurant_exterior_3091922f:
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:197
 translate chinese_simplified restaurant_exterior_4ce3d3a2:
 
-    # akirac "Putain {color=#0984e3}{b}[player_name]{/b}{/color}, arrête de te rincer l'œil, casse-toi tu vois pas que tu me déranges?" id restaurant_exterior_4ce3d3a2
-    akirac "操你妈的 {color=#0984e3}{b}[player_name]{/b}{/color}，这么喜欢坏我好事？" id restaurant_exterior_4ce3d3a2
+    # akirac "Putain [player.n], arrête de te rincer l'œil, casse-toi tu vois pas que tu me déranges?" id restaurant_exterior_4ce3d3a2
+    akirac "操你妈的 [player.n]，这么喜欢坏我好事？" id restaurant_exterior_4ce3d3a2
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:204
 translate chinese_simplified restaurant_exterior_3282dae6:
@@ -531,8 +531,8 @@ translate chinese_simplified restaurant_exterior_8a599553:
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:219
 translate chinese_simplified restaurant_exterior_26523fd9:
 
-    # sakuya sad "{color=#fdcb6e}{b}明{/b}{/color} vas t'en! Je ne sais même pas pourquoi j'espérais que tu faisais réellement ça pour m'aider." id restaurant_exterior_26523fd9
-    sakuya sad "{color=#fdcb6e}{b}明{/b}{/color} 走开！我天真的以为你真的这样做是为了帮助我。" id restaurant_exterior_26523fd9
+    # sakuya sad "[akira.n] vas t'en! Je ne sais même pas pourquoi j'espérais que tu faisais réellement ça pour m'aider." id restaurant_exterior_26523fd9
+    sakuya sad "[akira.n] 走开！我天真的以为你真的这样做是为了帮助我。" id restaurant_exterior_26523fd9
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:220
 translate chinese_simplified restaurant_exterior_daf05207:
@@ -591,8 +591,8 @@ translate chinese_simplified restaurant_exterior_4cda1b5b:
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:234
 translate chinese_simplified restaurant_exterior_24eb94b1:
 
-    # player sad "Merde, {color=#fdcb6e}{b}明{/b}{/color} a vraiment dépassé les bornes cette fois-ci..." id restaurant_exterior_24eb94b1
-    player sad "妈的，{color=#fdcb6e}{b}明{/b}{/color} 这次真的过火了..." id restaurant_exterior_24eb94b1
+    # player sad "Merde, [akira.n] a vraiment dépassé les bornes cette fois-ci..." id restaurant_exterior_24eb94b1
+    player sad "妈的，[akira.n] 这次真的过火了..." id restaurant_exterior_24eb94b1
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:236
 translate chinese_simplified restaurant_exterior_0c5fb6fb:
@@ -633,8 +633,8 @@ translate chinese_simplified restaurant_exterior_85499806:
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:259
 translate chinese_simplified restaurant_exterior_f559356f:
 
-    # sakuya "Merci pour tout {color=#0984e3}{b}[player_name]{/b}{/color}." id restaurant_exterior_f559356f
-    sakuya "非常感谢 {color=#0984e3}{b}[player_name]{/b}{/color}。" id restaurant_exterior_f559356f
+    # sakuya "Merci pour tout [player.n]." id restaurant_exterior_f559356f
+    sakuya "非常感谢 [player.n]。" id restaurant_exterior_f559356f
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:260
 translate chinese_simplified restaurant_exterior_29c9caeb:
@@ -717,14 +717,14 @@ translate chinese_simplified restaurant_exterior_b6bc163f:
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:273
 translate chinese_simplified restaurant_exterior_c4ea180d:
 
-    # sakuya happy "Merci pour tout. Passe une bonne nuit {color=#0984e3}{b}[player_name]{/b}{/color}. On se revoit demain?" id restaurant_exterior_c4ea180d
-    sakuya happy "谢谢你为我做的一切。祝您晚安 {color=#0984e3}{b}[player_name]{/b}{/color}。明天见？" id restaurant_exterior_c4ea180d
+    # sakuya happy "Merci pour tout. Passe une bonne nuit [player.n]. On se revoit demain?" id restaurant_exterior_c4ea180d
+    sakuya happy "谢谢你为我做的一切。祝您晚安 [player.n]。明天见？" id restaurant_exterior_c4ea180d
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:274
 translate chinese_simplified restaurant_exterior_e63f58d5:
 
-    # player "Bonne nuit {color=#6c5ce7}{b}[sakuya_name]{/b}{/color}, avec plaisir." id restaurant_exterior_e63f58d5
-    player "晚安 {color=#6c5ce7}{b}咲夜{/b}{/color}。" id restaurant_exterior_e63f58d5
+    # player "Bonne nuit [sakuya.n], avec plaisir." id restaurant_exterior_e63f58d5
+    player "晚安 [sakuya.n]。" id restaurant_exterior_e63f58d5
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:281
 translate chinese_simplified restaurant_exterior_4d5c0d9e:
@@ -754,7 +754,7 @@ translate chinese_simplified restaurant_exterior_461e4e52:
 translate chinese_simplified restaurant_exterior_93ba1dbd:
 
     # player "{color=#ffcccc}{b}[chiaki_name]{/b}{/color}?" id restaurant_exterior_93ba1dbd
-    player "{color=#ffcccc}{b}千秋{/b}{/color}？" id restaurant_exterior_93ba1dbd
+    player "[chiaki.n]？" id restaurant_exterior_93ba1dbd
 
 # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:305
 translate chinese_simplified restaurant_exterior_9d165919:
@@ -872,14 +872,6 @@ translate chinese_simplified restaurant_exterior_2e070ae7:
 
 translate chinese_simplified strings:
 
-    # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:26
-    old "Allez voir le {color=ff9f1a}{b}[chef_name]{/b}{/color} du {color=FFFF00}{b}restaurant{/b}{/color} pour essayer de décrocher le job."
-    new "去 {color=FFFF00}{b}餐馆{/b}{/color} 的 {color=ff9f1a}{b}师傅{/b}{/color} 试试并获得这份工作。"
-
-    # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:61
-    # old "Peut-être que {color=#32ff7e}{b}[macumba_name]{/b}{/color} pourrait m'aider a gagner en force aussi?"
-    # new "也许 {color=#32ff7e}{b}马库姆巴{/b}{/color} 也可以帮助我获得力量？"
-
     # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:62
     old "Elle est sacrément mignonne j'espère que je la recroiserais vite."
     new "好可爱啊，希望很快能再见到她。"
@@ -888,33 +880,13 @@ translate chinese_simplified strings:
     old "Merde c'est foutu pour le job à présent je vais devoir trouver autre chose."
     new "操，这份工作泡汤了，我得找点别的路子了。"
 
-    # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:185
-    # old "J'ai cassé le coup d'{color=#fdcb6e}{b}[akira_name]{/b}{/color} c'est toujours ça de gagner."
-    # new "我打破了{color=#fdcb6e}{b}明{/b}{/color} 的把戏，至少现在是这样。"
-
     # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:332
     old "J'ai peut-être oublié un endroit..."
     new "也许我忘了什么地方..."
 
-    # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:353
-    #old "Rentrer à la maison voir {color=#a29bfe}{b}[yasuka_name]{/b}{/color}."
-    #new "回家看看 [yasuka.n]。"
-
-    # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:371
-    #old "Rentrer à la maison retrouver {color=#a29bfe}{b}[yasuka_name]{/b}{/color}."
-    #new "回家寻找 [yasuka.n]。"
-
     # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:379
     old "Retour à la maison."
     new "回家。"
-
-    # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:387
-    #old "Demandez des explications à {color=#fd79a8}{b}[noriko_name]{/b}{/color}"
-    #new "向 [noriko.n] 寻求解释"
-
-    # game/scripts/story/business district/restaurant/restaurant_exterior.rpy:395
-    #old "Rentrez à la maison, {color=#a29bfe}{b}[yasuka_name]{/b}{/color} attend votre retour."
-    #new "回家吧，[yasuka.n] 等着你回来。"
 
 # TODO: Translation updated at 2022-09-13 15:40
 

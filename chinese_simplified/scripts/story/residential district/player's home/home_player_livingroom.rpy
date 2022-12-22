@@ -513,8 +513,8 @@ translate chinese_simplified home_player_livingroom_c4d4d15b:
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:179
 translate chinese_simplified home_player_livingroom_afe1994d:
 
-    # yasuka "Bonjour {color=#0984e3}{b}[player_name]{/b}{/color}." id home_player_livingroom_afe1994d
-    yasuka "你好啊 {color=#0984e3}{b}[player_name]{/b}{/color}。" id home_player_livingroom_afe1994d
+    # yasuka "Bonjour [player.n]." id home_player_livingroom_afe1994d
+    yasuka "你好啊 [player.n]。" id home_player_livingroom_afe1994d
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:180
 translate chinese_simplified home_player_livingroom_6c82d5b7:
@@ -1192,7 +1192,7 @@ translate chinese_simplified home_player_livingroom_34d22d06:
 translate chinese_simplified home_player_livingroom_aea8bdee:
 
     # asami happy "Bonjour madame, je m'appelle {color=#ea8685}{b}[asami_name]{/b}{/color}! C'est vraiment magnifique chez vous." id home_player_livingroom_aea8bdee
-    asami happy "您好 [yasuka.n] 阿姨，我叫 {color=#ea8685}{b}麻美{/b}{/color}！你们这真漂亮。" id home_player_livingroom_aea8bdee
+    asami happy "您好 [yasuka.n] 阿姨，我叫 [asami.n]！你们这真漂亮。" id home_player_livingroom_aea8bdee
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:456
 translate chinese_simplified home_player_livingroom_2feab39a:
@@ -1270,7 +1270,7 @@ translate chinese_simplified home_player_livingroom_ed6623a0:
 translate chinese_simplified home_player_livingroom_fae9c63d:
 
     # yasuka "Bonjour {color=#ea8685}{b}[asami_name]{/b}{/color}." id home_player_livingroom_fae9c63d
-    yasuka "你好 {color=#ea8685}{b}麻美{/b}{/color}。" id home_player_livingroom_fae9c63d
+    yasuka "你好 [asami.n]。" id home_player_livingroom_fae9c63d
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:500
 translate chinese_simplified home_player_livingroom_d27f9559:
@@ -1281,7 +1281,7 @@ translate chinese_simplified home_player_livingroom_d27f9559:
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:501
 translate chinese_simplified home_player_livingroom_80c5bfb4:
 
-    # asami happy "C'est parce que {color=#0984e3}{b}[player_name]{/b}{/color} prend bien moins de moi." id home_player_livingroom_80c5bfb4
+    # asami happy "C'est parce que [player.n] prend bien moins de moi." id home_player_livingroom_80c5bfb4
     asami happy "嘿，我又来啦[yasuka.n]姐姐。" id home_player_livingroom_80c5bfb4
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:503
@@ -1468,7 +1468,7 @@ translate chinese_simplified home_player_livingroom_26bf1564:
 translate chinese_simplified home_player_livingroom_f6c68de8:
 
     # x "{color=#32ff7e}{b}[macumba_name]{/b}{/color},{color=#ea8685}{b}[asami_name]{/b}{/color} ou encore {color=#55efc4}{b}[kimochi_name]{/b}{/color}." id home_player_livingroom_f6c68de8
-    x "{color=#32ff7e}{b}马库姆巴{/b}{/color},{color=#ea8685}{b}麻美{/b}{/color} ou encore [kimochi.n]。" id home_player_livingroom_f6c68de8
+    x "[macumba.n],[asami.n] ou encore [kimochi.n]。" id home_player_livingroom_f6c68de8
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:553
 translate chinese_simplified home_player_livingroom_839774e1:
@@ -1480,7 +1480,7 @@ translate chinese_simplified home_player_livingroom_839774e1:
 translate chinese_simplified home_player_livingroom_ac6712fb:
 
     # x "Je devrais d'ailleurs commencer par {color=#32ff7e}{b}[macumba_name]{/b}{/color}." id home_player_livingroom_ac6712fb
-    x "我也应该从 {color=#32ff7e}{b}马库姆巴{/b}{/color} 开始。" id home_player_livingroom_ac6712fb
+    x "我也应该从 [macumba.n] 开始。" id home_player_livingroom_ac6712fb
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:573
 translate chinese_simplified home_player_livingroom_cc0b7ce8_1:
@@ -2289,8 +2289,8 @@ translate chinese_simplified home_player_livingroom_156df126:
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:881
 translate chinese_simplified home_player_livingroom_ef17f1fa:
 
-    # yasuka "{color=#0984e3}{b}[player_name]{/b}{/color} m'a aidé a un point ou je ne pourrais jamais assez le remercier." id home_player_livingroom_ef17f1fa
-    yasuka "{color=#0984e3}{b}[player_name]{/b}{/color} 帮助我到了一个让我感激不尽的地步。" id home_player_livingroom_ef17f1fa
+    # yasuka "[player.n] m'a aidé a un point ou je ne pourrais jamais assez le remercier." id home_player_livingroom_ef17f1fa
+    yasuka "[player.n] 帮助我到了一个让我感激不尽的地步。" id home_player_livingroom_ef17f1fa
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:882
 translate chinese_simplified home_player_livingroom_39dff64b:

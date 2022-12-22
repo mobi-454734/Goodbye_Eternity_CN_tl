@@ -501,8 +501,8 @@ translate chinese_simplified talk_yasuka_e6413ebd:
 # game/scripts/story/talking/talk_yasuka.rpy:186
 translate chinese_simplified talk_yasuka_7f708522:
 
-    # yasukac "{color=#0984e3}{b}[player_name]{/b}{/color}!" id talk_yasuka_7f708522
-    yasukac "{color=#0984e3}{b}[player_name]{/b}{/color}！" id talk_yasuka_7f708522
+    # yasukac "[player.n]!" id talk_yasuka_7f708522
+    yasukac "[player.n]！" id talk_yasuka_7f708522
 
 # game/scripts/story/talking/talk_yasuka.rpy:187
 translate chinese_simplified talk_yasuka_120e8a66:
@@ -753,14 +753,14 @@ translate chinese_simplified talk_yasuka_535f178b:
 # game/scripts/story/talking/talk_yasuka.rpy:286
 translate chinese_simplified talk_yasuka_4c57d503:
 
-    # centered "{color=#a29bfe}{b}[yasuka_name]{/b}{/color} et {color=#0984e3}{b}[player_name]{/b}{/color} s'embrassèrent si longtemps qu'ils ne virent pas le temps passer." id talk_yasuka_4c57d503
-    centered "[yasuka.n] 和 {color=#0984e3}{b}[player_name]{/b}{/color} 吻得太久，以至于他们无法没看到时间过去。" id talk_yasuka_4c57d503
+    # centered "{color=#a29bfe}{b}[yasuka_name]{/b}{/color} et [player.n] s'embrassèrent si longtemps qu'ils ne virent pas le temps passer." id talk_yasuka_4c57d503
+    centered "[yasuka.n] 和 [player.n] 吻得太久，以至于他们无法没看到时间过去。" id talk_yasuka_4c57d503
 
 # game/scripts/story/talking/talk_yasuka.rpy:287
 translate chinese_simplified talk_yasuka_d90def55:
 
-    # centered "Au bout d'un long moment {color=#a29bfe}{b}[yasuka_name]{/b}{/color} repoussa tendrement {color=#0984e3}{b}[player_name]{/b}{/color}." id talk_yasuka_d90def55
-    centered "过了很久 [yasuka.n] 温柔地推开 {color=#0984e3}{b}[player_name]{/b}{/color}。" id talk_yasuka_d90def55
+    # centered "Au bout d'un long moment {color=#a29bfe}{b}[yasuka_name]{/b}{/color} repoussa tendrement [player.n]." id talk_yasuka_d90def55
+    centered "过了很久 [yasuka.n] 温柔地推开 [player.n]。" id talk_yasuka_d90def55
 
 # game/scripts/story/talking/talk_yasuka.rpy:291
 translate chinese_simplified talk_yasuka_1a2d4fe8:
@@ -1029,8 +1029,8 @@ translate chinese_simplified talk_yasuka_503adf63:
 # game/scripts/story/talking/talk_yasuka.rpy:377
 translate chinese_simplified talk_yasuka_12586825:
 
-    # centered "{color=#a29bfe}{b}[yasuka_name]{/b}{/color} et {color=#0984e3}{b}[player_name]{/b}{/color} s'embrassèrent un long moment." id talk_yasuka_12586825
-    centered "[yasuka.n] 和 {color=#0984e3}{b}[player_name]{/b}{/color} 吻了很长时间。" id talk_yasuka_12586825
+    # centered "{color=#a29bfe}{b}[yasuka_name]{/b}{/color} et [player.n] s'embrassèrent un long moment." id talk_yasuka_12586825
+    centered "[yasuka.n] 和 [player.n] 吻了很长时间。" id talk_yasuka_12586825
 
 # game/scripts/story/talking/talk_yasuka.rpy:378
 translate chinese_simplified talk_yasuka_0ae3a538:
@@ -1931,8 +1931,8 @@ translate chinese_simplified talk_yasuka_2a515d02:
 # game/scripts/story/talking/talk_yasuka.rpy:333
 translate chinese_simplified talk_yasuka_c547b09e:
 
-    # centered "{color=#a29bfe}{b}[yasuka_name]{/b}{/color} et {color=#0984e3}{b}[player_name]{/b}{/color} passerent tous les deux un long moment à discuter." id talk_yasuka_c547b09e
-    centered "[yasuka.n] 和 {color=#0984e3}{b}[player_name]{/b}{/color} 都聊了很久。" id talk_yasuka_c547b09e
+    # centered "{color=#a29bfe}{b}[yasuka_name]{/b}{/color} et [player.n] passerent tous les deux un long moment à discuter." id talk_yasuka_c547b09e
+    centered "[yasuka.n] 和 [player.n] 都聊了很久。" id talk_yasuka_c547b09e
 
 # game/scripts/story/talking/talk_yasuka.rpy:335
 translate chinese_simplified talk_yasuka_f5f8ebfe:

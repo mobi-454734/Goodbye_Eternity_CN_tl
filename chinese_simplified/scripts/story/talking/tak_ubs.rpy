@@ -111,14 +111,14 @@ translate chinese_simplified talk_ubs_87b616bf:
 # game/scripts/story/talking/tak_ubs.rpy:58
 translate chinese_simplified talk_ubs_813d6843:
 
-    # centered "{color=#0984e3}{b}[player_name]{/b}{/color} fit de son mieux toute la journée." id talk_ubs_813d6843
-    centered "{color=#0984e3}{b}[player_name]{/b}{/color} 一整天都在全力以赴。" id talk_ubs_813d6843
+    # centered "[player.n] fit de son mieux toute la journée." id talk_ubs_813d6843
+    centered "[player.n] 一整天都在全力以赴。" id talk_ubs_813d6843
 
 # game/scripts/story/talking/tak_ubs.rpy:59
 translate chinese_simplified talk_ubs_d2857457:
 
     # centered "Mais {color=#6B2B06}{b}[ubs_name]{/b}{/color} passa sa journée a le rabaisser et a l'humilier devant les clients." id talk_ubs_d2857457
-    centered "但是{color=#6B2B06}{b}牛魔王{/b}{/color}整天都在客户面前贬低并羞辱他。" id talk_ubs_d2857457
+    centered "但是[ubs.n]整天都在客户面前贬低并羞辱他。" id talk_ubs_d2857457
 
 # game/scripts/story/talking/tak_ubs.rpy:65
 translate chinese_simplified talk_ubs_9065cc7c:
@@ -237,14 +237,14 @@ translate chinese_simplified talk_ubs_3d89609b:
 # game/scripts/story/talking/tak_ubs.rpy:109
 translate chinese_simplified talk_ubs_c233b205:
 
-    # centered "{color=#0984e3}{b}[player_name]{/b}{/color} passa une journée de plus en enfer a supporter les humiliations." id talk_ubs_c233b205
-    centered "{color=#0984e3}{b}[player_name]{/b}{/color} 在地狱中忍受屈辱又度过了一天。" id talk_ubs_c233b205
+    # centered "[player.n] passa une journée de plus en enfer a supporter les humiliations." id talk_ubs_c233b205
+    centered "[player.n] 在地狱中忍受屈辱又度过了一天。" id talk_ubs_c233b205
 
 # game/scripts/story/talking/tak_ubs.rpy:110
 translate chinese_simplified talk_ubs_5c1c08bf:
 
-    # centered "Après plusieurs heures a subir {color=#0984e3}{b}[player_name]{/b}{/color} estima qu'il avait assez travaillé pour aujourd'hui." id talk_ubs_5c1c08bf
-    centered "经过几个小时的坚持，{color=#0984e3}{b}[player_name]{/b}{/color} 觉得他今天工作足够久了的工作已经足够了。" id talk_ubs_5c1c08bf
+    # centered "Après plusieurs heures a subir [player.n] estima qu'il avait assez travaillé pour aujourd'hui." id talk_ubs_5c1c08bf
+    centered "经过几个小时的坚持，[player.n] 觉得他今天工作足够久了的工作已经足够了。" id talk_ubs_5c1c08bf
 
 # game/scripts/story/talking/tak_ubs.rpy:117
 translate chinese_simplified talk_ubs_9a363f10:
@@ -357,20 +357,20 @@ translate chinese_simplified talk_ubs_b401678f:
 # game/scripts/story/talking/tak_ubs.rpy:161
 translate chinese_simplified talk_ubs_21ce37b2:
 
-    # centered "{color=#0984e3}{b}[player_name]{/b}{/color} passa à nouveau une journée en enfer." id talk_ubs_21ce37b2
-    centered "{color=#0984e3}{b}[player_name]{/b}{/color} 在地狱中又度过了悲惨的一天。" id talk_ubs_21ce37b2
+    # centered "[player.n] passa à nouveau une journée en enfer." id talk_ubs_21ce37b2
+    centered "[player.n] 在地狱中又度过了悲惨的一天。" id talk_ubs_21ce37b2
 
 # game/scripts/story/talking/tak_ubs.rpy:162
 translate chinese_simplified talk_ubs_5c1c08bf_1:
 
-    # centered "Après plusieurs heures a subir {color=#0984e3}{b}[player_name]{/b}{/color} estima qu'il avait assez travaillé pour aujourd'hui." id talk_ubs_5c1c08bf_1
-    centered "经过几个小时的坚持，{color=#0984e3}{b}[player_name]{/b}{/color} 觉得他今天工作够久了。" id talk_ubs_5c1c08bf_1
+    # centered "Après plusieurs heures a subir [player.n] estima qu'il avait assez travaillé pour aujourd'hui." id talk_ubs_5c1c08bf_1
+    centered "经过几个小时的坚持，[player.n] 觉得他今天工作够久了。" id talk_ubs_5c1c08bf_1
 
 # game/scripts/story/talking/tak_ubs.rpy:163
 translate chinese_simplified talk_ubs_eb62591a:
 
-    # centered "Néanmoins {color=#0984e3}{b}[player_name]{/b}{/color} constata que le patron était moins virulent que d'habitude." id talk_ubs_eb62591a
-    centered "不管怎样，{color=#0984e3}{b}[player_name]{/b}{/color} 还是注意到这个 Boss 没有平时那么恶心了。" id talk_ubs_eb62591a
+    # centered "Néanmoins [player.n] constata que le patron était moins virulent que d'habitude." id talk_ubs_eb62591a
+    centered "不管怎样，[player.n] 还是注意到这个 Boss 没有平时那么恶心了。" id talk_ubs_eb62591a
 
 # game/scripts/story/talking/tak_ubs.rpy:170
 translate chinese_simplified talk_ubs_82c0d6ca:
@@ -477,8 +477,8 @@ translate chinese_simplified talk_ubs_993f87c3:
 # game/scripts/story/talking/tak_ubs.rpy:209
 translate chinese_simplified talk_ubs_a25ad3a8:
 
-    # centered "{color=#0984e3}{b}[player_name]{/b}{/color} passa pour la première fois une journée à peu près normale." id talk_ubs_a25ad3a8
-    centered "{color=#0984e3}{b}[player_name]{/b}{/color} 第一次度过了非常正常的一天。" id talk_ubs_a25ad3a8
+    # centered "[player.n] passa pour la première fois une journée à peu près normale." id talk_ubs_a25ad3a8
+    centered "[player.n] 第一次度过了非常正常的一天。" id talk_ubs_a25ad3a8
 
 # game/scripts/story/talking/tak_ubs.rpy:210
 translate chinese_simplified talk_ubs_16142624:
@@ -543,8 +543,8 @@ translate chinese_simplified talk_ubs_cc6a9130:
 # game/scripts/story/talking/tak_ubs.rpy:231
 translate chinese_simplified talk_ubs_203af949:
 
-    # player neutral "Allez {color=#0984e3}{b}[player_name]{/b}{/color}, c'est l'heure du service au restaurant!" id talk_ubs_203af949
-    player neutral "来吧{color=#0984e3}{b}[player_name]{/b}{/color}，餐厅服务时间到了！" id talk_ubs_203af949
+    # player neutral "Allez [player.n], c'est l'heure du service au restaurant!" id talk_ubs_203af949
+    player neutral "来吧[player.n]，餐厅服务时间到了！" id talk_ubs_203af949
 
 # game/scripts/story/talking/tak_ubs.rpy:247
 translate chinese_simplified talk_ubs_0fffff41:
@@ -633,14 +633,14 @@ translate chinese_simplified talk_ubs_02c95d0c:
 # game/scripts/story/talking/tak_ubs.rpy:265
 translate chinese_simplified talk_ubs_9b9c0a60:
 
-    # x "Il faut que je demande a {color=#fd79a8}{b}纪子{/b}{/color}." id talk_ubs_9b9c0a60
-    x "我得问问{color=#fd79a8}{b}纪子{/b}{/color}。" id talk_ubs_9b9c0a60
+    # x "Il faut que je demande a [noriko.n]." id talk_ubs_9b9c0a60
+    x "我得问问 [noriko.n]。" id talk_ubs_9b9c0a60
 
 # game/scripts/story/talking/tak_ubs.rpy:266
 translate chinese_simplified talk_ubs_f2d7763b:
 
     # x "Et il faut surtout que j'en profite pour régler cette histoire avec {color=#a29bfe}{b}[yasuka_name]{/b}{/color}." id talk_ubs_f2d7763b
-    x "最重要的是，我必须借此机会与 {color=#a29bfe}{b}安香{/b}{/color} 解决这个问题。" id talk_ubs_f2d7763b
+    x "最重要的是，我必须借此机会与 [yasuka.n] 解决这个问题。" id talk_ubs_f2d7763b
 
 # game/scripts/story/talking/tak_ubs.rpy:271
 translate chinese_simplified talk_ubs_5f1e7a60:
@@ -711,8 +711,8 @@ translate chinese_simplified talk_ubs_b1d977df:
 # game/scripts/story/talking/tak_ubs.rpy:284
 translate chinese_simplified talk_ubs_3e0a2cd2:
 
-    # player "Je ferais mieux d'aller au restaurant, je parlerais a {color=#fd79a8}{b}纪子{/b}{/color} ce soir." id talk_ubs_3e0a2cd2
-    player "我最好去餐厅，今晚我会和 {color=#fd79a8}{b}纪子{/b}{/color} 谈谈。" id talk_ubs_3e0a2cd2
+    # player "Je ferais mieux d'aller au restaurant, je parlerais a [noriko.n] ce soir." id talk_ubs_3e0a2cd2
+    player "我最好去餐厅，今晚我会和 [noriko.n] 谈谈。" id talk_ubs_3e0a2cd2
 
 # game/scripts/story/talking/tak_ubs.rpy:299
 translate chinese_simplified talk_ubs_ed9d1ef5:

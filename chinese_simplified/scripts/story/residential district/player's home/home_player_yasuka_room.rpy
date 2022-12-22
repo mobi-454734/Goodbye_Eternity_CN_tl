@@ -117,8 +117,8 @@ translate chinese_simplified talk_yasuka_6e89e86b:
 # game/scripts/story/residential district/player's home/home_player_yasuka_room.rpy:63
 translate chinese_simplified talk_yasuka_a085624b:
 
-    # yasukac "{color=#0984e3}{b}[player_name]{/b}{/color}... Je suis sa mère, je ne suis pas aveugle." id talk_yasuka_a085624b
-    yasukac "{color=#0984e3}{b}[player_name]{/b}{/color}...我是他的妈妈，我不是盲人。" id talk_yasuka_a085624b
+    # yasukac "[player.n]... Je suis sa mère, je ne suis pas aveugle." id talk_yasuka_a085624b
+    yasukac "[player.n]...我是他的妈妈，我不是盲人。" id talk_yasuka_a085624b
 
 # game/scripts/story/residential district/player's home/home_player_yasuka_room.rpy:65
 translate chinese_simplified talk_yasuka_b0076dcb:
@@ -669,8 +669,8 @@ translate chinese_simplified home_player_yasuka_room_1096b23c:
 # game/scripts/story/residential district/player's home/home_player_yasuka_room.rpy:231
 translate chinese_simplified home_player_yasuka_room_376a7866:
 
-    # playerc "Je t'en prie, appelle-moi juste {color=#0984e3}{b}[player_name]{/b}{/color}." id home_player_yasuka_room_376a7866
-    playerc "请叫我{color=#0984e3}{b}[player_name]{/b}{/color}。" id home_player_yasuka_room_376a7866
+    # playerc "Je t'en prie, appelle-moi juste [player.n]." id home_player_yasuka_room_376a7866
+    playerc "请叫我[player.n]。" id home_player_yasuka_room_376a7866
 
 # game/scripts/story/residential district/player's home/home_player_yasuka_room.rpy:233
 translate chinese_simplified home_player_yasuka_room_17b85ae6:
@@ -1077,8 +1077,8 @@ translate chinese_simplified home_player_yasuka_room_d073fa81:
 # game/scripts/story/residential district/player's home/home_player_yasuka_room.rpy:382
 translate chinese_simplified home_player_yasuka_room_a8a3eded:
 
-    # noriko "{size=-15}As-tu vu {color=#0984e3}{b}[player_name]{/b}{/color}?{/size}" id home_player_yasuka_room_a8a3eded
-    noriko "{size=-15}现成的 {color=#0984e3}{b}[player_name]{/b}{/color}?{/size}" id home_player_yasuka_room_a8a3eded
+    # noriko "{size=-15}As-tu vu [player.n]?{/size}" id home_player_yasuka_room_a8a3eded
+    noriko "{size=-15}现成的 [player.n]?{/size}" id home_player_yasuka_room_a8a3eded
 
 # game/scripts/story/residential district/player's home/home_player_yasuka_room.rpy:383
 translate chinese_simplified home_player_yasuka_room_8ee16a32:
@@ -1529,8 +1529,8 @@ translate chinese_simplified yasuka_love_sexe_repeat_5c599ea4:
 # game/scripts/story/residential district/player's home/home_player_yasuka_room.rpy:536
 translate chinese_simplified yasuka_love_sexe_repeat_cb34eab4:
 
-    # norikoc "{size=-10}Tu es avec {color=#0984e3}{b}[player_name]{/b}{/color}?{/size}" id yasuka_love_sexe_repeat_cb34eab4
-    norikoc "{size=-10}星期二 {color=#0984e3}{b}[player_name]{/b}{/color}?{/size}" id yasuka_love_sexe_repeat_cb34eab4
+    # norikoc "{size=-10}Tu es avec [player.n]?{/size}" id yasuka_love_sexe_repeat_cb34eab4
+    norikoc "{size=-10}星期二 [player.n]?{/size}" id yasuka_love_sexe_repeat_cb34eab4
 
 # game/scripts/story/residential district/player's home/home_player_yasuka_room.rpy:537
 translate chinese_simplified yasuka_love_sexe_repeat_a8559f90:
@@ -1577,8 +1577,8 @@ translate chinese_simplified yasuka_love_sexe_repeat_dfbd72bc:
 # game/scripts/story/residential district/player's home/home_player_yasuka_room.rpy:546
 translate chinese_simplified yasuka_love_sexe_repeat_df6fa795:
 
-    # yasukac "Ma cherie je suis très occupée avec {color=#0984e3}{b}[player_name]{/b}{/color}!" id yasuka_love_sexe_repeat_df6fa795
-    yasukac "亲爱的，我正忙着处理 {color=#0984e3}{b}[player_name]{/b}{/color}！" id yasuka_love_sexe_repeat_df6fa795
+    # yasukac "Ma cherie je suis très occupée avec [player.n]!" id yasuka_love_sexe_repeat_df6fa795
+    yasukac "亲爱的，我正忙着处理 [player.n]！" id yasuka_love_sexe_repeat_df6fa795
 
 # game/scripts/story/residential district/player's home/home_player_yasuka_room.rpy:547
 translate chinese_simplified yasuka_love_sexe_repeat_157cf316:

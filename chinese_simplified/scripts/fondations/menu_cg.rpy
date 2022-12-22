@@ -3,60 +3,8 @@
 translate chinese_simplified strings:
 
     # game/scripts/fondations/menu_cg.rpy:5
-    old "Premiere apparition d'[asami_name]"
-    new "麻美首次亮相"
-
-    # game/scripts/fondations/menu_cg.rpy:5
-    old "Seconde apparition d'[asami_name]"
-    new "麻美第二次出现"
-
-    # game/scripts/fondations/menu_cg.rpy:5
-    old "Troisième apparition d'[asami_name]"
-    new "麻美第三次出现"
-
-    # game/scripts/fondations/menu_cg.rpy:5
-    old "Empecher [yasuka_name] de travailler comme hostesse."
-    new "阻止安香担任女技师。"
-
-    # game/scripts/fondations/menu_cg.rpy:5
-    old "Dormir avec [yasuka_name] plusieurs fois."
-    new "和安香睡了好几次。"
-
-    # game/scripts/fondations/menu_cg.rpy:5
-    old "Ecouter a la porte de la chambre de [noriko_name]"
-    new "在纪子房门口偷听"
-
-    # game/scripts/fondations/menu_cg.rpy:5
-    old "Faire chanter [noriko_name]"
-    new "勒索纪子"
-
-    # game/scripts/fondations/menu_cg.rpy:5
-    old "Choisir de dominer [noriko_name]"
-    new "支配纪子"
-
-    # game/scripts/fondations/menu_cg.rpy:5
-    old "Se faire dominer par [noriko_name]"
-    new "被纪子支配"
-
-    # game/scripts/fondations/menu_cg.rpy:5
-    old "Atteindre 6 en Endurance avec [macumba_name]"
-    new "找马库姆巴锻炼耐力达到 6"
-
-    # game/scripts/fondations/menu_cg.rpy:5
-    old "Entrainement avec [macumba_name]"
-    new "与马库姆巴一起训练"
-
-    # game/scripts/fondations/menu_cg.rpy:5
     old "Vouloir travailler pour le restaurant."
     new "在餐厅找工作。"
-
-    # game/scripts/fondations/menu_cg.rpy:5
-    old "Corrompre [asami_name]"
-    new "让麻美堕落"
-
-    # game/scripts/fondations/menu_cg.rpy:5
-    old "Se lié d'amitié avec [asami_name]"
-    new "和麻美做朋友"
 
     # game/scripts/fondations/menu_cg.rpy:5
     old "Faire le bon choix, au bon moment."

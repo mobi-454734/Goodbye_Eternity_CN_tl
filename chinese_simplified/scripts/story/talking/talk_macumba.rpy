@@ -387,8 +387,8 @@ translate chinese_simplified talk_macumba_4472d899:
 # game/scripts/story/talking/talk_macumba.rpy:163
 translate chinese_simplified talk_macumba_3a64be12:
 
-    # player "Je crois que je préfère me faire insulter par {color=#fd79a8}{b}纪子{/b}{/color}" id talk_macumba_3a64be12
-    player "我想我更喜欢被 {color=#fd79a8}{b}纪子{/b}{/color} 侮辱。" id talk_macumba_3a64be12
+    # player "Je crois que je préfère me faire insulter par [noriko.n]" id talk_macumba_3a64be12
+    player "我想我更喜欢被 [noriko.n] 侮辱。" id talk_macumba_3a64be12
 
 # game/scripts/story/talking/talk_macumba.rpy:169
 translate chinese_simplified talk_macumba_1af9c743:
@@ -555,8 +555,8 @@ translate chinese_simplified talk_macumba_3ddd886e_1:
 # game/scripts/story/talking/talk_macumba.rpy:230
 translate chinese_simplified talk_macumba_58c11423:
 
-    # centered "{color=#0984e3}{b}[player_name]{/b}{/color} se fait poursuivre par {color=#32ff7e}{b}[macumba_name]{/b}{/color}." id talk_macumba_58c11423
-    centered "{color=#0984e3}{b}[player_name]{/b}{/color} 被 {color=#32ff7e}{b}马库姆巴{/b}{/color} 追赶。" id talk_macumba_58c11423
+    # centered "[player.n] se fait poursuivre par {color=#32ff7e}{b}[macumba_name]{/b}{/color}." id talk_macumba_58c11423
+    centered "[player.n] 被 [macumba.n] 追赶。" id talk_macumba_58c11423
 
 # game/scripts/story/talking/talk_macumba.rpy:238
 translate chinese_simplified talk_macumba_ed6995c5:
@@ -664,7 +664,7 @@ translate chinese_simplified menu_macumba_b7dd60c2:
 translate chinese_simplified menu_macumba_fcedabc5:
 
     # player "Salut {color=#32ff7e}{b}[macumba_name]{/b}{/color}, non pas exactement." id menu_macumba_fcedabc5
-    player "嗨 {color=#32ff7e}{b}马库姆巴{/b}{/color}，不，不完全是。" id menu_macumba_fcedabc5
+    player "嗨 [macumba.n]，不，不完全是。" id menu_macumba_fcedabc5
 
 # game/scripts/story/talking/talk_macumba.rpy:300
 translate chinese_simplified menu_macumba_181b6018:
@@ -736,7 +736,7 @@ translate chinese_simplified menu_macumba_0a26c962:
 translate chinese_simplified menu_macumba_cc260b24:
 
     # player "C'est vraiment toi le meilleur dans cette ville {color=#32ff7e}{b}[macumba_name]{/b}{/color}." id menu_macumba_cc260b24
-    player "你真的是这个镇上最好的{color=#32ff7e}{b}马库姆巴{/b}{/color}。" id menu_macumba_cc260b24
+    player "你真的是这个镇上最好的[macumba.n]。" id menu_macumba_cc260b24
 
 # game/scripts/story/talking/talk_macumba.rpy:312
 translate chinese_simplified menu_macumba_f34412f1:
@@ -910,13 +910,13 @@ translate chinese_simplified talk_macumba_f5f1bd94:
 translate chinese_simplified talk_macumba_bab620a1:
 
     # player "Merci pour tout {color=#32ff7e}{b}[macumba_name]{/b}{/color}." id talk_macumba_bab620a1
-    player "非常感谢 {color=#32ff7e}{b}马库姆巴{/b}{/color}。" id talk_macumba_bab620a1
+    player "非常感谢 [macumba.n]。" id talk_macumba_bab620a1
 
 # game/scripts/story/talking/talk_macumba.rpy:363
 translate chinese_simplified talk_macumba_b4ad6e32:
 
     # macumba "De rien, petit frère, tu ne pourras toujours compter sur moi." id talk_macumba_b4ad6e32
-    macumba "你永远可以相信 {color=#32ff7e}{b}马库姆巴{/b}{/color} 啊小老弟。" id talk_macumba_b4ad6e32
+    macumba "你永远可以相信 [macumba.n] 啊小老弟。" id talk_macumba_b4ad6e32
 
 # game/scripts/story/talking/talk_macumba.rpy:366
 translate chinese_simplified talk_macumba_af0127b0:
@@ -957,8 +957,8 @@ translate chinese_simplified menu_macumba_07c7924b:
 # game/scripts/story/talking/talk_macumba.rpy:388
 translate chinese_simplified menu_macumba_75914ab3:
 
-    # x "Note a moi-même ne jamais manquer de respect a {color=#32ff7e}{b}马库姆巴{/b}{/color}." id menu_macumba_75914ab3
-    x "提示自己永远不要不尊重 {color=#32ff7e}{b}马库姆巴{/b}{/color}。" id menu_macumba_75914ab3
+    # x "Note a moi-même ne jamais manquer de respect a [macumba.n]." id menu_macumba_75914ab3
+    x "提示自己永远不要不尊重 [macumba.n]。" id menu_macumba_75914ab3
 
 # game/scripts/story/talking/talk_macumba.rpy:393
 translate chinese_simplified menu_macumba_9c5c4b8b:
@@ -1053,8 +1053,8 @@ translate chinese_simplified menu_macumba_4894ef79:
 # game/scripts/story/talking/talk_macumba.rpy:409
 translate chinese_simplified menu_macumba_898192d5:
 
-    # kimochi frustration "Je vais faire comme si je n’avais pas entendu, mais tu mérites d'être giflé {color=#0984e3}{b}[player_name]{/b}{/color}." id menu_macumba_898192d5
-    kimochi frustration "我会装作没听见，但你应该被扇耳光{color=#0984e3}{b}[player_name]{/b}{/color}。" id menu_macumba_898192d5
+    # kimochi frustration "Je vais faire comme si je n’avais pas entendu, mais tu mérites d'être giflé [player.n]." id menu_macumba_898192d5
+    kimochi frustration "我会装作没听见，但你应该被扇耳光[player.n]。" id menu_macumba_898192d5
 
 # game/scripts/story/talking/talk_macumba.rpy:410
 translate chinese_simplified menu_macumba_eb60e984:
@@ -1072,7 +1072,7 @@ translate chinese_simplified menu_macumba_99da27f6:
 translate chinese_simplified menu_macumba_b4587d91:
 
     # player "...{color=#32ff7e}{b}[macumba_name]{/b}{/color} Je te présente {color=#55efc4}{b}[kimochi_name]{/b}{/color}, c'est grâce a lui que j'ai pu savoir qu'elle était en danger." id menu_macumba_b4587d91
-    player "...{color=#32ff7e}{b}马库姆巴{/b}{/color} 这是{color=#55efc4}{b}爽{/b}{/color}，多亏了他我能够知道她处于危险之中。" id menu_macumba_b4587d91
+    player "...[macumba.n] 这是[kimochi.n]，多亏了他我能够知道她处于危险之中。" id menu_macumba_b4587d91
 
 # game/scripts/story/talking/talk_macumba.rpy:413
 translate chinese_simplified menu_macumba_bcabef1d:
@@ -1132,7 +1132,7 @@ translate chinese_simplified menu_macumba_eb94a0ae:
 translate chinese_simplified menu_macumba_8cf0f16a:
 
     # player "Est-ce que tu peux t'occuper de l'entrainement de {color=#55efc4}{b}[kimochi_name]{/b}{/color}?" id menu_macumba_8cf0f16a
-    player "你能负责培训 {color=#55efc4}{b}爽{/b}{/color} 吗？" id menu_macumba_8cf0f16a
+    player "你能负责培训 [kimochi.n] 吗？" id menu_macumba_8cf0f16a
 
 # game/scripts/story/talking/talk_macumba.rpy:423
 translate chinese_simplified menu_macumba_7d529f53:
@@ -1156,7 +1156,7 @@ translate chinese_simplified menu_macumba_1cf6f306:
 translate chinese_simplified menu_macumba_d111c089:
 
     # player happy "{color=#55efc4}{b}[kimochi_name]{/b}{/color}... {color=#32ff7e}{b}[macumba_name]{/b}{/color} ne déconne jamais avec l'entrainement." id menu_macumba_d111c089
-    player happy "{color=#55efc4}{b}爽{/b}{/color}... {color=#32ff7e}{b}马库姆巴{/b}{/color} 对待训练可是认真的啊。" id menu_macumba_d111c089
+    player happy "[kimochi.n]... [macumba.n] 对待训练可是认真的啊。" id menu_macumba_d111c089
 
 # game/scripts/story/talking/talk_macumba.rpy:427
 translate chinese_simplified menu_macumba_35b40448:
@@ -1168,7 +1168,7 @@ translate chinese_simplified menu_macumba_35b40448:
 translate chinese_simplified menu_macumba_85e0aca3:
 
     # centered "{color=#ea8685}{b}[asami_name]{/b}{/color} avait raison, cet entrainement est vraiment trop étrange." id menu_macumba_85e0aca3
-    centered "{color=#ea8685}{b}麻美{/b}{/color} 是对的，这个训练实在是太勾八怪了。" id menu_macumba_85e0aca3
+    centered "[asami.n] 是对的，这个训练实在是太勾八怪了。" id menu_macumba_85e0aca3
 
 # game/scripts/story/talking/talk_macumba.rpy:435
 translate chinese_simplified menu_macumba_96e02e04:
@@ -1185,8 +1185,8 @@ translate chinese_simplified menu_macumba_b95095b0:
 # game/scripts/story/talking/talk_macumba.rpy:437
 translate chinese_simplified menu_macumba_05701390:
 
-    # kimochi "Ptain {color=#0984e3}{b}[player_name]{/b}{/color} sale traitre dans quoi tu m'as embarqué?" id menu_macumba_05701390
-    kimochi "我叼你奶奶的，{color=#0984e3}{b}[player_name]{/b}{/color}你个肮脏的叛徒，你把我拖进了第几层地狱啊这是？" id menu_macumba_05701390
+    # kimochi "Ptain [player.n] sale traitre dans quoi tu m'as embarqué?" id menu_macumba_05701390
+    kimochi "我叼你奶奶的，[player.n]你个肮脏的叛徒，你把我拖进了第几层地狱啊这是？" id menu_macumba_05701390
 
 # game/scripts/story/talking/talk_macumba.rpy:438
 translate chinese_simplified menu_macumba_5a17c89d:
@@ -1197,8 +1197,8 @@ translate chinese_simplified menu_macumba_5a17c89d:
 # game/scripts/story/talking/talk_macumba.rpy:439
 translate chinese_simplified menu_macumba_8ea247da:
 
-    # player "La méthode de {color=#32ff7e}{b}马库姆巴{/b}{/color} parait peut être étrange aux premiers abords et au second aussi, mais..." id menu_macumba_8ea247da
-    player "{color=#32ff7e}{b}马库姆巴{/b}{/color} 的方法乍看之下可能看起来很奇怪，但..." id menu_macumba_8ea247da
+    # player "La méthode de [macumba.n] parait peut être étrange aux premiers abords et au second aussi, mais..." id menu_macumba_8ea247da
+    player "[macumba.n] 的方法乍看之下可能看起来很奇怪，但..." id menu_macumba_8ea247da
 
 # game/scripts/story/talking/talk_macumba.rpy:440
 translate chinese_simplified menu_macumba_894e2493:
@@ -1258,7 +1258,7 @@ translate chinese_simplified menu_macumba_59da16e5:
 translate chinese_simplified menu_macumba_59f4ff22:
 
     # player "Il est temps d'aller voir {color=#ea8685}{b}[asami_name]{/b}{/color} chez elle!" id menu_macumba_59f4ff22
-    player "是时候去看看{color=#ea8685}{b}麻美{/b}{/color}了！" id menu_macumba_59f4ff22
+    player "是时候去看看[asami.n]了！" id menu_macumba_59f4ff22
 
 # game/scripts/story/talking/talk_macumba.rpy:472
 translate chinese_simplified menu_macumba_c3d2b7e1:
@@ -1330,7 +1330,7 @@ translate chinese_simplified menu_macumba_808dd542:
 translate chinese_simplified menu_macumba_0006076e:
 
     # player "Bon {color=#32ff7e}{b}[macumba_name]{/b}{/color} a ses propres problèmes a géré." id menu_macumba_0006076e
-    player "好吧，{color=#32ff7e}{b}马库姆巴{/b}{/color} 有自己的问题要处理。" id menu_macumba_0006076e
+    player "好吧，[macumba.n] 有自己的问题要处理。" id menu_macumba_0006076e
 
 # game/scripts/story/talking/talk_macumba.rpy:486
 translate chinese_simplified menu_macumba_ff9107c5:
@@ -1347,8 +1347,8 @@ translate chinese_simplified menu_macumba_bc2aaf26:
 # game/scripts/story/talking/talk_macumba.rpy:498
 translate chinese_simplified talk_macumba_082fc560:
 
-    # "Finissez la suite de quête avec {color=#6c5ce7}{b}[sakuya_name]{/b}{/color} pour débloquer la suite de l'histoire." id talk_macumba_082fc560
-    "用 {color=#6c5ce7}{b}[sakuya_name]{/b}{/color} 完成任务线以解锁故事的其余部分。" id talk_macumba_082fc560
+    # "Finissez la suite de quête avec [sakuya.n] pour débloquer la suite de l'histoire." id talk_macumba_082fc560
+    "用 [sakuya.n] 完成任务线以解锁故事的其余部分。" id talk_macumba_082fc560
 
 # game/scripts/story/talking/talk_macumba.rpy:502
 translate chinese_simplified talk_macumba_6259404c:
@@ -1453,8 +1453,8 @@ translate chinese_simplified strings:
     new "{color=#ff0}{b}转移注意力{/b}{/color}"
 
     # game/scripts/story/talking/talk_macumba.rpy:32
-    old "Et si je donnais mon vieux lecteur CD à {color=#32ff7e}{b}[macumba_name]{/b}{/color} en échange d'un coaching ?"
-    new "我要不干脆回家把旧的随身听拿给 {color=#32ff7e}{b}马库姆巴{/b}{/color}，这样就可以拜托他当我的教练了？"
+    #old "Et si je donnais mon vieux lecteur CD à {color=#32ff7e}{b}[macumba_name]{/b}{/color} en échange d'un coaching ?"
+    #new "我要不干脆回家把旧的随身听拿给 [macumba.n]，这样就可以拜托他当我的教练了？"
 
     # game/scripts/story/talking/talk_macumba.rpy:33
     old "Donnez de la musique à cet homme!"
@@ -1469,8 +1469,8 @@ translate chinese_simplified strings:
     new "真是忙碌的一天，睡觉应该是现在最好的选择了。"
 
     # game/scripts/story/talking/talk_macumba.rpy:111
-    old "Faire ces preuves auprès de {color=32ff7e}{b}[macumba_name]{/b}{/color}"
-    new "向 {color=32ff7e}{b}马库姆巴{/b}{/color} 证明这一点"
+    #old "Faire ces preuves auprès de {color=32ff7e}{b}[macumba_name]{/b}{/color}"
+    #new "向 {color=32ff7e}{b}马库姆巴{/b}{/color} 证明这一点"
 
     # game/scripts/story/talking/talk_macumba.rpy:118
     old "Vous donnez le baladeur CD à {}"
@@ -1502,7 +1502,7 @@ translate chinese_simplified strings:
 
     # game/scripts/story/talking/talk_macumba.rpy:374
     old "Allez chercher {color=#ea8685}{b}[asami_name]{/b}{/color} chez elle."
-    new "去 {color=#ea8685}{b}麻美{/b}{/color}家里找她。"
+    new "去 [asami.n]家里找她。"
 
     # game/scripts/story/talking/talk_macumba.rpy:459
     old "Trouver la personne qui pourrait vous aider."
@@ -1510,7 +1510,7 @@ translate chinese_simplified strings:
 
     # game/scripts/story/talking/talk_macumba.rpy:464
     old "Progresser dans l'histoire d'{color=#ea8685}{b}[asami_name]{/b}{/color} pour continuer l'histoire de {color=#a29bfe}{b}[yasuka_name]{/b}{/color}"
-    new "通过 {color=#ea8685}{b}麻美{/b}{/color} 的故事情节以继续推进 {color=#a29bfe}{b}安香{/b}{/color}的故事。"
+    new "通过 [asami.n] 的故事情节以继续推进 [yasuka.n] 的故事。"
 
 # TODO: Translation updated at 2022-12-15 12:14
 

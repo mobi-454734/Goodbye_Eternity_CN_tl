@@ -4,7 +4,7 @@
 translate chinese_simplified konbini_exterior_310c427c:
 
     # player "{color=#ffcccc}{b}[chiaki_name]{/b}{/color}!" id konbini_exterior_310c427c
-    player "{color=#ffcccc}{b}千秋{/b}{/color}！" id konbini_exterior_310c427c
+    player "[chiaki.n]！" id konbini_exterior_310c427c
 
 # game/scripts/story/world/konbini/konbini_exterior.rpy:38
 translate chinese_simplified konbini_exterior_3eef1488:
@@ -100,7 +100,7 @@ translate chinese_simplified konbini_exterior_b73b3bf5:
 translate chinese_simplified konbini_exterior_9020032d:
 
     # minato "{color=#ffcccc}{b}[chiaki_name]{/b}{/color} je t'assure que si jamais tu recommences à t'enfuir de la maison sans prévenir." id konbini_exterior_9020032d
-    minato "{color=#ffcccc}{b}千秋{/b}{/color} 下次再在这样偷跑出去。" id konbini_exterior_9020032d
+    minato "[chiaki.n] 下次再在这样偷跑出去。" id konbini_exterior_9020032d
 
 # game/scripts/story/world/konbini/konbini_exterior.rpy:65
 translate chinese_simplified konbini_exterior_812a84ad:
@@ -159,8 +159,8 @@ translate chinese_simplified konbini_exterior_aaedf05c:
 # game/scripts/story/world/konbini/konbini_exterior.rpy:74
 translate chinese_simplified konbini_exterior_9e0efe8c:
 
-    # minato "Je veux bien être sympa avec toi {color=#0984e3}{b}[player_name]{/b}{/color} mais faut pas déconner avec ça." id konbini_exterior_9e0efe8c
-    minato "我一直待你不薄吧 {color=#0984e3}{b}[player_name]{/b}{/color}，你现在就这样报答我的吗？" id konbini_exterior_9e0efe8c
+    # minato "Je veux bien être sympa avec toi [player.n] mais faut pas déconner avec ça." id konbini_exterior_9e0efe8c
+    minato "我一直待你不薄吧 [player.n]，你现在就这样报答我的吗？" id konbini_exterior_9e0efe8c
 
 # game/scripts/story/world/konbini/konbini_exterior.rpy:75
 translate chinese_simplified konbini_exterior_ce3ffa61:
@@ -220,7 +220,7 @@ translate chinese_simplified konbini_exterior_a38bf2bd:
 translate chinese_simplified konbini_exterior_eb5d37cd:
 
     # minato upset "L'entretien, les factures, l'éducation de {color=#ffcccc}{b}[chiaki_name]{/b}{/color}..." id konbini_exterior_eb5d37cd
-    minato upset "{color=#ffcccc}{b}千秋{/b}{/color} 的衣食住行吃穿用度全都要我来管..." id konbini_exterior_eb5d37cd
+    minato upset "[chiaki.n] 的衣食住行吃穿用度全都要我来管..." id konbini_exterior_eb5d37cd
 
 # game/scripts/story/world/konbini/konbini_exterior.rpy:85
 translate chinese_simplified konbini_exterior_9db2471e:
@@ -250,7 +250,7 @@ translate chinese_simplified konbini_exterior_02482872:
 translate chinese_simplified konbini_exterior_20327d8a:
 
     # player "{color=#ffcccc}{b}[chiaki_name]{/b}{/color} tu confirmes tout ce qu'a dit ton grand frère?" id konbini_exterior_20327d8a
-    player "{color=#ffcccc}{b}千秋{/b}{/color} 你能证实你哥哥所说的一切吗？" id konbini_exterior_20327d8a
+    player "[chiaki.n] 你能证实你哥哥所说的一切吗？" id konbini_exterior_20327d8a
 
 # game/scripts/story/world/konbini/konbini_exterior.rpy:90
 translate chinese_simplified konbini_exterior_10047fd9:
@@ -304,7 +304,7 @@ translate chinese_simplified konbini_exterior_1036c51c:
 translate chinese_simplified konbini_exterior_4b5d2be5:
 
     # player "Pas de problème, n'hésite pas a me laisser {color=#ffcccc}{b}[chiaki_name]{/b}{/color} un de ces jours, ça te permettra de souffler un coup." id konbini_exterior_4b5d2be5
-    player "没关系，你也可以让 {color=#ffcccc}{b}千秋{/b}{/color} 来我家住几天，你好休息几天。" id konbini_exterior_4b5d2be5
+    player "没关系，你也可以让 [chiaki.n] 来我家住几天，你好休息几天。" id konbini_exterior_4b5d2be5
 
 # game/scripts/story/world/konbini/konbini_exterior.rpy:110
 translate chinese_simplified konbini_exterior_ecc23143:
@@ -352,7 +352,7 @@ translate chinese_simplified konbini_exterior_96c5b1e4:
 translate chinese_simplified konbini_exterior_9f561f61:
 
     # player "{color=#ea8685}{b}[asami_name]{/b}{/color} tu vois qui c'est?" id konbini_exterior_9f561f61
-    player "你认识 {color=#ea8685}{b}麻美{/b}{/color} 吧？" id konbini_exterior_9f561f61
+    player "你认识 [asami.n] 吧？" id konbini_exterior_9f561f61
 
 # game/scripts/story/world/konbini/konbini_exterior.rpy:122
 translate chinese_simplified konbini_exterior_9e180a3c:
@@ -394,7 +394,7 @@ translate chinese_simplified konbini_exterior_1cc81edc:
 translate chinese_simplified konbini_exterior_b96c5869:
 
     # player "Et bien...{color=#ea8685}{b}[asami_name]{/b}{/color} tu viens de te prendre un sacré râteau..." id konbini_exterior_b96c5869
-    player "嗯...{color=#ea8685}{b}麻美{/b}{/color} 刚刚面对一个地狱般的反驳..." id konbini_exterior_b96c5869
+    player "嗯...[asami.n] 刚刚面对一个地狱般的反驳..." id konbini_exterior_b96c5869
 
 # game/scripts/story/world/konbini/konbini_exterior.rpy:132
 translate chinese_simplified konbini_exterior_5d986194:
@@ -457,10 +457,6 @@ translate chinese_simplified konbini_exterior_d5a60af7:
     player "即使我必须在那里过夜，我也必须继续寻找！"
 
 translate chinese_simplified strings:
-
-    # game/scripts/story/world/konbini/konbini_exterior.rpy:31
-    old "Retrouvez [asami_name] au parc pour lui annoncer la mauvaise nouvelle."
-    new "在公园与 麻美 会面，告诉她这个坏消息。"
 
     # game/scripts/story/world/konbini/konbini_exterior.rpy:170
     old "Cherchez dans toute la ville."
@@ -532,13 +528,13 @@ translate chinese_simplified konbini_exterior_a05403c9:
 translate chinese_simplified konbini_exterior_bf09d7e3:
 
     # player "{color=#ffcccc}{b}[chiaki_name]{/b}{/color}, tu es daccord avec ce qu'il dit?" id konbini_exterior_bf09d7e3
-    player "{color=#ffcccc}{b}千秋{/b}{/color}，是他说的那样吗？" id konbini_exterior_bf09d7e3
+    player "[chiaki.n]，是他说的那样吗？" id konbini_exterior_bf09d7e3
 
 # game/scripts/story/world/konbini/konbini_exterior.rpy:110
 translate chinese_simplified konbini_exterior_de37314b:
 
     # player "Pas de problème, n'hésite pas a me laisser {color=#ffcccc}{b}[chiaki_name]{/b}{/color} un de ces jours!" id konbini_exterior_de37314b
-    player "你也不必一个人承担一切，{color=#ffcccc}{b}千秋{/b}{/color}也可以来我家住一阵子！" id konbini_exterior_de37314b
+    player "你也不必一个人承担一切，[chiaki.n]也可以来我家住一阵子！" id konbini_exterior_de37314b
 
 # game/scripts/story/world/konbini/konbini_exterior.rpy:111
 translate chinese_simplified konbini_exterior_f56abd17:

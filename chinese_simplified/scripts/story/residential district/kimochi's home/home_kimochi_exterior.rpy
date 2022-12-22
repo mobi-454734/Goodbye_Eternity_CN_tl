@@ -34,7 +34,7 @@ translate chinese_simplified home_kimochi_exterior_0f888b67:
 translate chinese_simplified home_kimochi_exterior_a438fbf2:
 
     # kimochi horny "Je vais devoir y retourner, encore un peu et {color=#ffcccc}{b}[chiaki_name]{/b}{/color} sera a m-" id home_kimochi_exterior_a438fbf2
-    kimochi horny "我得回去，再晚一点，{color=#ffcccc}{b}千秋{/b}{/color} 可能就……" id home_kimochi_exterior_a438fbf2
+    kimochi horny "我得回去，再晚一点，[chiaki.n] 可能就……" id home_kimochi_exterior_a438fbf2
 
 # game/scripts/story/residential district/kimochi's home/home_kimochi_exterior.rpy:52
 translate chinese_simplified home_kimochi_exterior_ac26f2a4:
@@ -268,7 +268,7 @@ translate chinese_simplified home_kimochi_exterior_00f2ab18:
 translate chinese_simplified home_kimochi_exterior_66a4f78c:
 
     # kimochi sad "Mais... et {color=#ffcccc}{b}[chiaki_name]{/b}{/color}?" id home_kimochi_exterior_66a4f78c
-    kimochi sad "但是 {color=#ffcccc}{b}千秋{/b}{/color} 怎么办？" id home_kimochi_exterior_66a4f78c
+    kimochi sad "但是 [chiaki.n] 怎么办？" id home_kimochi_exterior_66a4f78c
 
 # game/scripts/story/residential district/kimochi's home/home_kimochi_exterior.rpy:105
 translate chinese_simplified home_kimochi_exterior_6673da62:
@@ -298,7 +298,7 @@ translate chinese_simplified home_kimochi_exterior_e8b69145:
 translate chinese_simplified home_kimochi_exterior_a271a195:
 
     # x "Pour tirer un trait sur tout ça je vais devoir me retrouver seul avec {color=#ffcccc}{b}[chiaki_name]{/b}{/color}." id home_kimochi_exterior_a271a195
-    x "要理解这一切，我需要和 {color=#ffcccc}{b}千秋{/b}{/color} 单独相处。" id home_kimochi_exterior_a271a195
+    x "要理解这一切，我需要和 [chiaki.n] 单独相处。" id home_kimochi_exterior_a271a195
 
 # game/scripts/story/residential district/kimochi's home/home_kimochi_exterior.rpy:116
 translate chinese_simplified home_kimochi_exterior_caf0a714:

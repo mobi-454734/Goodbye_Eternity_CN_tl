@@ -3,8 +3,8 @@
 # game/scripts/story/business district/restaurant/restaurant_interior_unavailable.rpy:14
 translate chinese_simplified restaurant_interior_unavailable_ba815a6b:
 
-    # player "{color=#6c5ce7}{b}咲夜{/b}{/color} m'a dit que je commencerais a travailler d'ici quelques jours." id restaurant_interior_unavailable_ba815a6b
-    player "{color=#6c5ce7}{b}咲夜{/b}{/color} 告诉我，我将在几天后开始工作。" id restaurant_interior_unavailable_ba815a6b
+    # player "[sakuya.n] m'a dit que je commencerais a travailler d'ici quelques jours." id restaurant_interior_unavailable_ba815a6b
+    player "[sakuya.n] 告诉我，我将在几天后开始工作。" id restaurant_interior_unavailable_ba815a6b
 
 # game/scripts/story/business district/restaurant/restaurant_interior_unavailable.rpy:15
 translate chinese_simplified restaurant_interior_unavailable_5184ef65:

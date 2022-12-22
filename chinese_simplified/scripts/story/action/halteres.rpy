@@ -22,7 +22,7 @@ translate chinese_simplified halteres_a47363ab:
 translate chinese_simplified halteres_6031261b:
 
     # player -sad "Selon {color=#32ff7e}{b}[macumba_name]{/b}{/color} le bandeau se branche ici sur le boitier..." id halteres_6031261b
-    player -sad "根据 {color=#32ff7e}{b}马库姆巴{/b}{/color} 所说，头带该连接到盒子的这一部分..." id halteres_6031261b
+    player -sad "根据 [macumba.n] 所说，头带该连接到盒子的这一部分..." id halteres_6031261b
 
 # game/scripts/story/action/halteres.rpy:23
 translate chinese_simplified halteres_e2547d9a:

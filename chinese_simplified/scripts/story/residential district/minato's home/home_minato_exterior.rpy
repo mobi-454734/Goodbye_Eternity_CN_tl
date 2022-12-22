@@ -117,8 +117,8 @@ translate chinese_simplified home_minato_exterior_b4e69ca9:
 # game/scripts/story/residential district/minato's home/home_minato_exterior.rpy:68
 translate chinese_simplified home_minato_exterior_b9d064c5:
 
-    # minato happy "Putain, mais non c'est juste {color=#0984e3}{b}[player_name]{/b}{/color}." id home_minato_exterior_b9d064c5
-    minato happy "哦！这不 {color=#0984e3}{b}[player_name]{/b}{/color}嘛。" id home_minato_exterior_b9d064c5
+    # minato happy "Putain, mais non c'est juste [player.n]." id home_minato_exterior_b9d064c5
+    minato happy "哦！这不 [player.n]嘛。" id home_minato_exterior_b9d064c5
 
 # game/scripts/story/residential district/minato's home/home_minato_exterior.rpy:69
 translate chinese_simplified home_minato_exterior_265bc4ec:
@@ -160,7 +160,7 @@ translate chinese_simplified home_minato_exterior_7ff9ae99:
 translate chinese_simplified home_minato_exterior_54977133:
 
     # player "Pas grand-chose a vrai dire, savoir comment allait {color=#ffcccc}{b}[chiaki_name]{/b}{/color}." id home_minato_exterior_54977133
-    player "没什么，只是好奇 {color=#ffcccc}{b}千秋{/b}{/color} 最近过得怎么样。" id home_minato_exterior_54977133
+    player "没什么，只是好奇 [chiaki.n] 最近过得怎么样。" id home_minato_exterior_54977133
 
 # game/scripts/story/residential district/minato's home/home_minato_exterior.rpy:77
 translate chinese_simplified home_minato_exterior_c616a4dc:
@@ -172,7 +172,7 @@ translate chinese_simplified home_minato_exterior_c616a4dc:
 translate chinese_simplified home_minato_exterior_92f584b1:
 
     # minato "{color=#ffcccc}{b}[chiaki_name]{/b}{/color} va très bien et quant à ma petite amie tu viens de la voir." id home_minato_exterior_92f584b1
-    minato "{color=#ffcccc}{b}千秋{/b}{/color} 很好，至于我的女朋友，你刚刚看到她。" id home_minato_exterior_92f584b1
+    minato "[chiaki.n] 很好，至于我的女朋友，你刚刚看到她。" id home_minato_exterior_92f584b1
 
 # game/scripts/story/residential district/minato's home/home_minato_exterior.rpy:79
 translate chinese_simplified home_minato_exterior_4e43ff82:
@@ -195,8 +195,8 @@ translate chinese_simplified home_minato_exterior_abc88435:
 # game/scripts/story/residential district/minato's home/home_minato_exterior.rpy:83
 translate chinese_simplified home_minato_exterior_a3afe47d:
 
-    # minato neutral "Je te présente {color=#0984e3}{b}[player_name]{/b}{/color} qui est mon meilleur... ami." id home_minato_exterior_a3afe47d
-    minato neutral "我向您介绍 {color=#0984e3}{b}[player_name]{/b}{/color}，这位是我最好的...朋友。" id home_minato_exterior_a3afe47d
+    # minato neutral "Je te présente [player.n] qui est mon meilleur... ami." id home_minato_exterior_a3afe47d
+    minato neutral "我向您介绍 [player.n]，这位是我最好的...朋友。" id home_minato_exterior_a3afe47d
 
 # game/scripts/story/residential district/minato's home/home_minato_exterior.rpy:84
 translate chinese_simplified home_minato_exterior_0253ce00:
@@ -207,8 +207,8 @@ translate chinese_simplified home_minato_exterior_0253ce00:
 # game/scripts/story/residential district/minato's home/home_minato_exterior.rpy:85
 translate chinese_simplified home_minato_exterior_5286b1b2:
 
-    # natsume happy "Ah oui maintenant ça me revient, t'es la victime de la fac. {color=#0984e3}{b}[player_name]{/b}{/color} le déchet." id home_minato_exterior_5286b1b2
-    natsume happy "哦！我想起来，你就是大学里那个头号出气包。 【垃圾 {color=#0984e3}{b}[player_name]{/b}{/color}】。" id home_minato_exterior_5286b1b2
+    # natsume happy "Ah oui maintenant ça me revient, t'es la victime de la fac. [player.n] le déchet." id home_minato_exterior_5286b1b2
+    natsume happy "哦！我想起来，你就是大学里那个头号出气包。 【垃圾 [player.n]】。" id home_minato_exterior_5286b1b2
 
 # game/scripts/story/residential district/minato's home/home_minato_exterior.rpy:86
 translate chinese_simplified home_minato_exterior_79c712c7:
@@ -262,7 +262,7 @@ translate chinese_simplified home_minato_exterior_a014fc7b:
 translate chinese_simplified home_minato_exterior_04b4660d:
 
     # player "Je ferais mieux de retrouver {color=#ea8685}{b}[asami_name]{/b}{/color} au parc" id home_minato_exterior_04b4660d
-    player "我最好在公园见 {color=#ea8685}{b}麻美{/b}{/color}" id home_minato_exterior_04b4660d
+    player "我最好在公园见 [asami.n]" id home_minato_exterior_04b4660d
 
 # game/scripts/story/residential district/minato's home/home_minato_exterior.rpy:109
 translate chinese_simplified home_minato_exterior_770d2d36:
@@ -274,7 +274,7 @@ translate chinese_simplified home_minato_exterior_770d2d36:
 translate chinese_simplified home_minato_exterior_1eed5fdb:
 
     # player "Putain, mais t'es le gars qui traque {color=#ffcccc}{b}[chiaki_name]{/b}{/color}!" id home_minato_exterior_1eed5fdb
-    player "该死，你就是跟踪 {color=#ffcccc}{b}千秋{/b}{/color} 的人！" id home_minato_exterior_1eed5fdb
+    player "该死，你就是跟踪 [chiaki.n] 的人！" id home_minato_exterior_1eed5fdb
 
 # game/scripts/story/residential district/minato's home/home_minato_exterior.rpy:114
 translate chinese_simplified home_minato_exterior_2c15bfad:
@@ -375,8 +375,8 @@ translate chinese_simplified home_minato_exterior_7c2fb48a:
 # game/scripts/story/residential district/minato's home/home_minato_exterior.rpy:133
 translate chinese_simplified home_minato_exterior_7037d60f:
 
-    # minato "PUTAIN! {color=#0984e3}{b}[player_name]{/b}{/color} aide moi a attraper ce putain de pervers!" id home_minato_exterior_7037d60f
-    minato "操！ {color=#0984e3}{b}[player_name]{/b}{/color}帮我抓住这个该死的变态！" id home_minato_exterior_7037d60f
+    # minato "PUTAIN! [player.n] aide moi a attraper ce putain de pervers!" id home_minato_exterior_7037d60f
+    minato "操！ [player.n]帮我抓住这个该死的变态！" id home_minato_exterior_7037d60f
 
 # game/scripts/story/residential district/minato's home/home_minato_exterior.rpy:134
 translate chinese_simplified home_minato_exterior_d1904bf8:
@@ -430,7 +430,7 @@ translate chinese_simplified home_minato_exterior_22a7770d:
 translate chinese_simplified home_minato_exterior_3fdc0b52:
 
     # minato "{color=#ffcccc}{b}[chiaki_name]{/b}{/color} va très bien et non tu peux toujours courir pour sortir avec elle." id home_minato_exterior_3fdc0b52
-    minato "{color=#ffcccc}{b}千秋{/b}{/color} 很好，不，你仍然可以跑去和她闲逛。" id home_minato_exterior_3fdc0b52
+    minato "[chiaki.n] 很好，不，你仍然可以跑去和她闲逛。" id home_minato_exterior_3fdc0b52
 
 # game/scripts/story/residential district/minato's home/home_minato_exterior.rpy:79
 translate chinese_simplified home_minato_exterior_799829ff:

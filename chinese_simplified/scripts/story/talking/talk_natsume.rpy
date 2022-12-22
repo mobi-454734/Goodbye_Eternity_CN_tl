@@ -3,8 +3,8 @@
 # game/scripts/story/talking/talk_natsume.rpy:14
 translate chinese_simplified talk_natsume_fe2171cb:
 
-    # natsume "Hey {color=#0984e3}{b}[player_name]{/b}{/color}, tu as l'air de bonne humeur ce matin!" id talk_natsume_fe2171cb
-    natsume "嘿{color=#0984e3}{b}[player_name]{/b}{/color}，你今天早上心情不错！" id talk_natsume_fe2171cb
+    # natsume "Hey [player.n], tu as l'air de bonne humeur ce matin!" id talk_natsume_fe2171cb
+    natsume "嘿[player.n]，你今天早上心情不错！" id talk_natsume_fe2171cb
 
 # game/scripts/story/talking/talk_natsume.rpy:15
 translate chinese_simplified talk_natsume_a110bfac:
@@ -94,7 +94,7 @@ translate chinese_simplified talk_natsume_195dec52:
 translate chinese_simplified talk_natsume_1a4055f4:
 
     # player "Dis-moi plutôt, c'est toi qui as conseillée a {color=#ea8685}{b}[asami_name]{/b}{/color} de... de..." id talk_natsume_1a4055f4
-    player "请告诉我，是您建议 {color=#ea8685}{b}麻美{/b}{/color} 她... ..." id talk_natsume_1a4055f4
+    player "请告诉我，是您建议 [asami.n] 她... ..." id talk_natsume_1a4055f4
 
 # game/scripts/story/talking/talk_natsume.rpy:38
 translate chinese_simplified talk_natsume_61dba160:
@@ -226,7 +226,7 @@ translate chinese_simplified talk_natsume_03775ec8_1:
 translate chinese_simplified talk_natsume_88bd0320:
 
     # natsume "En plus {color=#ea8685}{b}[asami_name]{/b}{/color} m'a dit que la nature t'avait plutôt bien doté..." id talk_natsume_88bd0320
-    natsume "此外，{color=#ea8685}{b}麻美{/b}{/color} 告诉我你有根大屌..." id talk_natsume_88bd0320
+    natsume "此外，[asami.n] 告诉我你有根大屌..." id talk_natsume_88bd0320
 
 # game/scripts/story/talking/talk_natsume.rpy:60
 translate chinese_simplified talk_natsume_8c04ae6e:
@@ -267,8 +267,8 @@ translate chinese_simplified talk_natsume_23bb0c5b:
 # game/scripts/story/talking/talk_natsume.rpy:69
 translate chinese_simplified talk_natsume_436a9fdf:
 
-    # natsume "Lâche l'affaire {color=#0984e3}{b}[player_name]{/b}{/color}." id talk_natsume_436a9fdf
-    natsume "放弃吧 {color=#0984e3}{b}[player_name]{/b}{/color}。" id talk_natsume_436a9fdf
+    # natsume "Lâche l'affaire [player.n]." id talk_natsume_436a9fdf
+    natsume "放弃吧 [player.n]。" id talk_natsume_436a9fdf
 
 # game/scripts/story/talking/talk_natsume.rpy:70
 translate chinese_simplified talk_natsume_3ea7f0e7:
@@ -340,7 +340,7 @@ translate chinese_simplified talk_natsume_06e38554:
 translate chinese_simplified talk_natsume_72fbdbc7:
 
     # natsume "Si c'est au sujet d'{color=#ea8685}{b}[asami_name]{/b}{/color}, elle t'attend devant chez elle demain après-midi." id talk_natsume_72fbdbc7
-    natsume "如果是关于 {color=#ea8685}{b}麻美{/b}{/color}，她明天下午在她家外面等你。" id talk_natsume_72fbdbc7
+    natsume "如果是关于 [asami.n]，她明天下午在她家外面等你。" id talk_natsume_72fbdbc7
 
 # game/scripts/story/talking/talk_natsume.rpy:107
 translate chinese_simplified talk_natsume_ed6623a0:
@@ -387,8 +387,8 @@ translate chinese_simplified talk_natsume_15c50a8f:
 # game/scripts/story/talking/talk_natsume.rpy:114
 translate chinese_simplified talk_natsume_f43387e3:
 
-    # natsume "...N'insiste pas {color=#0984e3}{b}[player_name]{/b}{/color}." id talk_natsume_f43387e3
-    natsume "...不要坚持 {color=#0984e3}{b}[player_name]{/b}{/color}。" id talk_natsume_f43387e3
+    # natsume "...N'insiste pas [player.n]." id talk_natsume_f43387e3
+    natsume "...不要坚持 [player.n]。" id talk_natsume_f43387e3
 
 # game/scripts/story/talking/talk_natsume.rpy:115
 translate chinese_simplified talk_natsume_2f06316b:
@@ -412,7 +412,7 @@ translate chinese_simplified talk_natsume_4a83d6c2:
 translate chinese_simplified talk_natsume_a293082a:
 
     # x "Je peux la comprendre, je n'ai pas la puissance de {color=#32ff7e}{b}[macumba_name]{/b}{/color}." id talk_natsume_a293082a
-    x "我能理解她，我没有 {color=#32ff7e}{b}马库姆巴{/b}{/color} 的力量。" id talk_natsume_a293082a
+    x "我能理解她，我没有 [macumba.n] 的力量。" id talk_natsume_a293082a
 
 # game/scripts/story/talking/talk_natsume.rpy:125
 translate chinese_simplified talk_natsume_729182c9:
@@ -428,7 +428,7 @@ translate chinese_simplified strings:
 
     # game/scripts/story/talking/talk_natsume.rpy:97
     old "Retrouvez {color=#ea8685}{b}[asami_name]{/b}{/color} devant chez elle demain."
-    new "明天在她家外面见 {color=#ea8685}{b}麻美{/b}{/color}。"
+    new "明天在她家外面见 [asami.n]。"
 
 # TODO: Translation updated at 2022-12-15 12:14
 

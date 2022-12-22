@@ -21,8 +21,8 @@ translate chinese_simplified love_hotel_exterior_2f0a0a01:
 # game/scripts/story/business district/love hotel/love_hotel_exterior.rpy:41
 translate chinese_simplified love_hotel_exterior_50762b84:
 
-    # kimochi "Oh salut {color=#0984e3}{b}[player_name]{/b}{/color}, toi aussi tu traines en ville la nuit?" id love_hotel_exterior_50762b84
-    kimochi "哦，嘿{color=#0984e3}{b}[player_name]{/b}{/color}，你也喜欢晚上在城里闲逛吗？" id love_hotel_exterior_50762b84
+    # kimochi "Oh salut [player.n], toi aussi tu traines en ville la nuit?" id love_hotel_exterior_50762b84
+    kimochi "哦，嘿[player.n]，你也喜欢晚上在城里闲逛吗？" id love_hotel_exterior_50762b84
 
 # game/scripts/story/business district/love hotel/love_hotel_exterior.rpy:42
 translate chinese_simplified love_hotel_exterior_e0065b3f:
@@ -94,7 +94,7 @@ translate chinese_simplified love_hotel_exterior_b6afbb9c:
 translate chinese_simplified love_hotel_exterior_59191929:
 
     # kimochi happy "Aaaah {color=#6B2B06}{b}[ubs_name]{/b}{/color}? Oui il est passé tout à l'heure." id love_hotel_exterior_59191929
-    kimochi happy "啊啊{color=#6B2B06}{b}牛魔王{/b}{/color}？没错，他早些时候来过。" id love_hotel_exterior_59191929
+    kimochi happy "啊啊[ubs.n]？没错，他早些时候来过。" id love_hotel_exterior_59191929
 
 # game/scripts/story/business district/love hotel/love_hotel_exterior.rpy:54
 translate chinese_simplified love_hotel_exterior_2c02998f:
@@ -161,12 +161,6 @@ translate chinese_simplified love_hotel_exterior_ce09cca6:
 
     # kimochi happy "Oh, mais... C'est mon ancien prof principal ça!" id love_hotel_exterior_ce09cca6
     kimochi happy "哦，等等...那边的人好像是我以前的班主任！" id love_hotel_exterior_ce09cca6
-
-translate chinese_simplified strings:
-
-    # game/scripts/story/business district/love hotel/love_hotel_exterior.rpy:32
-    old "Retrouver {color=#a29bfe}{b}[yasuka_name]{/b}{/color} avant que {color=#6B2B06}{b}[ubs_name]{/b}{/color} ne réussisse son coup."
-    new "在 {color=#6B2B06}{b}牛魔王{/b}{/color} 得逞之前找到 [yasuka.n] 。"
 
 # TODO: Translation updated at 2022-12-15 12:14
 

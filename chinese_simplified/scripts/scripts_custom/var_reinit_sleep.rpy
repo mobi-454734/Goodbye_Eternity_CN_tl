@@ -4,7 +4,7 @@ translate chinese_simplified strings:
 
     # game/scripts/scripts_custom/var_reinit_sleep.rpy:17
     old "{color=#ea8685}{b}[asami_name]{/b}{/color} m'attend au {color=#ff0}{b}parc{/b}{/color} en début d'après-midi."
-    new "下午早些时候，{color=#ea8685}{b}麻美{/b}{/color} 在 {color=#ff0}{b}公园{/b}{/color} 等我。"
+    new "下午早些时候，[asami.n] 在 {color=#ff0}{b}公园{/b}{/color} 等我。"
 
     # game/scripts/scripts_custom/var_reinit_sleep.rpy:15
     old "{color=#ea8685}{b}%s{/b}{/color} m'attend au {color=#ff0}{b}parc{/b}{/color} en début d'après-midi."

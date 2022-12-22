@@ -3,8 +3,8 @@
 # game/scripts/story/business district/restaurant/restaurant_interior.rpy:26
 translate chinese_simplified restaurant_interior_aedbd962:
 
-    # sakuya happy "Bonjour {color=#0984e3}{b}[player_name]{/b}{/color}!" id restaurant_interior_aedbd962
-    sakuya happy "你好{color=#0984e3}{b}[player_name]{/b}{/color}！" id restaurant_interior_aedbd962
+    # sakuya happy "Bonjour [player.n]!" id restaurant_interior_aedbd962
+    sakuya happy "你好[player.n]！" id restaurant_interior_aedbd962
 
 # game/scripts/story/business district/restaurant/restaurant_interior.rpy:27
 translate chinese_simplified restaurant_interior_d3edb817:
@@ -255,8 +255,8 @@ translate chinese_simplified restaurant_interior_6625ea0f:
 # game/scripts/story/business district/restaurant/restaurant_interior.rpy:94
 translate chinese_simplified restaurant_interior_b62fe2e1:
 
-    # sakuya "Oui {color=#0984e3}{b}[player_name]{/b}{/color}, dépêche-toi de remercier mon père." id restaurant_interior_b62fe2e1
-    sakuya "好的，{color=#0984e3}{b}[player_name]{/b}{/color}，快谢谢爸爸。" id restaurant_interior_b62fe2e1
+    # sakuya "Oui [player.n], dépêche-toi de remercier mon père." id restaurant_interior_b62fe2e1
+    sakuya "好的，[player.n]，快谢谢爸爸。" id restaurant_interior_b62fe2e1
 
 # game/scripts/story/business district/restaurant/restaurant_interior.rpy:100
 translate chinese_simplified restaurant_interior_bffac872:
@@ -279,8 +279,8 @@ translate chinese_simplified restaurant_interior_001dce40:
 # game/scripts/story/business district/restaurant/restaurant_interior.rpy:103
 translate chinese_simplified restaurant_interior_6ffb138b:
 
-    # x "Mais je vais devoir gérer {color=#6c5ce7}{b}[sakuya_name]{/b}{/color}." id restaurant_interior_6ffb138b
-    x "但我必须处理 {color=#6c5ce7}{b}咲夜{/b}{/color}。" id restaurant_interior_6ffb138b
+    # x "Mais je vais devoir gérer [sakuya.n]." id restaurant_interior_6ffb138b
+    x "但我必须处理 [sakuya.n]。" id restaurant_interior_6ffb138b
 
 # game/scripts/story/business district/restaurant/restaurant_interior.rpy:104
 translate chinese_simplified restaurant_interior_19d25fb8:
@@ -309,8 +309,8 @@ translate chinese_simplified restaurant_interior_f4ecd732:
 # game/scripts/story/business district/restaurant/restaurant_interior.rpy:114
 translate chinese_simplified restaurant_interior_ee2366ff:
 
-    # sakuya "Hihi, ce serait bien, n'est-ce pas {color=#0984e3}{b}[player_name]{/b}{/color}?" id restaurant_interior_ee2366ff
-    sakuya "呵呵，那太好了，不是吗{color=#0984e3}{b}[player_name]{/b}{/color}？" id restaurant_interior_ee2366ff
+    # sakuya "Hihi, ce serait bien, n'est-ce pas [player.n]?" id restaurant_interior_ee2366ff
+    sakuya "呵呵，那太好了，不是吗[player.n]？" id restaurant_interior_ee2366ff
 
 # game/scripts/story/business district/restaurant/restaurant_interior.rpy:115
 translate chinese_simplified restaurant_interior_1432d382:

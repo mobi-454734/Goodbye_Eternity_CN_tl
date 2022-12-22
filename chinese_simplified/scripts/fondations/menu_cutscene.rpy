@@ -2,22 +2,6 @@
 
 translate chinese_simplified strings:
 
-    # game/scripts/fondations/menu_cutscene.rpy:5
-    old "Suivre l'histoire d'[asami_name]"
-    new "关注麻美的过去"
-
-    # game/scripts/fondations/menu_cutscene.rpy:5
-    old "Faire du chantage a 纪子"
-    new "勒索纪子"
-
-    # game/scripts/fondations/menu_cutscene.rpy:5
-    old "Ne pas rejeter 纪子"
-    new "不要拒绝纪子"
-
-    # game/scripts/fondations/menu_cutscene.rpy:5
-    old "Suivre l'histoire de [yasuka_name]"
-    new "关注安香的过去"
-
     # game/scripts/fondations/menu_cutscene.rpy:120
     old "> ANIMATIONS"
     new "> 动画"

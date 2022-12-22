@@ -364,7 +364,7 @@ translate chinese_simplified home_player_exterior_1a6b0054:
 translate chinese_simplified home_player_exterior_71f81c82:
 
     # player "{color=#ffcccc}{b}[chiaki_name]{/b}{/color} ?!" id home_player_exterior_71f81c82
-    player "{color=#ffcccc}{b}千秋{/b}{/color}？！" id home_player_exterior_71f81c82
+    player "[chiaki.n]？！" id home_player_exterior_71f81c82
 
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:181
 translate chinese_simplified home_player_exterior_768e7858:
@@ -418,7 +418,7 @@ translate chinese_simplified home_player_exterior_1b5a41e1:
 translate chinese_simplified home_player_exterior_78999a96:
 
     # player "{color=#ffcccc}{b}[chiaki_name]{/b}{/color}, je ne lui dirais pas un mot, ça restera un secret entre nous !" id home_player_exterior_78999a96
-    player "{color=#ffcccc}{b}千秋{/b}{/color}，我不会告诉他的，这是我们之间的秘密！" id home_player_exterior_78999a96
+    player "[chiaki.n]，我不会告诉他的，这是我们之间的秘密！" id home_player_exterior_78999a96
 
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:201
 translate chinese_simplified home_player_exterior_b514ed8a:
@@ -514,7 +514,7 @@ translate chinese_simplified home_player_exterior_d525ee4e:
 translate chinese_simplified home_player_exterior_ec62cfbf:
 
     # player "Ou as-tu bien pu te planquer {color=#ffcccc}{b}[chiaki_name]{/b}{/color}?" id home_player_exterior_ec62cfbf
-    player "你到底藏在哪里了 {color=#ffcccc}{b}千秋{/b}{/color} ？" id home_player_exterior_ec62cfbf
+    player "你到底藏在哪里了 [chiaki.n] ？" id home_player_exterior_ec62cfbf
 
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:257
 translate chinese_simplified home_player_exterior_82627d98:
@@ -603,8 +603,8 @@ translate chinese_simplified home_player_exterior_307fab5f:
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:300
 translate chinese_simplified home_player_exterior_5e1492b8:
 
-    # asamic "{color=#0984e3}{b}[player_name]{/b}{/color} attend!" id home_player_exterior_5e1492b8
-    asamic "{color=#0984e3}{b}[player_name]{/b}{/color} 等一下！" id home_player_exterior_5e1492b8
+    # asamic "[player.n] attend!" id home_player_exterior_5e1492b8
+    asamic "[player.n] 等一下！" id home_player_exterior_5e1492b8
 
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:303
 translate chinese_simplified home_player_exterior_136951d4:
@@ -753,8 +753,8 @@ translate chinese_simplified home_player_exterior_fa521b20:
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:328
 translate chinese_simplified home_player_exterior_761c1d80:
 
-    # asami sad "S'il te plait {color=#0984e3}{b}[player_name]{/b}{/color}." id home_player_exterior_761c1d80
-    asami sad "{color=#0984e3}{b}[player_name]{/b}{/color}。" id home_player_exterior_761c1d80
+    # asami sad "S'il te plait [player.n]." id home_player_exterior_761c1d80
+    asami sad "[player.n]。" id home_player_exterior_761c1d80
 
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:329
 translate chinese_simplified home_player_exterior_e127ca32:
@@ -879,8 +879,8 @@ translate chinese_simplified home_player_exterior_520f791b:
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:374
 translate chinese_simplified home_player_exterior_729dfc8d:
 
-    # asami neutral "Merci...{color=#0984e3}{b}[player_name]{/b}{/color}, j'étais vraiment sur le point de faire une bêtise." id home_player_exterior_729dfc8d
-    asami neutral "谢谢...{color=#0984e3}{b}[player_name]{/b}{/color}，我真的打算做一些愚蠢的事情。" id home_player_exterior_729dfc8d
+    # asami neutral "Merci...[player.n], j'étais vraiment sur le point de faire une bêtise." id home_player_exterior_729dfc8d
+    asami neutral "谢谢...[player.n]，我真的打算做一些愚蠢的事情。" id home_player_exterior_729dfc8d
 
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:375
 translate chinese_simplified home_player_exterior_3f0b951d:
@@ -934,13 +934,13 @@ translate chinese_simplified home_player_exterior_93164795:
 translate chinese_simplified home_player_exterior_f5b4321a:
 
     # player "Bonne nuit {color=#ea8685}{b}[asami_name]{/b}{/color}." id home_player_exterior_f5b4321a
-    player "晚安 {color=#ea8685}{b}麻美{/b}{/color}。" id home_player_exterior_f5b4321a
+    player "晚安 [asami.n]。" id home_player_exterior_f5b4321a
 
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:385
 translate chinese_simplified home_player_exterior_db900e0e:
 
-    # asami happy "Demain je reviens te botter le cul! Bonne nuit {color=#0984e3}{b}[player_name]{/b}{/color}." id home_player_exterior_db900e0e
-    asami happy "明天我就来踢你的屁股！晚安 {color=#0984e3}{b}[player_name]{/b}{/color}。" id home_player_exterior_db900e0e
+    # asami happy "Demain je reviens te botter le cul! Bonne nuit [player.n]." id home_player_exterior_db900e0e
+    asami happy "明天我就来踢你的屁股！晚安 [player.n]。" id home_player_exterior_db900e0e
 
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:399
 translate chinese_simplified home_player_exterior_ede28b2f:
@@ -1011,8 +1011,8 @@ translate chinese_simplified home_player_exterior_d9b5404a:
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:412
 translate chinese_simplified home_player_exterior_c7060a1c:
 
-    # natsume "{color=#0984e3}{b}[player_name]{/b}{/color} j'ai envie de croire que tu vaud mieux que ça."
-    natsume "{color=#0984e3}{b}[player_name]{/b}{/color} 我想相信你比这更好。"
+    # natsume "[player.n] j'ai envie de croire que tu vaud mieux que ça."
+    natsume "[player.n] 我想相信你比这更好。"
 
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:413
 translate chinese_simplified home_player_exterior_2e82f929:
@@ -1029,8 +1029,8 @@ translate chinese_simplified home_player_exterior_03775ec8_3:
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:418
 translate chinese_simplified home_player_exterior_debde3e5:
 
-    # centered "{color=#0984e3}{b}[player_name]{/b}{/color} raconta toute l'histoire a {color=#d63031}{b}[natsume_name]{/b}{/color}."
-    centered "{color=#0984e3}{b}[player_name]{/b}{/color} 将整个故事告诉了 {color=#d63031}{b}夏梦{/b}{/color}。"
+    # centered "[player.n] raconta toute l'histoire a {color=#d63031}{b}[natsume_name]{/b}{/color}."
+    centered "[player.n] 将整个故事告诉了 {color=#d63031}{b}夏梦{/b}{/color}。"
 
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:419
 translate chinese_simplified home_player_exterior_46c354e7:
@@ -1138,7 +1138,7 @@ translate chinese_simplified home_player_exterior_35d40453:
 translate chinese_simplified home_player_exterior_c9ab62bd:
 
     # player "{color=#d63031}{b}[natsume_name]{/b}{/color} bordel!"
-    player "{color=#d63031}{b}夏梦{/b}{/color} 够了！"
+    player "[natsume.n]够了！"
 
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:438
 translate chinese_simplified home_player_exterior_031bc295:
@@ -1155,8 +1155,8 @@ translate chinese_simplified home_player_exterior_b9ff03d5:
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:441
 translate chinese_simplified home_player_exterior_5e490e9e:
 
-    # natsume -happy "...{w}{color=#0984e3}{b}[player_name]{/b}{/color}?"
-    natsume -happy "...{w}{color=#0984e3}{b}[player_name]{/b}{/color}？"
+    # natsume -happy "...{w}[player.n]?"
+    natsume -happy "...{w}[player.n]？"
 
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:442
 translate chinese_simplified home_player_exterior_75748893:
@@ -1293,8 +1293,8 @@ translate chinese_simplified home_player_exterior_a2bdd56d:
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:495
 translate chinese_simplified home_player_exterior_d894820c:
 
-    # asami -happy "Allez a la prochaine {color=#0984e3}{b}[player_name]{/b}{/color}!"
-    asami -happy "就这样，回见 {color=#0984e3}{b}[player_name]{/b}{/color}！"
+    # asami -happy "Allez a la prochaine [player.n]!"
+    asami -happy "就这样，回见 [player.n]！"
 
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:498
 translate chinese_simplified home_player_exterior_3ea7f0e7:
@@ -1426,7 +1426,7 @@ translate chinese_simplified home_player_exterior_914ffae3:
 translate chinese_simplified home_player_exterior_75f098a1:
 
     # natsume "Mais oublie [minato.n] et {color=#ffcccc}{b}[chiaki_name]{/b}{/color}."
-    natsume "Mais oublie [minato.n] 和 {color=#ffcccc}{b}千秋{/b}{/color}。"
+    natsume "Mais oublie [minato.n] 和 [chiaki.n]。"
 
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:541
 translate chinese_simplified home_player_exterior_74281dd7:
@@ -1438,7 +1438,7 @@ translate chinese_simplified home_player_exterior_74281dd7:
 translate chinese_simplified home_player_exterior_db049ae5:
 
     # player surprised "...Tu me demander d'abandonner la petite {color=#ffcccc}{b}[chiaki_name]{/b}{/color} a son sort?"
-    player surprised "...你是要我让小{color=#ffcccc}{b}千秋{/b}{/color}听天由命吗？"
+    player surprised "...你是要我让小[chiaki.n]听天由命吗？"
 
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:543
 translate chinese_simplified home_player_exterior_7f02e931:
@@ -1485,8 +1485,8 @@ translate chinese_simplified home_player_exterior_361605c9:
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:550
 translate chinese_simplified home_player_exterior_88ece82e:
 
-    # natsume -happy "Passe une bonne nuit {color=#0984e3}{b}[player_name]{/b}{/color}, ravie d'avoir discutée avec toi."
-    natsume -happy "晚安{color=#0984e3}{b}[player_name]{/b}{/color}，很高兴和你聊天。"
+    # natsume -happy "Passe une bonne nuit [player.n], ravie d'avoir discutée avec toi."
+    natsume -happy "晚安[player.n]，很高兴和你聊天。"
 
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:553
 translate chinese_simplified home_player_exterior_6286a0db:
@@ -2067,8 +2067,8 @@ translate chinese_simplified home_player_exterior_6cdc5bb4:
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:711
 translate chinese_simplified home_player_exterior_07bc5b39:
 
-    # player sad "Note a moi-même, ne pas se mettre a dos {color=#6c5ce7}{b}[sakuya_name]{/b}{/color}." id home_player_exterior_07bc5b39
-    player sad "提示自己，不要对抗 {color=#6c5ce7}{b}[sakuya_name]{/b}{/color}。" id home_player_exterior_07bc5b39
+    # player sad "Note a moi-même, ne pas se mettre a dos [sakuya.n]." id home_player_exterior_07bc5b39
+    player sad "提示自己，不要对抗 [sakuya.n]。" id home_player_exterior_07bc5b39
 
 translate chinese_simplified strings:
 
@@ -2108,14 +2108,6 @@ translate chinese_simplified strings:
     old "Bien sûr !"
     new "君子一言，驷马难追！"
 
-    # game/scripts/story/residential district/player's home/home_player_exterior.rpy:207
-    old "Je dois gagner sa confiance {color=#ffcccc}{b}[chiaki_name]{/b}{/color} est encore trop effrayée par moi."
-    new "我必须赢得她的信任 {color=#ffcccc}{b}千秋{/b}{/color} 还是太害怕我了。"
-
-    # game/scripts/story/residential district/player's home/home_player_exterior.rpy:214
-    old "Il faut que j'en parle à {color=#e17055}{b}[minato_name]{/b}{/color} tout ça n'est pas normal."
-    new "我必须和 [minato.n] 谈谈，这不正常。"
-
     # game/scripts/story/residential district/player's home/home_player_exterior.rpy:291
     old "Allons dormir, demain je commence mon job au restaurant."
     new "我们去睡觉吧，明天我开始在餐厅工作。"
@@ -2132,10 +2124,6 @@ translate chinese_simplified strings:
     old "ROUTE CORRUPTION"
     new "腐败之路"
 
-    # game/scripts/story/residential district/player's home/home_player_exterior.rpy:335
-    old "Il faut que je trouve la petite amie de {color=#e17055}{b}[minato_name]{/b}{/color}."
-    new "我需要找到 [minato.n] 的女朋友。"
-
     # game/scripts/story/residential district/player's home/home_player_exterior.rpy:363
     old "ROUTE AMOUR"
     new "爱情之路"
@@ -2144,25 +2132,13 @@ translate chinese_simplified strings:
     old "Je crois que je viens de me faire une nouvelle amie."
     new "我想我刚刚交了一个新朋友。"
 
-    # game/scripts/story/residential district/player's home/home_player_exterior.rpy:394
-    old "{color=#32ff7e}{b}[macumba_name]{/b}{/color} pourra peut-être me venir en aide."
-    new "{color=#32ff7e}{b}马库姆巴{/b}{/color} 或许可以帮助我。"
-
     # game/scripts/story/residential district/player's home/home_player_exterior.rpy:415
     old "Raconter toute l'histoire."
     new "讲述整个故事。"
 
     # game/scripts/story/residential district/player's home/home_player_exterior.rpy:519
     old "Une bonne nuit de sommeil permettra d'y voir plus clair"
-    new "睡个好觉会让事情变得更清晰"
-
-    # game/scripts/story/residential district/player's home/home_player_exterior.rpy:590
-    old "Remplacer {color=#a29bfe}{b}[yasuka_name]{/b}{/color} à la boutique."
-    new "代替 [yasuka.n] 去咖啡店上班。"
-
-    # game/scripts/story/residential district/player's home/home_player_exterior.rpy:678
-    old "Annoncer a {color=#a29bfe}{b}[yasuka_name]{/b}{/color} toutes les bonnes nouvelles."
-    new "告诉 [yasuka.n] 所有好消息。"
+    new "睡个好觉会让你看得更清楚"
 
     # game/scripts/story/residential district/player's home/home_player_exterior.rpy:690
     old "Vous obtenez les documents mystérieux."
@@ -2178,7 +2154,7 @@ translate chinese_simplified strings:
 translate chinese_simplified home_player_exterior_828a63e1:
 
     # natsume "[player.n] j'ai envie de croire que tu vaud mieux que ça." id home_player_exterior_828a63e1
-    natsume "我觉得你比那更好。" id home_player_exterior_828a63e1
+    natsume "[player.n]我觉得你比那更好。" id home_player_exterior_828a63e1
 
 # game/scripts/story/residential district/player's home/home_player_exterior.rpy:415
 translate chinese_simplified home_player_exterior_a28828c7:
@@ -2740,7 +2716,7 @@ translate chinese_simplified strings:
 
     # game/scripts/story/residential district/player's home/home_player_exterior.rpy:587
     old "Remplacer [yasuka.n] à la boutique."
-    new "在商店更换[yasuka.n]。"
+    new "代替[yasuka.n]去咖啡店上班。"
 
     # game/scripts/story/residential district/player's home/home_player_exterior.rpy:675
     old "Annoncer a [yasuka.n] toutes les bonnes nouvelles."

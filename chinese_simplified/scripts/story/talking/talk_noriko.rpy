@@ -837,8 +837,8 @@ translate chinese_simplified talk_noriko_7cb23f4f:
 # game/scripts/story/talking/talk_noriko.rpy:281
 translate chinese_simplified talk_noriko_87ac14e5:
 
-    # noriko "Je t'aurais prévenu {color=#0984e3}{b}[player_name]{/b}{/color}." id talk_noriko_87ac14e5
-    noriko "我已经警告过你了 {color=#0984e3}{b}[player_name]{/b}{/color}。" id talk_noriko_87ac14e5
+    # noriko "Je t'aurais prévenu [player.n]." id talk_noriko_87ac14e5
+    noriko "我已经警告过你了 [player.n]。" id talk_noriko_87ac14e5
 
 # game/scripts/story/talking/talk_noriko.rpy:282
 translate chinese_simplified talk_noriko_17c8b9ff:

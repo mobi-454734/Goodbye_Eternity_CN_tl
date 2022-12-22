@@ -20,11 +20,11 @@ translate chinese_simplified strings:
 
     # game/scripts/fondations/variables.rpy:188
     old "Kenji"
-    new "kenji"
+    new "健二"
 
     # game/scripts/fondations/variables.rpy:188
     old "Kimochi"
-    new "四斋蒸鹅心"
+    new "伊拓达弁"
 
     # game/scripts/fondations/variables.rpy:188
     old "Macumba"
@@ -60,7 +60,7 @@ translate chinese_simplified strings:
 
     # game/scripts/fondations/variables.rpy:188
     old "Netoru"
-    new "王叔叔"
+    new "刘头仁"
 
     # game/scripts/fondations/variables.rpy:188
     old "Yasuka"

@@ -225,14 +225,14 @@ translate chinese_simplified home_player_bathroom_4e46793f:
 # game/scripts/story/residential district/player's home/home_player_bathroom.rpy:107
 translate chinese_simplified home_player_bathroom_a898e9b8:
 
-    # centered "{color=#0984e3}{b}[player_name]{/b}{/color} et {color=#a29bfe}{b}[yasuka_name]{/b}{/color} passèrent un long moment a discuter de tout et de rien." id home_player_bathroom_a898e9b8
-    centered "{color=#0984e3}{b}[player_name]{/b}{/color} 和 [yasuka.n] 花了很长时间讨论一切和你重新欢迎。" id home_player_bathroom_a898e9b8
+    # centered "[player.n] et {color=#a29bfe}{b}[yasuka_name]{/b}{/color} passèrent un long moment a discuter de tout et de rien." id home_player_bathroom_a898e9b8
+    centered "[player.n] 和 [yasuka.n] 花了很长时间讨论一切和你重新欢迎。" id home_player_bathroom_a898e9b8
 
 # game/scripts/story/residential district/player's home/home_player_bathroom.rpy:108
 translate chinese_simplified home_player_bathroom_4b7ae6a4:
 
-    # centered "À force rester blottis l'un contre l'autre... {color=#0984e3}{b}[player_name]{/b}{/color} ne put davantage cacher son excitation." id home_player_bathroom_4b7ae6a4
-    centered "由于彼此依偎在一起...... {color=#0984e3}{b}[player_name]{/b}{/color} 再也无法掩饰自己的兴奋。" id home_player_bathroom_4b7ae6a4
+    # centered "À force rester blottis l'un contre l'autre... [player.n] ne put davantage cacher son excitation." id home_player_bathroom_4b7ae6a4
+    centered "由于彼此依偎在一起...... [player.n] 再也无法掩饰自己的兴奋。" id home_player_bathroom_4b7ae6a4
 
 # game/scripts/story/residential district/player's home/home_player_bathroom.rpy:111
 translate chinese_simplified home_player_bathroom_fe841259:

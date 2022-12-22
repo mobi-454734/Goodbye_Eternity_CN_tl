@@ -10,7 +10,7 @@ translate chinese_simplified home_minato_exterior_a0a69bba:
 translate chinese_simplified home_minato_exterior_9b2f0643:
 
     # x "J'aurais qu'a glissé le nom d'{color=#ea8685}{b}[asami_name]{/b}{/color} subtilement dans la conversation." id home_minato_exterior_9b2f0643
-    x "我会巧妙地将 {color=#ea8685}{b}麻美{/b}{/color} 的名字加入谈话中。" id home_minato_exterior_9b2f0643
+    x "我会巧妙地将 [asami.n] 的名字加入谈话中。" id home_minato_exterior_9b2f0643
 
 # game/scripts/story/talking/talk_minato.rpy:31
 translate chinese_simplified home_minato_exterior_2f5b2b16:
@@ -40,7 +40,7 @@ translate chinese_simplified home_minato_exterior_d543969f:
 translate chinese_simplified home_minato_exterior_b6b3a68d:
 
     # minato "...{color=#ffcccc}{b}[chiaki_name]{/b}{/color} est encore sortie se balader dehors sans prévenir." id home_minato_exterior_b6b3a68d
-    minato "...{color=#ffcccc}{b}千秋{/b}{/color} 又没跟我说一声就偷跑出门了。" id home_minato_exterior_b6b3a68d
+    minato "...[chiaki.n] 又没跟我说一声就偷跑出门了。" id home_minato_exterior_b6b3a68d
 
 # game/scripts/story/talking/talk_minato.rpy:36
 translate chinese_simplified home_minato_exterior_40deb78f:
@@ -64,7 +64,7 @@ translate chinese_simplified home_minato_exterior_275c57df:
 translate chinese_simplified home_minato_exterior_f95de303:
 
     # player "{color=#ffcccc}{b}[chiaki_name]{/b}{/color} à 12 ans, elle saura se débrouiller seule." id home_minato_exterior_f95de303
-    player "{color=#ffcccc}{b}千秋{/b}{/color} 已经 12 岁了，她已经是个大姑娘了。" id home_minato_exterior_f95de303
+    player "[chiaki.n] 已经 12 岁了，她已经是个大姑娘了。" id home_minato_exterior_f95de303
 
 # game/scripts/story/talking/talk_minato.rpy:40
 translate chinese_simplified home_minato_exterior_13d1dd1f:
@@ -81,8 +81,8 @@ translate chinese_simplified home_minato_exterior_1437e48a:
 # game/scripts/story/talking/talk_minato.rpy:42
 translate chinese_simplified home_minato_exterior_c0affdff:
 
-    # minato "Putain {color=#0984e3}{b}[player_name]{/b}{/color} mais mêle-toi de ton cul sérieux!" id home_minato_exterior_c0affdff
-    minato "操 {color=#0984e3}{b}[player_name]{/b}{/color} 关你屁事！" id home_minato_exterior_c0affdff
+    # minato "Putain [player.n] mais mêle-toi de ton cul sérieux!" id home_minato_exterior_c0affdff
+    minato "操 [player.n] 关你屁事！" id home_minato_exterior_c0affdff
 
 # game/scripts/story/talking/talk_minato.rpy:43
 translate chinese_simplified home_minato_exterior_6f8a083a:
@@ -226,7 +226,7 @@ translate chinese_simplified talk_minato_3d5d31ad:
 translate chinese_simplified talk_minato_7fde83be:
 
     # player happy "Laisse-moi garder {color=#ffcccc}{b}[chiaki_name]{/b}{/color} pour aujourd'hui." id talk_minato_7fde83be
-    player happy "今天就让我照看 {color=#ffcccc}{b}千秋{/b}{/color} 吧。" id talk_minato_7fde83be
+    player happy "今天就让我照看 [chiaki.n] 吧。" id talk_minato_7fde83be
 
 # game/scripts/story/talking/talk_minato.rpy:86
 translate chinese_simplified talk_minato_b3bfa346:
@@ -261,8 +261,8 @@ translate chinese_simplified talk_minato_0a1030c8:
 # game/scripts/story/talking/talk_minato.rpy:103
 translate chinese_simplified talk_minato_68667502:
 
-    # minato upset "N'insiste pas {color=#0984e3}{b}[player_name]{/b}{/color}, je n’ai aucune envie de me justifier, j'ai décidé que c’était ainsi, rentre bien toi ça dans le crâne." id talk_minato_68667502
-    minato upset "不要追问 {color=#0984e3}{b}[player_name]{/b}{/color}，我不想为自己辩解，我决定就是这样，你给我记住了。" id talk_minato_68667502
+    # minato upset "N'insiste pas [player.n], je n’ai aucune envie de me justifier, j'ai décidé que c’était ainsi, rentre bien toi ça dans le crâne." id talk_minato_68667502
+    minato upset "不要追问 [player.n]，我不想为自己辩解，我决定就是这样，你给我记住了。" id talk_minato_68667502
 
 # game/scripts/story/talking/talk_minato.rpy:104
 translate chinese_simplified talk_minato_bfc9c763:
@@ -376,7 +376,7 @@ translate chinese_simplified talk_minato_7bd56bbe:
 translate chinese_simplified talk_minato_41e1bd9e:
 
     # x "Je dois trouver un moyen de tirer {color=#ffcccc}{b}[chiaki_name]{/b}{/color} de là." id talk_minato_41e1bd9e
-    x "我需要找到一种方法从那里拉出 {color=#ffcccc}{b}千秋{/b}{/color}。" id talk_minato_41e1bd9e
+    x "我需要找到一种方法从那里拉出 [chiaki.n]。" id talk_minato_41e1bd9e
 
 # game/scripts/story/talking/talk_minato.rpy:133
 translate chinese_simplified talk_minato_31ff4a77:
@@ -436,7 +436,7 @@ translate chinese_simplified talk_minato_1b9ff85a:
 translate chinese_simplified talk_minato_7965cec6:
 
     # player "{color=#ea8685}{b}[asami_name]{/b}{/color} et {color=#d63031}{b}[natsume_name]{/b}{/color} doivent m'attendre au parc." id talk_minato_7965cec6
-    player "{color=#ea8685}{b}麻美{/b}{/color} 和 {color=#d63031}{b}夏梦{/b}{/color} 应该在公园等我." id talk_minato_7965cec6
+    player "[asami.n] 和 [natsume.n]应该在公园等我." id talk_minato_7965cec6
 
 # game/scripts/story/talking/talk_minato.rpy:168
 translate chinese_simplified talk_minato_1db42ff9:
@@ -477,7 +477,7 @@ translate chinese_simplified talk_minato_4a60a253:
 # game/scripts/story/talking/talk_minato.rpy:176
 translate chinese_simplified talk_minato_dc476080:
 
-    # minato angry "Putain {color=#0984e3}{b}[player_name]{/b}{/color} ferme ta gueule et casse toi!" id talk_minato_dc476080
+    # minato angry "Putain [player.n] ferme ta gueule et casse toi!" id talk_minato_dc476080
     minato angry "他妈的 [player.n] 闭嘴，滚蛋！" id talk_minato_dc476080
 
 # game/scripts/story/talking/talk_minato.rpy:181
@@ -508,7 +508,7 @@ translate chinese_simplified talk_minato_03775ec8:
 translate chinese_simplified talk_minato_88fb0df9:
 
     # player "Peut être qu'{color=#ea8685}{b}[asami_name]{/b}{/color} en saura davantage sur le comportement étrange de [minato.n]" id talk_minato_88fb0df9
-    player "或许 {color=#ea8685}{b}麻美{/b}{/color} 会更了解 [minato.n] 的奇怪举动" id talk_minato_88fb0df9
+    player "或许 [asami.n] 会更了解 [minato.n] 的奇怪举动" id talk_minato_88fb0df9
 
 # game/scripts/story/talking/talk_minato.rpy:193
 translate chinese_simplified talk_minato_cadc960c:
@@ -524,17 +524,9 @@ translate chinese_simplified talk_minato_a74c0302:
 
 translate chinese_simplified strings:
 
-    # game/scripts/story/talking/talk_minato.rpy:17
-    # old "Je dois retrouver {color=#ffcccc}{b}[chiaki_name]{/b}{/color} le plus rapidement possible."
-    # new "我需要尽快找到 {color=#ffcccc}{b}千秋{/b}{/color}。"
-
     # game/scripts/story/talking/talk_minato.rpy:68
     old "Rejoindre les filles au parc."
     new "加入公园的女孩。"
-
-    # game/scripts/story/talking/talk_minato.rpy:160
-    # old "Elle en saura peut être plus sur le nouveau comportement de {color=#e17055}{b}[minato_name]{/b}{/color}"
-    # new "她可能更了解 [minato.n] 的新行为"
 
 # TODO: Translation updated at 2022-09-13 15:40
 

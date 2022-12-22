@@ -21,10 +21,6 @@ translate chinese_simplified strings:
     new "我等不及今晚了"
 
     # game/scripts/story/events/asami/asami_random_talking.rpy:3
-    old "J'ai l'impression que {color=#d63031}{b}[natsume_name]{/b}{/color} a des problèmes avec {color=#e17055}{b}[minato_name]{/b}{/color}."
-    new "我有这样的感觉 {color=#d63031}{b}夏梦{/b}{/color} 常见问题{color=#e17055}{b}水人{/b}{/color }。"
-
-    # game/scripts/story/events/asami/asami_random_talking.rpy:3
     old "Tu cours toujours avec la montagne de muscle?"
     new "这就是你用来跑步的那一身肌肉吗？可真是壮实如山一般啊。"
 

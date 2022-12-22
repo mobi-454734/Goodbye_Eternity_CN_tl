@@ -15,8 +15,8 @@ translate chinese_simplified talk_kimochi_890939a7:
 # game/scripts/story/talking/talk_kimochi.rpy:14
 translate chinese_simplified talk_kimochi_68b2673b:
 
-    # player happy "Ouvre-moi ou je dis a {color=#e17055}{b}水人{/b}{/color} ou tu habites!" id talk_kimochi_68b2673b
-    player happy "警告你，最好在我告诉 {color=#e17055}{b}水人{/b}{/color} 你住在哪里之前给我开门！" id talk_kimochi_68b2673b
+    # player happy "Ouvre-moi ou je dis a [minato.n] ou tu habites!" id talk_kimochi_68b2673b
+    player happy "警告你，最好在我告诉 [minato.n] 你住在哪里之前给我开门！" id talk_kimochi_68b2673b
 
 # game/scripts/story/talking/talk_kimochi.rpy:15
 translate chinese_simplified talk_kimochi_2868bdf3:
@@ -46,13 +46,13 @@ translate chinese_simplified talk_kimochi_0ebca8a2:
 translate chinese_simplified talk_kimochi_03927374:
 
     # kimochi "{color=#55efc4}{b}[kimochi_name]{/b}{/color}." id talk_kimochi_03927374
-    kimochi "{color=#55efc4}{b}爽{/b}{/color}。" id talk_kimochi_03927374
+    kimochi "[kimochi.n]。" id talk_kimochi_03927374
 
 # game/scripts/story/talking/talk_kimochi.rpy:22
 translate chinese_simplified talk_kimochi_7cc65d9c:
 
-    # kimochi "{color=#55efc4}{b}爽{/b}{/color} Warui" id talk_kimochi_7cc65d9c
-    kimochi "{color=#55efc4}{b}爽{/b}{/color} · 翻天" id talk_kimochi_7cc65d9c
+    # kimochi "[kimochi.n] Warui" id talk_kimochi_7cc65d9c
+    kimochi "[kimochi.n] · 翻天" id talk_kimochi_7cc65d9c
 
 # game/scripts/story/talking/talk_kimochi.rpy:23
 translate chinese_simplified talk_kimochi_3ea7f0e7:
@@ -75,8 +75,8 @@ translate chinese_simplified talk_kimochi_4951233c:
 # game/scripts/story/talking/talk_kimochi.rpy:26
 translate chinese_simplified talk_kimochi_141ef3dd:
 
-    # player upset "Dis-moi plutôt de quoi tu soupçonnes {color=#e17055}{b}水人{/b}{/color}?" id talk_kimochi_141ef3dd
-    player upset "在我告诉你些东西之前，不如你先讲讲吧，你在怀疑 关于{color=#e17055}{b}水人{/b}{/color}的哪些事？" id talk_kimochi_141ef3dd
+    # player upset "Dis-moi plutôt de quoi tu soupçonnes [minato.n]?" id talk_kimochi_141ef3dd
+    player upset "在我告诉你些东西之前，不如你先讲讲吧，你在怀疑 关于[minato.n]的哪些事？" id talk_kimochi_141ef3dd
 
 # game/scripts/story/talking/talk_kimochi.rpy:27
 translate chinese_simplified talk_kimochi_c401bf33:
@@ -201,8 +201,8 @@ translate chinese_simplified talk_kimochi_a5418e10:
 # game/scripts/story/talking/talk_kimochi.rpy:52
 translate chinese_simplified talk_kimochi_28248520:
 
-    # x "Si {color=#e17055}{b}水人{/b}{/color} est en lien avec ce clan alors {color=#ffcccc}{b}[chiaki_name]{/b}{/color} et {color=#d63031}{b}[natsume_name]{/b}{/color} sont en danger de mort." id talk_kimochi_28248520
-    x "如果 {color=#e17055}{b}水人{/b}{/color} 和这个黑道有关，那么 {color=#ffcccc}{b}千秋{/b}{/color} 和 {color=#d63031}{b}夏梦{/b}{/color} 都会有生命危险！" id talk_kimochi_28248520
+    # x "Si [minato.n] est en lien avec ce clan alors {color=#ffcccc}{b}[chiaki_name]{/b}{/color} et {color=#d63031}{b}[natsume_name]{/b}{/color} sont en danger de mort." id talk_kimochi_28248520
+    x "如果 [minato.n] 和这个黑道有关，那么 [chiaki.n] 和 [natsume.n]都会有生命危险！" id talk_kimochi_28248520
 
 # game/scripts/story/talking/talk_kimochi.rpy:53
 translate chinese_simplified talk_kimochi_0321e5fc:
@@ -232,7 +232,7 @@ translate chinese_simplified talk_kimochi_a409ae00:
 translate chinese_simplified talk_kimochi_5f2d6609:
 
     # player upset "{color=#55efc4}{b}[kimochi_name]{/b}{/color} c'est la merde!" id talk_kimochi_5f2d6609
-    player upset "草，这糟糕透了啊，{color=#55efc4}{b}爽{/b}{/color} ！" id talk_kimochi_5f2d6609
+    player upset "草，这糟糕透了啊，[kimochi.n] ！" id talk_kimochi_5f2d6609
 
 # game/scripts/story/talking/talk_kimochi.rpy:62
 translate chinese_simplified talk_kimochi_818da754:
@@ -298,7 +298,7 @@ translate chinese_simplified talk_kimochi_2e942a4e:
 translate chinese_simplified talk_kimochi_97ba2862:
 
     # player "Je te garantis que je te dirais tout le moment venu mais là, si on veut pouvoir sortir {color=#ffcccc}{b}[chiaki_name]{/b}{/color} et {color=#d63031}{b}[natsume_name]{/b}{/color} de ce merdier il va nous falloir plus qu'un simple plan." id talk_kimochi_97ba2862
-    player "我可以向你保证，到时候我会告诉你一切。但目前来看，如果我们想帮 {color=#ffcccc}{b}千秋{/b}{/color} 和 {color=#d63031}{b}夏梦{/b}{/color} 脱离危险，我们需要的可不仅仅是一个简单的计划。" id talk_kimochi_97ba2862
+    player "我可以向你保证，到时候我会告诉你一切。但目前来看，如果我们想帮 [chiaki.n] 和 [natsume.n]脱离危险，我们需要的可不仅仅是一个简单的计划。" id talk_kimochi_97ba2862
 
 # game/scripts/story/talking/talk_kimochi.rpy:81
 translate chinese_simplified talk_kimochi_67ef1164:
@@ -309,8 +309,8 @@ translate chinese_simplified talk_kimochi_67ef1164:
 # game/scripts/story/talking/talk_kimochi.rpy:82
 translate chinese_simplified talk_kimochi_fd1bfa4d:
 
-    # player "La petite amie de {color=#e17055}{b}水人{/b}{/color}." id talk_kimochi_fd1bfa4d
-    player "{color=#e17055}{b}水人{/b}{/color}的女朋友。" id talk_kimochi_fd1bfa4d
+    # player "La petite amie de [minato.n]." id talk_kimochi_fd1bfa4d
+    player "[minato.n]的女朋友。" id talk_kimochi_fd1bfa4d
 
 # game/scripts/story/talking/talk_kimochi.rpy:83
 translate chinese_simplified talk_kimochi_3111da4d:
@@ -393,8 +393,8 @@ translate chinese_simplified talk_kimochi_1f961e4c:
 # game/scripts/story/talking/talk_kimochi.rpy:102
 translate chinese_simplified talk_kimochi_b5cdc75f:
 
-    # x "Et le fait de savoir que {color=#e17055}{b}水人{/b}{/color} est lié a Lune sanglante..." id talk_kimochi_b5cdc75f
-    x "并且，还知道了 {color=#e17055}{b}水人{/b}{/color} 与腥红之月有关这条线索..." id talk_kimochi_b5cdc75f
+    # x "Et le fait de savoir que [minato.n] est lié a Lune sanglante..." id talk_kimochi_b5cdc75f
+    x "并且，还知道了 [minato.n] 与腥红之月有关这条线索..." id talk_kimochi_b5cdc75f
 
 # game/scripts/story/talking/talk_kimochi.rpy:103
 translate chinese_simplified talk_kimochi_14bde82e:
@@ -406,7 +406,7 @@ translate chinese_simplified talk_kimochi_14bde82e:
 translate chinese_simplified talk_kimochi_3deb77ed:
 
     # player "Hey {color=#55efc4}{b}[kimochi_name]{/b}{/color} c'est moi!" id talk_kimochi_3deb77ed
-    player "嘿，{color=#55efc4}{b}爽{/b}{/color}，是我啊！" id talk_kimochi_3deb77ed
+    player "嘿，[kimochi.n]，是我啊！" id talk_kimochi_3deb77ed
 
 # game/scripts/story/talking/talk_kimochi.rpy:120
 translate chinese_simplified talk_kimochi_dfcf2f02:
@@ -513,14 +513,14 @@ translate chinese_simplified kimochi_password_88d5d579:
 # game/scripts/story/talking/talk_kimochi.rpy:145
 translate chinese_simplified kimochi_password_42dc8613:
 
-    # player "Parce que mine de rien à force de trainer devant chez {color=#e17055}{b}水人{/b}{/color} dans l'espoir de kidnapper sa sœur." id kimochi_password_42dc8613
-    player "黑道的人在{color=#e17055}{b}水人{/b}{/color}的屋子前闲逛，希望绑架他的妹妹。" id kimochi_password_42dc8613
+    # player "Parce que mine de rien à force de trainer devant chez [minato.n] dans l'espoir de kidnapper sa sœur." id kimochi_password_42dc8613
+    player "黑道的人在[minato.n]的屋子前闲逛，希望绑架他的妹妹。" id kimochi_password_42dc8613
 
 # game/scripts/story/talking/talk_kimochi.rpy:146
 translate chinese_simplified kimochi_password_56ddb3cf:
 
     # player "Je te classe dans la catégorie des pédophiles" id kimochi_password_56ddb3cf
-    player "我还是认为你是个恋童癖" id kimochi_password_56ddb3cf
+    player "我还是以为你是个变态" id kimochi_password_56ddb3cf
 
 # game/scripts/story/talking/talk_kimochi.rpy:147
 translate chinese_simplified kimochi_password_06d596b0:
@@ -543,8 +543,8 @@ translate chinese_simplified kimochi_password_bd6835d6:
 # game/scripts/story/talking/talk_kimochi.rpy:150
 translate chinese_simplified kimochi_password_bfa263e0:
 
-    # kimochi think "Tu n'as jamais senti un sentiment de malaise quand tu te retrouves avec {color=#e17055}{b}水人{/b}{/color}?" id kimochi_password_bfa263e0
-    kimochi think "当你和 {color=#e17055}{b}水人{/b}{/color} 在一起时，你有没有感到过不安？" id kimochi_password_bfa263e0
+    # kimochi think "Tu n'as jamais senti un sentiment de malaise quand tu te retrouves avec [minato.n]?" id kimochi_password_bfa263e0
+    kimochi think "当你和 [minato.n] 在一起时，你有没有感到过不安？" id kimochi_password_bfa263e0
 
 # game/scripts/story/talking/talk_kimochi.rpy:153
 translate chinese_simplified kimochi_password_b1eaf5fa:
@@ -669,8 +669,8 @@ translate chinese_simplified kimochi_password_b143667e:
 # game/scripts/story/talking/talk_kimochi.rpy:179
 translate chinese_simplified kimochi_password_1c6bf987:
 
-    # x "Si {color=#e17055}{b}水人{/b}{/color} est en lien avec ce clan alors {color=#ffcccc}{b}[chiaki_name]{/b}{/color} est en danger de mort." id kimochi_password_1c6bf987
-    x "如果{color=#e17055}{b}水人{/b}{/color} 和这个黑道有联系，那 {color=#ffcccc}{b}千秋{/b}{/color}有生命危险！" id kimochi_password_1c6bf987
+    # x "Si [minato.n] est en lien avec ce clan alors {color=#ffcccc}{b}[chiaki_name]{/b}{/color} est en danger de mort." id kimochi_password_1c6bf987
+    x "如果[minato.n] 和这个黑道有联系，那 [chiaki.n]有生命危险！" id kimochi_password_1c6bf987
 
 # game/scripts/story/talking/talk_kimochi.rpy:180
 translate chinese_simplified kimochi_password_0321e5fc:
@@ -718,7 +718,7 @@ translate chinese_simplified kimochi_password_40c43c04:
 translate chinese_simplified kimochi_password_390e2428:
 
     # kimochi doubt "Que faisons-nous, on ne peut pas laisser {color=#ffcccc}{b}[chiaki_name]{/b}{/color} entre les mains de ce fou furieux?!" id kimochi_password_390e2428
-    kimochi doubt "那我们该怎么办，总不能把{color=#ffcccc}{b}千秋{/b}{/color}交给那个疯子吧？！" id kimochi_password_390e2428
+    kimochi doubt "那我们该怎么办，总不能把[chiaki.n]交给那个疯子吧？！" id kimochi_password_390e2428
 
 # game/scripts/story/talking/talk_kimochi.rpy:193
 translate chinese_simplified kimochi_password_c2a81921:
@@ -765,8 +765,8 @@ translate chinese_simplified kimochi_password_f54543cd:
 # game/scripts/story/talking/talk_kimochi.rpy:200
 translate chinese_simplified kimochi_password_76ef0c7b:
 
-    # kimochi happy "Désolé {color=#0984e3}{b}[player_name]{/b}{/color} mais je suis hétéro." id kimochi_password_76ef0c7b
-    kimochi happy "抱歉{color=#0984e3}{b}[player_name]{/b}{/color}，但我是直的。" id kimochi_password_76ef0c7b
+    # kimochi happy "Désolé [player.n] mais je suis hétéro." id kimochi_password_76ef0c7b
+    kimochi happy "抱歉[player.n]，但我是直的。" id kimochi_password_76ef0c7b
 
 # game/scripts/story/talking/talk_kimochi.rpy:203
 translate chinese_simplified kimochi_password_0e00fbe5:
@@ -777,8 +777,8 @@ translate chinese_simplified kimochi_password_0e00fbe5:
 # game/scripts/story/talking/talk_kimochi.rpy:207
 translate chinese_simplified kimochi_password_3a1f7172:
 
-    # x "Bon si je récapitule {color=#e17055}{b}水人{/b}{/color}, {color=#fd79a8}{b}纪子{/b}{/color}, {color=#fdcb6e}{b}[akira_name]{/b}{/color}, les thugs, un clan yakuza... " id kimochi_password_3a1f7172
-    x "让我来回顾下信息，{color=#e17055}{b}水人{/b}{/color}, {color=#fd79a8}{b}纪子{/b}{/color}, {color=#fdcb6e}{b}明{/b}{/color}, 那些打手们, 还有地方黑道... " id kimochi_password_3a1f7172
+    # x "Bon si je récapitule [minato.n], [noriko.n], [akira.n], les thugs, un clan yakuza... " id kimochi_password_3a1f7172
+    x "让我来回顾下信息，[minato.n]、 [noriko.n]、 [akira.n]、那些打手们, 还有地方黑道... " id kimochi_password_3a1f7172
 
 # game/scripts/story/talking/talk_kimochi.rpy:208
 translate chinese_simplified kimochi_password_6db61bc0:
@@ -802,7 +802,7 @@ translate chinese_simplified kimochi_password_15c96f7b:
 translate chinese_simplified kimochi_password_63161f74:
 
     # player "{color=#55efc4}{b}[kimochi_name]{/b}{/color} tu es là?" id kimochi_password_63161f74
-    player "{color=#55efc4}{b}爽{/b}{/color} 你在吗？" id kimochi_password_63161f74
+    player "[kimochi.n] 你在吗？" id kimochi_password_63161f74
 
 # game/scripts/story/talking/talk_kimochi.rpy:232
 translate chinese_simplified kimochi_password_ed6a25cb:
@@ -820,7 +820,7 @@ translate chinese_simplified kimochi_password_d2da0498:
 translate chinese_simplified kimochi_password_24eb82ee:
 
     # player "{color=#32ff7e}{b}[macumba_name]{/b}{/color}?! Mais qu'est-ce que..." id kimochi_password_24eb82ee
-    player "{color=#32ff7e}{b}马库姆巴{/b}{/color}？！你怎么在这里..." id kimochi_password_24eb82ee
+    player "[macumba.n]？！你怎么在这里..." id kimochi_password_24eb82ee
 
 # game/scripts/story/talking/talk_kimochi.rpy:238
 translate chinese_simplified kimochi_password_89406d34:
@@ -867,8 +867,8 @@ translate chinese_simplified kimochi_password_3d9bdea2:
 # game/scripts/story/talking/talk_kimochi.rpy:245
 translate chinese_simplified kimochi_password_810735aa:
 
-    # player upset "Je sais d'une source extérieure que {color=#e17055}{b}水人{/b}{/color} ne vas pas tarder a passé a l'action." id kimochi_password_810735aa
-    player upset "我从外部消息来源获悉，{color=#e17055}{b}水人{/b}{/color} 很快就会采取行动。" id kimochi_password_810735aa
+    # player upset "Je sais d'une source extérieure que [minato.n] ne vas pas tarder a passé a l'action." id kimochi_password_810735aa
+    player upset "我从外部消息来源获悉，[minato.n] 很快就会采取行动。" id kimochi_password_810735aa
 
 # game/scripts/story/talking/talk_kimochi.rpy:246
 translate chinese_simplified kimochi_password_c6f74541:
@@ -916,7 +916,7 @@ translate chinese_simplified kimochi_password_0601a365:
 translate chinese_simplified kimochi_password_6000c616:
 
     # kimochi "Souviens toi, la force c'est {color=#32ff7e}{b}[macumba_name]{/b}{/color}, la sagesse c'est moi, toi tu es le courage." id kimochi_password_6000c616
-    kimochi "记住，力量是{color=#32ff7e}{b}马库姆巴{/b}{/color}，智慧是我，你是勇气。" id kimochi_password_6000c616
+    kimochi "记住，力量是[macumba.n]，智慧是我，你是勇气。" id kimochi_password_6000c616
 
 # game/scripts/story/talking/talk_kimochi.rpy:254
 translate chinese_simplified kimochi_password_a141c85e:
@@ -1006,7 +1006,7 @@ translate chinese_simplified kimochi_password_4afe65fb:
 translate chinese_simplified kimochi_password_ba6244ad:
 
     # kimochi "De quoi? Tu veux parler de {color=#6B2B06}{b}[ubs_name]{/b}{/color}?" id kimochi_password_ba6244ad
-    kimochi "啊？你说的可是 {color=#6B2B06}{b}牛魔王{/b}{/color}？" id kimochi_password_ba6244ad
+    kimochi "啊？你说的可是 [ubs.n]？" id kimochi_password_ba6244ad
 
 # game/scripts/story/talking/talk_kimochi.rpy:288
 translate chinese_simplified kimochi_password_164e4f2a:
@@ -1112,10 +1112,6 @@ translate chinese_simplified kimochi_password_1862861d:
 
 translate chinese_simplified strings:
 
-    # game/scripts/story/talking/talk_kimochi.rpy:8
-    old "{color=#ea8685}{b}[asami_name]{/b}{/color} sera probablement au parc l'après-midi."
-    new "{color=#ea8685}{b}麻美{/b}{/color} 下午可能会在公园。"
-
     # game/scripts/story/talking/talk_kimochi.rpy:115
     old "Je ferais mieux de rentrer chez moi."
     new "我最好回家。"
@@ -1143,10 +1139,6 @@ translate chinese_simplified strings:
     # game/scripts/story/talking/talk_kimochi.rpy:223
     old "Attendre la tombée de la nuit dans votre chambre"
     new "在你的房间里等待夜幕降临"
-
-    # game/scripts/story/talking/talk_kimochi.rpy:272
-    old "Retrouver {color=#55efc4}{b}[kimochi_name]{/b}{/color} au coffee bar."
-    new "和{color=#55efc4}{b}爽{/b}{/color}在咖啡厅见面。"
 
 # TODO: Translation updated at 2022-12-15 12:14
 

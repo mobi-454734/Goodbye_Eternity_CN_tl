@@ -141,8 +141,8 @@ translate chinese_simplified talk_chef_interior_ed1b11c2:
 # game/scripts/story/talking/talk_chef_interior.rpy:44
 translate chinese_simplified talk_chef_interior_2193ec9a:
 
-    # centered "Pour son premier jour {color=#0984e3}{b}[player_name]{/b}{/color} fit briller les toilettes comme si ça vie en dépendait." id talk_chef_interior_2193ec9a
-    centered "在他上任的第一天，{color=#0984e3}{b}[player_name]{/b}{/color} 就把马桶清理得闪闪发光，就像新买刚装进去的的一样。" id talk_chef_interior_2193ec9a
+    # centered "Pour son premier jour [player.n] fit briller les toilettes comme si ça vie en dépendait." id talk_chef_interior_2193ec9a
+    centered "在他上任的第一天，[player.n] 就把马桶清理得闪闪发光，就像新买刚装进去的的一样。" id talk_chef_interior_2193ec9a
 
 # game/scripts/story/talking/talk_chef_interior.rpy:46
 translate chinese_simplified talk_chef_interior_cb300d69:
@@ -219,8 +219,8 @@ translate chinese_simplified talk_chef_interior_d2d96c14:
 # game/scripts/story/talking/talk_chef_interior.rpy:61
 translate chinese_simplified talk_chef_interior_e2e1466e:
 
-    # sakuya sad "Oh {color=#0984e3}{b}[player_name]{/b}{/color}, tu n'aurais pas dû..." id talk_chef_interior_e2e1466e
-    sakuya sad "哎呦，{color=#0984e3}{b}[player_name]{/b}{/color}，你真的不应该..." id talk_chef_interior_e2e1466e
+    # sakuya sad "Oh [player.n], tu n'aurais pas dû..." id talk_chef_interior_e2e1466e
+    sakuya sad "哎呦，[player.n]，你真的不应该..." id talk_chef_interior_e2e1466e
 
 # game/scripts/story/talking/talk_chef_interior.rpy:62
 translate chinese_simplified talk_chef_interior_5e3ac367:
@@ -303,8 +303,8 @@ translate chinese_simplified talk_chef_interior_47c46abd:
 # game/scripts/story/talking/talk_chef_interior.rpy:77
 translate chinese_simplified talk_chef_interior_d3085430:
 
-    # sakuya neutral "{color=#0984e3}{b}[player_name]{/b}{/color} ne l'écoute pas, tu n'as pas a faire ça!" id talk_chef_interior_d3085430
-    sakuya neutral "{color=#0984e3}{b}[player_name]{/b}{/color} ，别听他的，你不用这样做！" id talk_chef_interior_d3085430
+    # sakuya neutral "[player.n] ne l'écoute pas, tu n'as pas a faire ça!" id talk_chef_interior_d3085430
+    sakuya neutral "[player.n] ，别听他的，你不用这样做！" id talk_chef_interior_d3085430
 
 # game/scripts/story/talking/talk_chef_interior.rpy:80
 translate chinese_simplified talk_chef_interior_d06f6d49:
@@ -501,8 +501,8 @@ translate chinese_simplified talk_chef_interior_92c3a503:
 # game/scripts/story/talking/talk_chef_interior.rpy:162
 translate chinese_simplified talk_chef_interior_d2de46f4:
 
-    # centered "{color=#0984e3}{b}[player_name]{/b}{/color} travaille plusieurs heures en se donnant à fond, il est exténué, mais satisfait du travail accompli." id talk_chef_interior_d2de46f4
-    centered "{color=#0984e3}{b}[player_name]{/b}{/color} 持续努力工作了几个小时，他早已筋疲力尽，但拖着疲倦的身躯看了看厕所后，还是对自己完成的工作感到很满意。" id talk_chef_interior_d2de46f4
+    # centered "[player.n] travaille plusieurs heures en se donnant à fond, il est exténué, mais satisfait du travail accompli." id talk_chef_interior_d2de46f4
+    centered "[player.n] 持续努力工作了几个小时，他早已筋疲力尽，但拖着疲倦的身躯看了看厕所后，还是对自己完成的工作感到很满意。" id talk_chef_interior_d2de46f4
 
 # game/scripts/story/talking/talk_chef_interior.rpy:164
 translate chinese_simplified talk_chef_interior_f7e10f7d:

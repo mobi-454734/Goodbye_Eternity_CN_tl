@@ -3,8 +3,8 @@
 # game/scripts/story/talking/talk_sakuya.rpy:14
 translate chinese_simplified talk_sakuya_b8b9cc9a:
 
-    # sakuya "Bonsoir {color=#0984e3}{b}[player_name]{/b}{/color}! Belle soirée n'est-ce pas?" id talk_sakuya_b8b9cc9a
-    sakuya "晚上好 {color=#0984e3}{b}[player_name]{/b}{/color}！美好的夜晚不是吗？" id talk_sakuya_b8b9cc9a
+    # sakuya "Bonsoir [player.n]! Belle soirée n'est-ce pas?" id talk_sakuya_b8b9cc9a
+    sakuya "晚上好 [player.n]！美好的夜晚不是吗？" id talk_sakuya_b8b9cc9a
 
 # game/scripts/story/talking/talk_sakuya.rpy:15
 translate chinese_simplified talk_sakuya_6f78abb9:
@@ -16,7 +16,7 @@ translate chinese_simplified talk_sakuya_6f78abb9:
 translate chinese_simplified talk_sakuya_bc3fc4df:
 
     # sakuya "{color=#6B2B06}{b}[ubs_name]{/b}{/color} ne sera dorénavant plus un problème." id talk_sakuya_bc3fc4df
-    sakuya "{color=#6B2B06}{b}牛魔王{/b}{/color} 将不再是问题。" id talk_sakuya_bc3fc4df
+    sakuya "[ubs.n] 将不再是问题。" id talk_sakuya_bc3fc4df
 
 # game/scripts/story/talking/talk_sakuya.rpy:17
 translate chinese_simplified talk_sakuya_2f29145e:
@@ -130,7 +130,7 @@ translate chinese_simplified talk_sakuya_05b57182:
 translate chinese_simplified talk_sakuya_c17ff748:
 
     # sakuya "Hihi... Tu parles d'honnêteté mon chéri, mais... [noriko.n], {color=#ea8685}{b}[asami_name]{/b}{/color} et enfin maintenant {color=#a29bfe}{b}[yasuka_name]{/b}{/color}." id talk_sakuya_c17ff748
-    sakuya "嘿嘿...谈论诚实，亲爱的，但是... [noriko.n], {color=#ea8685}{b}麻美{/b }{/color}，最后是 [yasuka.n]。" id talk_sakuya_c17ff748
+    sakuya "嘿嘿...谈论诚实，亲爱的，但是... [noriko.n]、 [asami.n]，最后是 [yasuka.n]。" id talk_sakuya_c17ff748
 
 # game/scripts/story/talking/talk_sakuya.rpy:36
 translate chinese_simplified talk_sakuya_03775ec8_1:
@@ -207,14 +207,14 @@ translate chinese_simplified talk_sakuya_95093074:
 # game/scripts/story/talking/talk_sakuya.rpy:50
 translate chinese_simplified talk_sakuya_51724ddf:
 
-    # player "{color=#6c5ce7}{b}[sakuya_name]{/b}{/color} semble bien plus dangereuse et surtout elle est totalement imprévisible." id talk_sakuya_51724ddf
-    player "{color=#6c5ce7}{b}[sakuya_name]{/b}{/color} 似乎更加危险，最重要的是她完全无法预测。" id talk_sakuya_51724ddf
+    # player "[sakuya.n] semble bien plus dangereuse et surtout elle est totalement imprévisible." id talk_sakuya_51724ddf
+    player "[sakuya.n] 似乎更加危险，最重要的是她完全无法预测。" id talk_sakuya_51724ddf
 
 # game/scripts/story/talking/talk_sakuya.rpy:71
 translate chinese_simplified talk_sakuya_23b59445:
 
-    # sakuya "Bonsoir {color=#0984e3}{b}[player_name]{/b}{/color}." id talk_sakuya_23b59445
-    sakuya "晚上好 {color=#0984e3}{b}[player_name]{/b}{/color}。" id talk_sakuya_23b59445
+    # sakuya "Bonsoir [player.n]." id talk_sakuya_23b59445
+    sakuya "晚上好 [player.n]。" id talk_sakuya_23b59445
 
 # game/scripts/story/talking/talk_sakuya.rpy:72
 translate chinese_simplified talk_sakuya_498a1709:
@@ -255,8 +255,8 @@ translate chinese_simplified talk_sakuya_42ab7640:
 # game/scripts/story/talking/talk_sakuya.rpy:78
 translate chinese_simplified talk_sakuya_c8d55bad:
 
-    # player upset "Je pense que c'est plus grave que ça, tu m'as mis dans le même panier qu'{color=#fdcb6e}{b}[akira_name]{/b}{/color}." id talk_sakuya_c8d55bad
-    player upset "我觉得你比这还过分，你还把我和 {color=#fdcb6e}{b}[akira_name]{/b}{/color} 混为一谈呢。" id talk_sakuya_c8d55bad
+    # player upset "Je pense que c'est plus grave que ça, tu m'as mis dans le même panier qu'[akira.n]." id talk_sakuya_c8d55bad
+    player upset "我觉得你比这还过分，你还把我和 [akira.n] 混为一谈呢。" id talk_sakuya_c8d55bad
 
 # game/scripts/story/talking/talk_sakuya.rpy:79
 translate chinese_simplified talk_sakuya_15f30517:
@@ -285,8 +285,8 @@ translate chinese_simplified talk_sakuya_61c9d758:
 # game/scripts/story/talking/talk_sakuya.rpy:83
 translate chinese_simplified talk_sakuya_31c0d850:
 
-    # sakuya happy "...{w}Tu es vraiment quelqu'un de gentil {color=#0984e3}{b}[player_name]{/b}{/color}." id talk_sakuya_31c0d850
-    sakuya happy "...{w}你真是个好人{color=#0984e3}{b}[player_name]{/b}{/color}。" id talk_sakuya_31c0d850
+    # sakuya happy "...{w}Tu es vraiment quelqu'un de gentil [player.n]." id talk_sakuya_31c0d850
+    sakuya happy "...{w}你真是个好人[player.n]。" id talk_sakuya_31c0d850
 
 # game/scripts/story/talking/talk_sakuya.rpy:84
 translate chinese_simplified talk_sakuya_ea41ea34:
@@ -309,8 +309,8 @@ translate chinese_simplified talk_sakuya_c54b06bb:
 # game/scripts/story/talking/talk_sakuya.rpy:95
 translate chinese_simplified talk_sakuya_0e46956c:
 
-    # sakuya "Tu sais... {color=#fdcb6e}{b}[akira_name]{/b}{/color} ne pensais pas à mal." id talk_sakuya_0e46956c
-    sakuya "其实... {color=#fdcb6e}{b}[akira_name]{/b}{/color} 没有恶意。" id talk_sakuya_0e46956c
+    # sakuya "Tu sais... [akira.n] ne pensais pas à mal." id talk_sakuya_0e46956c
+    sakuya "其实... [akira.n] 没有恶意。" id talk_sakuya_0e46956c
 
 # game/scripts/story/talking/talk_sakuya.rpy:96
 translate chinese_simplified talk_sakuya_152c8fed:
@@ -339,8 +339,8 @@ translate chinese_simplified talk_sakuya_fc523c04:
 # game/scripts/story/talking/talk_sakuya.rpy:108
 translate chinese_simplified talk_sakuya_69005d2a:
 
-    # sakuya "J'ai laissé {color=#fdcb6e}{b}[akira_name]{/b}{/color} m'approcher car je savais qu'il connaissait du monde dans ce milieu." id talk_sakuya_69005d2a
-    sakuya "我让 {color=#fdcb6e}{b}[akira_name]{/b}{/color} 接近我，因为我知道他认识那个道上的人。" id talk_sakuya_69005d2a
+    # sakuya "J'ai laissé [akira.n] m'approcher car je savais qu'il connaissait du monde dans ce milieu." id talk_sakuya_69005d2a
+    sakuya "我让 [akira.n] 接近我，因为我知道他认识那个道上的人。" id talk_sakuya_69005d2a
 
 # game/scripts/story/talking/talk_sakuya.rpy:109
 translate chinese_simplified talk_sakuya_ace7bd46:
@@ -369,8 +369,8 @@ translate chinese_simplified talk_sakuya_49230adf:
 # game/scripts/story/talking/talk_sakuya.rpy:113
 translate chinese_simplified talk_sakuya_52c212bc:
 
-    # player neutral "Ce qui m'intrigue c'est pourquoi avoir rejeté {color=#fdcb6e}{b}[akira_name]{/b}{/color} dans ce cas?" id talk_sakuya_52c212bc
-    player neutral "我觉得奇怪的是，如果是这样的话，为什么你拒绝了 {color=#fdcb6e}{b}[akira_name]{/b}{/color}？" id talk_sakuya_52c212bc
+    # player neutral "Ce qui m'intrigue c'est pourquoi avoir rejeté [akira.n] dans ce cas?" id talk_sakuya_52c212bc
+    player neutral "我觉得奇怪的是，如果是这样的话，为什么你拒绝了 [akira.n]？" id talk_sakuya_52c212bc
 
 # game/scripts/story/talking/talk_sakuya.rpy:114
 translate chinese_simplified talk_sakuya_b0b2981f:
@@ -495,8 +495,8 @@ translate chinese_simplified talk_sakuya_0a3cad56:
 # game/scripts/story/talking/talk_sakuya.rpy:138
 translate chinese_simplified talk_sakuya_abb6e532:
 
-    # x "Donc si j'ai bien compris dans mon ancienne vie c'est {color=#fdcb6e}{b}[akira_name]{/b}{/color} qui avait lancé sa carrière." id talk_sakuya_abb6e532
-    x "在未来 {color=#fdcb6e}{b}[akira_name]{/b}{/color} 开创了她的职业生涯。" id talk_sakuya_abb6e532
+    # x "Donc si j'ai bien compris dans mon ancienne vie c'est [akira.n] qui avait lancé sa carrière." id talk_sakuya_abb6e532
+    x "在未来 [akira.n] 开创了她的职业生涯。" id talk_sakuya_abb6e532
 
 # game/scripts/story/talking/talk_sakuya.rpy:139
 translate chinese_simplified talk_sakuya_9aba4847:
@@ -555,20 +555,20 @@ translate chinese_simplified talk_sakuya_e28d8993:
 # game/scripts/story/talking/talk_sakuya.rpy:165
 translate chinese_simplified talk_sakuya_76ca42b4:
 
-    # sakuya "À demain {color=#0984e3}{b}[player_name]{/b}{/color}." id talk_sakuya_76ca42b4
-    sakuya "明天见 {color=#0984e3}{b}[player_name]{/b}{/color}。" id talk_sakuya_76ca42b4
+    # sakuya "À demain [player.n]." id talk_sakuya_76ca42b4
+    sakuya "明天见 [player.n]。" id talk_sakuya_76ca42b4
 
 # game/scripts/story/talking/talk_sakuya.rpy:166
 translate chinese_simplified talk_sakuya_47fc27c5:
 
-    # player "À demain {color=#6c5ce7}{b}[sakuya_name]{/b}{/color}." id talk_sakuya_47fc27c5
-    player "明天见 {color=#6c5ce7}{b}[sakuya_name]{/b}{/color}。" id talk_sakuya_47fc27c5
+    # player "À demain [sakuya.n]." id talk_sakuya_47fc27c5
+    player "明天见 [sakuya.n]。" id talk_sakuya_47fc27c5
 
 # game/scripts/story/talking/talk_sakuya.rpy:168
 translate chinese_simplified talk_sakuya_82dbfc18:
 
-    # sakuya "Bonjour {color=#0984e3}{b}[player_name]{/b}{/color}, ça a été ce matin avec ton autre travail?" id talk_sakuya_82dbfc18
-    sakuya "早安 {color=#0984e3}{b}[player_name]{/b}{/color}，今天早上你的另一份工作怎么样？" id talk_sakuya_82dbfc18
+    # sakuya "Bonjour [player.n], ça a été ce matin avec ton autre travail?" id talk_sakuya_82dbfc18
+    sakuya "早安 [player.n]，今天早上你的另一份工作怎么样？" id talk_sakuya_82dbfc18
 
 # game/scripts/story/talking/talk_sakuya.rpy:169
 translate chinese_simplified talk_sakuya_7d238564:
@@ -627,26 +627,26 @@ translate chinese_simplified talk_sakuya_6d0c49c2:
 # game/scripts/story/talking/talk_sakuya.rpy:188
 translate chinese_simplified talk_sakuya_e7a77a78:
 
-    # sakuya "Tu as bien travaillé, a demain {color=#0984e3}{b}[player_name]{/b}{/color}." id talk_sakuya_e7a77a78
-    sakuya "你做得很好，明天见{color=#0984e3}{b}[player_name]{/b}{/color}。" id talk_sakuya_e7a77a78
+    # sakuya "Tu as bien travaillé, a demain [player.n]." id talk_sakuya_e7a77a78
+    sakuya "你做得很好，明天见[player.n]。" id talk_sakuya_e7a77a78
 
 # game/scripts/story/talking/talk_sakuya.rpy:189
 translate chinese_simplified talk_sakuya_1ba03b64:
 
-    # player "Merci à demain {color=#6c5ce7}{b}[sakuya_name]{/b}{/color}." id talk_sakuya_1ba03b64
-    player "明天谢谢你{color=#6c5ce7}{b}[sakuya_name]{/b}{/color}。" id talk_sakuya_1ba03b64
+    # player "Merci à demain [sakuya.n]." id talk_sakuya_1ba03b64
+    player "明天谢谢你[sakuya.n]。" id talk_sakuya_1ba03b64
 
 # game/scripts/story/talking/talk_sakuya.rpy:191
 translate chinese_simplified talk_sakuya_13d9671c:
 
-    # sakuya "Bonjour {color=#0984e3}{b}[player_name]{/b}{/color}, tu tiens le coup?" id talk_sakuya_13d9671c
-    sakuya "你好{color=#0984e3}{b}[player_name]{/b}{/color}，你还在等吗？" id talk_sakuya_13d9671c
+    # sakuya "Bonjour [player.n], tu tiens le coup?" id talk_sakuya_13d9671c
+    sakuya "你好[player.n]，你还在等吗？" id talk_sakuya_13d9671c
 
 # game/scripts/story/talking/talk_sakuya.rpy:192
 translate chinese_simplified talk_sakuya_29fefe8b:
 
-    # player "Bonjour {color=#6c5ce7}{b}[sakuya_name]{/b}{/color}." id talk_sakuya_29fefe8b
-    player "你好 {color=#6c5ce7}{b}[sakuya_name]{/b}{/color}。" id talk_sakuya_29fefe8b
+    # player "Bonjour [sakuya.n]." id talk_sakuya_29fefe8b
+    player "你好 [sakuya.n]。" id talk_sakuya_29fefe8b
 
 # game/scripts/story/talking/talk_sakuya.rpy:193
 translate chinese_simplified talk_sakuya_b42243be:
@@ -669,8 +669,8 @@ translate chinese_simplified talk_sakuya_31e51380:
 # game/scripts/story/talking/talk_sakuya.rpy:196
 translate chinese_simplified talk_sakuya_7c563e64:
 
-    # player upset "En parlant de gens désagréables {color=#fdcb6e}{b}[akira_name]{/b}{/color} ne t'embête plus?" id talk_sakuya_7c563e64
-    player upset "说到粗鲁的人 {color=#fdcb6e}{b}[akira_name]{/b}{/color} 不再打扰了？" id talk_sakuya_7c563e64
+    # player upset "En parlant de gens désagréables [akira.n] ne t'embête plus?" id talk_sakuya_7c563e64
+    player upset "说到粗鲁的人 [akira.n] 不再打扰了？" id talk_sakuya_7c563e64
 
 # game/scripts/story/talking/talk_sakuya.rpy:197
 translate chinese_simplified talk_sakuya_650480e8:
@@ -687,8 +687,8 @@ translate chinese_simplified talk_sakuya_f208db04:
 # game/scripts/story/talking/talk_sakuya.rpy:199
 translate chinese_simplified talk_sakuya_e4828bbc:
 
-    # sakuya "{color=#fdcb6e}{b}[akira_name]{/b}{/color} ne pose plus de problèmes." id talk_sakuya_e4828bbc
-    sakuya "{color=#fdcb6e}{b}[akira_name]{/b}{/color} 新姿势加上问题。" id talk_sakuya_e4828bbc
+    # sakuya "[akira.n] ne pose plus de problèmes." id talk_sakuya_e4828bbc
+    sakuya "[akira.n] 新姿势加上问题。" id talk_sakuya_e4828bbc
 
 # game/scripts/story/talking/talk_sakuya.rpy:200
 translate chinese_simplified talk_sakuya_f15adb8f:
@@ -711,8 +711,8 @@ translate chinese_simplified talk_sakuya_df06bec5:
 # game/scripts/story/talking/talk_sakuya.rpy:203
 translate chinese_simplified talk_sakuya_9856f7cf:
 
-    # sakuya happy "A plus tard {color=#0984e3}{b}[player_name]{/b}{/color}!" id talk_sakuya_9856f7cf
-    sakuya happy "加分 {color=#0984e3}{b}[player_name]{/b}{/color}！" id talk_sakuya_9856f7cf
+    # sakuya happy "A plus tard [player.n]!" id talk_sakuya_9856f7cf
+    sakuya happy "加分 [player.n]！" id talk_sakuya_9856f7cf
 
 # game/scripts/story/talking/talk_sakuya.rpy:205
 translate chinese_simplified talk_sakuya_4ef4028e:
@@ -723,26 +723,26 @@ translate chinese_simplified talk_sakuya_4ef4028e:
 # game/scripts/story/talking/talk_sakuya.rpy:219
 translate chinese_simplified talk_sakuya_23a96064:
 
-    # sakuya "Repose-toi bien et a demain {color=#0984e3}{b}[player_name]{/b}{/color}" id talk_sakuya_23a96064
-    sakuya "好好休息，明天见{color=#0984e3}{b}[player_name]{/b}{/color}" id talk_sakuya_23a96064
+    # sakuya "Repose-toi bien et a demain [player.n]" id talk_sakuya_23a96064
+    sakuya "好好休息，明天见[player.n]" id talk_sakuya_23a96064
 
 # game/scripts/story/talking/talk_sakuya.rpy:220
 translate chinese_simplified talk_sakuya_77248ee0:
 
-    # player "Merci toi aussi {color=#6c5ce7}{b}[sakuya_name]{/b}{/color}." id talk_sakuya_77248ee0
-    player "也谢谢你{color=#6c5ce7}{b}[sakuya_name]{/b}{/color}。" id talk_sakuya_77248ee0
+    # player "Merci toi aussi [sakuya.n]." id talk_sakuya_77248ee0
+    player "也谢谢你[sakuya.n]。" id talk_sakuya_77248ee0
 
 # game/scripts/story/talking/talk_sakuya.rpy:222
 translate chinese_simplified talk_sakuya_721a4aab:
 
-    # player "Bonjour {color=#6c5ce7}{b}[sakuya_name]{/b}{/color} tu vas bien?" id talk_sakuya_721a4aab
-    player "你好{color=#6c5ce7}{b}[sakuya_name]{/b}{/color}你好吗？" id talk_sakuya_721a4aab
+    # player "Bonjour [sakuya.n] tu vas bien?" id talk_sakuya_721a4aab
+    player "你好[sakuya.n]你好吗？" id talk_sakuya_721a4aab
 
 # game/scripts/story/talking/talk_sakuya.rpy:223
 translate chinese_simplified talk_sakuya_b3d05c0f:
 
-    # sakuya "Oh bonjour {color=#0984e3}{b}[player_name]{/b}{/color}, tu as l'air de bonne humeur." id talk_sakuya_b3d05c0f
-    sakuya "哦，你好{color=#0984e3}{b}[player_name]{/b}{/color}，你看起来心情不错。" id talk_sakuya_b3d05c0f
+    # sakuya "Oh bonjour [player.n], tu as l'air de bonne humeur." id talk_sakuya_b3d05c0f
+    sakuya "哦，你好[player.n]，你看起来心情不错。" id talk_sakuya_b3d05c0f
 
 # game/scripts/story/talking/talk_sakuya.rpy:224
 translate chinese_simplified talk_sakuya_c19ce11b:
@@ -879,8 +879,8 @@ translate chinese_simplified talk_sakuya_ff53fa2b:
 # game/scripts/story/talking/talk_sakuya.rpy:270
 translate chinese_simplified talk_sakuya_82dbf0c7:
 
-    # sakuya happy "Bonjour {color=#0984e3}{b}[player_name]{/b}{/color}, pret pour ton premier jour?" id talk_sakuya_82dbf0c7
-    sakuya happy "您好{color=#0984e3}{b}[player_name]{/b}{/color}，为您的第一天做好准备了吗？" id talk_sakuya_82dbf0c7
+    # sakuya happy "Bonjour [player.n], pret pour ton premier jour?" id talk_sakuya_82dbf0c7
+    sakuya happy "您好[player.n]，为您的第一天做好准备了吗？" id talk_sakuya_82dbf0c7
 
 # game/scripts/story/talking/talk_sakuya.rpy:271
 translate chinese_simplified talk_sakuya_d3c56b40:
@@ -951,8 +951,8 @@ translate chinese_simplified talk_sakuya_2e9b3497:
 # game/scripts/story/talking/talk_sakuya.rpy:297
 translate chinese_simplified talk_sakuya_caa7de9f:
 
-    # sakuya "Bonjour {color=#0984e3}{b}[player_name]{/b}{/color}." id talk_sakuya_caa7de9f
-    sakuya "你好 {color=#0984e3}{b}[player_name]{/b}{/color}。" id talk_sakuya_caa7de9f
+    # sakuya "Bonjour [player.n]." id talk_sakuya_caa7de9f
+    sakuya "你好 [player.n]。" id talk_sakuya_caa7de9f
 
 # game/scripts/story/talking/talk_sakuya.rpy:298
 translate chinese_simplified talk_sakuya_e170beed:
@@ -1011,8 +1011,8 @@ translate chinese_simplified talk_sakuya_433fe5c2:
 # game/scripts/story/talking/talk_sakuya.rpy:326
 translate chinese_simplified talk_sakuya_07b7517c:
 
-    # sakuya "Je suis désolé {color=#0984e3}{b}[player_name]{/b}{/color}, mais je ne vois absolument pas de quoi tu parles." id talk_sakuya_07b7517c
-    sakuya "很抱歉{color=#0984e3}{b}[player_name]{/b}{/color}，我完全不知道你在说什么。" id talk_sakuya_07b7517c
+    # sakuya "Je suis désolé [player.n], mais je ne vois absolument pas de quoi tu parles." id talk_sakuya_07b7517c
+    sakuya "很抱歉[player.n]，我完全不知道你在说什么。" id talk_sakuya_07b7517c
 
 # game/scripts/story/talking/talk_sakuya.rpy:331
 translate chinese_simplified talk_sakuya_1edabc95:
@@ -1041,8 +1041,8 @@ translate chinese_simplified talk_sakuya_cb47b76a:
 # game/scripts/story/talking/talk_sakuya.rpy:339
 translate chinese_simplified talk_sakuya_19c4613a:
 
-    # sakuya happy "À bientôt {color=#0984e3}{b}[player_name]{/b}{/color}." id talk_sakuya_19c4613a
-    sakuya happy "再见啦 {color=#0984e3}{b}[player_name]{/b}{/color}。" id talk_sakuya_19c4613a
+    # sakuya happy "À bientôt [player.n]." id talk_sakuya_19c4613a
+    sakuya happy "再见啦 [player.n]。" id talk_sakuya_19c4613a
 
 # game/scripts/story/talking/talk_sakuya.rpy:346
 translate chinese_simplified talk_sakuya_b59d40d9:
@@ -1073,14 +1073,6 @@ translate chinese_simplified strings:
     # game/scripts/story/talking/talk_sakuya.rpy:8
     old "Cette journée était completement folle, il est temps de dormir."
     new "这一天真是太疯狂了，该睡觉了。"
-
-    # game/scripts/story/talking/talk_sakuya.rpy:64
-    # old "Je peux à présent me consacrer a mon entrainement avec {color=#32ff7e}{b}[macumba_name]{/b}{/color}"
-    # new "我现在可以通过 {color=#32ff7e}{b}马库姆巴{/b}{/color} 全身心投入到我的训练中"
-
-    # game/scripts/story/talking/talk_sakuya.rpy:65
-    # old "Je dois faire de {color=#6c5ce7}{b}[sakuya_name]{/b}{/color} une véritable star du X..."
-    # new "我必须让 {color=#6c5ce7}{b}[sakuya_name]{/b}{/color} 成为真正的色情明星..."
 
     # game/scripts/story/talking/talk_sakuya.rpy:308
     old "Je n'y comprends plus rien cette fille est une énigme."

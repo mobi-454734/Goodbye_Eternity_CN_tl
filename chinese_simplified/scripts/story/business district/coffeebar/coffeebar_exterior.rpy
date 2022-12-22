@@ -52,7 +52,7 @@ translate chinese_simplified coffeebar_exterior_bf5beb90:
 translate chinese_simplified coffeebar_exterior_77d2c7ea:
 
     # x "Une seconde, je juge trop vite, peut être qu'il est tout aussi sympa que {color=#32ff7e}{b}[macumba_name]{/b}{/color}?" id coffeebar_exterior_77d2c7ea
-    x "等一下，现在下判断还早，没准他像 {color=#32ff7e}{b}马库姆巴{/b}{/color} 一样是个好人呢？" id coffeebar_exterior_77d2c7ea
+    x "等一下，现在下判断还早，没准他像 [macumba.n] 一样是个好人呢？" id coffeebar_exterior_77d2c7ea
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:59
 translate chinese_simplified coffeebar_exterior_caa122d1:
@@ -412,7 +412,7 @@ translate chinese_simplified coffeebar_exterior_d8dd7177:
 translate chinese_simplified coffeebar_exterior_97682e23:
 
     # kimochi "Mais pourquoi ce changement de gouts soudain d'habitude les milfs c'est pas ton truc {color=#6B2B06}{b}[ubs_name]{/b}{/color}" id coffeebar_exterior_97682e23
-    kimochi "但是为什么你的口味突然变了，熟女应该不是你的菜吧 {color=#6B2B06}{b}牛魔王{/b}{/color}" id coffeebar_exterior_97682e23
+    kimochi "但是为什么你的口味突然变了，熟女应该不是你的菜吧 [ubs.n]" id coffeebar_exterior_97682e23
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:177
 translate chinese_simplified coffeebar_exterior_5e74ffee:
@@ -561,8 +561,8 @@ translate chinese_simplified coffeebar_exterior_935e7106:
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:255
 translate chinese_simplified coffeebar_exterior_ce381177:
 
-    # akira "{color=#0984e3}{b}[player_name]{/b}{/color} le déchet." id coffeebar_exterior_ce381177
-    akira "这不 {color=#0984e3}{b}[player_name]{/b}{/color} 嘛。" id coffeebar_exterior_ce381177
+    # akira "[player.n] le déchet." id coffeebar_exterior_ce381177
+    akira "这不 [player.n] 嘛。" id coffeebar_exterior_ce381177
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:256
 translate chinese_simplified coffeebar_exterior_1d2cd101:
@@ -573,8 +573,8 @@ translate chinese_simplified coffeebar_exterior_1d2cd101:
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:261
 translate chinese_simplified coffeebar_exterior_1b12701e:
 
-    # x "Putain {color=#fdcb6e}{b}[akira_name]{/b}{/color}!" id coffeebar_exterior_1b12701e
-    x "操 {color=#fdcb6e}{b}[akira_name]{/b}{/color}！" id coffeebar_exterior_1b12701e
+    # x "Putain [akira.n]!" id coffeebar_exterior_1b12701e
+    x "操 [akira.n]！" id coffeebar_exterior_1b12701e
 
 # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:262
 translate chinese_simplified coffeebar_exterior_cb33c666:
@@ -710,7 +710,7 @@ translate chinese_simplified strings:
 
     # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:99
     old "Peut être {color=#32ff7e}{b}[macumba_name]{/b}{/color} pourra il m'aider?"
-    new "也许 {color=#32ff7e}{b}马库姆巴{/b}{/color} 可以帮助我？"
+    new "也许 [macumba.n] 可以帮助我？"
 
     # game/scripts/story/business district/coffeebar/coffeebar_exterior.rpy:203
     old "Attendre le retour de {color=#a29bfe}{b}[yasuka_name]{/b}{/color} à la maison."

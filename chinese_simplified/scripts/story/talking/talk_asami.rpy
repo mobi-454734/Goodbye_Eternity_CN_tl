@@ -382,7 +382,7 @@ translate chinese_simplified talk_asami_85787504:
 translate chinese_simplified talk_asami_d5e1c9f4:
 
     # playerc "Simple question {color=#32ff7e}{b}[macumba_name]{/b}{/color}, la cadence peut être augmentée combien de fois encore?" id talk_asami_d5e1c9f4
-    playerc "{color=#32ff7e}{b}马库姆巴{/b}{/color}我想问个问题，你究竟还想加多少速度啊？" id talk_asami_d5e1c9f4
+    playerc "[macumba.n]我想问个问题，你究竟还想加多少速度啊？" id talk_asami_d5e1c9f4
 
 # game/scripts/story/talking/talk_asami.rpy:126
 translate chinese_simplified talk_asami_28000cca:
@@ -556,7 +556,7 @@ translate chinese_simplified talk_asami_6daba44f:
 translate chinese_simplified talk_asami_ddcf0494:
 
     # asamic "La folle comme tu dis a un nom, {color=#ea8685}{b}[asami_name]{/b}{/color} et c'est toi le cinglé!" id talk_asami_ddcf0494
-    asamic "你说的这位疯丫头可是有名字的，是{color=#ea8685}{b}麻美{/b}{/color}，你这个怪胎！" id talk_asami_ddcf0494
+    asamic "你说的这位疯丫头可是有名字的，是[asami.n]，你这个怪胎！" id talk_asami_ddcf0494
 
 # game/scripts/story/talking/talk_asami.rpy:197
 translate chinese_simplified talk_asami_baba5255:
@@ -621,14 +621,14 @@ translate chinese_simplified talk_asami_ffdc46e6:
 # game/scripts/story/talking/talk_asami.rpy:211
 translate chinese_simplified talk_asami_6c7efc8b:
 
-    # x "J'ai fait chanter {color=#fd79a8}{b}纪子{/b}{/color} et voilà que c'est mon tour." id talk_asami_6c7efc8b
-    x "我之前才勒索了 {color=#fd79a8}{b}纪子{/b}{/color} ，现在轮到我被勒索了，天道好轮回了属实是。" id talk_asami_6c7efc8b
+    # x "J'ai fait chanter [noriko.n] et voilà que c'est mon tour." id talk_asami_6c7efc8b
+    x "我之前才勒索了 [noriko.n] ，现在轮到我被勒索了，天道好轮回了属实是。" id talk_asami_6c7efc8b
 
 # game/scripts/story/talking/talk_asami.rpy:213
 translate chinese_simplified talk_asami_6cf2d5c3:
 
-    # asamic "Je sais que tu es assez proche de {color=#e17055}{b}水人{/b}{/color}..." id talk_asami_6cf2d5c3
-    asamic "我知道你和 {color=#e17055}{b}水人{/b}{/color} 走得近..." id talk_asami_6cf2d5c3
+    # asamic "Je sais que tu es assez proche de [minato.n]..." id talk_asami_6cf2d5c3
+    asamic "我知道你和 [minato.n] 走得近..." id talk_asami_6cf2d5c3
 
 # game/scripts/story/talking/talk_asami.rpy:214
 translate chinese_simplified talk_asami_b14bf260_3:
@@ -640,7 +640,7 @@ translate chinese_simplified talk_asami_b14bf260_3:
 translate chinese_simplified talk_asami_1a186c00:
 
     # x "Attend une seconde... {color=#ea8685}{b}[asami_name]{/b}{/color}, ce nom me dit quelque chose." id talk_asami_1a186c00
-    x "等一下...{color=#ea8685}{b}麻美{/b}{/color}，这个名字在哪里听过来着？" id talk_asami_1a186c00
+    x "等一下...[asami.n]，这个名字在哪里听过来着？" id talk_asami_1a186c00
 
 # game/scripts/story/talking/talk_asami.rpy:220
 translate chinese_simplified talk_asami_905751b7:
@@ -688,7 +688,7 @@ translate chinese_simplified talk_asami_e0680e56:
 translate chinese_simplified talk_asami_2f828c41:
 
     # x "{color=#32ff7e}{b}[macumba_name]{/b}{/color} ne cessera de clamer son innocence en vain mais rien n'y fera..." id talk_asami_2f828c41
-    x "{color=#32ff7e}{b}马库姆巴{/b}{/color} 一直主张自己是无罪的，但没用......" id talk_asami_2f828c41
+    x "[macumba.n] 一直主张自己是无罪的，但没用......" id talk_asami_2f828c41
 
 # game/scripts/story/talking/talk_asami.rpy:230
 translate chinese_simplified talk_asami_3a6bf48c:
@@ -723,8 +723,8 @@ translate chinese_simplified talk_asami_4d5ec0c6:
 # game/scripts/story/talking/talk_asami.rpy:239
 translate chinese_simplified talk_asami_752ad3c7:
 
-    # asami "J'ai besoin que tu parles a {color=#e17055}{b}水人{/b}{/color} pour moi... Si tu peux récolter quelques informations sur ce qu'il pense de moi?" id talk_asami_752ad3c7
-    asami "唉，我最后再说一次。我需要你帮我和 {color=#e17055}{b}水人{/b}{/color} 谈谈...你能拐弯抹角地问一下他对我是怎么看的吗？" id talk_asami_752ad3c7
+    # asami "J'ai besoin que tu parles a [minato.n] pour moi... Si tu peux récolter quelques informations sur ce qu'il pense de moi?" id talk_asami_752ad3c7
+    asami "唉，我最后再说一次。我需要你帮我和 [minato.n] 谈谈...你能拐弯抹角地问一下他对我是怎么看的吗？" id talk_asami_752ad3c7
 
 # game/scripts/story/talking/talk_asami.rpy:240
 translate chinese_simplified talk_asami_635d3279:
@@ -747,8 +747,8 @@ translate chinese_simplified talk_asami_a12cdc2e:
 # game/scripts/story/talking/talk_asami.rpy:243
 translate chinese_simplified talk_asami_f6b042f0:
 
-    # asami upset "Tchh, tu ne m'as pas écoutée {color=#e17055}{b}水人{/b}{/color} est mon ami d'enfance, je ne veux pas gâcher notre relation." id talk_asami_f6b042f0
-    asami upset "切，你这是没听进去细节啊。{color=#e17055}{b}水人{/b}{/color} 是我的青梅竹马，我不想破坏我们的关系。" id talk_asami_f6b042f0
+    # asami upset "Tchh, tu ne m'as pas écoutée [minato.n] est mon ami d'enfance, je ne veux pas gâcher notre relation." id talk_asami_f6b042f0
+    asami upset "切，你这是没听进去细节啊。[minato.n] 是我的青梅竹马，我不想破坏我们的关系。" id talk_asami_f6b042f0
 
 # game/scripts/story/talking/talk_asami.rpy:244
 translate chinese_simplified talk_asami_2b309f34:
@@ -903,14 +903,14 @@ translate chinese_simplified asami_choice_884f4b8f:
 # game/scripts/story/talking/talk_asami.rpy:279
 translate chinese_simplified asami_choice_fb2193dd:
 
-    # player "Il ne me reste plus qu'a rendre une petite visite à {color=#e17055}{b}水人{/b}{/color}." id asami_choice_fb2193dd
-    player "现在我要做的就是去 {color=#e17055}{b}水人{/b}{/color} 家一趟。" id asami_choice_fb2193dd
+    # player "Il ne me reste plus qu'a rendre une petite visite à [minato.n]." id asami_choice_fb2193dd
+    player "现在我要做的就是去 [minato.n] 家一趟。" id asami_choice_fb2193dd
 
 # game/scripts/story/talking/talk_asami.rpy:293
 translate chinese_simplified asami_choice_5b35c45e:
 
-    # asami "Salut {color=#0984e3}{b}[player_name]{/b}{/color}." id asami_choice_5b35c45e
-    asami "你好啊 {color=#0984e3}{b}[player_name]{/b}{/color}。" id asami_choice_5b35c45e
+    # asami "Salut [player.n]." id asami_choice_5b35c45e
+    asami "你好啊 [player.n]。" id asami_choice_5b35c45e
 
 # game/scripts/story/talking/talk_asami.rpy:294
 translate chinese_simplified asami_choice_85f56529:
@@ -981,8 +981,8 @@ translate chinese_simplified asami_choice_625d92a4:
 # game/scripts/story/talking/talk_asami.rpy:306
 translate chinese_simplified asami_choice_f0d62b68:
 
-    # natsume "{color=#0984e3}{b}[player_name]{/b}{/color} tu lui dis ou c'est moi qui le fait?" id asami_choice_f0d62b68
-    natsume "{color=#0984e3}{b}[player_name]{/b}{/color} ，是你自己跟她说还是我来说？" id asami_choice_f0d62b68
+    # natsume "[player.n] tu lui dis ou c'est moi qui le fait?" id asami_choice_f0d62b68
+    natsume "[player.n] ，是你自己跟她说还是我来说？" id asami_choice_f0d62b68
 
 # game/scripts/story/talking/talk_asami.rpy:307
 translate chinese_simplified asami_choice_f48120c8:
@@ -993,8 +993,8 @@ translate chinese_simplified asami_choice_f48120c8:
 # game/scripts/story/talking/talk_asami.rpy:308
 translate chinese_simplified asami_choice_31317a5f:
 
-    # natsume pouting "Merci {color=#0984e3}{b}[player_name]{/b}{/color} pour ta contribution." id asami_choice_31317a5f
-    natsume pouting "{color=#0984e3}{b}[player_name]{/b}{/color}，很高兴你能这么说。" id asami_choice_31317a5f
+    # natsume pouting "Merci [player.n] pour ta contribution." id asami_choice_31317a5f
+    natsume pouting "[player.n]，很高兴你能这么说。" id asami_choice_31317a5f
 
 # game/scripts/story/talking/talk_asami.rpy:309
 translate chinese_simplified asami_choice_d67f58f8:
@@ -1047,8 +1047,8 @@ translate chinese_simplified asami_choice_e1e23edd:
 # game/scripts/story/talking/talk_asami.rpy:317
 translate chinese_simplified asami_choice_e442528e:
 
-    # natsume "Ce n’est pas grave ton copain qui paye, n'est-ce pas {color=#0984e3}{b}[player_name]{/b}{/color}?" id asami_choice_e442528e
-    natsume "别担心，你的男朋友会买单的对吧， {color=#0984e3}{b}[player_name]{/b}{/color}？" id asami_choice_e442528e
+    # natsume "Ce n’est pas grave ton copain qui paye, n'est-ce pas [player.n]?" id asami_choice_e442528e
+    natsume "别担心，你的男朋友会买单的对吧， [player.n]？" id asami_choice_e442528e
 
 # game/scripts/story/talking/talk_asami.rpy:323
 translate chinese_simplified asami_choice_e4d68c72:
@@ -1084,7 +1084,7 @@ translate chinese_simplified asami_choice_3860dda9:
 translate chinese_simplified asami_choice_71f4b401:
 
     # natsume happy "Tsss {color=#ea8685}{b}[asami_name]{/b}{/color} il faut apprendre a demander plus." id asami_choice_71f4b401
-    natsume happy "噗， {color=#ea8685}{b}麻美{/b}{/color} 你必须学会​​要求更多。" id asami_choice_71f4b401
+    natsume happy "噗， [asami.n] 你必须学会​​要求更多。" id asami_choice_71f4b401
 
 # game/scripts/story/talking/talk_asami.rpy:334
 translate chinese_simplified asami_choice_a5be81c1:
@@ -1125,8 +1125,8 @@ translate chinese_simplified asami_choice_e2f5d64c:
 # game/scripts/story/talking/talk_asami.rpy:340
 translate chinese_simplified asami_choice_69c45771:
 
-    # player "T'abuse-tu pourrais demander a {color=#e17055}{b}水人{/b}{/color} pour ça?" id asami_choice_69c45771
-    player "你有没搞错，你要花钱找 {color=#e17055}{b}水人{/b}{/color}不行吗？" id asami_choice_69c45771
+    # player "T'abuse-tu pourrais demander a [minato.n] pour ça?" id asami_choice_69c45771
+    player "你有没搞错，你要花钱找 [minato.n]不行吗？" id asami_choice_69c45771
 
 # game/scripts/story/talking/talk_asami.rpy:341
 translate chinese_simplified asami_choice_b8020df2:
@@ -1137,14 +1137,14 @@ translate chinese_simplified asami_choice_b8020df2:
 # game/scripts/story/talking/talk_asami.rpy:342
 translate chinese_simplified asami_choice_70fcd7a5:
 
-    # natsume "{color=#e17055}{b}水人{/b}{/color} ne fait pas de shopping avec moi." id asami_choice_70fcd7a5
-    natsume "{color=#e17055}{b}水人{/b}{/color} 从不和我一起购物。" id asami_choice_70fcd7a5
+    # natsume "[minato.n] ne fait pas de shopping avec moi." id asami_choice_70fcd7a5
+    natsume "[minato.n] 从不和我一起购物。" id asami_choice_70fcd7a5
 
 # game/scripts/story/talking/talk_asami.rpy:343
 translate chinese_simplified asami_choice_6eb7b491:
 
     # natsume cute "et surtout c'est toi qui vas profiter de la nouvelle {color=#ea8685}{b}[asami_name]{/b}{/color} donc ne soit pas radin." id asami_choice_6eb7b491
-    natsume cute "再说了，从{color=#ea8685}{b}麻美{/b}{/color} 的个人蜕变中受益的可是你呀，所以不要那么小气嘛。" id asami_choice_6eb7b491
+    natsume cute "再说了，从[asami.n] 的个人蜕变中受益的可是你呀，所以不要那么小气嘛。" id asami_choice_6eb7b491
 
 # game/scripts/story/talking/talk_asami.rpy:344
 translate chinese_simplified asami_choice_007da7e5:
@@ -1161,8 +1161,8 @@ translate chinese_simplified asami_choice_03775ec8:
 # game/scripts/story/talking/talk_asami.rpy:346
 translate chinese_simplified asami_choice_e11f7ebe:
 
-    # natsume neutral "Alors {color=#0984e3}{b}[player_name]{/b}{/color}, as tu 20000 pour notre séance shopping?" id asami_choice_e11f7ebe
-    natsume neutral "那么{color=#0984e3}{b}[player_name]{/b}{/color}，你手上有20,000 来给我们去疯狂购物吗？" id asami_choice_e11f7ebe
+    # natsume neutral "Alors [player.n], as tu 20000 pour notre séance shopping?" id asami_choice_e11f7ebe
+    natsume neutral "那么[player.n]，你手上有20,000 来给我们去疯狂购物吗？" id asami_choice_e11f7ebe
 
 # game/scripts/story/talking/talk_asami.rpy:350
 translate chinese_simplified asami_choice_3e85771d:
@@ -1179,8 +1179,8 @@ translate chinese_simplified asami_choice_3971e245:
 # game/scripts/story/talking/talk_asami.rpy:352
 translate chinese_simplified asami_choice_71d4dc27:
 
-    # asami "Merci {color=#0984e3}{b}[player_name]{/b}{/color}, je te jure que je te rembourserais d'une manière ou d'une autre." id asami_choice_71d4dc27
-    asami "谢谢 {color=#0984e3}{b}[player_name]{/b}{/color}，我保证会想方设法报答你的。" id asami_choice_71d4dc27
+    # asami "Merci [player.n], je te jure que je te rembourserais d'une manière ou d'une autre." id asami_choice_71d4dc27
+    asami "谢谢 [player.n]，我保证会想方设法报答你的。" id asami_choice_71d4dc27
 
 # game/scripts/story/talking/talk_asami.rpy:353
 translate chinese_simplified asami_choice_929bba5c:
@@ -1239,8 +1239,8 @@ translate chinese_simplified asami_choice_62f98228:
 # game/scripts/story/talking/talk_asami.rpy:378
 translate chinese_simplified asami_choice_462471cb:
 
-    # asami sad "Je suis vraiment désolé {color=#0984e3}{b}[player_name]{/b}{/color}." id asami_choice_462471cb
-    asami sad "对不起啊{color=#0984e3}{b}[player_name]{/b}{/color}，麻烦到你了。" id asami_choice_462471cb
+    # asami sad "Je suis vraiment désolé [player.n]." id asami_choice_462471cb
+    asami sad "对不起啊[player.n]，麻烦到你了。" id asami_choice_462471cb
 
 # game/scripts/story/talking/talk_asami.rpy:379
 translate chinese_simplified asami_choice_a9cf3069:
@@ -1251,8 +1251,8 @@ translate chinese_simplified asami_choice_a9cf3069:
 # game/scripts/story/talking/talk_asami.rpy:380
 translate chinese_simplified asami_choice_c44939e5:
 
-    # natsume pouting "{color=#e17055}{b}水人{/b}{/color} devrais s'inspirer de toi de temps en temps." id asami_choice_c44939e5
-    natsume pouting "有一说一哦，{color=#e17055}{b}水人{/b}{/color} 应该时不时向你学习下。" id asami_choice_c44939e5
+    # natsume pouting "[minato.n] devrais s'inspirer de toi de temps en temps." id asami_choice_c44939e5
+    natsume pouting "有一说一哦，[minato.n] 应该时不时向你学习下。" id asami_choice_c44939e5
 
 # game/scripts/story/talking/talk_asami.rpy:381
 translate chinese_simplified asami_choice_bc7fd8ba:
@@ -1275,8 +1275,8 @@ translate chinese_simplified asami_choice_3971e245_1:
 # game/scripts/story/talking/talk_asami.rpy:389
 translate chinese_simplified asami_choice_71d4dc27_1:
 
-    # asami "Merci {color=#0984e3}{b}[player_name]{/b}{/color}, je te jure que je te rembourserais d'une manière ou d'une autre." id asami_choice_71d4dc27_1
-    asami "谢啦{color=#0984e3}{b}[player_name]{/b}{/color}，我保证会想方设法报答你的。" id asami_choice_71d4dc27_1
+    # asami "Merci [player.n], je te jure que je te rembourserais d'une manière ou d'une autre." id asami_choice_71d4dc27_1
+    asami "谢啦[player.n]，我保证会想方设法报答你的。" id asami_choice_71d4dc27_1
 
 # game/scripts/story/talking/talk_asami.rpy:390
 translate chinese_simplified asami_choice_929bba5c_1:
@@ -1323,8 +1323,8 @@ translate chinese_simplified asami_choice_590022e8:
 # game/scripts/story/talking/talk_asami.rpy:420
 translate chinese_simplified asami_choice_b74640bb:
 
-    # asami "Tout va bien {color=#0984e3}{b}[player_name]{/b}{/color}?" id asami_choice_b74640bb
-    asami "一切还好吗 {color=#0984e3}{b}[player_name]{/b}{/color}？" id asami_choice_b74640bb
+    # asami "Tout va bien [player.n]?" id asami_choice_b74640bb
+    asami "一切还好吗 [player.n]？" id asami_choice_b74640bb
 
 # game/scripts/story/talking/talk_asami.rpy:421
 translate chinese_simplified asami_choice_8bc54c0d:
@@ -1354,7 +1354,7 @@ translate chinese_simplified asami_choice_6a5be5de:
 translate chinese_simplified asami_choice_8117e3f7:
 
     # asami "{color=#d63031}{b}[natsume_name]{/b}{/color} m'a montrée des boutiques formidables." id asami_choice_8117e3f7
-    asami "{color=#d63031}{b}夏梦{/b}{/color} 带着我转悠了一圈，逛了些很不错的店！" id asami_choice_8117e3f7
+    asami "[natsume.n]带着我转悠了一圈，逛了些很不错的店！" id asami_choice_8117e3f7
 
 # game/scripts/story/talking/talk_asami.rpy:426
 translate chinese_simplified asami_choice_c99971cb:
@@ -1509,8 +1509,8 @@ translate chinese_simplified asami_choice_abcf2931:
 # game/scripts/story/talking/talk_asami.rpy:452
 translate chinese_simplified asami_choice_63d3d8cf:
 
-    # asami -happy "Le rejet de {color=#e17055}{b}水人{/b}{/color} m'a fait comprendre qu'on me regardait comme une gamine et non comme une femme." id asami_choice_63d3d8cf
-    asami -happy "你知道吗？来自{color=#e17055}{b}水人{/b}{/color} 的拒绝就像黑夜里点亮的一盏明灯一样，让我终于意识到了我被他人视为一个小孩，而不是一个真正的女人。" id asami_choice_63d3d8cf
+    # asami -happy "Le rejet de [minato.n] m'a fait comprendre qu'on me regardait comme une gamine et non comme une femme." id asami_choice_63d3d8cf
+    asami -happy "你知道吗？来自[minato.n] 的拒绝就像黑夜里点亮的一盏明灯一样，让我终于意识到了我被他人视为一个小孩，而不是一个真正的女人。" id asami_choice_63d3d8cf
 
 # game/scripts/story/talking/talk_asami.rpy:453
 translate chinese_simplified asami_choice_3b43f4b6:
@@ -1533,8 +1533,8 @@ translate chinese_simplified asami_choice_2b27740b:
 # game/scripts/story/talking/talk_asami.rpy:456
 translate chinese_simplified asami_choice_890d811d:
 
-    # asami "{color=#0984e3}{b}[player_name]{/b}{/color}...{w} Tu veux bien me suivre?" id asami_choice_890d811d
-    asami "{color=#0984e3}{b}[player_name]{/b}{/color}...{w} 你可以跟我来吗？" id asami_choice_890d811d
+    # asami "[player.n]...{w} Tu veux bien me suivre?" id asami_choice_890d811d
+    asami "[player.n]...{w} 你可以跟我来吗？" id asami_choice_890d811d
 
 # game/scripts/story/talking/talk_asami.rpy:457
 translate chinese_simplified asami_choice_52a94886:
@@ -1594,7 +1594,7 @@ translate chinese_simplified asami_choice_30fabff3:
 translate chinese_simplified asami_choice_237cc366:
 
     # x "Qu'est-ce que {color=#d63031}{b}[natsume_name]{/b}{/color} a bien pu lui mettre dans la tête?" id asami_choice_237cc366
-    x "{color=#d63031}{b}夏梦{/b}{/color} 给她洗了什么脑？" id asami_choice_237cc366
+    x "[natsume.n]给她洗了什么脑？" id asami_choice_237cc366
 
 # game/scripts/story/talking/talk_asami.rpy:479
 translate chinese_simplified asami_choice_9b1048b4:
@@ -1725,8 +1725,8 @@ translate chinese_simplified asami_choice_d8efda58:
 # game/scripts/story/talking/talk_asami.rpy:545
 translate chinese_simplified asami_choice_5b0b0ac3:
 
-    # x "{color=#ea8685}{b}[asami_name]{/b}{/color} est beaucoup plus douce que {color=#fd79a8}{b}纪子{/b}{/color}." id asami_choice_5b0b0ac3
-    x "{color=#ea8685}{b}麻美{/b}{/color} 可比 {color=#fd79a8}{b}纪子{/b}{/color} 要温柔的多了。" id asami_choice_5b0b0ac3
+    # x "{color=#ea8685}{b}[asami_name]{/b}{/color} est beaucoup plus douce que [noriko.n]." id asami_choice_5b0b0ac3
+    x "[asami.n] 可比 [noriko.n] 要温柔的多了。" id asami_choice_5b0b0ac3
 
 # game/scripts/story/talking/talk_asami.rpy:546
 translate chinese_simplified asami_choice_9962d76a:
@@ -1744,7 +1744,7 @@ translate chinese_simplified asami_choice_0ed79176:
 translate chinese_simplified asami_choice_0ac1a333:
 
     # asami "{color=#d63031}{b}[natsume_name]{/b}{/color} m'a montrée plein de vidéos..." id asami_choice_0ac1a333
-    asami "{color=#d63031}{b}夏梦{/b}{/color} 给我拿手机看了不少视频.." id asami_choice_0ac1a333
+    asami "[natsume.n]给我拿手机看了不少视频.." id asami_choice_0ac1a333
 
 # game/scripts/story/talking/talk_asami.rpy:553
 translate chinese_simplified asami_choice_13783061:
@@ -1828,7 +1828,7 @@ translate chinese_simplified asami_choice_a731cfeb:
 translate chinese_simplified asami_choice_5ef0c486:
 
     # asami "Il faut que je te laisse {color=#d63031}{b}[natsume_name]{/b}{/color} m'a donné tout un programme à suivre." id asami_choice_5ef0c486
-    asami "我得走了；{color=#d63031}{b}夏梦{/b}{/color} 可是给了我一个完整的计划呢。" id asami_choice_5ef0c486
+    asami "我得走了；[natsume.n]可是给了我一个完整的计划呢。" id asami_choice_5ef0c486
 
 # game/scripts/story/talking/talk_asami.rpy:581
 translate chinese_simplified asami_choice_ee50aa6d:
@@ -1869,8 +1869,8 @@ translate chinese_simplified asami_choice_fb779419:
 # game/scripts/story/talking/talk_asami.rpy:604
 translate chinese_simplified asami_choice_6c38829f:
 
-    # asami -happy "Héhé, et toi avec {color=#e17055}{b}水人{/b}{/color} comment ça se passe?" id asami_choice_6c38829f
-    asami -happy "嘿嘿，你的 {color=#e17055}{b}水人{/b}{/color} 呢，他这方面怎么样啊？" id asami_choice_6c38829f
+    # asami -happy "Héhé, et toi avec [minato.n] comment ça se passe?" id asami_choice_6c38829f
+    asami -happy "嘿嘿，你的 [minato.n] 呢，他这方面怎么样啊？" id asami_choice_6c38829f
 
 # game/scripts/story/talking/talk_asami.rpy:605
 translate chinese_simplified asami_choice_c744ba2a:
@@ -2375,8 +2375,8 @@ translate chinese_simplified strings:
     new "这么努力结果只是把自己变成了备胎......"
 
     # game/scripts/story/talking/talk_asami.rpy:144
-    old "Je dois me rendre chez {color=#e17055}{b}[minato_name]{/b}{/color}"
-    new "我必须去 {color=#e17055}{b}水人{/b}{/color} 家"
+    # old "Je dois me rendre chez {color=#e17055}{b}[minato_name]{/b}{/color}"
+    # new "我必须去 [minato.n] 家"
 
     # game/scripts/story/talking/talk_asami.rpy:250
     old "Débrouille-toi!"
@@ -2455,8 +2455,8 @@ translate chinese_simplified strings:
     new "离开"
 
     # game/scripts/story/talking/talk_asami.rpy:840
-    old "Retrouver {color=#ea8685}{b}[asami_name]{/b}{/color} dans votre chambre"
-    new "在您的房间中和 {color=#ea8685}{b}麻美{/b}{/color}见面"
+    #old "Retrouver {color=#ea8685}{b}[asami_name]{/b}{/color} dans votre chambre"
+    #new "在您的房间中和 [asami.n]见面"
 
 # TODO: Translation updated at 2022-12-15 12:14
 

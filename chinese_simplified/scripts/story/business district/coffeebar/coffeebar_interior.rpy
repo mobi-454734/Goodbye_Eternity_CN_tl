@@ -15,14 +15,14 @@ translate chinese_simplified coffeebar_interior_76e8e484:
 # game/scripts/story/business district/coffeebar/coffeebar_interior.rpy:38
 translate chinese_simplified coffeebar_interior_019f200a:
 
-    # sakuya "Bonjour {color=#0984e3}{b}[player_name]{/b}{/color}!" id coffeebar_interior_019f200a
-    sakuya "嘿{color=#0984e3}{b}[player_name]{/b}{/color}！" id coffeebar_interior_019f200a
+    # sakuya "Bonjour [player.n]!" id coffeebar_interior_019f200a
+    sakuya "嘿[player.n]！" id coffeebar_interior_019f200a
 
 # game/scripts/story/business district/coffeebar/coffeebar_interior.rpy:39
 translate chinese_simplified coffeebar_interior_52e8a705:
 
-    # player upset "{color=#6c5ce7}{b}[sakuya_name]{/b}{/color}... C'était bien toi!" id coffeebar_interior_52e8a705
-    player upset "{color=#6c5ce7}{b}咲夜{/b}{/color}...是你！" id coffeebar_interior_52e8a705
+    # player upset "[sakuya.n]... C'était bien toi!" id coffeebar_interior_52e8a705
+    player upset "[sakuya.n]...是你！" id coffeebar_interior_52e8a705
 
 # game/scripts/story/business district/coffeebar/coffeebar_interior.rpy:40
 translate chinese_simplified coffeebar_interior_454dc301:

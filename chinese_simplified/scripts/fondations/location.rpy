@@ -52,11 +52,11 @@ translate chinese_simplified strings:
 
     # game/scripts/fondations/location.rpy:8
     old "home_kimochi_exterior"
-    new "爽哥家外"
+    new "达弁家外"
 
     # game/scripts/fondations/location.rpy:8
     old "home_kimochi_interior"
-    new "爽哥家里"
+    new "达弁家里"
 
     # game/scripts/fondations/location.rpy:8
     old "home_asami_exterior"

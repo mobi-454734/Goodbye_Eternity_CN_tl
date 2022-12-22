@@ -4,7 +4,7 @@
 translate chinese_simplified park_1e0685d3:
 
     # kenji "Ahaha ! J'y crois pas, mais quel abruti ce {color=#32ff7e}{b}[macumba_name]{/b}{/color}!" id park_1e0685d3
-    kenji "哎呀妈呀！这个 {color=#32ff7e}{b}马库姆巴{/b}{/color} 真是个der！" id park_1e0685d3
+    kenji "哎呀妈呀！这个 [macumba.n] 真是个der！" id park_1e0685d3
 
 # game/scripts/story/world/park.rpy:40
 translate chinese_simplified park_2a6c121a:
@@ -238,7 +238,7 @@ translate chinese_simplified park_36f9a990:
 translate chinese_simplified park_80875f2e:
 
     # x "Voyons {color=#ffcccc}{b}[chiaki_name]{/b}{/color}, dans ma vie antérieure t'étais-tu enfuie aussi?" id park_80875f2e
-    x "想想 {color=#ffcccc}{b}千秋{/b}{/color}，我前世她也逃跑了吗？" id park_80875f2e
+    x "想想 [chiaki.n]，我前世她也逃跑了吗？" id park_80875f2e
 
 # game/scripts/story/world/park.rpy:117
 translate chinese_simplified park_0a2b4142:
@@ -291,8 +291,8 @@ translate chinese_simplified park_2213e36d:
 # game/scripts/story/world/park.rpy:151
 translate chinese_simplified park_c333f4dc:
 
-    # asami "{color=#0984e3}{b}[player_name]{/b}{/color}!" id park_c333f4dc
-    asami "{color=#0984e3}{b}[player_name]{/b}{/color}！" id park_c333f4dc
+    # asami "[player.n]!" id park_c333f4dc
+    asami "[player.n]！" id park_c333f4dc
 
 # game/scripts/story/world/park.rpy:152
 translate chinese_simplified park_2e556909:
@@ -483,8 +483,8 @@ translate chinese_simplified park_9f6e4329:
 # game/scripts/story/world/park.rpy:214
 translate chinese_simplified park_d75e885d:
 
-    # asami "Hey {color=#0984e3}{b}[player_name]{/b}{/color}!" id park_d75e885d
-    asami "嘿 {color=#0984e3}{b}[player_name]{/b}{/color}！" id park_d75e885d
+    # asami "Hey [player.n]!" id park_d75e885d
+    asami "嘿 [player.n]！" id park_d75e885d
 
 # game/scripts/story/world/park.rpy:215
 translate chinese_simplified park_5750ccc6:
@@ -543,8 +543,8 @@ translate chinese_simplified park_0c050c27:
 # game/scripts/story/world/park.rpy:224
 translate chinese_simplified park_fd84035f:
 
-    # asami "{color=#0984e3}{b}[player_name]{/b}{/color} c'est vital je dois savoir." id park_fd84035f
-    asami "{color=#0984e3}{b}[player_name]{/b}{/color} 我需要知道这一点很重要。" id park_fd84035f
+    # asami "[player.n] c'est vital je dois savoir." id park_fd84035f
+    asami "[player.n] 我需要知道这一点很重要。" id park_fd84035f
 
 # game/scripts/story/world/park.rpy:225
 translate chinese_simplified park_1198b057:
@@ -723,8 +723,8 @@ translate chinese_simplified park_db54eb11:
 # game/scripts/story/world/park.rpy:265
 translate chinese_simplified park_35ba6ef7:
 
-    # asami -sulking "...{color=#0984e3}{b}[player_name]{/b}{/color} tu en penses quoi?" id park_35ba6ef7
-    asami -sulking "...{color=#0984e3}{b}[player_name]{/b}{/color} 你怎么看？" id park_35ba6ef7
+    # asami -sulking "...[player.n] tu en penses quoi?" id park_35ba6ef7
+    asami -sulking "...[player.n] 你怎么看？" id park_35ba6ef7
 
 # game/scripts/story/world/park.rpy:266
 translate chinese_simplified park_24d321d3:
@@ -765,8 +765,8 @@ translate chinese_simplified park_96990fab:
 # game/scripts/story/world/park.rpy:272
 translate chinese_simplified park_cf172cf5:
 
-    # asami neutral "...{color=#0984e3}{b}[player_name]{/b}{/color}{w} tu m'aideras?" id park_cf172cf5
-    asami neutral "...{color=#0984e3}{b}[player_name]{/b}{/color}{w} 你能帮帮我吗？" id park_cf172cf5
+    # asami neutral "...[player.n]{w} tu m'aideras?" id park_cf172cf5
+    asami neutral "...[player.n]{w} 你能帮帮我吗？" id park_cf172cf5
 
 # game/scripts/story/world/park.rpy:273
 translate chinese_simplified park_738ed265:
@@ -819,14 +819,14 @@ translate chinese_simplified park_75a56c54:
 # game/scripts/story/world/park.rpy:283
 translate chinese_simplified park_a40a1a72:
 
-    # natsume pouting "Ne soit pas si méfiant {color=#0984e3}{b}[player_name]{/b}{/color}." id park_a40a1a72
-    natsume pouting "不要那么多疑 {color=#0984e3}{b}[player_name]{/b}{/color}。" id park_a40a1a72
+    # natsume pouting "Ne soit pas si méfiant [player.n]." id park_a40a1a72
+    natsume pouting "不要那么多疑 [player.n]。" id park_a40a1a72
 
 # game/scripts/story/world/park.rpy:284
 translate chinese_simplified park_a2cd8239:
 
     # natsume -pouting "{color=#ea8685}{b}[asami_name]{/b}{/color} est gentille mais c'est une idiote qui a besoin de grandir un peu." id park_a2cd8239
-    natsume -pouting "{color=#ea8685}{b}麻美{/b}{/color} 很好，但她是个需要长大的白痴。" id park_a2cd8239
+    natsume -pouting "[asami.n] 很好，但她是个需要长大的白痴。" id park_a2cd8239
 
 # game/scripts/story/world/park.rpy:285
 translate chinese_simplified park_7e00f50c:
@@ -862,7 +862,7 @@ translate chinese_simplified park_0cc33721:
 translate chinese_simplified park_bed0c898:
 
     # natsume happy "Allez ne fais pas la tête, grâce à moi {color=#ea8685}{b}[asami_name]{/b}{/color} va devenir une femme sensuelle." id park_bed0c898
-    natsume happy "来吧别生闷气，多亏有我 {color=#ea8685}{b}麻美{/b}{/color} 才会变成感性的女人。" id park_bed0c898
+    natsume happy "来吧别生闷气，多亏有我 [asami.n] 才会变成感性的女人。" id park_bed0c898
 
 # game/scripts/story/world/park.rpy:291
 translate chinese_simplified park_ab6cd32f:
@@ -892,7 +892,7 @@ translate chinese_simplified park_8c3d5ed6:
 translate chinese_simplified park_abc56e77:
 
     # natsume "Et puis entre nous, transformer {color=#ea8685}{b}[asami_name]{/b}{/color} en femme sexy, je pense qu'on va bien s'amuser." id park_abc56e77
-    natsume "总之我会把 {color=#ea8685}{b}麻美{/b}{/color} 变成一个性感的女人，我想我们会玩得很开心。" id park_abc56e77
+    natsume "总之我会把 [asami.n] 变成一个性感的女人，我想我们会玩得很开心。" id park_abc56e77
 
 # game/scripts/story/world/park.rpy:302
 translate chinese_simplified park_0b737530:
@@ -939,8 +939,8 @@ translate chinese_simplified park_35120dab:
 # game/scripts/story/world/park.rpy:329
 translate chinese_simplified park_70dbf2e0:
 
-    # takeo "C'était pire que ça, c’était ce déchet de {color=#0984e3}{b}[player_name]{/b}{/color}" id park_70dbf2e0
-    takeo "原来是 垃圾 {color=#0984e3}{b}[player_name]{/b}{/color} 啊" id park_70dbf2e0
+    # takeo "C'était pire que ça, c’était ce déchet de [player.n]" id park_70dbf2e0
+    takeo "原来是 垃圾 [player.n] 啊" id park_70dbf2e0
 
 # game/scripts/story/world/park.rpy:335
 translate chinese_simplified park_3a5a568a:
@@ -1317,8 +1317,8 @@ translate chinese_simplified park_3d8e39e3:
 # game/scripts/story/world/park.rpy:458
 translate chinese_simplified park_4a2e1189:
 
-    # centered "En se recroquevillant et en protégeant ses points vitaux {color=#0984e3}{b}[player_name]{/b}{/color} évite le pire." id park_4a2e1189
-    centered "通过蜷缩起来保护自己的要害 {color=#0984e3}{b}[player_name]{/b}{/color} 设法避免了最坏的情况。" id park_4a2e1189
+    # centered "En se recroquevillant et en protégeant ses points vitaux [player.n] évite le pire." id park_4a2e1189
+    centered "通过蜷缩起来保护自己的要害 [player.n] 设法避免了最坏的情况。" id park_4a2e1189
 
 # game/scripts/story/world/park.rpy:461
 translate chinese_simplified park_6773846c:
@@ -1377,8 +1377,8 @@ translate chinese_simplified park_87fbd47c:
 # game/scripts/story/world/park.rpy:481
 translate chinese_simplified park_4a2e1189_1:
 
-    # centered "En se recroquevillant et en protégeant ses points vitaux {color=#0984e3}{b}[player_name]{/b}{/color} évite le pire." id park_4a2e1189_1
-    centered "通过蜷缩起来保护自己的要害 {color=#0984e3}{b}[player_name]{/b}{/color} 设法避免了最坏的情况。" id park_4a2e1189_1
+    # centered "En se recroquevillant et en protégeant ses points vitaux [player.n] évite le pire." id park_4a2e1189_1
+    centered "通过蜷缩起来保护自己的要害 [player.n] 设法避免了最坏的情况。" id park_4a2e1189_1
 
 # game/scripts/story/world/park.rpy:484
 translate chinese_simplified park_a42783a3:
@@ -1474,7 +1474,7 @@ translate chinese_simplified park_8e667d3a:
 translate chinese_simplified park_56ee74d1:
 
     # player "Il faudra que je trouve quelque chose pour remercier {color=#32ff7e}{b}[macumba_name]{/b}{/color} de tout ce qu'il a fait pour moi." id park_56ee74d1
-    player "我得想办法感谢 {color=#32ff7e}{b}马库姆巴{/b}{/color} 为我所做的一切。" id park_56ee74d1
+    player "我得想办法感谢 [macumba.n] 为我所做的一切。" id park_56ee74d1
 
 # game/scripts/story/world/park.rpy:526
 translate chinese_simplified park_f5d45fd7:
@@ -1504,7 +1504,7 @@ translate chinese_simplified park_b54bf726:
 translate chinese_simplified park_f1e50c41:
 
     # player sad "Dans ce cas {color=#ffcccc}{b}[chiaki_name]{/b}{/color} est en danger!" id park_f1e50c41
-    player sad "在这种情况下 {color=#ffcccc}{b}千秋{/b}{/color} 处于危险之中！" id park_f1e50c41
+    player sad "在这种情况下 [chiaki.n] 处于危险之中！" id park_f1e50c41
 
 # game/scripts/story/world/park.rpy:542
 translate chinese_simplified park_a0c642e3:
@@ -1564,13 +1564,13 @@ translate chinese_simplified park_811b939a:
 translate chinese_simplified park_80dcb29a:
 
     # player "J'espère que {color=#32ff7e}{b}[macumba_name]{/b}{/color} ne m'a pas oublié." id park_80dcb29a
-    player "我希望 {color=#32ff7e}{b}马库姆巴{/b}{/color} 没有忘记我。" id park_80dcb29a
+    player "我希望 [macumba.n] 没有忘记我。" id park_80dcb29a
 
 # game/scripts/story/world/park.rpy:579
 translate chinese_simplified park_bc42b592:
 
-    # nobu "Tiens tiens tiens, si c'est pas {color=#0984e3}{b}[player_name]{/b}{/color} le déchet." id park_bc42b592
-    nobu "好吧好吧，是 {color=#0984e3}{b}[player_name]{/b}{/color} 那混蛋。" id park_bc42b592
+    # nobu "Tiens tiens tiens, si c'est pas [player.n] le déchet." id park_bc42b592
+    nobu "好吧好吧，是 [player.n] 那混蛋。" id park_bc42b592
 
 # game/scripts/story/world/park.rpy:581
 translate chinese_simplified park_16cbbc47:
@@ -1761,8 +1761,8 @@ translate chinese_simplified park_ceaf582b:
 # game/scripts/story/world/park.rpy:632
 translate chinese_simplified park_c9c86d85:
 
-    # macumba "{color=#0984e3}{b}[player_name]{/b}{/color} est mon ami et je ne laisserai personne lui manquer de respect!" id park_c9c86d85
-    macumba "{color=#0984e3}{b}[player_name]{/b}{/color} 是我的朋友，我不会让任何人不尊重他！" id park_c9c86d85
+    # macumba "[player.n] est mon ami et je ne laisserai personne lui manquer de respect!" id park_c9c86d85
+    macumba "[player.n] 是我的朋友，我不会让任何人不尊重他！" id park_c9c86d85
 
 # game/scripts/story/world/park.rpy:633
 translate chinese_simplified park_e24b68fc:
@@ -1816,7 +1816,7 @@ translate chinese_simplified park_5845997e:
 translate chinese_simplified park_27409093:
 
     # player "...{w}Merci pour tout {color=#32ff7e}{b}[macumba_name]{/b}{/color}." id park_27409093
-    player "...{w}感谢您所做的一切 {color=#32ff7e}{b}马库姆巴{/b}{/color}。" id park_27409093
+    player "...{w}感谢您所做的一切 [macumba.n]。" id park_27409093
 
 # game/scripts/story/world/park.rpy:652
 translate chinese_simplified park_d1283139:
@@ -1876,7 +1876,7 @@ translate chinese_simplified park_1aa8da10:
 translate chinese_simplified park_32c58094:
 
     # player happy "A bientot {color=#32ff7e}{b}[macumba_name]{/b}{/color}." id park_32c58094
-    player happy "明天见 {color=#32ff7e}{b}马库姆巴{/b}{/color}。" id park_32c58094
+    player happy "明天见 [macumba.n]。" id park_32c58094
 
 # game/scripts/story/world/park.rpy:668
 translate chinese_simplified park_80d29890:
@@ -1911,8 +1911,8 @@ translate chinese_simplified park_fde246d1:
 # game/scripts/story/world/park.rpy:696
 translate chinese_simplified park_71e7614b:
 
-    # natsume happy "{color=#0984e3}{b}[player_name]{/b}{/color} tu as vu ça?" id park_71e7614b
-    natsume happy "{color=#0984e3}{b}[player_name]{/b}{/color} 你看到了吗？" id park_71e7614b
+    # natsume happy "[player.n] tu as vu ça?" id park_71e7614b
+    natsume happy "[player.n] 你看到了吗？" id park_71e7614b
 
 # game/scripts/story/world/park.rpy:697
 translate chinese_simplified park_ebe7aaad:
@@ -1929,8 +1929,8 @@ translate chinese_simplified park_07b79088:
 # game/scripts/story/world/park.rpy:699
 translate chinese_simplified park_33c88d68:
 
-    # asami neutral "Je ne sais pas trop, profiter des vacances qui nous reste avec mon cher {color=#0984e3}{b}[player_name]{/b}{/color}." id park_33c88d68
-    asami neutral "我不确定，享受我们与亲爱的 {color=#0984e3}{b}[player_name]{/b}{/color} 的假期。" id park_33c88d68
+    # asami neutral "Je ne sais pas trop, profiter des vacances qui nous reste avec mon cher [player.n]." id park_33c88d68
+    asami neutral "我不确定，享受我们与亲爱的 [player.n] 的假期。" id park_33c88d68
 
 # game/scripts/story/world/park.rpy:700
 translate chinese_simplified park_6cf6fb65:
@@ -1996,7 +1996,7 @@ translate chinese_simplified park_af1e09d1:
 translate chinese_simplified park_ab06c376:
 
     # minato neutral "Quand tu es venu me demander si ça me dérangeait que tu sortes avec {color=#ea8685}{b}[asami_name]{/b}{/color} je ne pensais pas que tu réussirais a la séduire." id park_ab06c376
-    minato neutral "当你来问我是否介意你和 {color=#ea8685}{b}麻美{/b}{/color} 出去时，我认为你不会成功勾引她。" id park_ab06c376
+    minato neutral "当你来问我是否介意你和 [asami.n] 出去时，我认为你不会成功勾引她。" id park_ab06c376
 
 # game/scripts/story/world/park.rpy:715
 translate chinese_simplified park_38f0d426:
@@ -2037,8 +2037,8 @@ translate chinese_simplified park_3381f4c5:
 # game/scripts/story/world/park.rpy:721
 translate chinese_simplified park_5d151971:
 
-    # minato "Tu vas devoir faire attention {color=#0984e3}{b}[player_name]{/b}{/color} tu as une petite amie à protéger à présent." id park_5d151971
-    minato "你必须小心{color=#0984e3}{b}[player_name]{/b}{/color}，你现在有女朋友要保护。" id park_5d151971
+    # minato "Tu vas devoir faire attention [player.n] tu as une petite amie à protéger à présent." id park_5d151971
+    minato "你必须小心[player.n]，你现在有女朋友要保护。" id park_5d151971
 
 # game/scripts/story/world/park.rpy:728
 translate chinese_simplified park_8ac66e39:
@@ -2050,7 +2050,7 @@ translate chinese_simplified park_8ac66e39:
 translate chinese_simplified park_ff9d0016:
 
     # x "J'espère qu'{color=#ea8685}{b}[asami_name]{/b}{/color} ne vas pas en ra-" id park_ff9d0016
-    x "我希望 {color=#ea8685}{b}麻美{/b}{/color} 不会失控-" id park_ff9d0016
+    x "我希望 [asami.n] 不会失控-" id park_ff9d0016
 
 # game/scripts/story/world/park.rpy:737
 translate chinese_simplified park_048653d3:
@@ -2068,7 +2068,7 @@ translate chinese_simplified park_941f7c1f:
 translate chinese_simplified park_5ee612b8:
 
     # x "{color=#ea8685}{b}[asami_name]{/b}{/color} stop, tu jettes de l'huile sur le feu." id park_5ee612b8
-    x "{color=#ea8685}{b}麻美{/b}{/color} 停下，你在火上浇油。" id park_5ee612b8
+    x "[asami.n] 停下，你在火上浇油。" id park_5ee612b8
 
 # game/scripts/story/world/park.rpy:751
 translate chinese_simplified park_a9f72d56:
@@ -2115,8 +2115,8 @@ translate chinese_simplified park_07d94a4f:
 # game/scripts/story/world/park.rpy:770
 translate chinese_simplified park_0192a831:
 
-    # asami "{color=#0984e3}{b}[player_name]{/b}{/color} je veux rester avec toi, je me sens bien plus à l'aise quand tu es là." id park_0192a831
-    asami "{color=#0984e3}{b}[player_name]{/b}{/color} 我想和你在一起，有你在我感觉舒服多了。" id park_0192a831
+    # asami "[player.n] je veux rester avec toi, je me sens bien plus à l'aise quand tu es là." id park_0192a831
+    asami "[player.n] 我想和你在一起，有你在我感觉舒服多了。" id park_0192a831
 
 # game/scripts/story/world/park.rpy:771
 translate chinese_simplified park_74d8f8ed:
@@ -2308,7 +2308,7 @@ translate chinese_simplified park_bc53ae8c:
 translate chinese_simplified park_571d09f1:
 
     # asami "C'est légèrement salé, {color=#d63031}{b}[natsume_name]{/b}{/color} ne m'avait pas menti." id park_571d09f1
-    asami "有点咸，{color=#d63031}{b}夏梦{/b}{/color} 没有骗我。" id park_571d09f1
+    asami "有点咸，[natsume.n]没有骗我。" id park_571d09f1
 
 # game/scripts/story/world/park.rpy:865
 translate chinese_simplified park_f0e9191d:
@@ -2343,8 +2343,8 @@ translate chinese_simplified park_827c5aab:
 # game/scripts/story/world/park.rpy:878
 translate chinese_simplified park_e3fce3f1:
 
-    # asami sulking "{color=#0984e3}{b}[player_name]{/b}{/color}... Tu crois que toi et moi ce soir on peut..." id park_e3fce3f1
-    asami sulking "{color=#0984e3}{b}[player_name]{/b}{/color}...你觉得今晚你和我能..." id park_e3fce3f1
+    # asami sulking "[player.n]... Tu crois que toi et moi ce soir on peut..." id park_e3fce3f1
+    asami sulking "[player.n]...你觉得今晚你和我能..." id park_e3fce3f1
 
 # game/scripts/story/world/park.rpy:879
 translate chinese_simplified park_618e59ed:
@@ -2752,7 +2752,7 @@ translate chinese_simplified park_5ebfcf5b:
 translate chinese_simplified park_b994482d:
 
     # nobu mocking "{color=#32ff7e}{b}[macumba_name]{/b}{/color} lui enfoncé sa chaussure dans le cul." id park_b994482d
-    nobu mocking "{color=#32ff7e}{b}马库姆巴{/b}{/color} 把鞋塞进他屁眼里了。" id park_b994482d
+    nobu mocking "[macumba.n] 把鞋塞进他屁眼里了。" id park_b994482d
 
 # game/scripts/story/world/park.rpy:990
 translate chinese_simplified park_a9074d38:
@@ -2830,7 +2830,7 @@ translate chinese_simplified park_a10464bb:
 translate chinese_simplified park_7870d434:
 
     # player "Et mais bien je crois que {color=#32ff7e}{b}[macumba_name]{/b}{/color} a eu sa petite revanche." id park_7870d434
-    player "好吧，我认为 {color=#32ff7e}{b}马库姆巴{/b}{/color} 有他的小报复。" id park_7870d434
+    player "好吧，我认为 [macumba.n] 有他的小报复。" id park_7870d434
 
 # game/scripts/story/world/park.rpy:1009
 translate chinese_simplified park_a67c6d23:
@@ -2851,10 +2851,6 @@ translate chinese_simplified strings:
     # game/scripts/story/world/park.rpy:143
     old "Encore une journée de merde autant aller se coucher."
     new "又是糟糕的一天，还是去睡觉吧。"
-
-    # game/scripts/story/world/park.rpy:145
-    old "Bon je crois que c'est foutu avec {color=#ea8685}{b}[asami_name]{/b}{/color}"
-    new "好吧，我认为它与 {color=#ea8685}{b}麻美{/b}{/color} 搞砸了"
 
     # game/scripts/story/world/park.rpy:207
     old "Je reviendrais au {color=#ff0}{b}parc{/b}{/color} demain après-midi."
@@ -2884,25 +2880,9 @@ translate chinese_simplified strings:
     old "Allez vous faire foutre!"
     new "操你妈！"
 
-    # game/scripts/story/world/park.rpy:518
-    old "Allez confronter {color=#e17055}{b}[minato_name]{/b}{/color}"
-    new "去找 [minato.n]"
-
-    # game/scripts/story/world/park.rpy:537
-    old "Rejoindre les appartements avant {color=#55efc4}{b}[kimochi_name]{/b}{/color}"
-    new "在 [kimochi.n] 之前加入公寓"
-
     # game/scripts/story/world/park.rpy:571
     old "Retrouvez les filles au parc l'après-midi."
     new "下午在公园遇见女孩。"
-
-    # game/scripts/story/world/park.rpy:684
-    old "{color=#ea8685}{b}[asami_name]{/b}{/color} sera devant chez moi ce soir."
-    new "{color=#ea8685}{b}麻美{/b}{/color} 今晚会在我家外面。"
-
-    # game/scripts/story/world/park.rpy:922
-    old "Rammener {color=#ea8685}{b}[asami_name]{b}{/color} dans votre chambre"
-    new "将 {color=#ea8685}{b}麻美{b}{/color} 带到您的房间"
 
 # TODO: Translation updated at 2022-12-15 12:14
 
@@ -2916,7 +2896,7 @@ translate chinese_simplified strings:
 
     # game/scripts/story/world/park.rpy:144
     old "Bon je crois que c'est foutu avec [asami.n]"
-    new "好吧，我想我们完了。"
+    new "好吧，我想我们完了[asami.n]。"
 
     # game/scripts/story/world/park.rpy:514
     old "Allez confronter [minato.n]"

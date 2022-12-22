@@ -1710,10 +1710,6 @@ translate chinese_simplified strings:
     old "Récupérer le baladeur CD et foncer voir {color=32ff7e}{b}[macumba_name]{b}{/color}."
     new "拿起随身听，找 {color=32ff7e}{b}马库姆巴{b}{/color}。"
 
-    # game/scripts/story/talking/talk_yasuka.rpy:50
-    old "Aller récupérer votre baladeur CD dans la chambre de [noriko.n]!"
-    new "去 [noriko.n] 的房间拿你的随身听吧！"
-
     # game/scripts/story/talking/talk_yasuka.rpy:79
     old "Attendre le retour {color=#a29bfe}{b}[yasuka_name]{/b}{/color} à la maison."
     new "等待 [yasuka.n] 回家。"

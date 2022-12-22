@@ -426,18 +426,6 @@ translate chinese_simplified home_minato_exterior_22a7770d:
     # player "...Okay, suis-moi." id home_minato_exterior_22a7770d
     player "...好吧，跟我来。" id home_minato_exterior_22a7770d
 
-translate chinese_simplified strings:
-
-    # game/scripts/story/residential district/minato's home/home_minato_exterior.rpy:31
-    # old "Retrouver {color=#ea8685}{b}[asami_name]{/b}{/color} au {color=#efdf31}{b}parc{/b}{/color}."
-    # new "与 {color=#ea8685}{b}麻美{/b}{/color} 在 {color=#efdf31}{b}公园{/b}{/color} 见面。"
-
-    #game/scripts/story/residential district/minato's home/home_minato_exterior.rpy:104
-    #old "Rattraper l'individu louche avant {color=#e17055}{b}[minato_name]{/b}{/color}"
-    #new "在 [minato.n] 之前抓住可疑人员"
-
-# TODO: Translation updated at 2022-09-13 15:40
-
 # game/scripts/story/residential district/minato's home/home_minato_exterior.rpy:78
 translate chinese_simplified home_minato_exterior_3fdc0b52:
 

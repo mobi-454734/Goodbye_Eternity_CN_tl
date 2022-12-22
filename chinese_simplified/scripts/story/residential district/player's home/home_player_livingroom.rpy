@@ -2546,14 +2546,6 @@ translate chinese_simplified strings:
     old "Couper le wifi"
     new "切断wifi"
 
-    # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:411
-    old "Fouiller la chambre de [noriko.n]  et retrouver le lecteur MP3."
-    new "搜索 [noriko.n] 的房间并找到 MP3 播放器。"
-
-    # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:513
-    old "Demander de l'aide a {color=#32ff7e}{b}[macumba_name]{/b}{/color}"
-    new "请求 {color=#32ff7e}{b}马库姆巴{/b}{/color} 的帮助"
-
     # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:646
     old "Retourner à nouveau à la boutique demain après-midi."
     new "明天下午再去店里。"

@@ -1502,14 +1502,6 @@ translate chinese_simplified home_player_corridor_80de7195:
 
 translate chinese_simplified strings:
 
-    # game/scripts/story/residential district/player's home/home_player_corridor.rpy:33
-    old "Evitez cette peste de [noriko.n] à tout prix!"
-    new "不惜一切代价避免[noriko.n]的悲剧！"
-
-    # game/scripts/story/residential district/player's home/home_player_corridor.rpy:93
-    old "Continuer d'ignorer [noriko.n]!"
-    new "继续忽略 [noriko.n]！"
-
     # game/scripts/story/residential district/player's home/home_player_corridor.rpy:113
     old "L'ignorer"
     new "忽略它"
@@ -1521,14 +1513,6 @@ translate chinese_simplified strings:
     # game/scripts/story/residential district/player's home/home_player_corridor.rpy:172
     old "Vous avez activé l'enregistreur audio de votre tablette."
     new "您已激活平板电脑的录音机。"
-
-    # game/scripts/story/residential district/player's home/home_player_corridor.rpy:187
-    old "Retournez voir {color=#32ff7e}{b}[macumba_name]{/b}{/color} et donnez-lui votre Baladeur CD!"
-    new "回到 {color=#32ff7e}{b}马库姆巴{/b}{/color} 并给他你的旧随身听！"
-
-    # game/scripts/story/residential district/player's home/home_player_corridor.rpy:188
-    old "[noriko.n] à enfin eu ce qu'elle méritait, je suis libre à présent!"
-    new "[noriko.n]终于得到了她应得的，我现在自由了！"
 
     # game/scripts/story/residential district/player's home/home_player_corridor.rpy:214
     old "Je la tiens, il est enfin temps de se venger de toutes les crasses qu'elle m’a fait subir."

@@ -314,10 +314,6 @@ translate chinese_simplified home_player_bathroom_8b558934:
 
 translate chinese_simplified strings:
 
-    # game/scripts/story/residential district/player's home/home_player_bathroom.rpy:33
-    old "Il faut absolument que je demande a [noriko.n]."
-    new "我绝对要问[noriko.n]。"
-
     # game/scripts/story/residential district/player's home/home_player_bathroom.rpy:117
     old "Non, je suis sûr de ce que je ressens pour toi"
     new "不，我确定我对你的感觉"

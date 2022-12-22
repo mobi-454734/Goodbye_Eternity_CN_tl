@@ -5218,10 +5218,6 @@ translate chinese_simplified strings:
     old "Se renseigner auprès de {color=#a29bfe}{b}[yasuka_name]{/b}{/color}."
     new "咨询 [yasuka.n]。"
 
-    # game/scripts/story/residential district/player's home/home_player_room.rpy:182
-    old "Demandez des explications à [noriko.n]."
-    new "向 [noriko.n] 寻求解释。"
-
     # game/scripts/story/residential district/player's home/home_player_room.rpy:211
     old "Tout le monde va se faire foutre! Je vais au {color=ffff00}{b}parc{/b}{/color}!"
     new "一切困难都无法阻挡！我去{color=ffff00}{b}公园{/b}{/color}锻炼！"

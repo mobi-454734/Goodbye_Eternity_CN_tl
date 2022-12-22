@@ -13,10 +13,6 @@ translate chinese_simplified strings:
     new "睡觉"
 
     # game/scripts/story/action/sleep.rpy:5
-    old "Faire venir [noriko.n] dans la chambre"
-    new "将 [noriko.n] 带到房间"
-
-    # game/scripts/story/action/sleep.rpy:5
     old "Faire une sieste"
     new "小睡一下"
 
@@ -31,18 +27,6 @@ translate chinese_simplified strings:
     # game/scripts/story/action/sleep.rpy:7
     old "Dormir seul"
     new "自己睡"
-
-    # game/scripts/story/action/sleep.rpy:7
-    old "Dormir avec {color=#ea8685}{b}[asami_name]{/b}{/color}"
-    new "睡 {color=#ea8685}{b}麻美{/b}{/color}"
-
-    # game/scripts/story/action/sleep.rpy:7
-    old "Dormir avec {color=#a29bfe}{b}[yasuka_name]{/b}{/color}"
-    new "睡 [yasuka.n]"
-
-# TODO: Translation updated at 2022-12-15 12:14
-
-translate chinese_simplified strings:
 
     # game/scripts/story/action/sleep.rpy:12
     old "Faire venir [noriko.n] dans la chambre"

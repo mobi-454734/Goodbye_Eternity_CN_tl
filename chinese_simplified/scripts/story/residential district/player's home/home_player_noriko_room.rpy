@@ -418,10 +418,6 @@ translate chinese_simplified strings:
     old "Donne-moi le baladeur MP3 "
     new "给我MP3播放器"
 
-    # game/scripts/story/residential district/player's home/home_player_noriko_room.rpy:80
-    old "Jusqu'à quel point tu ne veux pas que ça se sache [noriko.n] ?"
-    new "你有多不希望它为人所知 [noriko.n]？"
-
     # game/scripts/story/residential district/player's home/home_player_noriko_room.rpy:81
     old "ROUTE REJET"
     new "拒绝路线"
@@ -433,10 +429,6 @@ translate chinese_simplified strings:
     # game/scripts/story/residential district/player's home/home_player_noriko_room.rpy:100
     old "ROUTE CHANTAGE"
     new "勒索路线"
-
-# TODO: Translation updated at 2022-12-15 12:14
-
-translate chinese_simplified strings:
 
     # game/scripts/story/residential district/player's home/home_player_noriko_room.rpy:80
     old "Jusqu'à quel point tu ne veux pas que ça se sache [noriko.n] ?"
